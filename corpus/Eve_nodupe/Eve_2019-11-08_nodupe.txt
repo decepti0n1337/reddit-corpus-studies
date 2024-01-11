@@ -1,0 +1,650 @@
+“IF you can rep the DPS” is correct
+---
+---
+---
+&gt; It’s rough that people are gonna have to do work to move them but like... is anyone gonna pretend that this wasn’t necessary instead of grandfathering existing ones in?
+---
+
+---
+The change is necessary, the "Welp, we fucked up, guess you'll just have to deal with the hassle of cleaning it up even though you did nothing wrong," approach is pretty shitty.
+---
+If it's just too much trouble to literally move them, they should whip up some kind of reanchoring beacon that can be associated with an invalid structure and adheres to the (new) valid anchoring rules.  Let us anchor them, and then relocate the existing structures to the beacon coordinates during a downtime.
+---
+Those don't happen all at once, furthermore that again goes back to the point of a limit per system would be more realistic for performance concerns (you also would almost never only have 1 bookmark read per transaction).
+---
+I've been considering going solo/smallcorp
+---
+I like it and would invest.  CCP could easily regulate this and build in game mechanics to avoid scams (similar to how the FCC might regulate a hedge fund and FDIC insure your investment up to a 150k limit per account)
+---
+Jump in our discord dude come.say hello
+---
+Can you elaborate, I don’t really see the problem here.
+---
+Link the access temporarily to an „dummy“ when you create a token, after the player uses the token the „dummy“ gets replaced by the player ID.
+---
+I don’t know the first thing about coding but that sounds like a lot of work for a few CCPers to just “whip up”.
+---
+Plus that way we end up with all kinds of wonky beacon placements and other stuff going wrong.
+---
+If seasoned logistics guys didn’t immediately realize that they were going to have to move them themselves then they weren’t as seasoned as they thought. 
+---
+People who are complaining don’t realize that CCP was just at Vegas, talking about getting the biggest bang for their buck in regards to Dev time, (I presume) while they complete the projects that the NPE Teams are working on.
+---
+Heh, that's cute ;)
+---
+I thought we were all puppets of our Lord and Master Mitanni (First of his name, King of the Rorquals,  Lord of the Delvals, Proclaimer of Metas ...)
+---
+Pando just does it with style.
+---
+I see, but how do you know if there is no K162?
+---
+Does "life" only start counting when the K162 is actually up?
+---
+Seems odd that it would be the case that if nobody rolls into you and nobody in your system triggers the statics that your system is completely unconnected.
+---
+Would be nice if there was some official (and up-to-date) description.
+---
+Speed, am I.
+---
+Well I guess that is good, I just hate when I help a someone from family, church, or work that was “hacked” to show them something like HaveIBeenPawned, and am like, “did you use the same password as this site?” And they’re all “but I’ve been using MyKidsName1992 for years!”, and I do help them, but the age of using easy passwords for different sites is over.
+---
+But nerfing them individually does *literally* nothing to solve the problem, other than force people to field *more* of them. DPS and application are already *dogshit* on supers vs subs, the reality is they have 20-40m EHP and are completely unkillable and there are 80000000 of them in the game and that is why they are used to dunk roaming people/used in giant fleets to the exclusion of other ships.
+---
+Thanks for the info! I'm not exactly looking for a corp to blindly give me any privileges that I don't deserve, actually I'm looking for the opposite, in the form of a corp with lots of security in place against potentially shady folk. I wonder if there are many corps out there that are both highly-skilled but also willing to take on and teach new recruits.
+---
+Coming from WoW, I've been in many hardcore raiding guilds. Perhaps the logical solution is to just join up with a small corp and climb the ladder a bit. I don't have an insane amount of time to devote to EVE currently however. Thanks for your input, I do appreciate it!
+---
+I wish SS would just be deleted.
+---
+SS wars are incredibly taxing on the server, creating massive TIDI and then you end up fighting for an hour using SS and having 100m in fighter kills before the other team disengages and leaves.
+---
+Just get straight to the DPS fighters so stuff actually dies thats worth something.
+---
+Small gang carriers are fun with SS but how often does that happen.
+---
+I use pulse ab retri but I use my nergal more now. Both just as good
+---
+I expected more in these spreadsheets, they aren't even sorted you goddamn monster.
+---
+Good stuff, have fun! I’ll hang in the discord for awhile and kick it
+---
+Not frigates but you've seen the fits on here?
+---
+ [https://www.eveonline.com/now/surviving-the-abyss](https://www.eveonline.com/now/surviving-the-abyss)
+---
+nice name
+---
+Try another browser. I know what you are talking about... Sometimes the login is just weird and redirects you in a loop. Usually got it working after waiting a little or switching the browser I am trying to log in with.
+---
+A wormhole will \~not\~ spawn a k162 if someone warps to it and does not jump through it UNLESS there are 15 or less hours left on the wormhole, at that point in time, the chance for the k162 spawning increases (a k162 will always spawn)
+---
+I think they're just trying to make the names as hard as possible to pronounce now.
+---
+Yes, it is an issue
+---
+F
+---
+It's mostly done by bots now. Not very helpful for science. You needed the human input to then develop a proper pattern recognition algorithm to work on the raw data.
+---
+But then the world can see near2 is a panfam spy tool, so that's not gonna happen.
+---
+Or you could turn on 2fa, and stop it happening.
+---
+Been there in Albion since i use mostly the same name in everything. 1st he asked me if i was playing eve and wich corp i was. Procceded to PK me and write "get wrecked bitch,  payback". Good times.
+---
+Any null sec corp expecting silly levels of activity is simply a shit tier group that will inevitably have some kind of fail cascade within six months. I have been playing eve for 15 years and I can assure you this is true. The worst you should expect is a requirement for participation in a dozen pvp kills a month, or participation in two or three major fleets a month, or even to raise corp taxes to 100% when major ops are ongoing. An elite pvp outfit will likely request far more but you simply aren’t going to fit that profile as a casual player. 
+---
+If you do decide to peruse null life, and I really encourage you to, I believe it’s the best way to experience eve and as a casual player you want to get the most from your play style.
+---
+Make a point of following out of games comms - it’s your best way of planning playtime, and it will ensure you don’t log in on a Friday night to discover there was an unexpected move op all week and all your ships are in the wrong place, or that you missed a historic great fight, in your time zone and all you were doing at the time was watching tv with your other half. 
+---
+Keep things lean - regularly purge your hangers and keep your resources in liquid isk not hard assets. don’t get caught and find yourself having to do 20 journeys or beg for someone with a capital to help you out.
+---
+If you have a handful of capitals - you want a recon alt, if worst comes to the worst being able to lifeboat caps full of assets to a safe and cloak log off is your plan Z. 
+---
+Fulfil any kill / fleet participation requirements early in the month if you can.
+---
+Fly logi or sabres, everyone will love you.
+---
+l did for a short time, but l still may not come back l will if ccp works on that art they showed off in vagas were there was citadels &amp; ships in trig space to me that's like WH 2.0 lol
+---
+Damn. What a mess.
+---
+The risk of ganking is part of the show! Still, I’ve been ganked only once in 2019, despite flying mostly shit-fitted BBs in deadspace - heck, my Orca is even named Battleplate and anyone who thinks they can gank it are welcome to try (and possibly succeed, or give me loot) for shits and giggles 😊 Where are you attracting so much gank that it annoys you?
+---
+aaaw shit
+---
+I hardly doubt that a CCP dev straight up just called you a retard without provocation.
+---
+Wait what? Are you telling me the mob mentality is counterproductive? That burning witches wont actually lead to something good? I dunno if I can get behind your progressive way of thinking....
+---
+Another brave soul who actually cared about the game and succumbed to frustration
+---
+# F
+---
+You tried your best. That's all we can ask for.
+---
+Good luck on whatever you choose to do in the future!
+---
+DAE anyone else germans ALWAYS SCREAMING? xD
+---
+Someone fork this project or something
+---
+That's a shame, he was one of few people at CCP who cared about us players and was the one who communicated with us the most on reddit and official forums. We've all seen this coming though, since he stopped posting a while ago.
+---
+Bravo les fr
+---
+o7
+---
+Farewell, falcon.
+---
+Good luck with what ever you choose to do next.
+---
+You should be able to, with a cargo scanner. Just drop one and try it for yourself.
+---
+Guys guys, 
+---
+Logi fighters. Every time you kill a fighter it reps that little bit less
+---
+Best of luck Falcon.
+---
+It was obvious that you deeply deeply cared about Eve, and I know you're not leaving because you've lost your love for eve.
+---
+Best of luck!
+---
+On a side note:  I've said that the jumping the shark moment of eve was the skill injector change.
+---
+This is the point where the struggling swimmer starts having his head go below water.
+---
+God damn. I'm trying to stay positive about the game I love right now, but....damn.
+---
+was already wondering why we got another cm member, guess here is the answer
+---
+A sad day for everyone. Fly safe, Falcon o7
+---
+I know many of You will deny it buuut: removing kills and losses from eve and reports would bring more good to game. Now many won't even undock because of fear that hes killboard will get worse, so many plays for those stats instead for fun. Also it demotivates newbies when they need to see thier losses.
+---
+Someone bring that thing at eve forum and im 100% for it. The similar problem was in World of Tanks with wm8 statics
+---
+flak weapons sound really cool BUT I feel for the burning servers in big battles already XD I guess that would have to wait till the HADEAN system is implemented, so maybe 5 years at least.
+---
+&amp;#x200B;
+---
+My idea:
+---
+Polarizing weapons, no damage but decrease of the targets resistances. Best with stacking penalties
+---
+https://br.evetools.org/br/5dc4975438e3fe0017533ee9
+---
+https://br.inyour.space/?s=2874&amp;b=8862960&amp;e=90&amp;t=svbeaaqeq
+---
+That is some shiiiiiiit. 
+---
+Thanks for being there for so long Falcon
+---
+Should've  been banned from the start.
+---
+Anyone who doesn't believe we're witnessing the twilight of EVE is just kidding themselves.
+---
+Don’t leave! I’m gonna change! I promise!!
+---
+Farewell and I wish you good success!
+---
+O7
+---
+I think we're all just assuming AT won't be back next year so he's getting it done in advance.
+---
+*SAY SIKE RIGHT NOW*
+---
+Is this the death knell of eve?
+---
+a secondary weapon system, Fussion cannons used by Minmatar and Gallente elite hulls
+---
+fires nuclear rounds. 3 types.
+---
+1. fusion spike (close range, average tracking, high damage)
+---
+2. fission spike (medium range,  Good tracking, Average Damage)
+---
+3. Neutron Spike (extreme range, low tracking, High damage)
+---
+a charge weapon that fires at the end of its cycle. player picks the charge time (burst 5sec, standard 10sec,  sustained 30sec)
+---
+damage amps are reaction chambers that fed in to the weapon system.
+---
+Delete zkill!
+---
+This dude was a goddamn rockstar even before he joined CCP.
+---
+Long live Verone!
+---
+Long live VETO!
+---
+RIP EVE
+---
+Respectfully disagree. Failure mechanics in eve is not that different from other games, what you lose is time in both cases. While in different type of games you start the level again losing time, in eve you lose isk which is equal to time you grind for it.
+---
+But in Eve there are player made support structures and passive ways to make income. Not to mention the most important currency in eve which is SP is passively generated and can not be lost. So the points made in the video regarding risk/reward balancing stands for Eve even more strongly.
+---
+Now, I know it is arrogant to assume some play styles are boring and players gravitating to those styles does not enjoy the game and need protection from themselves. But I still think there is a discussion to make and it is CCPs responsibility to make certain changes if the player base is polarized on the issue.
+---
+O7 Falcon.
+---
+StevieSG (EX CCP Redcape/ CCP StevieSG) here, Paul is an incredible human being, and I feel so lucky to have worked with him. Even when we were casting the Alliance Tournament back in '07-'11 (as Veto CEO Verone) his passion and love for the game and the community was evident and it was a no brainer bringing him back every year. His eventual promotion to head of community was such a joy, and he's brought so much incredible insight, passion and love to the role. He's been an incredible asset, and I adored being able to work for him when I came back to work on Valkyrie. 
+---
+The thing to remember when high profile CCPers leave, is to be honest, EVE never really leaves you. I still love the community, still wish I could pop down to London and go to as many EVE meets as I can, and I think for the OG EVETV lot, we lived and breathed EVE in our 20's and CCP in our 30's so it's just a part of us now, of our identity. Couldn't shake it if I tried. :D
+---
+ I think we can all agree that this community is special, and regardless what role someone plays, be it CEO of a Corp, EVETV Pundit, Head of Community or that face from yesteryear that rocks up to a meet to loud cheers and 'booze', it's never really over, and tbh, we all know he won't be truly GONE. 
+---
+o7 Falcon, fly safe bud. I'll see you at an EVE Meet soon. ;)
+---
+Remember meeting him prior to being a dev in eve London. Guys was pretty chill and pretty sure he started Eve London up with Veto.
+---
+I really liked how they did not back down and just fought to the last man. GF's all around!
+---
+are you incapable of sorting by new?
+---
+Given how quickly they’ve topped ratting numbers up in outer passage, I’m unsure if they need any of your encouragement.
+---
+In reality there would basically be no smoke.
+---
+Any exhaust would almost immediately dissipate into the vacuum.
+---
+Imagine being stuck on a island where everyone are cousins and it's dark 24/7 half the year
+---
+Or maybe he got axed because of the blackout disaster
+---
+Cheers o7
+---
+Fly safe, have fun :)
+---
+Well shit. o7 mate
+---
+DICE. is recruiting
+---
+It actually is, if turnover of resources and tools made with them is high enough. But it apparently isn't, so cost turned out to be rather irrelevant.
+---
+He did a lot for the game. He was the face of it because he responded.
+---
+So it seems.
+---
+Not scary for same ship size. What I meant is some high alpha thing that could make frigate vs frigate a interesting skill show. I know you can gank with arties, but a nado will generally sit standing still really far away from anything.
+---
+I'm not even sure how I want the tracking of that weapon to be, but I don't think I want it higher than small size actually. Big arties are already pain in the ass to use as they don't track anything funny.
+---
+Rise is good people
+---
+That would be a great addition.  Could even be glowy similar to our ships engine trails.
+---
+Who do you think next?
+---
+Do you think Plex is magically generated? Someone has to buy it btw, at a rate that is more expensive than subbing.
+---
+omg ... another one not getting it ... i am so tired of explaining the same basic economics over and over again ...
+---
+Last try, here is the quote of my sentence that you seem to have either ignored or not understood:
+---
+&gt; who do you think are the types of players that bux PLEX with cash to sell ingame so they do not have to grind PvE, and also usually sub all their own accounts with cash? Do you think its the ones screaming about blackout making them unable to farm ISK and left in this time or the ones cheering for blackout or already left the game because of Farms&amp;Fields before blackout?
+---
+As far as I'm aware none of the major nullblocs pushed unsub recommendations.  I don't even think any pushed don't log in.  The worst we ever did was encourage people to mass click the thumbs down thing during the drifter attacks.
+---
+They do not show up on evemarketer. Non of the world tour SKINs do :(
+---
+Will do. Thanks!
+---
+will tapi finally grow some balls and take on goons now theyve killed all the other content within 5 regions?
+---
+I've been doing both but I must be having bad luck on conduits because the loot hasn't been that great.
+---
+I thought about evepraisal, and took a look at it but wasn't sure about its accuracy. So I thought to just ask here.
+---
+There was a typo in the link, the correct link:
+---
+[https://community.eveonline.com/news/news-channels/world-news/governor-of-ammatar-mandate-elevated-to-holder-rank-ardishapur-and-sarum-houses-hold-summit-amidst-ceremonies/](https://community.eveonline.com/news/news-channels/world-news/governor-of-ammatar-mandate-elevated-to-holder-rank-ardishapur-and-sarum-houses-hold-summit-amidst-ceremonies/)
+---
+That guy is a working father, he even mentions it a few times in this movie. Just see yourself how much fun EVE can be even for casual gamers ...
+---
+https://www.youtube.com/watch?v=QU19K6fjXXo
+---
+http://www.nooooooooooooooo.com/
+---
+;D You salvage bro? Or we are just talking about your dreams?
+---
+He didn't quit the game, just CCP!   So, no!
+---
+ [https://www.ccpgames.com/careers/portal/VN471/community-developer-eve-online](https://www.ccpgames.com/careers/portal/VN471/community-developer-eve-online)  btw
+---
+i don't even know what to do with all that free sp. still have so much unallocated.
+---
+and ccp isn't iterating to keep the people optimizing
+---
+Well this is rather sad.
+---
+the only time i was more active than during BO was in 2010. we don't need the bots and afk players.
+---
+i mean, things like the arty firetail? or arty wolf? that destroy drones from drone boats, and actually thier dps isnt too bad, enough to break standard t2 repper or evetually use up ancillary paste / charges and break the tank after that.
+---
+hey not shitting on your show, but i dont want to see multiple types of the 'same' weapon with a different name. eves confusing enough as it is for people to grasp
+---
+Deal!
+---
+weird flex but ok
+---
+Normally the best way to contact ISD is through the support ticket system (Game Play Support =&gt; Game Masters &amp; ISD), but I've gone ahead and prodded ISD:CCL directly about this.
+---
+Summarizing what I understand from the system (please note,  I'm not a member of ISD:CCL, so I might be completely wrong), but your forum account seems relatively new (less than a month) , with your only two forum posts consisting of links to youtube, with very little text content (the posts, not the videos). So this probably triggered some anti-spam system.
+---
+In short: what a few fanboys think is "fun" is not. And you can not build a service that shits on most people paying for it and investing their time.
+---
+CCP Falcon stood for that philosophy and Eve might be saved now. If it isen't too late already.
+---
+The problem is those people always want to change the game so that it represents their wrong philosophy.
+---
+Human behaviour is a factor in those games and this philosophy does not represent human behaviour. Humans don't act like that.
+---
+Q E D
+---
+The game has to change and adapt to the humans paying real money and investing real lifetime in it or it will vanish. It is that easy.
+---
+If you discussed this topic with the fanboys in the past there was always that little doubt. What if I am wrong and the other side is right. (Strange enough that the fanboys never ever had a thought like that)
+---
+This is the proof now: under no circumstances is their philosophy the right thing to do.
+---
+It is a good thing that he is leaving. I wish him good luck for his future. Maybe he has learned somthing from that. Humans don't work that way
+---
+I really really want to have a moyivation to play again. But....
+---
+Maybe if capitals weren’t the end all be all.
+---
+did you know that the sound is being artificially created to help the capsuleer make use of his auditory senses?
+---
+Honestly, I played Eve years ago so I'd say gankers were a lot more common back then.Or maybe I have shitty luck. Being ganked doesn't bother me but when I am trying to do something and then be ganked is what was frustrating to me.
+---
+I still kinda keep up with Eve. Especially the lore.
+---
+Even then it isn't because here is what happens: people playing the game longer naturally will have more wealth, old wealth.  Additionally wealth inequality occurs pretty naturally unless your game is  Communism simulator.  So what happens is while you get this shiny goal that everyone wants you also have people that start the game and get discouraged because they see how much cost it will take them.  In Eve a great example is the press coverage it gets because of the titan v titan brawls, then people join the game see how much they actually cost, hear about the people playing forever having several titans and get discouraged because they feel they will never be able to catch up *or* they just join the winning team because that's the fastest way to get the goal.
+---
+If all you want to do is munch rocks and kill frigates with titans, don't be surprised if everyone else leaves for greener pastures
+---
+Panfam still remains.
+---
+wow is trash
+---
+eve is trash
+---
+can't you see the clues?
+---
+I now feel like your birthday is march 7th 1984
+---
+I am aware.
+---
+Yummi is one of the only TIKLE members I _haven’t_ slept with
+---
+If you want to avoid combat go for a Helios &gt; Astero &gt; other T2 Scanners.
+---
+T3 Cruiser are slow asf, and usually not worth it if you focus on scanning / hacking.
+---
+Just get into Sansha or Guristas Space where the good relic sites are at and start hacking them, you don't need a Data Analyzer because: https://www.reddit.com/r/Eve/comments/af7536/the_ultimate_nullsec_faction_relicdata_sites/
+---
+So just bring your usual Helios / Astero, no need to train into shiny T3Cs wich are too slow to survive proper gatecamps even if cloaky &amp; nullified.
+---
+let me see, 
+---
+\-no content update (scanning, missions, wh sites are \~10 years old. except abyssal space which is overdone many thousands times by anyone willing to do it)
+---
+\-player retention because market is full of games which can offer almost any aspect of eve in better wei
+---
+\-player retention causes lack of content due to players themselves being content
+---
+\-even more player retention because casual players can't compete with majority hardcore ones
+---
+\-AT was cancelled
+---
+\-willing to build a financial income based on cosmetic items and not a diverse and engaging game play ( conflicts are pointless , just crab everyone to buy pretty skins) meanwhile eve does not even has numbers to cover that cosmetic market on the first place unlike say CS or LoL .
+---
+honestly i can continue but this is pointless . i bet if you remove KB from eve and replace it with some kind of global rating chart - it will stop most pvp or at least a huge part of it because how desperate people are for green and shiny their pvp showroom
+---
+&gt; I lost belief in the intellectual capabilities of some people here 
+---
+I needed a smile today, thank you.
+---
+They did fire his gf i expected it sooner tbh
+---
+everyone would rather log into reddit and post about the game dieing instead of undocking and fighting something.
+---
+Pussy
+---
+Seagull at least cared enough to have a vision for the game.  It may not have worked out how we or she wanted, but it wasn't for lack of caring.  Mistakes were made, but compare her tenure to the rudderless ship we have now.
+---
+Yeah I think blackout was a good idea too. If they won't keep it that way I think they should at least make local comms in null be based on an anchored structure that can be blapped. 
+---
+Also, no more station timers. You anchor it, you risk it.
+---
+Only the best thing to happen in the EVE universe.  
+---
+ [https://www.youtube.com/results?search\_query=eve+alliance+tournament](https://www.youtube.com/results?search_query=eve+alliance+tournament)
+---
+Who said I was proud of it? what I said is a fact, if NEAR2 exists or not.
+---
+ok goon
+---
+I miss ya Falcon. Fly safe out there o7
+---
+o7 Falcon
+---
+I'm 100% convinced Eve is circling the drain.
+---
+???
+---
+Personally, i've been branching out into other areas of the game. I'm one of the primary contributors to my local market. :)
+---
+make them scannable immediately
+---
+And the game was better off for their loss.
+---
+&gt;Have you seen the Dev-Panel of Larrikin on Vegas? The graph that showed how the ISK income of "cheater" Accounts plummeted by 50% on th 1st day of blackout? Where he said that blackout was a "hard blow" to botting and RMT ventures?
+---
+No, I'm also not doubting that the cheaters income was reduced. I just wonder, if blackout only hit the cheaters and was otherwise a good thing, why did CCP decide to stop it? That, logically, does not make any sense to me. So there was either a lot more fallout for normal players that you chose not to mention here.
+---
+&gt;compared with the 30 thousand lost logins in 2.5 years before blackout the appr. 3-5 thousand lost logins due to "cheater" Accounts and Multibox-AFK-PvE-Accounts unsubbing (or rather stopping to PLEX for Omega) is pretty low, compared to the remaining 25k Logins it was stunning ... Also there are groups that have grown to a point where they can economically pressure CCP in the direction that suits their goals, for example ordering their members tu unsub PvE-Multiaccount-Farms ...
+---
+Again, if it was just cheaters unsubbing, why did CCP cancel the blackout? I don't know about Multibox-AFK-PvE-Accounts, but those sound like normal players with a playstyle that you do not condone to me. And the last sentence sounds a lot like tinfoil to me.
+---
+I'm new, been playing for only a couple of days so this might be a really dumb question. For what I've read the Imperium is the most powerful alliance in the game, and since I love underdog stories I'd like to fight them. Is there any alliance I can join to fight them?
+---
+Eve has sound?
+---
+Shocked, I truly am, Falcon lying to people, what has the world come to.
+---
+This is eve's year of d as darkness 2.
+---
+no u
+---
+I did 11 sites in one hole the other night, 162m all up. 5 relic, 6 data. The majority of the isk was from the relic sites with the data sites dragging the average down massively. Glad your average is picking up a little. Just thought I'd share my data.
+---
+Also because somebody has to do it with the recent nerfs to ECM and the lack of a increase of EHP for falcons it was only a matter of time before they started to disappear from the eve eco system.
+---
+u/ccp_falcon I wish you best in the future, you're a space fren forever (◕ᴗ◕✿)
+---
+It's really hard to get fights when there's 15 ways to instantly escape an engagement and few ways to start one.
+---
+Read: I want to be able to mindlessly accrue assets without anyone attacking me
+---
+Do you mean the 5%/level damage buff to combat ceptors that came out a week or so ago, or some other buff?
+---
+Why hire someone that will outsource their plans from reddit, when you can just outsource the plans from reddit?
+---
+What is the over under in the company pool for Falcon going postal before he leaves? Can we bet ISK on this or what I would call a new feature for the game?
+---
+Kinda have to as 99.99% of the playerbase doesn't undock pvp ships other than to blob people
+---
+Hi, I get what you are saying, but not sure I agree from an economics perspective. The problem is the demand side of the equation - I am the guy you are talking about. I pay subs in cash and buy plex rather than rat (I'm an economist in real life and dont have time for ingame activities i dont enjoy).
+---
+The problem with the demand side is if you chase away enough of the players that \*buy\* plex then I'm not motivated to sell it. At a certain price point I lack the incentive to "produce" more (as the supplier of Plex to the in game economy in this scenario) and that price point is directly impacted by the number of "Plex players" who are buying.
+---
+So structure mechanics, primer
+---
+So when a structure hits 0 shield it go's into Reinforced mode ( unless it's Low power then 0 armor is the Reinforced mode ). 
+---
+After this it will come out at some pre-set time this is what people call "the timer", generally it means both sides will show up to defend/attack.
+---
+Now the problem right now with structure timers is because the defender sets them they generally set them in a Timezone that's just massively shitty.
+---
+I thought he was born in 1337
+---
+I think that's one of the big problems with Eve in general - all the old devs gone and the current group can't figure out how to make many things work with the current code.
+---
+The prophecy of Pearl Abyss has begun to unfold...
+---
+&gt;I just found out that CCP Fozzie is leaving, 
+---
+???????
+---
+you're a fucking idiot and have no idea what you're talking about. You only assume you know what is going on in this conversation and to anyone with a technical skill set, you're only proving your ignorance. So how about you go have a big bowl of STFU and Sit Down.
+---
+Falcon* sorry lmao
+---
+Thought he was born in 1337 ;)
+---
+Really, CCP Fozzie is quitting too?
+---
+How long has your app been in?  I withdrew mine after a few weeks
+---
+&gt; EVE Online is slowly becoming a token MMO with pay2win mechanics
+---
+What P2W mechanics?
+---
+Leave goons, problem solved.
+---
+I'm giving you a...
+---
+fify
+---
+Stuff?
+---
+Well, I think maybe it is your own position. I don't personally think Eve was ever "exciting" in the first place. Most of the fun you will have is hanging out with friends. Perhaps a change of scenery will help you from becoming bored? Or a different career in Eve, such as exploration.
+---
+Actually one would argue they don't listen (PANIC and rorqual makeover)
+---
+PM me. I could use your stuff.
+---
+This question hurts me.  People online used to spike to watch AT
+---
+Those numbers are wildly off. TEST, legacy B-team, FI.RE coalition, and Mangos have quite the fleet between them, and TEST almost certainly can match or outnumber goon supers in AUTZ, and push close in USTZ. Goons would definitely have numbers superiority in EUTZ though.
+---
+Nah, he’s in Cuba sipping mojitos with Tupac.
+---
+5 languages and still somehow sound dumb as a sack of logs. By hole I didn't mean wormhole I meant a actually hole in real life, so you can take your uncontrolled anger about a video game there. Your insult make little to no sense. By chance are you a homosexual? It's ok to be one. You don't have to tell everyone about your ass play fetishes if that's what you're trying to do.
+---
+Except you CAN blame players for the fact they often do take action that is against their own enjoyment of the game.
+---
+We see this all the time with people that choose to angrily grind out uninteresting activities as opposed to playing activities they actively enjoy just because the boring one has a tiny tiny tiny higher chance of loot drops.
+---
+We see I in just the fact people.choose to mine in this game.
+---
+The sandbox design simply needs to enable, especially in the modern system of players angrily raging at anything that tries to adjust the balance towards engaging gameplay as being the game developer telling the players they are wrong.
+---
+Chances are the free sp isn't aimed at you then
+---
+I just want aether wars phase 3 skins
+---
+I sound dumb as a sack of logs but you can't make sense of a simple "You are retarded" insult, alright.
+---
+Can’t unsee that now thanks
+---
+But legacy would eventually lose.  Being second in economics and military power in a war of attrition means you lose.
+---
+Mental health is important. You should seek help in thinking call someone a retard is an insult. Considering most are more intelligent than the garbage you put here.
+---
+If it ends up being Matterall I'll literally lol out loud in irl
+---
+.... why he left a company its not like he pasted away and sorry if l don't like someone l'm going to say so ;)
+---
+Take it as a compliment then you fucking retard, your choice.
+---
+pods are a huge problem I totally agree.  drugs too.  The ship I fly primarily is a 10mn algos, and the difference between an empty pod going 2.5km/s and snakes/quafe/overclocker going 3.5km/s is absolutely the difference between some fights.
+---
+However, that's a very complicated problem to fix.  Same with blobbing.  I don't know of a system that 99% of people wouldn't be able to argue with being a good change.  The proposed above, however, just groups ships by relative strength instead of essentially randomly by size, and I can't imagine anyone arguing with it being objectively a good change for the health of fights in an area where there are very few actual objectives besides a killmail and a good time driving content.  The only people that would complain about this are the people with 5b pods that chug 120m worth of drugs every time they undock their kikimora in search of killing a corax.  And honestly... fuck em
+---
+Oh yea, they'd totally warp off and leave the fleet after boosting. Yup, they're gonna waste their time in a hectic fleet battle just to make sure their precious, precious boosting ship doesnt get got :(
+---
+Always a good time when we get a black rise exit.
+---
+Black rise matters.
+---
+Someone doesn't remember the transitional period between what we have today and what offgrid boosts used to do.
+---
+Where is your God now?
+---
+next pussy is out. gf
+---
+Because you're actually on reddit
+---
+Only boring people get bored
+---
+Default keybinding for your inventory is Alt-C bring this up while docked and you can see your ship inventory and item hangars for that station.
+---
+tldr
+---
+You mean like fozzie sov, citadel's, and jump fatigue? All things done to help the little guy, but really caused them just as much if not more hardships and burnout?
+---
+All tedium causes is burnout, the larger alliances have a larger pool of players to pull from to replace those who burnout. Smaller groups don't have luxury. They simply succumb to the tedium sooner and collapse when nobody can step up to pick up the slack. It adds nothing to the game for anyone but the most short sighted hunters.
+---
+On the mention of Brave Empire, our new highsec corp, it _is_ on the wiki but it's a little hard to find. Here's the link to anyone who's interested: https://wiki.bravecollective.com/public/corps/brave-empire/start 
+---
+We've got some fun roams planned for this weekend and our application queue is super fast (less than a day) - so if you're new to Eve and looking for a group to fly with please feel welcome stop by. I'm running a shitty santa roam this Sunday.
+---
+\*points at the huge dumpster of great ideas that got started but never finished\*
+---
+Would it be viable to just have the tournaments on SiSi and then just have everyone self destruct at the end to make sure everything is fair and no banned modules were used?
+---
+After all, everything on singularity is pretty much free
+---
+Eve finally turned into a MMO. That’s for all the hard work Falcon. Not many HCMMO out there anymore.
+---
+Is this the one Bjorn uses? His matches the client colors and looks like it was built in.
+---
+Related question: why isn't this built in by now?
+---
+Really liking that thought !!
+---
+ The beans are back in town
+---
+Quant left?
+---
+Thats a surprisingly high amount of good puns per word for r/eve
+---
+if it's actually damaged you'll see the word Damage or Damaged followed by a percentage, like "Damaged 68%"
+---
+Bullshit. 
+---
+PvP in this game has been reduced to frigates in FW lowsec, wh roaming to null through vast swathes of ~~really real totally realistic humans~~ bots, wh roaming in wh's consisting of weeks of unfettered boredom culminating in staying up for 3 days straight over the weekend so you can evict someone out of a fort, 1v1ing in abyssals, shooting entosis fleets up north, or yeah shooting horde.
+---
+Access control lists. The character with the bookmark will be able to allow access.
+---
+You don't see the big picture, yeah we shoot your pve ships, but it's to provoke a response for people to bring pvp ships and come fight us. Killing pve ships is boring. A good fight when both sides want to fight is what keeps me in the game.
+---
+Boosts are boosts.
+---
+It's not about the certain alliance. Many alliance stagnate, it's about the mindset of wanting to drive the game. That's the sandbox. You can get so much out of EVE by stepping out of the comfort zone and making something happen, creating something.
+---
+Oh I had no idea. Like moved there, or just vacation? 
+---
+^I ^pick ^r/eve
+---
+Oh come on, the doomsday spitting out of the tip?  Sure ain’t applesauce
+---
+&gt;"Ran out of hull." 
+---
+LOL
+---
+These are so good. Thanks for sharing.
+---
+Everything that doesn't go your retarded way is "bad design". Thank god CCP is not stupid enough to obey to every brainfart idiots like you have.
+---
+Forget it dude, Capable_BO_Pilot is a sperge convinced that nullsec is the reason of all the game's issues. Everything that doesn't go his way is either bad game design or game abuse.
+---
+Elise
+---
+Its time to just go ahead and give ccp the morale post.
+---

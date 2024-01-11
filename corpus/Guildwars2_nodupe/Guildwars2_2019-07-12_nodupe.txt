@@ -1,0 +1,2424 @@
+[https://wiki.guildwars2.com/wiki/Power\_of\_the\_Mists](https://wiki.guildwars2.com/wiki/Power_of_the_Mists)
+---
+---
+---
+I don't raid and I feel like I should never need a party or other players in any open word map outside of a clearly defined meta event.  Some classes/specs pull this off but some don't and that always seems to be because of some nerf made to content of a completely different style or even game mode from what I'm wanting to do.  
+---
+I miss the days when combat was based more on auto attacks for damage and other skills for effects like CCs and such.  
+---
+The shift of design focus to fights centering around a few massive mobs (Actually just one at the time more often than not) screwed everything up and I no longer believe Anet is even capable of salvaging this mess, even if they wanted to, in spite of the more recent mobs being the best candidates we have seen yet to that original intended design.  
+---
+
+---
+They can't balance shit in PvE now because they're running two absurdly different pve game styles right now (Open world, old dungeons and FotM T3 versus Raid content style (that's been infesting other content) and FotM T4)  They're making a mess of OPEN WORLD class/spec performance trying to balance shit around raids FFS.  
+---
+Deadeye feels as if it may as well be a core thief unless I'm semi-afking a world boss fight, DH's weapon (one of it's big selling points) is a joke, Elementalist has managed to get nerfed so hard that playing it open world against any newer mob group is akin to sadomasochism, and it feels like things such as Daredevil's staff recently took unwarranted PvE nerfs in a lame attempt to push people to use other specs (or somebody was too fucking lazy to make a skill split).  Lest we forget that Tempest was nerfed prior to PoF and I believe it was because Anet knew the Weaver would not have been able to compete.  Etc.  
+---
+Simply put, if I think the flavor of the day sucks then I'm not going to buy it and adding bittering agents to the ones I do like isn't going to help you sell me shit that I don't like.  They need to stop balancing around making the flavor of the day.  But they keep on doing knee jerk balances, ad hoc changes with a "well let's just see" mindset which they never planned on cleaning up anyway, and cleaning it up now would just be too much work so it's never going to get better IMO.  
+---
+What pisses me off more is that all that above could have been avoided VERY easily, and could still be fixed if they would pick one fucking vision and rework the whole game around it, then never deviate.  It's been a huge problem for them that they spent too long innovating something and quitting it instead of building on what they had just made.  Some level of this is the stated reason NCSoft stepped on their tails recently, I only hope the lesson takes this time.  
+---
+As for this round of changes specifically, they managed to only mess with my condi rev build that I don't particularly like as much anyway, and while it looks like my DH's bow build might actually see some round-about improvements, why the fuck can't they go about it with something as simple as undoing the old nerfs for pve only?
+---
+Whats a staff?
+---
+Which is what I'm saying...
+---
+Embrace the Darkness applies even more torment, because AFAIK your Skill 1 is also considered skill-usage, which applies even more condis.
+---
+You just forget everyother demon skill (aside from maybe Call of Anguish for grouping when necessary) and keep stacking the torment up.
+---
+When you run out of energy, just keep hitting on another stance and come back right after.
+---
+Maybe the first change was meant to allow some sort of "about face", I think this skill used to go on cd when the target was behind, and the second bugfix is meant to prevent the projectile to go behind your back when you aren't in a situation where about face can occur (while running for instance). Just a guess
+---
+That's anet's whole balance strategy: buff unpopular skills, nerf popular ones.
+---
+They found the REAL Old LA!
+---
+by that I assume you mean pve where it’s solid but not op. If you’re in wvw or pvp they’re a bit of a joke and you usually see fb
+---
+Rip acrobatics
+---
+MMO devs tend to do this in every game. 5+ in, they completely revamp class mechanics. God knows why. I've played this class 5+ years because I enjoyed how it feels, completely changing everything about it does nothing but driving me away. Happened in so many MMOs that I stopped playing in some point.
+---
+In GW2, that development reached a critical point for me when they completely revamped how phantasms worked. Then, later on, after years and years and years, they completely changed how SoI worked. And God knows I loved the mechanic of boon spread. Balance completely left aside. Getting a boon and then spreading it to the people around you - amazing! And now? Dead. I loved the synergy between Arcane Thievery and SoI, or CS and Mimicry, or ...
+---
+So yeah, I'm still playing, but with every major revamp of my class I feel more disconnected. That's all they achieve.
+---
+Right im already thinking of a build with these changes.
+---
+Before the Berserker changes (removing normal adrenaline bursts), the difference between power warrior and berserker was mainly that core warriors had Strength, Discipline, and Tactics traits, so they could have all the good stuff from Discipline and Tactics (quick swap with adrenaline gain, better banners, empower allies, etc.), plus Strength's Peak Performance giving extra DPS and recharge of physical (read: cc) skills. So they did have more uses of cc skills like Kick and Rampage. Berserkers had to give up either the Discipline traits or Tactics traits to get that. So a more accurate thing to say than "core warriors have more cc" is that they don't have to give up some support or DPS ability to get their amount of cc.
+---
+Now that Zerkers don't have access to the normal burst and have to build up to adrenaline level three until they can start using bursts, the comparison is a bit more complicated. Core warriors can use level one and two bursts, plus have less cooldown on their burst compared to Berserk Mode or Head Butt/Wild Blow (8s for Mace's F1 vs Berserk Mode's 15s and 5s for Berserk Mace's F1, and 20s for Head Butt/Wild Blow). So in the time that it takes for Head Butt to recharge, you could have two core Mace F1s and be halfway to a second. Plus core uses kick, which does 150 break bar damage per kick, and has three charges, for a total of 450, compared to Wild Blow's 332 and Head Butt's 300.
+---
+The main thing is that the core warrior "meta" build allows for all three power DPS trait trees, and uses cc skills as part of its rotation to boost its DPS (Peak Performance, which also improves cooldown), all while keeping buffs from better banners and Empower Allies, and has Rampage ready as a cc panic button/powerhouse. Power berserker has to give up one of those to get the benefits of berserker, plus they usually take either the rage skill with stability or the rage stun break instead of Wild Blow to offset the self-stun from Head Butt.
+---
+So it all kinda depends on the "meta" build and how it works, and numbers-wise, core warrior's meta build does a bit more cc than power Berserker's does. Disregarding mace skills, since both builds are using them and I'm too lazy to look up their cc values, and assuming banners in two slots, core warrior with mace F1 (300) and kick (150x3) does more cc damage (750 than zerker does (732) with Wild Blow (332), Headbutt (300), and mace F1 (100). But that's if you're using Wild Blow instead of another rage skill to offset Head Butt's stun, otherwise it drops from 732 to 400, plus core has Rampage for extra cc. 
+---
+Although, all things considered, I prefer playing berserker (both power and condi), it's more fun for me, and while the extra cc from going core warrior is somewhat notable, it's not enough of a difference to matter much unless your group is really struggling with cc.
+---
+necro is still stupidly good at what it does - people are whining for no reason
+---
+&gt; this might not be the nail in the coffin for chronotank, but it's a step in the right direction.
+---
+It's definitely a nail into me mining thousands of nodes of LS currency for legendary gear using timed Distortion to avoid getting into combat.
+---
+People always overreact on balance patches. No nerf will make a class completely useless, in the worst case you just need to adapt the build. Considering that you're new, patches should barely even affect you since you're far from end game content anyway.
+---
+[ **Jump to 03:51 @** GW2 Parody: Guildlands 3...](https://www.youtube.com/watch?v=DwV6VhwwWeI&amp;t=0h3m51s)
+---
+ 
+---
+ ^(Channel Name: Noxxi, the Noxxian, Video Popularity: 99.25%, Video Length: [04:16])^, [^Jump ^5 ^secs ^earlier ^for ^context ^@03:46](https://www.youtube.com/watch?v=DwV6VhwwWeI&amp;t=0h3m46s) 
+---
+----------------------------------------------------------------------------- 
+---
+ ^^Downvote ^^me ^^to ^^delete ^^malformed ^^comments. [^^Source ^^Code](https://github.com/ankitgyawali/reddit-timestamp-bot) ^^| [^^Suggestions](https://www.reddit.com/r/timestamp_bot)
+---
+Who even needs other classes anyways? Guard or go home tbh.
+---
+Used to run a 40man Thief + mesmer group. 1 Mesmer per 8-9 Thieves. While it lasted it was unstoppable :)
+---
+I can't generalize or judge but I and my wife stopped playing at some point during HoT story because there was really a lot of characters and lore w didn't understand on the journey to get there and couldn't relate. Maybe this is why or part the reason. Kind of sucks we bought the PoF for nothing.
+---
+The new debuff that disables all toolbelt skills after overheating better not effect holosmith's using Photonic Blasting Module. That would be a pretty significant (and pointless) nerf to the current power holosmith PvE build which is already overshadowed in the current meta.
+---
+No kidding, my jaw dropped as well.
+---
+Phantasmancer kind of like Mirage utilizes clones? That's a thought. Still, too much nuked by now for my taste. I would've rather taken a 30+s cooldown on SoI than losing its absolutely unique and fun boon spread, and that Phantasm change has been what now, years? Not exactly a time span you *wait* for something. It's simply the new normal. And the new normal sucks.
+---
+No-clone shatter on Chrono is 5+ years old by now, I've perfected casting skills in that short time window. Now it's gone, and I can NOT cast clones without a target (which has to be in range, too), even if I wanted. So there's also a lot of loss of gameplay. Again. RIP all non-combat applications. Fucking all of them.
+---
+Thing is, I'm so far as to just dismiss it with a wave of my hand. That's probably the worst possible reaction one can get from his players.
+---
+The rare occasion where Anet changes a skill to what it was.
+---
+&gt; and could still be fixed if they would pick one fucking vision and rework the whole game around it, then never deviate.
+---
+Oh, but LiStENiNG tO tHE cOmmUNiTy that cries out the most at the moment, and IlLuSIon oF GRoWtH that comes from it!
+---
+I'm surprised and glad we got any improvement at all for thieves.  They have been so heavily nerfed (in WvW) for multiple patches.
+---
+This patch actually doesn't balance thieves at all.  With equal skill between opponents (and assuming both opponents are skilled PvP players), thieves are still at an incredible disadvantage against the majority of other builds.
+---
+However, I think getting actual balance would not work anyway.  If that happened, thief complaints would return and then they would get nerfed again even worse.
+---
+So I think this patch is good because thieves got something good (even though minor and far from being really effective) without the playerbase in arms and complaints about thieves.  
+---
+And..there is potential for theory builders to create new builds that can be actually effective against some (but not the majority, of course) other builds.  (Please don't share those builds or use them too effectively -- outside of thief portal -- as those will likely get nerfed too.)
+---
+Thief portal is neat in general.  
+---
+The myriad of countermeasures in the nerfing of stealth really unbalances thief as that is central to many builds.  But with most players happy with thieves being useless in offense and stealth being so easily countered, that is not likely to be fixed.  So hopefully they'll spend more patches in the future giving thieves new ways to gain more durability and defense not involving stealth.  Without them getting any of their offense back and stealth still nerfed, players might actually accept that.
+---
+I'm no expert, but that doesn't sound bad
+---
+&gt;bow got huge bows 
+---
+??
+---
+Good point, thank you :)
+---
+What do you mean? I don't see any UI changes between Holo-mode and normal mode. There are new skills, that's it. 
+---
+No different UI, no new colors, just new skills. 
+---
+&gt; You have to think that for new players, it is something hard to understand what is different when playing Mirage purely from a visual point of view.
+---
+New players don't start an mirage. Even if they use a lvl 80 boost, they need to unlock the e-spec and get them step by step. On top of that everything is explained. 
+---
+I don't see a different colored UI makes any different for the gameplay. It don't see any reason to do this than "it looks better", which is a subjective opinion. 
+---
+Don't get me wrong, I have nothing against UI improvements or color changes, but your reasons are pretty bad imo.
+---
+Oof get another ram module my friend you’re halving your rams efficiency
+---
+Lovely little video, I quite liked it. Already ordered my Evil Genius Hover Chair!
+---
+Could be.  
+---
+The pvp/wvw/pve split is mostly in numbers. I think they avoid having split mechanics in skills across game modes.
+---
+What would you say *is* a condi weapon, then?
+---
+Organised groups already laughed at rangers with the tiny window of burst they had every minute or so that did minor damage to tanky frontliners. Now they can go back to ignoring them.
+---
+You were already better off running something like a revenant (AoE, can't be reflected with thier biggest spike skill, offers a bunch of AoE boons easily) or something with boon strips or pulls (like necro or engi).
+---
+Longbow Soulbeast was a niche build in WvW that had to play around the projectile hate of dozens of players in a zerg protecting the entire zerg.
+---
+The biggest faceroll classes (firebrand and scourge) laughed at Soulbeast at its most powerful, now they don't even need to think about it. If your server complained about you playing Soulbeast before, they sure as hell won't want you now.
+---
+ [Eternal Armory] Increased burning stacks from 1 to 2. I wish they would make it also do something for bow and shield.
+---
+Class balance fully contaminated by expansion sales. Cosmetic endgame fully contaminated by cash-shop sales. It's so sad to see what capitalism does to entertainment, and even sadder that there's no real alternative to this...
+---
+Playerbase: Maybe nerf Offhand Sword and stuff if we are doing "too much damage"
+---
+Anet: Removes Superspeed from Impossible Odds.
+---
+At this rate they might as well rework Shiro entirely.
+---
+All long term WvW players have all WvW masteries so there's no differentiation.
+---
+Literally 0 changes for Scourge and FB to address them in WvW since like PoF introduction.
+---
+A far far better trailer than what the marketing team of GW2 could come up with (especially at launch). 
+---
+Noxxi, I think a simple like is not enough for this, where is the LOVE button?
+---
+I agree with you, to be honest, but I suppose not a lot of people will admit that. Can't go against outrage culture... Even if your post was friendly and mature, you'll still get downvoted for "not agreeing with their opinion".
+---
+Yes except it takes *a lot* longer to obtain the WvW Masteries than the PvE ones.  That would be fine for PvE too.  Play long enough and you collect them all, but it takes a long time and until then there is some differentiation.
+---
+Do not think everything is buffs. 
+---
+Giving them different shatters not only allows for improving them. It also allows for toning them down when they are too strong, without affecting Core mesmer.
+---
+The whole point of tradeoffs is improving core professions separately. That can only be done if Core professions have something elites do not that can be improved to give them more power without that extra power transferring to specializations.
+---
+* Warriors have a separate 3rd adrenaline stage.
+---
+* Guardian have separate virtues.
+---
+* Revenant has a separate F2.
+---
+* Engineer now has an unique F5
+---
+* Ranger has changes for druid and soulbeast, but still no separate ability. That should be addressed in the future, giving core ranger something for their F5.
+---
+* Thieves have an separate Steal skill.
+---
+* Elementalists have separate attunements.
+---
+* Mesmers have separate shatters for chronomancer, but still not for mirage.
+---
+* Necromancer has separate shrouds.
+---
+I know right; I rather have them just release a specialization, then change the way whole class is played. 
+---
+Being a “filthy casual”, that plays for top 7-10hr/week, do they really think im gonna spend time relearning the whole class? I rather move to a new game and learn that.
+---
+Im my opinion, balance should be about slight tweaks to bring power to same level as other class, then to rework the way a class is played.
+---
+I guess anet borrowed the monkey that ZoS used to balance eso
+---
+No no no. We should go to the armory. That's where Zadorojny is likely to be.
+---
+I think it's a DPS nerf to any power based Ele build in general, not just to Weaver. Yes, as far as I can tell there is indeed a straight 10% damage nerf in the fire line.
+---
+I think the Air change is more complicated. Right now you can get 240 from Raging Storm and another 180 while attuned to air, so if you're in Air you get 420 ferocity and if you're not you get 240. After the change, you will get 180 from raging storm plus 150 while not in air, or 300 while in air. 
+---
+Therefore, when attuned to air you'll actually have more ferocity: 480 vs. 420 now. When not attuned to air, you'll have 330.
+---
+All told, what I think they're doing here - without actually coming out and saying it, which is a little offputting - is trying to more thematically define the trait lines and force particular kinds of builds into particular lines. Fire is now a line you take for condi builds - that 10% damage loss was because in it's place they added a condi buff -  but it loses a lot for power builds. Air is now a line that gives you a significant benefit to power damage but *only if you stay attuned to air*. Frankly, it almost feels like they're dumbing the class down along with the way they're forcing different kinds of builds into different trait lines.
+---
+I think this is a very poor change, but to make it worse, the change to fire leaves the Master slot with two traits that do essentially the same thing but with one being clearly better. After the change, you will have Burning rage giving an extra 180 condition damage along with triggering an AoE burn, and you will have Power overwhelming which will give extra condition damage based on power. I'm not going to run the numbers now but in any case one of these is going to work out to be always better than the other - at least for any given gear setup - and they do essentially the same thing. It neuters the Master column so that it will effectively only have two choices rather than three.
+---
+Daredevil didn't get different colors for its endurance bar.
+---
+Not even mounts get that.
+---
+Why should mirage be different?
+---
+According to the wiki, superspeed ignores chill and crippled. So it probably did make a huge difference in Mirage survivability.
+---
+Is this what they are doing instead of designing new elite specs - reworking nerfs into old specs?
+---
+Season 5 and no expansion 3 and no new elite specs until after Season 5 is going to be a huge blow to the game that it won't recover from this time.
+---
+No they won't. They didn't do it last time
+---
+Ehh but the endurance bar isn’t really a key part of the spec. Sure it would be cool, but mirage has to dodge to access its elite spec mechanic, and dodges often.
+---
+&gt;Take a ~~sit~~ skritt
+---
+FTFY
+---
+Just blob em down if you can't win ez
+---
+Druid staff 3 and mesmer rotations are probably the biggest reeeeeeeee
+---
+That is not what those update notes say.
+---
+One says that there was a bug preventing its use on enemies behind you.
+---
+The other says there was a bug allowing it to fire backwards. Firing backwards is not the same as firing behind you. It's a different mechanic that you can see in few skills, like Quick Shot in ranger shortbow.
+---
+Net Shot is not meant to be used while retreating, but it had a bug was keeping it from firing behind you, the skill would fail, get cancelled or get used up without attack. When they fixed that, they inadvertedly created another bug letting it fire behind you without turning around. So they are fixing that now.
+---
+This was simply amazing! I had not watched the original Borderlands 3 video, so I decided to watch both simultaneously. What you did was a fenomenal job, it is incredible!
+---
+That part with the charr playing that horn instrument was amazing, I literally laughed out loud :D
+---
+It's also direct nerfs to D/D condi thief in both PvE and pvp/wvw with the removal of poison on Dagger Training, which is disappointing
+---
+Asura is the best race!!
+---
+Not really.  It's not them considering skills, and how best to change them, but just "remove healing from this skill"  or "buff that necro axe cause no one uses it"  It's not balance, it's just anet doing what it always does: as little as possible.
+---
+DPS buff
+---
+evasion and cool down reset stall nerf
+---
+&amp;#x200B;
+---
+and lets be honest, people use dagger storm as a stall in pvp these days :P
+---
+Ranger’s capability to have unblockable on almost everything has just been cmd+A deleted by the upcoming balance patch, and sic’em is receiving a big nerf too.
+---
+They put a new trait into Deadly Arts adept tier so it looks like mug is getting deleted.
+---
+What’s happening to scrapper Detection Pulse???
+---
+I feel like Anet ignores rangers out of all the classes, they could of made pets more faster/responsive when attacking. They could also make pets more dynamic in terms of fighting. Pets are completely useless in its current state.
+---
+I'm actually not against that kind of thing, if it's done with mutually exclusive traits.  
+---
+Equip trait A, weapon focuses on power, equip trait B, it focuses on condition, equip trait C, it focuses on debug/CC.  Can't bring all 3 at the same time.  
+---
+The problem arises when you can make the weapon both power and condition.
+---
+Yeah imagine how Illusionary Persona was so necessary that every mesmer build ran it so they made it baseline hmmm... This reverting change is pure awful especially considering they're also removing distortion from chrono, which I am fine with and I think is a more proper tradeoff. Trying to split cast something quickly will be absolutely terrible in a scenario where your clones can be instantly cleaved so adding more clunky unfun gameplay to chronomancer that doesn't actually help balance the gross OP aspects... cool...
+---
+Some of these changes seem a little sus.
+---
+...and then spectacularly failing when put outside of their own controlled environment that they got used to. Sometimes a safe choice is the best choice.
+---
+Can't wait to try out Shadow Portal!
+---
+It does for the in split shatters. It's shaving damage. Not huge difference for PvE mesmer but still more than just F2 as you imply here.
+---
+* balance changes: this skill now does 20% less damage but lasts 30% longer
+---
+* "balance changes": you no longer have that mechanic you had for 5 years, and this mechanic you had for 4 years
+---
+Can Necros heal in shroud from life steal effects? I think I recall they added this functionality at some point.
+---
+But I suppose there is not much necros can do in shroud to siphon health anyway.
+---
+Wait a minute... that means we chronos couldnt double mass invis in fracs like TO anymore? Also no blocks on distort? No more distortion to cheese Sabetha when doing cannon? Switching cs from F5 to F4 also hurts my muscle memory.
+---
+Stop touching chrono ;-;)
+---
+What a disingenuous twist of words...
+---
+It feels a lot like people did not play in those days and thus forgot how important that trait was for **every** mesmer build :/ Now putting more reliance on clones, ew.
+---
+&gt; Yes, you need to obtain and play the earlier parts to understand the later parts. That's how information works.
+---
+That's now how good games made by competent developers work. You don't build a game which you expect to live for 10+ years without considering that new people will want to join _and play with their friends_ (a book you read on your own, an MMO you play with other people - most likely your friends).
+---
+That's why WoW gives a level boost with every expansion. Yes all the old content is there, yes you still play through it on the characters you don't use the boost on, but if WoW is lucky enough to lure in a new player in 2019, they are going to do everything they can to bring those new players into the fold with everyone else. If I join WoW to play BfA with my friends, I'm going to quit if I have to level 110 levels before I play alongside them.
+---
+It's also why WoW stories build on older stories without being a strong continuous story. Different locations and characters are featured each expansion. Some characters constantly appear (the faction leaders) but each expansion tends to focus on different people who weren't in the last expansion, so all the story those other characters went through isn't necessary to understand the big themes in the current story (they might return an expansion or two down the line, or play a minor role for a while).
+---
+Movies also do this. It's a big deal when making a series of films (and a big deal in the Marvel Cinematic Universe). The Marvel films would be incredibly unpopular if you had to see all of them to understand them. Build too much past story into the new film and a good portion of your audience won't understand it and you will lose your potential audience.
+---
+It's a fundamental thing in story telling, especially in MMOs, to build a jumping on point into stories told over a long period of time. Some styles of stories don't need it much (like a book series or a show like Game of Thrones where you can be confident almost everyone reading book 8 has read the previous ones) but an MMO just isn't like that. GW2 is also just not like that (if I'm new and I start today, I'm not going to run around in Season 2 getting an armor set or Sinister trinkets, I want to jump right into PoF or HoT for masteries).
+---
+? Power chrono doesn't even use f3 and f4 in split.
+---
+Affects it immensely in pvp and wvw.
+---
+Lava Font doing way less damage than guardian symbols now. It was already lower, but symbols getting massively buffed
+---
+They either just need to buff Lava Font back to its original damage scaling, or let it stack up to 3 charges or something.
+---
+Of you read their patch notes carefully there's a lot of stuff like that. Like if they just have the wrong numbers in the tool tip (or on the skill) is thst really a bug?
+---
+Next patch they will find a reason to make Chrono root themselves and make tick tock noises while spinning in circles with 2 Swords equipped.
+---
+I wonder what would happen if image stabilization was applied to this.
+---
+Preach. Mirage is beyond busted in PvE, and balancing around Snow Crows benchmarks is the only rationale I can dream up to explain why they're allowed to hit 45k in real conditions.
+---
+Most classes have a really shiny benchmark number somewhere in the 30k-40k range that ends up being way lower in practice. Mirage has a sub-30k benchmark number that ends up being *over 40k* in practice on certain fights. It's comically overpowered, but ANet doesn't seem to care.
+---
+Honestly that’s a good thing to me. It was and will likely never be a good idea to buff things up to the level of the current meta. The powercreep this game has made me straight up leave and reading these notes has me wanting to hop back in and do some build crafting. 
+---
+I hope there’s more specialisation now instead of everybody being good at almost everything.
+---
+Why does mirage not get the movement buff?
+---
+RIP Soulbeast
+---
+This is funny but you committed the Comic Sans crime, I'm calling 911.
+---
+&gt; So the penalty for overheating, even though one of the grandmaster holosmith traits is centered around doing that, is you lose access to a whole bunch of skills while you're cooling down.
+---
+Seriously. If Photonic Blasting Module doesn't remove this penalty, it's dead.
+---
+I agree to a point. I like how season 2 went into HoT seamlessly then into season 3 to PoF and finally into season 4. They do need a way to give new players a way of finding out what happened. One way could be bundle the seasons with the expansions. Season 1 (if they add it back), season 2 and 3 bundled with HoT and season 4, 5 with PoF. This will save people money. I think Anet is good with connecting stories they're problem is access to the content. I feel that we actually prepared to go to war with Mordremoth in season 2 and in HoT we were really rushing to save our friends. This is all my opinion of course but bundling living world in with expansions works.
+---
+but the Circlejerk! Think of those that spent their fingers shitting on Anet!
+---
+It's not about the distort for yourself. It's about distorting for your group on VG, Gorseval, KC, Samarog, Deimos, CA, Largos, Qadim1, and Adina. All those bosses have "must distort for group" attacks on a faster cooldown than your signet heal, and you cannot reasonably hold SoI as a distort without tanking boon uptime.
+---
+Dodging will be required now, and unless you're in Discord with your group, you can't reliably communicate to your party if you have your signet heal ready or not, so without Discord everyone is just going to have to dodge everything.
+---
+Elite Specs were SUPPOSED to be sidegrades, not flat upgrades. It looks like they’re finally trying to make good on the promise they made pre-HoT.  
+---
+In a game like this variety is important so having Chrono be a straight up upgrade was never a good idea.
+---
+ holy FUCK noxxi this is amazing. 
+---
+Guildwars 2? Borderlands? My 2 favorite games in 1 video? HELL YES.
+---
+Fucking yes. 17/10. I love this.
+---
+I doubt it'd have much draw to new players in and of itself, but if accompanied by a big push to streamline the experience along with a big content launch like an expansion, the changes could justify themselves through the benefits of higher player retention.
+---
+Ultimately it depends on how much ArenaNet can devote to "housekeeping" without disrupting the game's content pipeline. The former is what will help the game in the long run with retention and new player draw, the latter however is essential in keeping the active playerbase happy and engaged.
+---
+3 charges sounds broken but hilarious honestly.
+---
+did you forget to add an image link or am i completely missing the joke here?
+---
+The fact u r negative points is laughable. Swipe is the stupidest trade off ever and forces only one pvp build. But I mean this mmo is for the more casual even though it’s combat system is good so it’s logical
+---
+Soo, umm can we get it posted on official GW2 twitter?
+---
+They changed where you get poison now. Besides. That's not the biggest hit for dd in the first place
+---
+They always could do that. The problem is that the lifesteal effects in game (at least the ones necro gives) are (1) very small amounts--itll take a long time to heal even 1000 damage when you steal 40hp a hit, 25 hits against 5 enemies or 125 hits against 1-- and (2) in order for necro to gain access to lifesteal, you need to give up a major DPS tree, which at that point makes the whole issue moot since youre DPS will be so low groups wont want you for end game content.
+---
+It wouldn't be much of a buff at all, even if you stacked all 3 fonts on one target, it's still going to do maybe about the same as a new guardian symbol, and you can only stack all 3 again if you stop casting it for a while, so your overall DPS stays the same. The skill would just become more fluid.
+---
+I'd rather they put it back at its highest power coefficient, that would actually help things a little.
+---
+Lol. Because everyone should play as you want ofc. Keep your egocentrism for yourself.
+---
+It's not exactly supposed to be a loss in power. The point was to make steal different from core.
+---
+Again, I never said it was a good reason, but it was their reason. Anet wasn't sitting there going "You know what would be fun? Changing a core ability to thief, just to ruin an underperforming PvP build." They probably weren't even thinking about PvP when making the change. I doubt PvP is on their minds when changing most things in this game.
+---
+don't fear change, embrace it
+---
+on my part the main reason i don't play this game that much is because of the crappy gear designs. earning gears is a huge reason to stay and keep playing. im down with aion, blade and soul, and my main which is FFXIV where i have to spend my time earning good looking gears. it keeps me playing and i feel a sense of satisfaction..gw2 on the other hand...the gears 98% of the time looks stupid. i can't get motivated to get them. i only come on to play when new stories are out.
+---
+Yet people boo-hooed and sent "cheer up!" messages to the company even when it was clear what kind of business model they're promoting. Feel bad about people losing their jobs? Yes, it's bad, but that doesn't means we can let the company control out feelings for marketing.
+---
+Remember Aurene last episode for example?
+---
+Delta Squad?
+---
+I get the feeling the buff to Laser Disc damage under Enhanced Capacity Storage + the scaling of Laser's Edge based on heat means they're intended to force holosmith off of PBM. Might be major rotation changes incoming especially if they continue the trend, get ready to micromanage your heat and lose all your damage if you fuck up once.
+---
+On most skills, if you use them while stationary on a target behind you, you will turn around and use it on them. But if you're moving forward, your character cannot spin around, so the skill won't work on targets behind you. 
+---
+So it's not that the skill actually works on targets behind you, it's that the game will turn your character for you so that you're facing the target as intended. 
+---
+Some skills do allow you to truly cast on targets behind you, even when moving when the game cannot turn your character around. Net Shot apparently wasn't supposed to be one of them, it was apparently supposed to function like most skills, described above.
+---
+:O.  I want a portrait of this quality for my main and his griffon....but so far all I can do is stick figures.  
+---
+Amazing art :D
+---
+I'm a loner too, ironically that made me realize I was pretty much being played by the game and  not the other way around.
+---
+Many of the things you can achieve as a player in GW2 don't fall in an in-between; you either schedule your own time to play at the same time as otherwise unsoloable metas for endgame collections, or make time gated (and usually expensive) stuff for 40 seconds, OR go after mindless fetch quests. You either rely too much on others, or too little.
+---
+And then it struck me: why am I planning my gaming afternoon after running behind an enemy with 100 other people while just spamming "1" while there are countless other single player MMOs that have me actually spending time by, well, playing the darn thing?
+---
+Yeh did it with a pug, we defeated the boss but I didnt got rezzed and I died, Will keep on trying, thx for the advice ^^
+---
+Lol, I kinda want one now!
+---
+I feel you ought to have presented this as a summary of the hours-long videos you linked as the points listed did not offer any insight not already made by Teapot in the videos.
+---
+Condi ren is my main pepehands
+---
+can anyone teach me how to add flair? I can't add any..
+---
+It is a nerf due to why people use it.. but because of that it's a welcome nerf as the duration was a bit too long fighting against.
+---
+Oh Mai Gerd
+---
+All classes are dead now, Skills useless.. dead game confirmed.
+---
+Proof: haven't played anything yet.. But this is the out cry from the community each time there's a balance and therefore must be again dead classes, dead game going by the repeating history of logic.
+---
+This so much. It feels so cheap when you duel a thief and you're both almost dead and then he scores the down on you with thirty years of evades and projectiles, then heals and stomps you from stealth.
+---
+How do I take out my chair?
+---
+Welcome back agent, it has been a while! Did you remember to bring the apple cider?
+---
+Due to our new rules the questions must be left in the [&gt;weekly QA post&lt;](https://www.reddit.com/r/Guildwars2/search?q=title%3Aquestions+thread+author%3AAutoModerator+subreddit%3Aguildwars2&amp;include_over_18=on&amp;sort=new&amp;t=week). If you think your thread should be allowed to stay or if this was a mistake do report this comment or send a modmail and Pact commander will come take a look.
+---
+-------
+---
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Guildwars2) if you have any questions or concerns.*
+---
+&gt;This trait now stacks damage multiplicatively instead of additively.
+---
+Someone explain this. Isn't multiplicatively worse?
+---
+Great job :D
+---
+Or allow zhatiffy to be added the wallet instead.  That would be nice too :D
+---
+That was awesome!! :D
+---
+Love ya, Noxxi!  &lt;3 &lt;3
+---
+&gt; peepeehands
+---
+YO, LIL DONNIE!
+---
+&gt; Do i smell trap-based elite spec?
+---
+Yup. It's the Dragonhunter.
+---
+This is the big one for me. Bosses that require interesting mechanics and splitting up to handle different things would be awesome.
+---
+Strike for mostly constructive criticism?
+---
+Seems really dumb on their end.
+---
+That's how a lot of weapon skills were at launch. Because the idea was that all weapons would be possible for condi and power damage builds. You would pick the weapon you wanted and then your build would define if the condis or the power damage would shine through. Unfortunately they abandoned that so those are like the only real relics of that time. They've gone back a bit to that with the PoF specs but those still clearly have a best-possible variant that does crazy better power/condi and then an off-variant that does a weenie bit more condi/power.
+---
+Best guild ever! :)
+---
+*CSI MIAMI suddenly starts playing*
+---
+How hard is the legendary armor to get? Have wanted it but never got into raids :( which I'd like to do as well, but the rigid class meta turns me off from putting in that effort
+---
+Jorbreakers have less value, and you can't change it back to Zhaitaffies.
+---
+Now, work with me here, what if we \*changed\* the rotation? Using Embrace the Darkness and maybe, wait for it, NOT touching Unyielding Anguish! Let's try turning our head to the left. I know, the congealed cheeto dust makes it difficult, but try. Try for me. See that? Those are the OTHER 5 skills on your bar. 4 of them cost energy! If you use them inbetween pulses of the elite, you pump out 3 torment per tick AND you're draining your energy.
+---
+Well, you could have a pretty nice result with a less "pure" dark color, the purity of the fully saturated ones make them uncanny.
+---
+True, I forgot that it was mostly weapons. I still never feel like crafting is the way to go most of the time. Even just doing daily T1s sounds more fun to me than crafting the stuff unless it's something like chest armor that almost never drops even from T4s. And really, with Living World stuff, you can get a character into T2s pretty easily without ever touching ascended armors, IIRC.
+---
+♥
+---
+Dont know how I feel about the loss of heal on zealous blade I loved that I could heal my self with combat had a risk reward element I'm going to miss.
+---
+It is am instant use skill.... their 'casting time' must mean channeling time
+---
+Balance patches have tons of potential though. Most professions have tons of skills that arent used much that could see tons of use with a little tweak to its stats.
+---
+Why do people keep spamming this image?
+---
+Downvoters don't know the meme and think I'm calling balance patches shit.
+---
+*shrug*
+---
+You don't need to be so incredibly rude when you clearly have zero to no understanding of the rotation or why it is what it is. You can either be ignorant, or you can be rude, but it's laughable when you're both.
+---
+That watermark tho...
+---
+See my edit above where I've done the math. It's a small nerf, nothing too painful after all.
+---
+Couldn’t agree more. This is quite an obtuse change made, then again I really do not believe the people that suggest and make these changes actually play these toon’s to justify the majority of these toon alterations. I don’t even know where they come up with this. How terrible to need to get over to a raider to heal them, and then be stopped because you cannot evade while wisping. Sad panda. Apparently this was too op of a skill q.q
+---
+although I do think people complain too much, using revenant in a statement and new builds usually shouldnt be put together, given that their flexibility with heal/utility/elite is fixed with the legend in question, unlike other classes.
+---
+One can hope that longbow becomes viable for single target range class
+---
+and the consumer holds the power with their mighty dollar to not take this, yet anet mesmerized their consumers with pretty skins more numerous than the # of devs attending to this game lol.
+---
+I just rejoined guildwars 2 after a 3 year break and was trying to find a good build for ranger. All i could really find is people saying ranger was nuke nerfed from orbit and now is the worst healer or something. Any help would be appreciated. Alot of the sites i found were builds from last year october .
+---
+Spin to not lose
+---
+Up and over 2 hours
+---
+But why nerf ancestral grace..?
+---
+Being a fan projext noxxi wont face consequences for ripping off borderlands trailer, anet would.
+---
+ITT: People missing the point of the meme
+---
+agreed lol
+---
+Our guild runs some every weekend , you can pm me and i can invite you.
+---
+RIP muscle memory and tapping F5, guess i'll have to get a mouse profile just for chrono to map what I used as F5 on my mouse to F4 now :p
+---
+Well personally I'm down to buy an Elite spec pack that just contains additional specializations.
+---
+You'll have to forgive my rudeness because I'm seeing this absolutely everywhere. Look at the balance patch thread. I kid you not, I swear to Jesus' holy balls that someone is crying their fucking eyes out over Every. Blessed. Line. of the goddamn patch. And screaming like a banshee that ANet hates X game mode or never plays X game mode or is desperate etc. because of it. And that every build is dead because of these changes that Stupid ANet have made.
+---
+You did the math (which, as a given, isn't taking whatever tiny bit of flat damage they give Mllyx so maybe 1 more dps!). Good on you. I'm too lazy to do the math. The best math I can do is that 3 stacks of torment is higher than 1, but that seems to be a far sight more than most of the commenters in this sub. Hell, we haven't even had a discussion about the changes to Thief. How Preparations sound, how the Shadow Arts changes sound, whether the infiltrator's arrow healer thief dream will finally come with this patch. No, we can't have that discussion about cool new builds or new utility setups because FUCK MAN, THEY NERFED DAGGER STORM IN PVP! THIEF IN FUCKING DEAD! Nevermind that Infiltrator's Signet is now 1200 range and could be an interesting thing to take into PvP as a way for Daredevils to get a long-range engage as a workaround for the swipe change-- FUCK THAT, THIEF IS DEAD! THAT'S NOT THE OPTIMAL PLAY!
+---
+in all seriousness as you ordered, there is only one way and I’m pretty sure you already know this - practice. First games will be frustrating, go play some unranked I guess, and just like that, one by one, you will learn which skills does what. 
+---
+By the way, it’s kind of a myth that weavers actually know what they are doing when switching attunements in pvp. Usually you don’t have that many options as you might think. Most times you will find yourself with something like 2 attunements already on cooldown, then there’s 1 that you are in at the moment, and there is 1 not on cooldown.. So yeah, not so many options as some people think. The only time you don’t spam attunements in pvp is when preparing for/ doing a specific dmg combo - for those I recommend you check Cellofrag’s youtube channel, you won’t find a more extensive guide anywhere.
+---
+Btw in its current state both mender and condi weaver are easy-to-survive specs in pvp. There are just too many evades, but the damage is either so unsubstantial or easy to avoid (like sword fire 2 animation) that tbh when I see a weaver in pvp these days I don’t have a slightest idea what I’m playing against, a bunker? a roamer? an evade golem? Weaver has a bit of everything, shines in evades and condi cleanse (mender) only
+---
+Scrapper was over-performing in PvP so it gets nerfed in every game mode. Feels bad.
+---
+Won't someone think of the fingers!?
+---
+&gt; Like, seriously how do you see triple the torment as a nerf?
+---
+Let's compare the new and the old one. 
+---
+Currently you use 2 times Unyielding Anguish + Embrace the Darkness, which means 2x2 stacks torments per second from Unyielding plus 1x1 stack per second from Embrace. -&gt; 3 stacks per second for 4 seconds. 
+---
+With the new skills you need to cast Embrace first to stack up your torment. Embrace + 2 Unyielding end up at 5 stacks per second for... and now the different order and the new energy costs are important. 
+---
+Using Embrace before both Unyieldings means you end up with less energy. With the old order you get 10 energy before you use Embrace. Means you lose 10 energy with the new order. Plus the new Unyielding skill costs 35 energy instead of 30, so you lose another 10 energy here. 
+---
+With the old rotation, you have ~70 energy before you use Unyielding, Unyielding, Embrace. After staring Embrace you have 4 seconds until your weapon skills and Embrace drain your energy to 0 *and* your 2nd legend is out of cooldown. So the 4 seconds of the old Unyielding Anguish fits perfect. 
+---
+But with the new order, you can't start with 70 energy, because all skills together need more. You have your 1 energy per second degeneration from Embrace, plus 35 energy from your first Unyiedling, plus 35 from the second Unyielding, plus weapon skills. Unyielding gets an CD of 5 seconds, which means it's 5 energy from the drain. 2x Unyielding + Drain is 75 energy, plus weapon skills. 
+---
+With the old rotation you have ~20 energy left to use your weapon skills for 4 seconds. So you need a total of 95 energy, to be able to stack your Embrace torments to 5 stacks per second. That also means you won't be able to actually stack up torment, because you still have your energy drain and no energy left. 
+---
+Tldr; you won't be able to stack up your torments per seconds to 5 in a reasonable dmg rotation. It will be Embrace plus only one Unyielding, which means only 3 stacks per second, less than before. 
+---
+The healing skill could be an alternative, since it costs only 5 energy. It would help, but you only would be able to use it every 2nd Mallyx round, because of the cooldown. So all in all the Dmg probably would be less. 
+---
+But not only that, there are two more points. 
+---
+1) The current Unyielding Anguish pulses not only torment, but also dmg. This pulses can trigger the trait Rampant Vex -&gt; critical hits have 33% chance to cause a stack of torment (no cd). That's another 2-3 stacks of torment. 
+---
+The new Embrace skill will get a dmg pulse, but it's still only the half than before. 
+---
+2) We lose the 10% buff on all stats, which is a big loss. 10% means ~150 less condi dmg, 4-5% less condi duration, 250 less power dmg, 8% less crit rate. That's pretty much. 
+---
+Of course a new rotation is needed and things have to be tested, but it *does* look like a huge nerf an *not* like a buff at all. 
+---
+I agree that many people overestimate with the nerf thing, but at this point they are right.
+---
+&gt; The solution for fixing endgame content is not to add more elite specs, it is to move rescources from the living world story to raids and fractals
+---
+never gona happen.
+---
+Fractals and raids are what a minority enjoy. Those casual players logging in and doing open world/living story are the ones spending all the cash on fluff in the gemstore.
+---
+They changed it to two stacks every 3 seconds in PvE and every 5 seconds in PvP/WvW.  Dagger Training was 33% chance on hit with Dagger skills.  D/D using Deathblossom hits 3 times per Deathblossom (roughly one extra poison from Dagger Training per DB) and isn't affected by quickness.  Additionally the auto attack chain hits 4 times in slightly over 1 second.  So lets assume that within a 3 second interval in (in PvE) you hit 12 times.  With a 33% chance to proc poison, assuming no outliers, you're getting 4 stacks of extra poison from Dagger Training.  Compare that with the 2 stacks you get from just hitting every 3 seconds.  MASSIVE NERF.  
+---
+BUT WAIT, THERE'S MORE!  Dagger Training interacts with Potent Poison Grandmaster trait to GIVE ONE EXTRA POISON PER DEADLY ARTS SKILL PROC.  This means Dagger Training currently applies 2 stacks every time it procs instead of 1.  So this means that the new trait + potent poison gives 3 poison application every 3 seconds while Dagger Training + Potent Poison gives 8.  
+---
+Let's read that one more time:  DT + Potent = 8, New Trait + Potent = 3.  
+---
+THAT IS A MASSIVE FUCKING NERF AND IT'S LITERALLY BULLSHIT.  
+---
+And ofc it's not the biggest hit; they've been indirectly and directly nerfing D/D for ages, but this one literally guts another chunk of its damage and they compensated with a trait that's literally less than half as effective as Dagger Training and it's terrible for D/D
+---
+Y, I see.
+---
+Yes, reaper very much heal, much tank. Nerf more. /s
+---
+a bit, core guard can be decent, fb is far and away the best.
+---
+Only the Commander, master of all 9 professions could stop them.
+---
+You have to defeat all raid bosses from Wing 1-4, defeat one of them 5 times and need to do "special things" at Wing 4 bosses. Those things aren't really hard, don't die, don't miss a mechanic, do a mechanic and to another mechanic. 
+---
+You have to craft an item, which costs a bit gold, talk to stuff and that's it. For the first armor set you need 25 Legendary Insights per piece -&gt; kill 25 bosses. (You should have minimum 19 after finishing both collections).
+---
+You're right. It's reasonable to get 81 AR with just trinkets. +9's. 3 per ring, 1 per accessory, and 1 in the backpiece (not 2 because attuning them costs a lot more than a lot of people might have). That gets you to Fractal 61 right smack in the middle of T3. Then add on more for your weapons and that gets you up to Fractal 71.
+---
+Raids and open world content are an apples and oranges comparison. A lot of the issues with raids are perception issues and have to do with how raids were added to the game. People generally exclude themselves from raiding because they perceive it as being too difficult or because they don't know ten people who are also interested or they can't commit to a dedicated schedule every week. There are a lot of factors in the raid package that lead to non-engagement that don't apply to open world content.
+---
+One of the reasons why I'd like to see more open world content with gradients of difficulty is that it would help prime players for more challenging content. After raids came in we had the situation where devs noted that there wasn't a clear pathway from other content to raids in terms of escalating difficulty. This led to them attempting to turn fractals into the bridge between other content and raids. Which, I don't believe had a particularly successful outcome for either raids or fractals.
+---
+Raids, or high end/challenging raiding specifically, have never really been high engagement content in any MMO that I know of. This isn't really an argument that there can't be any challenging content in the game. There's only so long the game can survive with the kind of brain dead, banana mush content we currently have in open world. Especially if this kind of content is the primary developmental focus for the game.
+---
+The current meta power DH build will have slightly less burst and more sustained damage.
+---
+----
+---
+Downsides:
+---
+-Scepter symbol is losing 25% damage on the extra strikes only.
+---
+-Pure of Sight is *maybe* losing 2% damage, it might be a neutral change depending on how the proximity plays out. 
+---
+-Zealous Blade is changing from 10% damage on GS to +120 power in general and +240 power with GS out. It's slightly more damage while in S/F and less damage while in GS. Overall a net nerf but not too much.
+---
+-The 250 Ferocity on Retribution is moving to 150 on Radiant Power
+---
+-Symbolic Avenger will give the same damage boost but only after five hits
+---
+Upsides:
+---
++Leap of Faith now heals
+---
++Symbolic Power is going from 10% to 30% bonus damage on symbols
+---
++Symbolic Exposure is getting a free flat 5% damage modifier
+---
++Symbolic Avenger now lasts 15s per stack
+---
+The Symbolic Exposure change essentially makes up for all the damage that was lost in the "downsides" category. Symbolic Avenger lasting 15 seconds is a MASSIVE upside because a good portion of greatsword was spent without the enemy being in a symbol. It wasn't as much of a problem with scepter, but GS will benefit tremendously. Also, there were no changes to Sword's symbol so Sword may become the new meta mainhand weapon over scepter, we'll have to see. 
+---
+Basically, DH lost some damage in very small pieces and will be slower to burst because of the tick requirements on Symbolic Avenger, but those losses will be made up for by having a stronger non-GS modifier set, and although GS loses stat-wise, it will benefit heavily from the persistence of Symbolic avenger.
+---
+I'm no meta expert but if I had to hazard a guess I can't imagine that DH's DPS isn't going to go up by at least 1-2k
+---
+IT'S BOUB DYLAN!
+---
+Does your guild not has a guild bank you can stash it in???
+---
+Yo little asura, I've got some cabbage to cheer ya up
+---
+I thought you played more than one class. cause for me each balance patch just provides an opportunity to switch mains :P
+---
+Next you should do a cabbage mes
+---
+ (ﾉ◕ヮ◕)ﾉ*.✧
+---
+3
+---
+They do until Tuesday.
+---
+Easily solved by changing toughness tanking to only take gear attributes into account, not trait/buff, just like all the conversion and %boost stats ignore all the trait/buff attribute points...
+---
+Pfft? Infiltrator's Arrow? If Infiltrator's Strike remains classified as a shadowstep I'll be using that mainly. Two shadowsteps for one less initiative is lovely. I can't wait to be a really weird secondary healer or primary might share healer as Deadeye. Bring it.
+---
+(Sorry for the aside which has nothing to do with the topic at hand. You are completely right about the kneejerk reactions which are happening everywhere.)
+---
+Same thought. I don't have the time for raids and it's hard to just do one boss of you have 0 LI. They should really add options to gain it in every game mode. It is a QoL item that belongs to a set. I wouldn't have a legendary armor if it would be still exclusive to raids. But thanks to pvp I have one and it helps me to keep up with fractals and wvw without the need to always grind and swap stats after a patch and have multiple armor sets. It's pure QoL.
+---
+And yes the price for the ring is ridiculous.
+---
+Oh yeah, they had a great exhibit on thonis-heracleion at the Minneapolis institute of art earlier this year.
+---
+Rewinder is Chrono only though, so it doesn't impact Mirage at all.
+---
+Mesmer is like the apple of the eye of Anet those shiny outfits,infusions, most legendary weapons and the  legendary trinkets all look good on mesmers
+---
+Chrono, Bannerslave, random might/fury spammer
+---
+All they had to do was prevent that damned trait from procing elites
+---
+Hear me, double shield warrior/guardian
+---
+Even if LS5 has "expansion worthy" content i don't know how they would fit new specializations there. I mean, they can't just release a new specialization for 1-2 classes and leave the other classes waiting for the next episode as it would be quite unfair. All the new specializations would have to be released at the same time and that's quite a lot.
+---
+While I also find it unlikely. The upcoming balance patch would suggest they may have a larger team working on that kinda stuff so it's possible.
+---
+If they do come, they're almost certainly going to cost something though, They are a huge selling point in the expansions.
+---
+If they wanted to make steal different then do it. Don't just nerf that shit and call it a day. Oh its unblockable? Who THE FUCK steals into a block?!
+---
+building hype by ourselves is a bad thing. It's better to just not think much about it and expect no more than what we got on LS4. Then when LS5 arrives we would enjoy it a lot more.
+---
+Don't know about damage. It could speed it up. But it does eat the period of safety thief gets
+---
+No. It definitely has a very brief spin up time.
+---
+IIRC they don't do mechanical splits. The only splits we see are tweaks in numbers.
+---
+This is a good breakdown, actually.  Now to clarify a few things.
+---
+&gt;So how does this not affect core warrior? You also have to switch to maces and give up on spamming axe skills. You also spend adrenaline on mace F1, and you spend 30 of it instead of berserker's 10, requiring you to take a longer time regaining it before you can use axe F1 again.
+---
+Decapitate recharges upon hitting a target.  Therefore, it hurts the berserker more for being off dual axe as it means less bursts happening due to not being on the weaponset.  That's what I meant by that.  I also forgot to point out the utilities that were being assumed, which, is my bad.
+---
+Core warrior is using axe/axe with mace/mace and for skills, To the Limit, Kick, BoD, BoS, Warbanner
+---
+Berserker Warrior is using axe/axe with mace/mace and for skills, Blood Reckoning, Outrage, BoD, BoS, Headbutt
+---
+Yes, both can use kick, but taking kick on a Berserker warrior means less uptime of Berserk which also means less axe bursts due to being unable to burst outside of the rage, which means less damage.  If you're taking berserker warrior, it's for the extra damage and the CC of core isn't necessary or it's covered by something else.
+---
+Username checks out
+---
+thanks! people in game have told me before that  my rev looks like an aquatic god / Poseidon
+---
+That was worth it!!
+---
+Amazing work Sir !!  o7
+---
+Gotta post the questions in the linked forum thread
+---
+That's basically the scourge "healing" build in a way. It's not actually healing, its barriers and regen , and the shroud 4 and revive are "oh shit buttons".
+---
++1 for stealing toilet paper
+---
+Yeah, really weak writing there sadly. Nothing about him or the mission relating to him made need care.
+---
+You mean The Dreamer? Legendary short bow, gen1
+---
+They are hoping u will band wagon to one of those few servers still alive and then it wont matter since there will be no opposition.
+---
+i'm not going to debate about your "spending" habits since you don't want to debate about it, but consider doing one $100 transaction every week rather than 5-7 $20 transactions. Doing the first has less chances that your account is marked to temporarily block transactions. (There's many reasons, legal ones included, why anet has to do this and the only way for these blocks to go away is to contact support and make them aware that you are a "whale" and that you have no problems spending large amounts of money).
+---
+And well, thank you for supporting the game, people like you help to make things cheaper for others. (It's an honest affirmation here, no irony).
+---
+Its gonna be Guard symbols all over again with blast finishers. "Why the fuck am I always doing AoE Blinds????"
+---
+Yea I expect this will force engis out of PBM since you really wanna maintain heat and losing your toolbelts for the duration of overload.....
+---
+Killing those off color clones was so painful but nice idea using the retal and tanking the majority of the flurry, then clearing the confusion with escapist absolution
+---
+And yeah rip traps, but idk dude, Thousand Needles sounds like it could be pretty good..
+---
+Thanks for the summary. Now I am sad at work :(
+---
+Necro isn't allowed to be good, hence every dumpstering for Scourge and Reaper.
+---
+I thought the roller beatles where pretty cool too.
+---
+I really enjoyed this, it kept getting better and better with each second.
+---
+True but they were the only mount showed off. Maybe if it had some Griffon racing.
+---
+We are obviously talking about generation one legendaries since those are the only ones you can purchase on TP.
+---
+With that said, i personally think that purchasing it with gold is better if you are good at farming gold. Yes, if you have the gold it's better to purchase it directly even though crafting it yourself is technically cheaper. I say "technically" because if you craft it yourself you are going to have to spend quite some time doing something different than farming gold.
+---
+Seems like a preemptive nerf to druid. With the soulbeast nerfs, the cancerous bunker/immob spam druid might see a lot of play.
+---
+Still agree it's not a good change though.
+---
+Thanks, I really could have phrased that better.
+---
+Why did i make a male norn...
+---
+Sure, they already did on the elite btw, many don't know. There are still 4 sources of unwanted toughness: 
+---
+Scepter earth 2, earth minor, weaver minor and earth signet.
+---
+Air/Arcane/Weaver and back to Bountiful Power. But without the boon chaos chrono to back it up.
+---
+But its not 'we changed the name'. It's 'retired for now'. So there is potential plan for it, thats the difference. question is what is that plan.
+---
+Character: Rytlock. Or Aurene. Depends on which astological calendar you adhere to.
+---
+I feel like some parts of any one of these apply to me, though, but not one single one is 100% accurate.
+---
+Maybe I’m just overthinking it.
+---
++1 for the effort, though!
+---
+Neither does Weaver.
+---
+More icons can be found her, made some other icons as well over the past few days. Such as one of the Fanged Iboga, M.O.X. and Smokescale.   
+---
+ [https://elonian-gallery.com/](https://elonian-gallery.com/)
+---
+GW2 marketing team take notice!
+---
+This fan trailer is on fire.
+---
+Look, that new Thief Portal(tm) thingie needs to have a run, okay? A 5 man full-on-stealth with no audio cues. You can't have engies revealing and preventing all the fun!
+---
+Balance!
+---
+Which brings me to an argument I have on the other thread. There are several cases there where other classes have their changes effect only one or two game types. Happens every patch. But almost never for necromancers. So often there is a change aimed solely at WvW that sets another underperforming PvE build further behind. Why?
+---
+That Mcleod is legendary
+---
+I'm curious how she looks in game, can you post reference screenshot?
+---
+Some veggies?
+---
+I would make the conjured weapons mantra like... but without preparing beforehand. reduce cooldown of them by 50% for the ammo/charges
+---
+2 "charges"
+---
+first usage: get a conjured weapon in your hand
+---
+final charge: place a conjured weapon on the ground
+---
+Buffing core to try and attempt the same roles an elite spec would fill would be disastrous for balance, since you simultaneously buff elites. Most core specs are just elites but easier or less engaging to play anyway.
+---
+Didnt have to regear since HoT
+---
+Indeed!
+---
+It was universally hated in GvG due how it made rounds rng (revealing the enemy group first basically meant you should win the round due to how much damage there is nowadays)
+---
+use a makeover kit to show ultimate dominance
+---
+Rampage problem in Pvp was never the fact it's too strong when you're in it. It's the fact they had it way too often. The change is good.
+---
+I would say, that if there is a group running, going to kill some centaurs is always fun. So I would go there. For a bit. Then it is probably easier to play around elsewhere. WvW has a lot of leather nodes, guild hall has leather node, PvP has good money. You can do every day something different for maximalization of your fun and the resources will come to you anyways. 
+---
+PS: Istan is essentialy dead, you get most of it to run it once per day, then it drops the loot drastically. So that is in line with doing the mix of stuff.
+---
+PS2: If you have glyph of leatherworker, you can just go on gathering spree. I have one that we got free when they introduced glyphs and every time I harvest wood I get some leather as well. Works brilliantly and stuff stockpiles over time.
+---
+PS3: if you play either pvp or wvw, you cna just buy ascended equip there way cheaper than crafting it (you just need grandmaster marks that you can get from pips, and some currency of that gamemode). Same for raids.
+---
+That was what happened with GW1 really, the original campaign was difficult enough that you needed decent coordination with your party members. I will never forget the experience of clearing the final mission with complete strangers.
+---
+I really dislike scepter 2 tbh. I love the specc for some bosses. And with the new changes a pure bleed build might get viable (far from meta I know) that might use signet of earth, as the bleed dmg is almost doubled by the bleed on immob trait.
+---
+If you're low on tomes, you can also stockpile Adventure/daily chests/mount treats and open or eat on the low level you're trying to open for the xp.
+---
+I'm fine with also putting damage into the Tempest spec. Buff Overload Air power scaling, buff warhorn power scaling, or very carefully buff underperforming weapon skills of core weapons. But constantly shuffling core traits to try and balance all specs at the same time messes everything up. It's what keeps happening to Mesmer for example.
+---
+No. You are incorrect. Rampage is still far too oppressive. Ridiculous damage combined with pulsing stability as well as the ability to remove immobilise with movement skills. 
+---
+The cooldown increase means you will see it less sure, it won’t stop most classes having to burn all defences trying to not die to it. It still lets spellbreaker win pretty much all 1v1s except CI Mirage.
+---
+This I can agree with. My only point was against over-specialization. Diversity is part of what makes this game fun.
+---
+On a related topic, while I generally like the idea about Air being the primary Power line, the current implementation it royally screws Staff. And Staff is really our only choice for large-scale WvW play. Here it's not even a question about diversity, it's about viability.
+---
+Sure, I'm not against shifting power from core traitlines into both elite spec ones. As long as it's both - I just don't like the idea of having a strict "dps elite" and strict "support elite".
+---
+*world goes Mirror Mode*
+---
+"Alright, which motherfucker got a net gun?"
+---
+Yeah I appreciate them touching the useless junk, but most of their efforts always seem targeted to in validating certain play styles. Engi wasnt even that common in most raids I attend and they had to remove kits for a part of their rotations now.
+---
+Some devs occasionally stream wvw.
+---
+I feel a sense of dread every time I get cc'd after weapon swap.
+---
+I actually do like the idea of elites having set roles, as long as the roles are clearly defined within the elite spec traits. The recently reworked specs do it perfectly. Berserker has a power, bruiser and a condi traitline. Soulbeast too. Scrapper also has supportive or self tank options.
+---
+Tempest kinda has a start of a power build in the adept traits, but overall the traits are a complete mess. The spec was clearly designed as a support, then changed due to complaints during HoT beta to try and make it power, then just never being touched again. People are trying to play it in more ways than possibly could be supported by a single specialization at a time, and whenever something changes at all people are calling it ruined their build. Tempest really should be reworked into something like Power traits in the bottom line, support in the middle and bruiser or condi in the top line. 
+---
+Weaver is a similar mess, having clear power traits, a single condi trait in master traits, then just having the rest of the slots filled up with random and often mutually exclusive survivability traits.
+---
+I agree with your view on balance. I hard disagree HoT tried to fix it. Every hot spec on release or soon after was busted through absurd numbers and mechanics in one gamemode or another. Because powercreep is better than proper design.
+---
+Now I'll admit some specs still didnt exist in some gamemodes but again the result of anets incompetence towards design and balance, definitely not an attempt to fix it.
+---
+I do agree they attempt to fix balance in their balance patches, and that they're needed. I even think they slowly go towards a more balanced game state. But expansion releases neglect balance entirely, and fixing these issues often takes 3+ years to address.
+---
+This way at the very least people can get an idea on how the changes will affect their builds and playstyle with some time in advance, instead of everything being thrown at them at once and having to cancel/postpone everything because they have to remake and relearn their build.
+---
+Guard is Anets fav boi. ALSO: POOR NECRO PLAYERS
+---
+lol @ comments
+---
+Wow... it is rare that I see a drawing on this sub and I find it actually good. This one is great ! It reminds me a little of Gambit mixed with Dr. Strange, for some reason. Did you make this ? Congrats if you did. It looks amazing.
+---
+It goes back to the elite spec design I think, scourge and firebrand are badly designed in terms of pvp in that they are stupidly powerful in pvp modes at a design level/
+---
+The Daredevil Steal change was the dumbest decision they ever made. 
+---
+'hOw aBoUt wE mAkE bAlAnCe bAsEd oN lOrE?' - Anet balance director
+---
+All I know is no one in ANet plays thief, as the buffs and nerfs are conpletely all over the place and random as hell
+---
+Pugs are still running double Chrono 
+---
+They wanna fix that
+---
+judging by the map chat other could join the queue... so OP is probably right to think that pvp is dead /s
+---
+This sounds very interesting. Do you happen to have a link to a build? I never played core necro but would love to give it a shot now.
+---
+Crafting gives XP and is fairly quick. As long as you have the gold/materials, you can get your character leveled up a couple dozens of levels in two to four hours.
+---
+If you do this, you must go all the way to max crafting level for best results. Stopping at 200 or 300 won't give you good results. Plus, if you level up this way, you'll then have the crafting for all the stuff that you need. Checkout gw2skills.net.
+---
+No i did not even care about him to know more about his story.
+---
+I guarantee you even if you got a room of all the top players of each gamemode together they wouldn't agree on any more than the most basic of basic changes. There's literally no pleasing anybody, and really this patch was probably one of the better one's they've done in awhile (though ofc you can't 100% judge anything until it's released).
+---
+Not really. Over the years, the general theme of balance patches for thieves was that they usually got one huge change in one patch to buff them, and then the rest of the balance patches usually had very small or insignificant changes to them that in the grand scheme of things were nothing compared to changes to other classes.
+---
+Kinda changed with PoF I suppose, as we had the multiple Deadeye reworks and the recent Daredevil changes to make it more distinct from Thief. Still, that doesn't fit whatever weird idea people got that thief always get nerfed, because that isn't the case.
+---
+Oh I somehow skipped over that part of the post you were responding to, my apologies.
+---
+And the med packs... Maybe it's better to play healing engie with just core now.
+---
+Exactly this. Instead of actually looking for the problems that people have with it, they proceed to do random things, ending up deleting play styles.
+---
+Use some exp [boosts](https://wiki.guildwars2.com/wiki/User:Dak393/New_player_Guide#Leveling) and don't do hearts are the main things for me. Leveling is pretty fast and fun that way.
+---
+Really nice!
+---
+There have been a few Firebrand nerfs in competitive modes increasing the time cooldown.
+---
+Necromancer. To be specific, the Reaper specialization. Use Spectral Grasp (or greatsword 5) to pull in enemies, go into Reaper's shroud, use shroud 4 (a.k.a. the big helicopter dick attack), and watch the enemies collapse at your feet.
+---
+While I dont consider anet balance and design decisions as competent, at the same time I dobt think this community brings valuable feedback of any sort
+---
+Maybe you just don't know what they are talking about? 
+---
+But hey that's ok, you are just a random tard that prolly should change some random things aswell.
+---
+The circlejerk got their karma, that's all that matters.
+---
+I live for the downvotes
+---
+Ironic calling someone stupid when you have no idea what the fuck you are talking about lmao, cant wait to see your buffed condi rev DPS video after the patch drops, spoiler alert....you never do it because it has less DPS after this patch
+---
+Yup. Back then I didn't care the slightest for meta and had no idea what other players were using ... But still, I chose this trait naturally as soon as my mesmer unlocked the grandmaster slot.
+---
+Well, you are right I suppose. I don't want story difficulty to rise as it  is story missión for a reason. My problem is that they only push the story.
+---
+What armour/skin is that?
+---
+Oof. Not a fan of those Mallyx changes. Wonder if I should consider my power options but I'd really hate to get rid of my party stick (Moot).
+---
+She's stunning! Your amazingly talented!
+---
+Just because there's PVP in the game doesn't mean people want to play it.
+---
+You obviously want PVP so I suggest Black Desert. It's got PVP and a toxic community.
+---
+What more could you ask for?
+---
+We literally don't have the numbers on the new shatters yet so I highly advise to hold your judgments on it till patch day. But I have a feeling this is falling on deaf ears.
+---
+From a PvE perspective, aside from the small change(that might be a buff or nerf based on the new condi trait and condi Preperation) to condi thief, which was basically the least used build anyway, absolutely nothing has changed.
+---
+A good combat system
+---
+I feel like its more of the adventure one but sometimes i play it like the blue one
+---
+We didn't have the Numbers on the Daredevil 'rework' aswell, and it turned out just as bad as expected. But I have the feeling this is falling on deaf ears.
+---
+I love all these details on armors, specially on the shoulders
+---
+There is still the precast Maul and other damage modifier stacking from Marksmanship. Boonbeast is largely unaffected too.
+---
+noice thx!
+---
+You will need burning removal.
+---
+yikes that holo overheat nerf, gonna hurt a bit
+---
+Couldn't tell ya what build I used, I'm afraid. That was years ago, back when the trait system was almost completely different with like 9 choices per tier and specific stat bonuses for investing in each category.
+---
+And even back then, necro was a very, very poor class in PvE. That sort of setup would be awful now compared to the power creep we've gotten over time, including Scourge and Reaper.
+---
+&gt; The bellydancing one
+---
+Excuse me WHAT
+---
+The W7 qadim Trailer
+---
+ah yes, the deep daredevil lore
+---
+I don't see anyone defending Rampage or chaotic interruption, not even Mirage mains are that delusional.
+---
+They should. Too much evade spam in pvp.
+---
+The worst thing is that the skill is slightly bugged and sometimes dashes for the whole max duration IN PLACE. If it isn't even an evade anymore I sense a lot of dead druids who tried to dash to safety and were betrayed by their skill...
+---
+So that's why they reworked traps, so people can't solo escort anymore !
+---
+They split numbers not mechanics
+---
+Do you own Path of Fire? If you do it is very easy to get the WvW mount. The "hardest" part is probably doing the reward track. WvW dailies and exp boosters (they also boost reward track gains) can help speed things up.
+---
+If you don't have PoF then unfortunately there isn't much you can do. Adjust your build to have some mobility skills and high uptime on swiftness and hope that the commander you join is mindful of those without mounts.
+---
+What class are you playing in WvW now?
+---
+Since we arent bound to daggers anymore, P/D Daredevil? Shadowstriking only when Steal is on CD and Initiative dumping with Body Shots? Or does the 3rd Autoattack Dagger still trump that?
+---
+Just go to SC's discord and read up about it :)
+---
+Woow, it looks amazing! The colors are very neat too. I love how it goes from blue to purple with touches of white, nice transition :3
+---
+I'm so glad we no longer need Chrono for Fractals. This constant change made the class tedious
+---
+Why?
+---
+I mean, I know this community gets butthured over litteraly everything, but this is just out of the charts
+---
+Aren't they almost same like old ones (except distortion)?
+---
+Read the other two holo trait changes.
+---
+Amazing art, amazing outfit.
+---
+What a useful comment.
+---
+That was the best part
+---
+Nope!
+---
+Unless they made shatters into aoe ranged skills instead of clone explosions, I don't really see the point of "changing" shatters the way they did it.
+---
+Chrono shatters have a lot of potential to be tied with phantasms instead of clones.
+---
+Man, now I wish we could have an acoustic sylvari guitar as an instrument
+---
+sadly no..look at daredevil changes
+---
+people(pretty much everyone) begged them to stop destroying the spec with the dodge changes and recently the steal changes..did they listen? the outrage was huge both here on reddit and forums
+---
+people(again, everyone) understood the need to tone stuff down for pvp/wvw but they did it for all game modes cuz why not right?
+---
+nothing happened, they just went through with it anyway ruining the spec's identity in the process
+---
+Rip solo escort, it was so much faster than pugging!
+---
+Seem like you did a good job by the way, Gandara was opened and as i thought we were not even very high we are only high. So good job there :P
+---
+I wish for a specialization that can take the underwater spear on land :)
+---
+On subject of core engi weapons, both rifle and pistol deals more damage in melee, even the "firearms" line have two traits that buffs your dmg in melee range. Engi needs a proper ranged build that does not suffer from the travelspead of grenades and mortars.
+---
+Elementalist currently doesn't use a single weapon they can conjure. The flavor of conjure weapons is to increase versatility by creating new weapons. Also elementalists use the lightest weapons. Greatsword seems too heavy.
+---
+Longbow on necro seems random flavor-wise. I can maybe get on board with shortbow since it contrasts with guardian's longbow. But, why not pistol? Necros just don't show aptitude with projectiles unless they're magically enhanced hands, and longbow seems like the most difficult ballistic weapon to master. Longbow range might also be too similar to staff, and they can't give necro super high longbow dps on top of shroud's sustain (hence staff's low dps).
+---
+42
+---
+It's not any of those. I play from aus and I can assure you that if he did queue up 1 or 2 hrs back from current time he would be able to find people in unranked. I haven't played ranked at all this season because I get really competitive about ranking and I had exams, work and other things irl, but I do play unranked and still find people at this time. 
+---
+Now about the attitude that OP has got is just seeking drama, that's totally a different case.
+---
+Buh muh qadim2 kiter
+---
+Because the vast majority of their changes only think about PvP. And because even their own reasoning *only makes sense if theyre talking about only PvP*. In PvE, the downside A, already existed, and B, the new one they gave it doesnt make sense. For that matter, the unblockable skill fact they gave it doesnt even do anything in PvE, because no enemy you encounter regularly blocks. 
+---
+And uh, yes? Im not sure why this is surprising to you, they have nerfed underperforming builds randomly a *lot*. Take for example Vault, the Staff 5 skill. They nerfed it in PvP *only* by increasing the initiative cost by 1. Was it good in PvP? No, it wasnt even really playable. But it got nerfed. How about Unload? Likewise, PvP only nerf, that increased the initiative cost by 1, and reduced the initiative restore by 1. Was the build good? No, it was a cheesy, but bad build used only by a few people in WvW. Still got nerfed.
+---
+As opposed to now, when it'll be even more rng-based as to which group is in a slightly better position for when stealth wears off
+---
+I really hope you're trolling
+---
+Or a new legendary looking like one, smashing mobs with a sick guitar sounds like a lot of fun tbh
+---
+Thanks! Looks like a nice spot for screenshots!
+---
+you forgot that besides absolutely broken dps, it also has absolutely broken survivability..the "nerf" to evade frames from a while ago is barely noticeable
+---
+i play mirage at condi bosses mostly because i can afk through annoying mechanics like pretty much everything the largos do
+---
+but nooo! the real problem was reaper healing in shroud while pulling the worst possible dps numbers
+---
+also i heard they nerf condi rev which was pretty strong on it's own just overshadowed by godmode mirage..so that's nice!
+---
+It's pretty simple. ArenaNet doesn't have any knowledgeable wvwers on their payroll, so any changes are made without consideration to wvw.
+---
+Scourge doesn't have shroud
+---
+Like 80% of all roaming soulbeasts had that build, and it was able to down almost anyone before they had time to react. It wasn't a niche build for roaming.
+---
+Pretttyyyyy
+---
+joan of arc is already a guardian, she's on fire already
+---
+&gt; Kralkatorrik killed Glint and she didn't have an aspect within him, either.
+---
+They way I see it is that the aspects within Kralk are only the part's of Kralk's torment.
+---
+All of his "good" parts are supressed my the torment entity and therefore we do not interract with them.
+---
+I could be wrong though... I didn't follow the earlier parts of the story very closely
+---
+That's a great point actually. But which weapon could it be? I don't see engis as particular bow-y and they kind of already got their engi appropriate ranged weapons for medium/close distance. They'd have to play around with weapons regular use no matter which one they pick.
+---
+Burn build guardian is pretty fun in PVE too
+---
+Scrapper changes definitely left me scratching my head and wondering if anyone on the balance team has actually ever played the class.
+---
+There's the whole f5 business, but also rezzing up to 3 people is pointless unless they're all on top of each other. I'm not a big pvp'er so I can't speak for situations in that regard, but for pve they may as well have just doubled the cd on it and made it more annoying to use.
+---
+And its cool that they want the class to be used as tanks, but if that's what they want, they also need to make it more appealing than chrono- or at least comparable in usefulness.
+---
+I'd suggest a Rocketeer spec with jetpack like dodge mechanics and a longbow that fires rockets.
+---
+I play a Firebrand (guardian) and its a lot of fun!
+---
+Good thing they die to anything basically and heavy AoE classes shit all over Mesmer.
+---
+I can just imagine the sheer "fuck you" when enemies see you stringing a missile xD
+---
+Event ends today anyway.
+---
+Fuck I didn't think of this until now, peeposad
+---
+Exactly the case
+---
+People still PvP. I can't remember ever waiting more than five minutes in a queue and even 5 minutes would be a particularly long queue. The guy got caught in some sort of queue between queues. Has nothing to do with PvP traffic.
+---
+I generally skill 5 exit tornado into burst.
+---
+If you have time to play endgame content you have time to keep up with a balance patch every three months. If you don't care about endgame content, then changes to your build shouldn't be that big of a problem and you can simply play it even if it's a bit weaker. Also, must be nice to have such a carefree life that balance patches in an MMO are a genuine source of 'uncertainty' that registers. 
+---
+This whole 'I hAvE a JoB yOu KnOw' mentality ruined WoW, it's ruining GW2. Everyone does, but most people know how much time they can dedicate to a game and don't demand that the game remain stagnant and dumbed down for their sake because they cba to learn a different playstyle once in a while.
+---
+That's a spear homie. They can in wow I guess lol
+---
+Not sure if /s, but 20 weapon skills for 2H weapon is something too YUGE compared to Weaver's 4 autoattack chains, 8 sword skills, and 30 dual skills for a total of 50 weapon skills that they needed to make.
+---
+I wasn't aware that you could use emotes while on chair! Which emote is that?
+---
+Guild what?
+---
+Okay
+---
+https://wiki.guildwars2.com/wiki/Orchestral_Greatsword_Skin
+---
+Ribbit
+---
+...wow that sounds extreme.
+---
+Why were you afraid to post this, this is amazing!
+---
+Just put some cloth on the spear and you have your typical banner slave
+---
+They probably wanted to increase mobility so druid can get closer to allies more often because CA is close ranged. However they probably thought CD reset + evade was too strong, so they nerfed it.
+---
+I guess that is the rationalisation?
+---
+What's overload? The overheat or the activation of photon forge that locks out the deactivation button?
+---
+Again I can throw in: how about underwaterweapons on land? Engineer would be cool with a harpoon on land or not? :D
+---
+[It is indeed a spear](https://wiki.guildwars2.com/wiki/Sunspear_(weapon\))
+---
+I also want one of my thief :O
+---
+paragooon
+---
+Not strange at all for those of us that paid attention to the dialogue.
+---
+More armour skins in general please. This game a fashion wars
+---
+Aw shucks
+---
+Technically you could, but it's not needed since reaper is already tanky enough while having high and self sustainable dps.
+---
+It's a buff for weaver. Only around 60% of your dmg is power while inside fire attunment, so it's not a 10% but a 6% reduction there. The other buffs outclass that 6% dmg loss.
+---
+Ele buffs holy i thought i did damage before
+---
+It'l be a slight net buff, only around 60% of your dmg is power while in fire, so it's a 6%, not a 10% nerf. The rest compensates for this.
+---
+Most of the time, you don't even have time to react as the AOE is just immensely huge.
+---
+You're fighting it close-range, then see it start to fly? Run away, too bad you're dead.
+---
+Easy, it's just a joke lol
+---
+Just Shake It Off.
+---
+Dude lives in fantasy land. Also probably thinks you can just power through end game PvE with just raw soaking to the face—which may be true if you think doing shadow behemoth or winterberry farm is end game PvE.
+---
+Yup! I wouldn't suggest doing it for raids, since reaper needs all the dps it can get to keep up with others. But anything else, the only dps loss will be in if you're using food or util that converts precision to power.
+---
+my opinion is that Anet uses guard as their baseline and buff/nerf other classes accordingly.
+---
+we do 60% of our dmg as powerdmg while inside fire atunement, so it's a 6% overall dmg nerf, compensated with a 3%buff, some ferocity, burn and condi dmg. Will be a slight net buff.
+---
+Do you know how do it?
+---
+100% burning proc OP
+---
+Better nerf lava font
+---
+Auspicious Anguish: This trait has been reworked. It now causes up to 2 damaging conditions on the mesmer to be converted into boons whenever the mesmer gains distortion or becomes disabled.
+---
+Is this legal?????
+---
+I really want Engineer to use Staff and it be a technology-based support spec, the Neuromancer. Kind of like what they're trying with scrapper, but at a much larger range.
+---
+It looks great, but all I can think of is Old Gregg.
+---
+Was actually amazing...great job to you and all involved.  I smiled the whole time and the Charr on the warhorn sealed it for me.
+---
+Sounds good then, that's why I wrote it needs testing, this was just my initial impression.
+---
+Screw more Mesmer guns   
+---
+I want to see a Hammer Mesmer.   
+---
+Fucking breaking gravity with a hammer.   
+---
+Call it the " Migraine " , base it off of CC , watch WvW explode.
+---
+If you have a ranger, the easiest way to see the difference is ranger Shortbow.
+---
+Get your ranger, equip a shortbow and go find a melee enemy with slow attacks and slow movement but lots of health.
+---
+Now, try using your shortbow skills in different ways. Step by step. 
+---
+* Action camera disabled:  
+---
+ Your character will attempt to fire at your target.   
+---
+ Now, while facing away from the target, try these: 
+---
+ * While your character is standing still:
+---
+      * All skills will make your character turn around and fire at the target.
+---
+ * While your character is moving: 
+---
+      * Only quick shot will fire backwards, the skill #1 will fail to activate, and the rest of the skills will fail to activate and go on recharge for 4s as if they were cancelled.  
+---
+* Action camera enabled:  
+---
+ Your character will turn to fire at your crosshair both while moving and when standing still.   
+---
+ Your character's direction will be locked facing the crosshair for 2 seconds after attacking, preventing quickly turning around with the movement keys (S by default) until you stop attacking for 2s. But you can still turn around quickly with the About Face key.   
+---
+ Skills that can be fired backward/while retreating will not only not trigger the direction lock, they will also remove it.   
+---
+ Now, while pressing S and moving away from an enemy while aiming your crosshair at that enemy: 
+---
+ * With autoattack disabled.
+---
+     * If you use any skill except Quick Shot, your character's direction will be locked to crosshair.
+---
+     * When you use Quick Shot, your character's direction is not locked, and will face away from the enemy and run.
+---
+ * With autoattack enabled.
+---
+     * After using Quick Shot your character may use the autoattack and lock your movement direction, keeping you from running right away, if you wait 2s without attacking (e.g.: press Esc or stow your weapon to stop the autoattack) your character will finally turn around and run from the target instead walking backwards. 
+---
+As you'll see, Quick Shot actually fires backwards, while the rest of the shortbow skills can't. 
+---
+That's the difference between "shoot behind you" and "shoot backwards", and why the easiest way to test if a skill can shoot backwards is action camera:
+---
+* Disable autoattack
+---
+* Turn on action camera.
+---
+* Use the skill while looking at the enemy with the camera and moving away from them at the same time (the S key by default)
+---
+If it's a skill that can be used while retreating, the character will keep running instead turning and getting direction-locked for 2s.
+---
+I'm not sure, I have other games to play, and as long as I don't have immediate stuff to do like Dragonbash for which I just completed achievements I'm interested in, I don't really feel pressured to play GW2 and that is how I like it. Being pressured into playing a game sucks out all the fun for me immediately. I already have a job.
+---
+Well they’re basically still there, they’re just now actively triggered by the player. I like the sound of it really, might dust of my thief for a while.
+---
+Will check it tomorrow after work. I made a new char tho. Wich is lvl 14 so far.
+---
+You sound butthurt bro.
+---
+Yep, soo many cool weapon skins that Anet could increase the use of 10000% if we could use them on land.
+---
+This is the second best GW2 commercial I've ever seen, second only to the [SAB](https://youtu.be/60TCwX11PVw) one.
+---
+Oh definetly theres alooot of room for improvement (also anatomy not really my stong side, since i learn to draw as a hobby ) Thank you so much for feedback! \^-\^ I shall try my best to improve
+---
+Thank you! &lt;3
+---
+But you can already have a banner. And with berzerker's torch, you can even set yourself on fire.
+---
+I don't think Guild Wars 2 is trying to be that. A lot of the rewarding content is only rewarding once a day or once a week, and there are diminishing returns that make grinding monsters less viable. You could probably grind away at achievements for a very long time though.
+---
+It's not much, but it's honest work
+---
+The mighty comics master! Thank you &lt;3
+---
+I got rejected from some art schools so i was little bit bitter hehe, but i totally understand it, since art schools aint really looking for videogames fanart lol
+---
+Warrior - Pistols (Swashbuckler)
+---
+Now i cant unsee it lmao, Thank you &lt;3
+---
+Can't tell. The goal will be to have a fluid rotation that keeps the heat above a certain threshold for high Laser Edge uptime.
+---
+Thanks &lt;3
+---
+Now I feel kind of bad for how easily I can solo those things with my minionmancer.
+---
+Still, you may have more luck when there's a daily achievement for events in that map. There will be more people on average, so you may even get more than 20 players.
+---
+I've always been a fan of the male Sylvari voice. You also get the unique experience with Heart of Thorns as a Sylvari. Plus connecting with Canach through that story.
+---
+I love male sylvari VA.
+---
+Choosing sylvari also has an advantage of extra race-based interactions in HOT story.
+---
+That still exists for core engineer. 
+---
+It could even be improved now, since the change won't carry over to specializations.
+---
+&gt;unload should lose the power focus
+---
+As a p/p deadeye enthusiast I'm gonna disagree with you there. It would feel awful if the damage for unload suddenly stopped being front-loaded and instead trickled in afterwards.
+---
+A: You can globally turn of subreddit custom CSS
+---
+2: Mobile client that doesn't render custom CSS
+---
+III: If you go to create a post in any subreddit, you can change where it actually gets posted by changing the "A subreddit:" field a bit down the page.
+---
+*Slow clap*
+---
+ArenaNet, today would be a good day to release that dye. You know which one I'm talking about. Do it.
+---
+Sounds like a very personal problem and completely unrelated to actual balance.
+---
+By what definition is strength exhibited? Performing very fast or very large damage numbers? Or by being able to be a one man army, seemingly unable to struck down. 
+---
+If the latter, warrior may be for you. With the right build and gear in an open world environment/WvW they can seem virtually un-killable. So for me it’s Spellbreaker Warrior. It’s counters, heals, damage, and defensive capabilities feel like a Mac Truck.
+---
+Reaper is a close second, but for every second you’re not in reaper form you feel meh. Once your in reaper you feel like a damage god. The warrior is just more consistent.
+---
+Weave the elements of nature in a harmonious flow, bringing their full power to obliterate enemies. Use your endless combat experience to nimbly dodge enemies' attacks while destroying them.
+---
+Sword weaver is not the bulky kind of badass that can take all the hits, nor they summon a meteor storm from the skies like their staff variant. They just graciously destroy things while being untouched in combat. That's what makes them badass, in my opinion.
+---
+PS.: But if you don't have the experience to play with it, you'll just mess up rotations and get downed every 5 seconds
+---
+Hey, running away is what we thieves do.
+---
+Thieves, tired of lackluster utility skills, have finally remembered what they are and begun stealing from other classes.
+---
+Rookie numbers
+---
+But if Warrior has a lot of  damage traits, won't multiplicative eventually lead to a lower sum? That's how it works with damage mitigation?
+---
+I'll have you know your actions are highly illegal. You don't have the permission to be this cool, you're out of the law, cub. The legions will hear about this, and it won't be pretty. Shamanistic sorcery and illegal mining operations were a thing, but this? *Unacceptable.*
+---
+We can run away together.
+---
+Yes, commander.
+---
+Welcome back Agent. While you have been gone the Order has been keeping note of [things you should know](http://www.reddit.com/r/Guildwars2/wiki/returningplayers). They are also having questioning sessions every [Saturday at 1pm UTC](https://www.wolframalpha.com/input/?i=1pm+UTC+Saturday)
+---
+If you would like to catch up on the adventures the Order library has you covered: 
+---
+* [Season one](http://wiki.guildwars2.com/wiki/Living_World_Season_1)
+---
+* [Season two](http://wiki.guildwars2.com/wiki/Living_World_Season_2)
+---
+* [Season three](https://wiki.guildwars2.com/wiki/Living_World_Season_3)
+---
+Humans/Nord. Personally think all the other ones are too hard to find good looking outfits for.
+---
+That's to be changed too.
+---
+Not the skills that give stealth, but stealth itself. 
+---
+Stealth has some issues and bugs, and they won't get fixed by just changing skills. Stealth needs a rework before moving forward.  
+---
+I'd start with making stealth decay from "invisible" to "partially visible" after a few seconds. You'd be able to see the enemy if you have a keen eye, but you would not be able to target them, and AI would still ignore them. So it'll allow you to pinpoint their position after a few seconds in stealth, but you'd only be able to hit them with what can already hit cloaked enemies: non-targeting skills like cleaves, AoEs, and manually aiming your projectiles.  
+---
+Eventually it should get a full rework, like the example I give here. It's a long list, but it's just me being through. The resulting behavior will be simpler than what my long explanation makes it sound like:
+---
+https://en-forum.guildwars2.com/discussion/comment/714397/#Comment_714397
+---
+&gt; there will not be a single ranger roamer left in WvW
+---
+finally
+---
+u really like footage of beetles lol , but that was next level gw2 production
+---
+Thanks for your suggestion!
+---
+&gt; advantage of extra race-based interactions
+---
+To be clear, the syvlari experience is the regular experience +  extras? or is it different from the start? To get the full experience is there any reason to replay that part of the story with another race?
+---
+Sulvari is suggested a lot... I have to start thinking about which class I would enjoy as Sylvari.
+---
+If all other classes somehow manage to play without unblockable attacks I'm sure rangers will find way too
+---
+I wouldn’t know, honestly.. I just joined today. Admittedly I’ve been watching this subreddit for a while, but I’ve never made an account and talked until now. I apologize if this post was redundant at all, though.
+---
+When you're hard stuck in t1, every change can be fun.
+---
+&gt; They continue to ignore the out **cries** 
+---
+Yeah.. the point is the word "cries". 
+---
+If there is a nerf, there are *always* people who crie out loud, because it's their favorite or main class. No matter if these nerfs are good or bad for the balancing.
+---
+I made 9 characters with a mix of all the races when I started playing, one of each profession.  Now I have 9 asura characters, one for each profession haha. I just love playing small characters, it makes me feel quick.
+---
+Tengu.
+---
+Time is an illusion, and everything is happening at once.
+---
+Nah. We just waiting for 30 on comms before we leave keep.
+---
+I want this so badly now!
+---
+Yep. Chrono has no place any more.
+---
+Currently looking for a good non-medium class to command on because it doesnt fit my fashion wars.
+---
+https://www.reddit.com/r/Guildwars2/comments/c9vc0c/favorite_culture/
+---
+Not quite 100% same, but recognisable enough to ring a bell in my head
+---
+Playing as an Asura does make me feel like I’m faster than I actually am! XD But an Asura for every profession is pretty cool! I love the idea of a tiny Warrior Asura. :3
+---
+This was soo good! I can't even imagine how much work it took though xD
+---
+Thank you for the reply!
+---
+Sylvari seems to be a common suggestion :)
+---
+Can you tell me what it is you like about the voice acting? E.g. Is it the voice itself (the timbre or other characteristics)? Do Sylvari has different voice lines than other races?
+---
+How about...
+---
+Expert Examination: Stunning or dazing a foe applies vulnerability and weakness to them. Your Function Gyro emits a Detection Pulse.
+---
+Ah yes, we'll start playing proper classes like spellbreaker, which has...20 seconds of invincibility. Or scrapper, which has...20 seconds of invincibility. Or mirage, which has...20 seconds of invincibility.
+---
+Gotta say, the people who play these classes are so good and proper.
+---
+Huh. That is pretty similar.. I’m sorry for basically repeating the same thing, I can understand how people would think it’s the same question.
+---
+You are making the assumption that full dps longbow rangers contribute anything to "roaming" which already died with warclaw. They aren't a duel class and usually only serve as a one shot gimmick to snipe zerg players who aren't playing attention, and usually from the comfort of their own objectives before running away. I don't think many duelists nor zerglings care for rangers. 
+---
+The majority of interaction I and many others have had after warclaw with longbow rangers has been some guy pewpewing into a duel, people sniping if you enter 1500 range of an objective, or randomly sniping you, or especially the commander in zerg fights. 
+---
+As some others have noted a boonbeast build would be more fun to play against both as a duelist or a zergling.
+---
+https://wiki.guildwars2.com/wiki/Unblockable
+---
+God damn, how do all other classes do it? Please teach me to play with unblockables.
+---
+Nah fuck Soulbeast. Shit was OP as bricks.
+---
+Thank you for your input!
+---
+May I ask, what is it you like about the Sylvari specifically? Is it the character developement? the lore? the acting?
+---
+I hope those changes in lifestyle that you mention are for the better. And if they aren't I wish things will turn around soon :)
+---
+You assume that full dps longbow rangers contribute anything to "roaming" which already died with warclaw. They aren't a duel class and usually only serve as a one shot gimmick to snipe zerg players who aren't playing attention, and usually from the comfort of their own objectives before running away. I don't think many duelists nor zerglings care for rangers. 
+---
+Never trust anything you don't find on one of the sites found here, they are the only ones that have guaranteed working keys and are enorsed by Anet
+---
+[https://www.guildwars2.com/en/retailers/#Denmark-physical](https://www.guildwars2.com/en/retailers/#Denmark-physical)
+---
+next month is the game anniversary so expect sales there, they happen a couple of times a year
+---
+Just avoid Female Norn
+---
+A full ranger rework would have been welcomed by me, but instead the knee-jerkers and horrible anet balance devs constantly throw out half measures to attempt to placate the crybabies for 5 minutes until they start crying about something else.
+---
+It's the same gameplay all the way, but dialogue has variations. You trying to defend Sylvaris, people knowing they can trust you because you are the Commander but still being a bit suspicious, etc
+---
+There's some good dialogue between the Sylvari PC and Caithe/ Canach during HoT.
+---
+Placement is a bitch. I barely see it in its entirety. 
+---
+We have it in gilded hollow and placed it at the lowest point we could - so now the dragon glides past us in the pvp arena well enough. But apart from that, it’s only partially visible.
+---
+Hahaha! Nice one!
+---
+I play an Asura and do lots of PvP and WvW (so ofc I die... A LOT!) but i never noticed those sounds... I will have to play attention next time.
+---
+I hope I won't be dying much in the story so hopefully this won't be a factor to affect my choise this time :)
+---
+Yeah I guessed that, too bad :/
+---
+Lots of people recommanding male Sylvari, but I'll throw my hat for Female Sylvari just as much. She's voiced by Jennifer Hale, aka female Shepard from mass Effect. It's really good.
+---
+Thank you for your reply!
+---
+When you say "shouts" do you mean in combat voice lines in general or the voice lines when the use shout skills?
+---
+Sylvari female. Jennifer Hale is just too good.
+---
+Half of the classes you mentioned barely have blocks/aegis and reflect is usually on a big cooldown.
+---
+Besides, those classes have to play vs each other as well and they don't even have unblockable attacks.
+---
+&gt; If this comes to pass, I'm just going to play a build 10 times more cancerous than sic 'em longbow
+---
+thanks for finally contributing
+---
+"Ghost B.C." is a legal name used as a precaution to avoid lawsuits from other bands that may have gone by "Ghost" in the US. The band is just called "Ghost"
+---
+What is it that you like about the female Sylvari? Can you please elaborate a bit?
+---
+&gt; I'm also currently replaying the story from season 2 until the end of season 4 with a female Sylvari :)
+---
+Nice! What class did you choose? I have a hard time figuring out which class would fit a Sylvari...
+---
+Did you use Sylvari in your first playthough? I am very curious to know if the dialogs are the same for all races or if the commander uses different voice lines depending on race.
+---
+well I like their voice acting, and how "noble" their culture is, especially compared to the humans. I enjoy the mystery behind their race, and they are mostly poetic when they speak as well, and their one liners are relevant to their culture.. instead of lets say.. out running a centaur...
+---
+The race development in HOT was nothing short of amazing, very dramatic and playing as a sylvari had some cool effects.
+---
+But it’s so worth it! I regret nothing :)
+---
+Same, leveled mine mostly manually as I didn't have good tome sources then, so mine all get parked somewhere and generate birthday presents lol, sunk cost and time accrued and all that.
+---
+Welcome to my world.
+---
+I just want to establish a little perspective here: You are complaining that a class with the highest base health pool in the game is incapable of healing while utilizing their free second full health bar. The activation of your shroud is functionally a 100% hp heal, which can keep you alive longer in the event that your other heals are on cooldown in order to cast them after shroud.
+---
+&gt;It's something WoW and ESO do very well and both those games have a stronger story and world building than GW2.
+---
+A bit unfair to compare gw to those others whose worlds are much more established and have bigger legacies.
+---
+I'd say "the full experience" happens *as* a sylvari more than as anything else. The other races get around id say... 97% of it. 
+---
+Similarly with the PoF story with humans, to an even lesser extent - humans get a few extra lines in it that other races don't get, but it's even less interaction than sylvari in HoT. o.o
+---
+Thank you for clarifying :)
+---
+&gt; Enjoy the class as sylvari, you mean, thematically?
+---
+Exactly... Not necessarily a 100% fit, just what wouldn't look too weird tbh. I wouldn't make a Sylavri engineer for example.
+---
+I had in mind to make alts of a guardian, necromancer and ranger eventually... I might just start with a Sylvari ranger.
+---
+&gt; They have amazing cultural stuff too. It glows with the light you chose for your sylvari skin as a secondary :)
+---
+Cooooooool!!!! Didn't know that! I will definitely check those out! Maybe appearance will play a role in my decision after all :)
+---
+While I agree with the male Sylvari recommendations, I'd say human male does a pretty damn solid job as well - I've very rarely noticed stuff sounding off, if at all. Nolan North does his job pretty well, specially in LS2 and onwards :)
+---
+\*laughs in English\*
+---
+You need to calm down.
+---
+Whoops, meant Games, not MMOs, I'll correct.
+---
+50% off dead for GW2 are free, don’t purchase them.  Gw2 has some pretty regular sales (quite a few times per year), but if you really want a deal right now you could use one of their authorized e-retailers like DLGamer.
+---
+It’s worth mentioning that the game’s anniversary sale is coming up in August and it might or might not go on sale for expats during that time as well.
+---
+run valc gear. you dont need precision
+---
+you cant solo every bounty on every class. same goes for most champion events.
+---
+You should watch Biographics video on him. He was very likely a victim of the Catholic Church power abuse.
+---
+While I agree that one continuous story isn’t the best for new players, I certainly appreciate an MMO that does have a continuous story and doesn’t just come up with something new every update.  Again, it’s not the best for new players, but to me it is really cool that they’ve done it that way.
+---
+I always love seeing just how large Charr and Norn are compared to the other races! And I love the Charr, large, intimidating, and heavily militaristic.
+---
+It is most certainly different than the general consensus and I appreciate that.
+---
+I have only played the core story as a human and it sounded a bit out of place tbh, but since you say that he the VA is doing a good job in Season 2 and onwards I will consider giving them a 2nd chance and playing a human again.
+---
+Which traits did they take away from thief? I get the daredevil is just super acrobatics, but core thief still has acrobatics.
+---
+Both Sylvari.
+---
+Its not a Mesmer. 
+---
+Its a Pink Grapefruit Elementalist.
+---
+Grapefruit is an element, right?
+---
+Not to downplay the hard work of the devs, but elite specs are probably not what eats up the most time when it comes to developing all the assets for an expac. I have no doubt that had they decided right after PoF to do this, then by now, nearly two years after PoF launch, they could have easily already designed the 9 new elite specs.
+---
+Need... some healing heeeere...
+---
+You can be unhappy about a nerf and still be right about the change being bad. I get your point, but the fact is, ANet has done a lot of obviously bad changes which ended up proven bad by time.
+---
+If you dont raid or do CM, you wont realize how worthless a "second health pool" is. You could have 60k HP and still be downed by one shot mechanics. The heal is OP in open world when used by people who straight auto-attack and dont even know about a dodge button. The heal is mostly to get yourself from 75/80% to 90% to activate scholar in end game PvE. 
+---
+The reason healers are in the game today is because most encounters more or less require them as some damage is unavoidable and you need to be topped up now and then. Every other class can utilize a healer except necro. If necro tries to make use of the healer, they give up nearly all their DPS, and since they are nothing more than a DPS class (when shroud heal is concerned), giving up their DPS makes them undesirable. THe end result is that you just play as though you dont have a healer and cant be topped up. This means you have a pretty good chance of being just below scholar buff for &gt;50% of your rotation. This results in a drop of DPS on a class that is already pretty low on the DPS lists--again, DPS dont matter in OW, but are fairly important when you pug raids/CM.
+---
+Also, dont forget that you have to consider other people grouping with you as well. Most groups take way more than bare minimum damage, so healers are pretty important in most raid and fractal groups. By taking a reaper as a DPS, they effectively have to acknowledge that there is a good chance that player will just get downed more often since itll miss lots of healing and eventually pop out of shroud at like 10% HP, missing all heals in between.
+---
+TL;DR..if you just pretty 1 and thats all you care about in this game, this change wont really matter all too much; if you want to actually DPS to the point of being competitive with other classes, this really sets you back.
+---
+Basically anet wants wvw zerg fights to be all in stealth, so you cant find the enemy unless you decide to use 10 supply to drop a reveal trap in the field while your zerg moves away and you got picked out by the enemy zerg.
+---
+I agree. At least before this coming update you could keep eating and puking your pet to get those 4s of unblockable attacks which are a must in blob fights, but now all we'll have is Barrage, and that's about it, unless we want to keep shooting at ourselves (aka reflects). Anet must have thought "Hey, rangers have never been great at blobs, so let's make them completely useless now". Funny, considering that every other class can be quite useful in blobs, let alone being meta.
+---
+You just use culture 3 armor ...
+---
+Your salvage kit, especially if you have the copper-fed one.
+---
+You're doing okay, sweetie.
+---
+Yeh this will nerf dps
+---
+Female Charr is amazing. Her voice is so powerful and intricate, a pure pleasure to listen to. Her intro (right after character creation) pumps you up immensely to play as a female charr, I think everyone has to at least see that intro (bonus points if it's Iron or Blood Legion). Can't say the same about male charr though.
+---
+"Nothing like the spoils of war!"  /  "And I deserve it, too!"
+---
+Mistlock Pass
+---
+Yea? I was asking if there was any armor sets that gave the same normal-ish look.
+---
+please convey my sincerest head pats and cuddles. awaiting confirmation.
+---
+You are utterly missing the point.
+---
+Scrappers are losing it because they are getting the core engineer's F5 slot replaced like Holomancer. It doesn't matter that core engineer can't use it, Scrapper can't use that slot the same way anymore.
+---
+There's the logan outfit that gives a revised seriph look that you might like. There's also an outfit that looks like it has stained glass in places. Sorry I'm at work right now :(
+---
+Check the wiki
+---
+https://wiki.guildwars2.com/wiki/Human_female_heavy_armor
+---
+my god, what cute face he has
+---
+Eh I want the next warrior spec to get mantras, but I want them to be yelling at people as support effects.
+---
+Then we can call it a Drill Sargent.
+---
+Anyone who has been through Marine boot camp will feel where I'm coming from.
+---
+&gt;I'm looking for someone who might actually have a factual piece of knowledge about why the game isn't actually wasting resources by doing this.
+---
+Its simple. They dont want players there. Another one could be, there is a design oversight and its faster and less resource intensive to plop down a invis wall vs terrain. 
+---
+I really like this quote from the wiki about invis walls "In 3D games, invisible walls are used similarly to prevent a player leaving the gameplay area..." Maybe you can find details on what you are looking for there or other articles written about why developers use invisible walls.
+---
+The coding to use them on land has been in the game since the original launch.
+---
+They just need abilities, frankly though a copy paste of many would work.
+---
+That being said I want guard to get it too. I miss my paragon and guard is their spiritual successor (even in the lore many paragon teachings became guardian ones.)
+---
+As I said above the coding is already there, they just need abilities many of which could be copy pasted.
+---
+Yes but you can’t shatter them without clones anymore soooo
+---
+Holo sword doesn't seem as arbitrary as the lightsaber thing does fit the concept of the photon forge, which, recall, was originally going to be centered around the creation of the sword itself rather than around *entering hard light arena*
+---
+* Warrior could use a new kind of weapon as they are running out. 2 axe for a knight spec would do nicely. 
+---
+* Revenant could do with anything, but I would prefer Greatsword too.
+---
+* Guardian could use a more support-focused elite, warhorn would work for that.
+---
+* Engineer: 
+---
+ * Mace should be a new core weapon, not elite. Engineers have 4 types of skills with 5 skills each instead 5 types with 4 skills each, to solve the inconsistency, they could get a new type (e.g.: traps) and have the least useful and popular skill from each type reworked into a new skill of the new type, and have the remaining Tool kit skills reworked into a mace. 
+---
+ * As for a new elite weapon, I would go with a main hand shield thrown around Captain America style, a staff used like a lightning rod, or a warhorn for a Roadie-like "sound engineer".
+---
+* Ranger definitely has to be hammer, and one of the skills has to be called "Thump", knock down enemies, deal bonus damage if the enemy has weakness, and show a spirit bunny animation like how greatsword's Maul shows a bear. 
+---
+* Thief could really use dual wield torches for a "juggler" specialization that juggles everything. Even boons, conditions, enemies and allies. 
+---
+* Elementalist already has a conjure greatsword, so they can't equip greatswords or we'd never know if they are using the conjure or the weapon when they brign Volcanus. I would give them instead offhand scepter, and the weapon would create elemental pillars that the elementalist can grow by using offhand scepter skills repeatedly, then use as cover from ranged attacks, and topple them to create AoEs, combo fields and damage enemies.  
+---
+* Mesmer could use a shortbow, and get a new pulsing AoE since they just have mostly Chaos Storm. 
+---
+* Necromancer has to be hammer like Necromancer Munne in GW1. I'd make the autoattack end placing a mark that steals life when triggered, and summons a short-lived minion when traited.
+---
+Historical low was 30% in last year's Anniversary Sale (coming in August) and this past year's March sale.
+---
+If you're buying in bulk, might not hurt to wait another month or so for the anniversary sale, but 25% off ain't bad for a couple of quick pickups..
+---
+Perm bank is the best makes ever room have massive inventory basically
+---
+Yeah, DH gets a wild mix of buffs and nerfs. Not sure what the net effect will be, but it most likely will not be a noticeable buff. However, I'm pretty pissed about the holo overheat change. That one will probably (and needlessly) hurt the kitless build a lot and I liked that build.
+---
+Know the difference between episodic and sequential series?
+---
+This is the only sequential MMO out there, by the way. Pretty much the whole rest of the market follows an episodic model, where you don't need to play everything to catch up to the latest content.
+---
+&gt; They require to organize a big team of seriously strong DPS/Tanks
+---
+Define "they". The shark is the only really crappy one with shitty hitbox and CC spam. The rest should not be an issue even for the tiniest of groups.
+---
+&gt; with spawning times and locations pretty unpredictable so even when you have the time list
+---
+That is also not entirely true. They are spawned by killing the same creature type. It is not that difficult to find the locations of devourers/moas/arctodus/etc way ahead of time. Then you just keep killing them during the spawn window until you trigger the bloodcrazed spawn
+---
+Additionally as soon as it spawn there is an announcement message and icon visible map wide for its location.
+---
+&gt; but the wyvern can one-shot a full squad of 15 players with its flamethrowing
+---
+That goes with the previous point a bit. You should choose a good spot for spawning it. South side of wyvern cliffs and top area of the part south of Faren's WP are good since they are wide areas. Narrower areas are more difficult but still doable. You simply have to move away as soon as it starts the flying animation. It has a large radius but it is possible to move out ... assuming you didn't spawn it at one of the narrower locations. If you did spawn it at one of the narrower places you will have to be a lot more aware of your environment. Anyone downed inside is a lost cause.
+---
+Then there is everyone's favorite ... nobody brings CCs. -_-
+---
+This is why I carry rocks on most of my characters. :/
+---
+So there are some strategies to consider and things to prepare before the fight.
+---
+11 is more than enough, I have completed that with much fewer people multiple times. An extremely common mistake people make is assuming more people is better. It isn't. Especially with the way scaling works.
+---
+If you're gonna give me 25% crit chance for being in melee range, you might as well keep giving me melee options. Maybe where scrapper focuses on extremely effective tanking, a Neuromancer could be that magic role that provides complete healing with full boons, but also at least some decent condition damage too.
+---
+It's unfortunate that this is a bug. If you could actually play the game while transformed these tonics might not be completely useless junk that takes up inventory space.
+---
+staggering would make retal strong
+---
+Do you do commotions friend? If so, how much?
+---
+dont ever forget the /s, and dont use the word "just" because that fucks redditors over too.
+---
+One of the bigger gw2 content creators and just a handsome looking guy.
+---
+[Idk what this is](http://gw2skills.net/editor/?vhAQRAra8clknh20YZawANwsGLrGE6WOzTO/RSieZHGRAA-jZBHQBcY/hBcQAc4JAgZlBAwTAAA) but it works! PvP tested only, best for single targets. great for +1ing 1v1s and 2v2s as long as you aren't being focused. 
+---
+I start off with scepter pistol, blast off 5 4 3, if I need to block 2, then AA until I have a clone. switch to sword, get your phantasm up, then start your block and distortion hell. This is very flexible for me, as I can switch to sword, or make use of the block on scepter. I can also heal up, use the shatter, and I have \~70% crit. Stay out of the middle of teamfights, and attack from the fringes.
+---
+[This is a spin](http://gw2skills.net/editor/?vRAQNAW7djk0QNN2TDW2A/NOOGq5Oc03AdJOigI2zbbAA-jpgWABBXGAg9HAA) on the [Metabattle Vanilla Condi Necro](http://metabattle.com/wiki/Build:Necromancer_-_Vanilla_Condi_Necro) build. Great in teamfights, great for boonstrip, awful in 1v1s. Unless you're dueling another core necro. Then it's who can outburst the other.
+---
+ I have fairly good sustain, and offers wonderful healing capabilities. Your main source of corrupts comes from your wells, and your heal well is very strong. If you need to revive, start the revive NOT in death shroud, as the well will not heal you. Then swich to DS if you need to be stronger. Spam your scepter skills and focus. If you feel like you don't need staff, which I don't always play, switch out Soul Marks for Speed of Shadows. I run axe/dagger somteimes.
+---
+True, but their strategy has been and probably always will be continued balancing even if that means releasing things in an unbalanced state.
+---
+Used to be charr before the VA change. I miss the days where they didn't talk so much. The commander personality is so bland and immersion killing :v
+---
+Honestly, though! I dunno why that’s such a common trend! XD Like, if I wanted to play a human, I’d play a human!
+---
+They didn't increase the number you can buy :(
+---
+The thumbnail actually kind of made it look like an ingame screenshot, so, good work :o
+---
+Trident for casters and harpoon for engineer and ranger would be awesome possibilities too \*\_\*
+---
+That lightsaber couldve been in the shape of any weapon. 1 skin doesn't justify it.
+---
+Still mad that monks aren't a thing because ANet realized too late that their original philosophy on healing was stupid as hell.
+---
+It's technically a slight DPS loss while you wait for vuln to stack up on your target. Which doesn't take too long since your Death Spiral applies 12 stacks, and if you have any Dragonhunters in your group then your target basically instantly gets 25 stacks. Your call.
+---
+&gt; There is one good decent location in VB south of the noble wp area on a good size area. 
+---
+Need to make sure it is the top area and not the narrower path below though ...
+---
+Well... Guess I will lower my hope to 50 microns
+---
+They meant to use "Overheat".
+---
+I'm considering getting some extra ones to put my unidentified bags in. :D
+---
+He is... a pretty alright musical artist!
+---
+It was the de facto best DPS class in the game as core pre HoT with a piss easy rotation.
+---
+But then it's not a proper Lightsaber
+---
+I HATED male sylvari during the personal story. I think it changed to a new VA with HOT cause the current one is very good
+---
+Yeah but you have to take water for that in the first place, and air and fire are still clearly superior DPS options (as they should be IMO, water already insane for healing).
+---
+Well done you figured out how horoscopes work.  Just vague enough that everyone can find some truth in it
+---
+&gt; I have to start thinking about which class I would enjoy as Sylvari.
+---
+When HOT launched I made a Sylvary Revenant for lore/head canon reasons (New race with misterious origins, Ventari specialization, being able to channel legends of the past and connect to the Mists through the Dream). I think their lore fits pretty well.
+---
+Nah, I just want to share my wealth of cuteness. Cuz, I'm rich, you know.
+---
+A lot of it just the colors you use. Most of the armor sets from the base game are what you're probably looking for, but some of the later sets are good as well.
+---
+https://cdn.discordapp.com/attachments/431556094410620939/579478386234097676/Guild_Wars_2_Screenshot_2019.05.18_-_19.52.09.34.png
+---
+https://cdn.discordapp.com/attachments/431556094410620939/539619816110293017/Guild_Wars_2_Screenshot_2019.01.28_-_19.21.55.100.png
+---
+https://cdn.discordapp.com/attachments/431556094410620939/477656662233055244/gw202.jpg
+---
+https://cdn.discordapp.com/attachments/431556094410620939/477655636981841920/gw230.jpg
+---
+https://cdn.discordapp.com/attachments/431556094410620939/452278500011802625/gw034.jpg
+---
+https://cdn.discordapp.com/attachments/431556094410620939/477655520811941888/gw237.jpg
+---
+Another great idea is to keep your set of unbreakable tools in shared inventory slots. Whenever you swap to an alt, they’re right there for you to equip and use. Super useful if you’ve got industry or other glyphs.
+---
+Damn how can we be so ignorant? Enlighten us master of attention!
+---
+The myth of the friendliest community stays strong because people who are noob just play open world and don't talk to one another. And exp people walled themselves off with various KPs so they don't have to play together with noobs in content you can fail.
+---
+Sice I've got a lot of requests about the placement, I've added a link with a quick article I created about this subject. It contains the exact location in a gallery. I hope it will help :)   
+---
+ [https://www.sisilkzurre.hu/en/gw2/gw2-precipice-guildhall-holodragon-placement/](https://www.sisilkzurre.hu/en/gw2/gw2-precipice-guildhall-holodragon-placement/)
+---
+Ah sure, thanks for the tip. I've edited the post with a new link that leads to an article and a gallery I made. I hope it will help :)
+---
+Sure,  I've edited the post with a new link that leads to an article and a gallery I made. I hope it will help :)  
+---
+(btw yeah, it can clip into the ground. In my case though I made it float haha)
+---
+Forgot about Might, will add that in.
+---
+Yes. If you compare Scrapper launch to scrapper now that is indeed the case. However, if you look at the bigger picture:
+---
+Core engi = 10 + 5 toolbelt skills  
+---
+Holo engi = 10 + 4 toolbelt + 1 forge skills  
+---
+Scrapper = 10 + 4 toolbelt + 1 function Gyro
+---
+You sacrifice your elite toolbelt for an elite spec skill.
+---
+We will have to see how useful the Function Gyro is. I think adding an AoE reveal to it would be good' but making it ground targeted does add some skill to it instead of just popping it point blank.
+---
+I do Lily of Elon Invite, Copper Fed Salvage, both season tomes, A stack of either tele stones or rez orbs and 3 open slots to stack unidentis across all my alts. If i had extra slots id likely carry either food or specialty harvest tools. Its super annoying to keep alts stocked.
+---
+If you think rangers suck after this nerf you are God awful at ranger and should reroll anyways
+---
+Ty
+---
+Taking a look at the wiki, it's very unlikely that they repeat a sale in such a short amount of time, so I'll take this price right now and would recommend everyone to so so as to play safely, then if it goes on sale again get another bundle.
+---
+Stacks of luck and unidentified gear. :-/
+---
+Whenever I try to log into the support site I just get sent back to the start page and get this: 
+---
+signin%3Freturn\_to%3Dhttps%253A%252F%[252Fhelp.guildwars2.com](https://252Fhelp.guildwars2.com)%252Fhc%252Fen-us%26locale%3Den-us&amp;locale=en-us
+---
+added to the end of my url. It keeps adding this again if I keep pressing the "sign in" button. How can I fix this?
+---
+still better than the movie version
+---
+American Curl? Or just clipped ears? Either way, happy to know that he's happy and healthy too.
+---
+I literally gave an example of a sequential MMO in my original post. FF14 is absolutely sequential in every sense.
+---
+Scrapper gains other features. They become much more resilient that core mesmer and holomancer. 
+---
+Do not forget the tradeoffs start with one change to the elites profession mechanic, but balance doesn't end on the lastest update, it ends when the game goes into basic maintenance mode or closes. If they start in the side of caution with something they expect may be a bit weaker, it can be improved later.
+---
+Maaaaan, just bring spear (and trident) out of the water. WE HAVE SKINS FOR THEM AND SHIT. And dont anybody give me that "well, they can barely balance what they have" BS... there are entire roles and thematic applications that are just... wasted, every day spear and trident stay underwater.
+---
+thank you! i did make it, took me a real long time though haha
+---
+sure! will make it my next post
+---
+As long as you can get to the water below, your good to go.
+---
+Quaggan Tonics
+---
+dm me! &lt;3
+---
+Though choice indeed.
+---
+Ooh yeah that’s the worst. Then you’re stuck looking at all your alts and wondering...which one did I last put the tools on?
+---
+I’m running an RX480 and it’s running absolutely fine.
+---
+Correct me if I'm wrong but...I don't think the original price for bundle of 5 was 3500 gems? Wasn't it 2800?
+---
+&gt;You must not be very active either here or around the official forums if you haven't seen multiple players tired of it.
+---
+No, I just don't accept vague unsupported terms like "lots of people" as being particularly meaningful. Which is precisely what your claim has turned out to be.
+---
+&gt;LW1 was pretty sequential, with Scarlet all over the goddamn place. The only standalone event we've ever gotten was The Lost Shores.
+---
+LS1 was a series of seemingly random occurrences very loosely chained together by the perpetrator ending up being revealed as plant-joker at the end. It was only towards the latter part of LS1 that there emerged the barest trace of a plot thread.
+---
+The Lost Shore is also a perfect example of unengaging self-contained content. It was jarring and out of place with the rest of the game. As would your suggestion be narratively if we suddenly regressed to messing around with trivialities.
+---
+Can I just politely point out annual doesn't mean same day every year it just means it comes back every year. Anet have not given a release date for it yet so until then this can could confuse people.
+---
+enjoy long loading times and lots of people jumping and doing lots of noise..
+---
+There's no rotation, a lot of it is paying attention to enemy damage and knowing how to best respond. Also note this is for T4 fractals, I'm not to CM's yet.
+---
+For skills, I use Mantra of Solace (aegis, heals, quickness), bane signet w/ perfect inscriptions, mantra of potence, bow of truth, and feel my wrath. 
+---
+There's some flexibility in gear, but what I usually see is shield + mace/axe, staff. 
+---
+Axe is for fury if you must for some reason. 
+---
+Mace is for more passive healing and aegis spam. You can use mace 3 and step in aoe to aegis the party if the mobs are ignoring you.
+---
+Shield 4 is aegis, shield 5 destroys projectiles, is CC, and can be used as a knockback in places like thaumanova and deepstone.
+---
+Staff 2 is burst heal, 3 is aoe heals and runspeed, 4 is a bursty heal + might, 5 is field control/CC.
+---
+Pre-buff: Tome2 skill 4, blast with staff 2, channel staff 4, mantra of potence X2, Feel My Wrath should provide 25 might, fury, and quickness to get the fight going.
+---
+In general:
+---
+Tome 1 is only good for 4 to blast might and 3 as a minor pull. The rest is useful mainly in recs when you want to "do some deeps".
+---
+Tome 2 is your big emergency reset. Big radius high-burst heals to top everyone off. 5-4-1-1-1. skill 2 is your mobile condi counter, use it on movement-heavy stuff like Twilight Oasis, and it doubles as a heal so that's cool.
+---
+Tome 3 is a toolbox, mostly for stability and resistance. Spamming 1 stacks runspeed to get to the next fight faster, and stacks with staff 3. If you're using skill 4 for a low-mobility fight like archdiviner, use bow of truth to cover for heals while this tome is up.
+---
+I'm using an updated version of this raid build, but it's for pugs so I tweak it to cover a lot of sins (including my own).
+---
+https://metabattle.com/wiki/Build:Firebrand_-_Support_Healer
+---
+Well frankly, you could use both for magic and martial classes. Trident on warrior could be a mid range CC hero or something.
+---
+just go for vipers axe sinisters scepter is a niche build and axe has higher dps
+---
+Reaper did not get any buffs this time.
+---
+There is a [blue Hylek potion](https://wiki.guildwars2.com/wiki/Hylek_Blue_Hue_Potion) and a [refractor amulett](https://wiki.guildwars2.com/wiki/Polyluminescent_Undulating_Refractor) that dyes you teal. 
+---
+Maybe it could help coloring the face and torse (but might destroy the gloves and shoes.
+---
+What type of LA FPS do you get if you don't mind asking? I know a lot of it has to do with overall specs but was just curious.
+---
+True but if you pop it, hit all your damage skills, and swap weps and hit again you could drop a lot of extra torment before going shiro/kalla. Unyielding anguish will drop 12 stacks for 90 energy, but with the new darkness skill you could pop SB 2,3,4,5, and mace 2/3 for...40-45ish.  Add an anguish finisher on top and that would get you 14 stacks for roughly 80 energy.
+---
+The problem I see is how to burn off energy for a stance swap other than wasting energy on non dps skills.  Used to be able to anguish 3x, embrace, SB4, legend swap, and be ready for the kalla/shiro rotations. Now idk, maybe an F4 and F2 just to throw out 30? Ugh
+---
+Deadeye can very easily provide 100% uptime on both fury and twenty-five stacks of might **for ten people with zero concentration**. It can also provide permanent swiftness and vigor.
+---
+I like how he stares into my soul
+---
+Fx gyro is becoming the scrapper f5, so detection pulse is being removed
+---
+Any chance you have and vods of this? This sounds glorious!
+---
+Just giving function gyro reveal (since its ground targeted now) would be an excellent compromise. No need for traits.
+---
+I meant that in jest. Jokes on the internet are hard.
+---
+Also, I'll add that it wasn't so much that the White Mantle found their way there, but that they were led there by a Shining Blade traitor.
+---
+What are those things to the left of the oil/rice balls? New icon for utility/food primers?
+---
+&gt;  Finishers are useless in PvE, and revives are only good if your party is in trouble.
+---
+Function Gyro isn't just a finisher/revive skill anymore, though. They put a bunch of other functions on it through traits, and it's on a 30s recharge if you have no finishers or revives in the pulse.
+---
+I thought scepter would make it easier because it's ranged (at least in open world). I'll take axe and viper's then, thanks.
+---
+Yeah I understand that Reapers can be rather squishy in PvP, but PvE? I would say they are average and better than Holo, Thief (specifically Deadeye), Ele and condi Soulbeast. The extra health allows you to soak one more fairly large hit than other classes with lower health that would need to actively avoid the attack.
+---
+They work on characters that don't have the waypoints yet, which is great for gathering runs.
+---
+I've never noticed terribly long load times for Mistlock, at least no longer than LA, plus all your services, plus the BL bank, specialty vendors, forge, and portal hub to other cities are all in an area smaller than just the crafting area of LA.
+---
+Also LA still has its fair share of fashion that hurts the retina, plus some really sad map chat, and lousy sea creature theming.
+---
+Good boy. Glad he is better!
+---
+DH is nerfed in PvE
+---
+Power berserker is still greatly overshadowed by spellbreaker in competitive game modes, though.
+---
+I use them not for saving money, but pure lazyness. Its faster to use tome than to open map, find WP and port. At least for me
+---
+A warrior should have the staff in my opinion but they gave him the longbow instead. :(
+---
+A Net Shot
+---
+https://wiki.guildwars2.com/wiki/Flask_of_Metabolic_Primer
+---
+https://wiki.guildwars2.com/wiki/Flask_of_Utility_Primer
+---
+&gt;Unlimited Salvage?
+---
+What is this referring to?
+---
+What about give us more slots to buy?:-)
+---
+Luminosité Eternelle!
+---
+Not enough speedo!
+---
+Im glad your cat is doing well!
+---
+You can burn down an orphanage to get a key and Anet wouldn't care. They'd never even know. They only ban your ugly mug if the key suffers under a charge back. Many, but not all keys, are being aquired by credit card fraud, and it usually takes a month or something (IIRC) until the banks charge that stuff back. Once that happens, the account is dust. No chance to get it unbanned. It's ded, Jim.  
+---
+But as you already said, if it's still up after a year, it's going to stay up. OP rolled his dice and got lucky.
+---
+&gt; Unpopular opinion: I absolutely think that masteries should be allowed to break story progression.   
+---
+It was out of place in a story like HoT. It built a scenario of "hurry, we're working against the clock to save everyone", and then it's like "ah, well, take a few days to get to know the frogs better" or something. It didn't make sense.
+---
+If you have not been banned till now it probably wont happen, but just in case (forgot password, got hacked, someone else got hold if your account) you will need to provide the ownership details... you might get screwed. To avoid such, keep your login email and password unique, safe, and well protected from any kind of misuse.
+---
+Good luck with your stuff!
+---
+&gt; Currently, an account can have a maximum of 24 shared slots:  
+---
+&gt;  
+---
+&gt;22 shared slots can be purchased from the [Gem Store](https://wiki.guildwars2.com/wiki/Gem_Store).  
+---
+&gt;1 slot is acquired by owning [Heart of Thorns](https://wiki.guildwars2.com/wiki/Heart_of_Thorns).  
+---
+&gt;1 slot is acquired by owning [Path of Fire](https://wiki.guildwars2.com/wiki/Path_of_Fire).
+---
+Wanted to know myself, looked it up on [https://wiki.guildwars2.com/wiki/Shared\_Inventory\_Slot](https://wiki.guildwars2.com/wiki/Shared_Inventory_Slot)
+---
+Ah dude I loved how Monks were in GW1.  I was....a moderate monk at best.  But my buddy was so good at making builds that just were awesome.  I loved the 55ing, that was really cool.  I get that certain builds were OP, but I guess I just really miss the ability to choose every skill in your skill bar.
+---
+  It really just gave people the ability to make awesome builds, but there were always builds (eventually) that could take another build down.  Nerfing was necessary for Derv and Assassin builds like crazy; even Necro and Ele too.  Most of the classes found some way of getting themselves nerfed.  But that was fine, cause with all of those options, there was always another way.  /rant
+---
+Okay, it's not like I'm a massive Skyrim stan or anything.
+---
+My favorites: Male Human, Male Norn, Female Sylvari, Male Asura
+---
+My Least favorites: Female Human, Female Asura
+---
+Only when in the group and hitting things.
+---
+There were three cases where Scrapper was legitimately used in endgame PvE: pushing, superspeed, and hand kiting.
+---
+Pushing (Keep Construct, Soulless Horror) honestly is less of a Scrapper thing and more of a base Engi thing, so this has been untouched.
+---
+Superspeed (River of Souls) looks like it's still there.
+---
+Hand kiting, however, sounds like it's a lot worse. I hand kite with Scrapper, and I'm kind of concerned about the changes. Less base vitality, lots of the barrier shifted over to needing to deal damage, Bulwark Gyro barrier coming from having nearby teammates,.. The one case where Scrapper was legitimately useful as a generic beefy dude in PvE looks like it might be having a bad time.
+---
+You still have distortion on F4 and blurred inscriptions still exist. 
+---
+I don't think this is as big of a change as people are saying it is.
+---
+Yes, and in many cases the change is actually bad.
+---
+It's the players.  Even when thieves got nerfed, people kept on complaining about them leading to even more nerfs.  Noticed the full on nerfs only finally stopped when thief complaints stopped...and that's because most people just stopped playing them (in WvW) with all these nerfs.
+---
+I’ve thought about it. Might do that in a bit. Won’t expect getting the difference back but it is what it is.
+---
+Aw I wish this was possible!
+---
+It's not perfect of course. In PvE Spellbreaker still barely exists, but both berserkers are actually viable now. 
+---
+With a proper PvP/PvE split they can continue to get stuff even closer.
+---
+not really. the ranger shouts and scrapper wells were probably done because of rune interactions and thief seems like they were just gonna rework traps and at a certain point realized that their new traps weren't really traps and might as well be their own skill type
+---
+Agreed. I'm assuming that it'll return in August from now on, as this would make a perfect festival cycle with one festival every 2 months.
+---
+Feb - Lunar New Year
+---
+Apr - Super Adventure Box
+---
+Jun - Dragon Bash
+---
+Aug - Festival of the Four Winds
+---
+Oct - Halloween
+---
+Dec - Wintersday
+---
+&gt; Alt Legion
+---
+There are *dozens of me*, ***dozens***!
+---
+Looks like a feature to me.
+---
+Don't take my objection to having Four winds in July as I hate the festival its just back to back festivals is a bad idea. Also lets say episode 1 of season 5 releases early August before the anniversary then 2 weeks later we get festival back it works.
+---
+I can see this certainly being true. It doesn't make a lot of sense to have rune sets that benefit single utility types at all, unless it was shared between all classes.
+---
+"In many cases" is such a meaningless phrase. Just used to make something look bigger than it is without any base. 
+---
+In many cases you have to correct what you wrote. Does this say anything about your writing skills? 
+---
+In many cases you read a sentence wrong. Does this say anything about your reading skills?
+---
+In many cases you died at an elite mob. Does this say anythign about your gaming skils?
+---
+If you look at the "bad numbers" alone, of course it's many. You get killed by elite mobs 420 times (example) since you started playing, that's a big number. If you take it out of context. But if you look at the context, you will see that you killed 840000 elite mobs in the same time, which means your "getting killed by elite mobs" rate is 0,5%. And now, with the context the number of 420 doesn't sound that big anymore, because it's isn't "many".
+---
+However, "bad" is also dependent of your opinion. And that's a problem too. Your opinion is not Anets opinion and you have your own idea of how a class should be like, but that's not necessarily Anets idea too. 
+---
+If you like a tanky Reaper, of course you see the next balance patch as a bad change. But if you want the Reaper to be less tanky (that's what Anet said they want), this is a good change to get this espec to it's right place. 
+---
+The best argument is still the past. All classes and especs are valuable nowadays. Look at the beginning of GW2: Dungeons as a Ranger? Nobody wanted you. Even at open world events people complained when they saw a Ranger. 
+---
+HoT, Raids: Trying to raid as a Necro? No chance. Ranger? Sure, but only Druid. Mesmer? Only Chrono, only support. And so on. 
+---
+You might think that some changes are bad, but you have to look at the overall picture. And that's something most people *don't* see.
+---
+And tbh, IF they did big mistakes, like the first overhaul of the Deadeye, they fixed it pretty quickly.
+---
+wait, you named your cat Lord Faren, and you don't play gw2?
+---
+There is a very high chance you get the difference back.  I'd say near 100% chance tbh.
+---
+That’s pretty smart! I might have to group my characters somehow, though I don’t have nearly as many to organize and group.
+---
+Telling your soul to go fast
+---
+Every hero has a... 
+---
+G E N E S I S
+---
+If Core Engineer had any power melee weapons, I would 100% rather have Elite Toolbelts than new gyro. The new gyro is a joke replacement compared to 3.5s moa or about 10k healing and condi cleanses from medpacks. 
+---
+Plus, most classes get MORE skills from the replacement. Right now, scrapper is going from 15 skills + function gyro to 14 skills + nerfed gyro. 
+---
+At least Holo trades elite belt for 5 new skills on the bar. Firebrand trades normal virtues for tomes, Scourge gets multiple new ways to spend life force, Spellbreaker gets full counter in exchange for limited adrenaline, deadeye gets a whole new set of Steal skills, soulbeast gets new merge skills, it just goes on.
+---
+Our new trade-off is Elite Belt for a discount war banner without boons (gotta pick traits for that) that doesn't even guarantee the res/down.
+---
+Regarding elite specs as the content we could get in LW5, why do so many people think that it would be 1 new elite spec per episode... why do people think it would be anything BUT releasing all 9 simulataneously? There are so many obvious problems with this. Elite specs (and in general additions to combat in the game) are the #1 thing I want, and I'd be outraged at mesmer getting their new elite spec first while one or more of the 9 classes has to wait probably several months to enjoy their cookie.
+---
+I need more photos. Many many more
+---
+BuT ReAper hAs LifEsTeAl FrOm BlOod mAgiC.
+---
+Depending on how much time has passed you might be able to get the difference in gems back if you send in a support ticket.
+---
+The barrier will be indeed strong.  Even with he loss of vitality, getting all that barrier while doing damage ensures the scrapper will be extremely durable as long as they are actively fighting, and not running in circles wasting people's time like a headless chicken.
+---
+For you, kind stranger, i shall! Thank you &lt;3
+---
+For folks debating whether or not to pull the trigger:  https://wiki.guildwars2.com/wiki/Shared_Inventory_Slot#Gem_Store_history
+---
+Shared slots have been as high as 30% off.  However, I remember that sale last March.  It only lasted a day, maybe less.  I didn't find out about it until after the sale was over.
+---
+Remember:  Many GW2 sales are very short lived.  If you aren't checking daily, they are easy to miss.  Even this sale is hard to spot.  It's buried in the promotions page.
+---
+This is just stupidly dumb. My problem is time restraint, not because I can't raid. Not everyone can play all day/night, some of us have work and responsibilities. Not to mention most raid group has their own schedule.
+---
+I wonder if they would really make one tonight consider how they totally ignored the game breaking bugs that the new event brought with it and deleated all the posts brining it up on the forums and not a single post from them saying something. If they make a wvw stream today i guess they will have to answer why they have not yet responded at all.
+---
+Spear for thief. I want to make prince Oberyn Martel
+---
+He does have a bigger role, tells you why dragons need a champion or else they loose their way. If you complete all collections and listen to everything, in the end, Vlast has a ton of voice acted dialogue to listen to. Never understood why people thought he had no bigger role in the story.
+---
+Just wanted to let you know I love your package. I also love that everything is off by default. You da best.
+---
+better make it 25, poison on dagger attacks has been moved to a condi trait
+---
+It was expensive but totally worth it having 9 toons!
+---
+this makes more sense for Core and Scourge, but Reaper was supposed to be the slow, melee bruiser style....but with no sustain, it falls flat in that aspect because it can't actually stay in the fight any longer than the other 2 specs, which is why everyone loads as much swiftness and quickness on it as humanly possible to try and mitigate that.
+---
+Dual pistol necro would be my dream!
+---
+most pics i've seen of her she's on fire
+---
+What does this have to do with GW2 other than the name of the cat? Honestly asking.
+---
+The moas with the swords lmao
+---
+Yep, it's true. Same as you can place, a sword/empty + empty/shield, and you will be able to use swap but not actually swap weapons, for triggering sigils and similar.
+---
+It was already posted, but I guess people didn't react enough that time?
+---
+It just isn't very impressive most of the "tactic" used it facetanking enrage.
+---
+&gt;Even this sale is hard to spot.  It's buried in the promotions page.
+---
+Hah. Or, alternatively, ouch. That must hurt right there in the promotions.
+---
+&gt; I'm not a Mesmer player but I don't think crippling the chronomancers like that is necessary. Or good.
+---
+See? That's what I'm talking about.
+---
+Delete it fat
+---
+I might have just commented instead of replying first. 
+---
+You use Axe/Torch + Axe/Pistol. Keep in mind, you only need 1 axe, leave the other main hand empty at it fits into both sloths, i.e. you only swap your off-hand.
+---
+Didn't you run this into the ground in Hoelbrook the other night? Everyone here is giving the exact same answers you were given there. I cant imagine you thought you'd hear something different considering Reddit consists of people from the playerbase.  
+---
+The map designers don't want you there. Simple, clear, concise answer.
+---
+I see the new redesign got leaked.
+---
+Mine are:
+---
+s3 tome
+---
+s4 book
+---
+mistlock pass
+---
+cooper salvage
+---
+World boss portal
+---
+&gt;-Scrapper lost detection pulse, which could mean an anti-stealth spec (not necessarily for engi) is imminent
+---
+&gt;-Thieves lost traps, which I believe could be a lead in for an anti-stealth spec
+---
+Really? An entire spec devoted to anti stealth? 
+---
+How many classes can even stealth in the first place?
+---
+Copper fed
+---
+Silver fed
+---
+Birthday booster 
+---
+Teleport to friend 
+---
+Boss portal
+---
+Lws3 tome
+---
+Lws4 tome 
+---
+Portable provisioner
+---
+Prototype position rewind device
+---
+English Male sylvari! *"Where one path ends, another begins."*
+---
+The calm and relaxing VA makes it an absolute pleasure to listen to. The VA also goes through a change throughout the story chapters. In the personal story, the male sylvari sounds naive and playfull, fitting a sylvari that just got "born" and explores the world around him. Eventually the VA gets more serious and calm, as to be expected by someone who carries the burden of being a "commander".
+---
+I also absolutely love the voice acting in raids. Usually the other characters in the squad sound serious and eager to fight, but the voice of my male sylvari is often very.. concerned, calm and throughfull. 10/10 VA, absolutely!
+---
+What I hate about other races are the very "cringey" quotes that just sound awkward. "nIcE gEaR! (M human) "You're dumb. You'll die, and you'll leave a dumb corpse." (F asura) are just two examples.. Also the F human quote "I could outrun a centaur!!!" that is just meme material at this point.
+---
+If I can shoot arrows from my griffon. Sure :3
+---
+Nice! Now make Border Wars!
+---
+Trident Mesmer is what I've wanted for years.
+---
+4 currently, 5 if you count trapper runes on DH. It could become higher if more especs bring it to classes that didn't have it. You never know. Stealth is a big deal in pvp/wvw.
+---
+It was my favourite class easily. When GW2 first released, it made me sad seeing people make topics asking "I loved monks, what should I play in GW2?" and then getting downvoted and a response essentially amounting to "You're not welcome in this game", but hey, I guess that's just the kind of crowd you attract when you have a vendetta against healing. :&gt;
+---
+I mean, in terms of balancing, I'd take "multiclass madness" over "next set of elite specs purposefully made overpowered so our expansion can subtly be pay-to-win" any day.
+---
+Probably not. Condi thief is probably the easiest build in the game. It has a lower ceiling, but a higher floor. If someone fails at a harder build, they will at least do the same damage. I break 25k on both builds. Power has much more nuance to it. You might be able to hit 20k from just autos, but if you don't understand the nuance that's going to be your cap.
+---
+See, this is the problem people don't understand about suboptimal builds. They don't just automatically do 5k less. Easy builds like Condi thief have a higher floor. Less potential, but way easier to hit that potential. Their rotation doesn't go to shit from one fuck up. Fuck ups are the main reason people aren't hitting 90% benchmarks. Weapon swap too soon, hit a skill before they are supposed to, tanks DPS. This just can not happen on Condi thief. If you swap in the middle of your auto, you might miss your third, which isn't a big deal. If you miss click and hit the wrong skill, it's just not a big deal. There's not really a rotation to fuck up.
+---
+I guess that's cool if you only want to play with like 20 people. I don't cry about clear times though, so I don't care if I'm the only one hitting 90% benchmark. I'd rather play with people I enjoy playing with, even if they are a carry. I play games for this weird thing called fun. You can get a lot of that from playing with friends and playing meme builds. After all, this isn't exactly the game to play if you are looking for hardcore PvE content.
+---
+&gt; Hallowed Ground
+---
+Stand your ground is always better imo, if you want that fire finisher drop the tome of justice 4. Unless you are talking about pre-booning and are swapping utilities around then thats a different game.
+---
+Ouch. My whole life is a lie.
+---
+Thanks for debunking that!
+---
+Yeah if you're running Right Handed Strength, then Empowering Might is probably worth it. If you're running Virtues/Honor/Firebrand though then it's probably not. Firebrand builds are very flexible and can be modified a lot between each fight, I'm still finding ways to improve my build per encounter.
+---
+4 with extremely specific builds and items.
+---
+Mesmer can go invisible with torch and an elite every 45 seconds, doesn't mean you're not gonna use an entire spec to counter that, its asinine to have an entire spec counter something so specific.
+---
+&gt;Stealth is a big deal in pvp/wvw.
+---
+Because making PvP exclusive specs has worked out so well for them in the past.
+---
+I just wanted to speculate about new elite specs, but a lot of people here are just being patronizing for no real reason (going along with your sentiment on down voting). I hope that's the case, because it's really one of my biggest draws for new content. People have also speculated its about rune balancing, which I think could also suggest many new runes coming soon
+---
+I didn't know either until a reddit post came up earlier this month debunking it LOL.
+---
+If we gave Necro a melee staff, can I cosplay Jeanne Alter?
+---
+I’ve watched this Borderlands 3 trailer at least like 10 times. You nailed this parody and it was hilarious to me how similar it is to the original trailer. Great job!
+---
+It's like anet knew I wasn't planning on spending money on anymore gems lol. I always need more of these!
+---
+they're free
+---
+That's what I do.  I still need to remember to swap before switching toons, though.
+---
+Wait... WHAT?! YOU MEAN YOU DON'T HAVE TO RESTART FROM VERY BEGINNING OF EVERY JUMPING PUZZLE?! ESPECIALLY IF YOU MISS THAT LAST JUMP?!
+---
+I love low mans. Good job!
+---
+Agreed, LA feels more like a parking lot with animal themed buildings then a actual city.
+---
+Exactly.
+---
+I can understand, why they removed the f5 as a tradeoff for choosing scrapper and his functuon gyro. But you can't simply remove the only decently sized AoE reveal in the game and think everything is gonna be ok.
+---
+I'd take both, but instead we don't end up with either ¯\\\_(ツ)_/¯
+---
+Great stuff! Hour+ lowmans are seriously intense.
+---
+&gt; Firebrand builds are very flexible and can be modified a lot between each fight...
+---
+One of the reasons I love playing guardian, so many good utility choices for a variety of situations.
+---
+From what I understand of other support classes, Firebrand probably has the most build flexibility.
+---
+reapers dont even run blood magic :C
+---
+Thats a guardian
+---
+Ah, the peak of competition
+---
+Generally, you do sustain healing with staff/regens/ mace+shield and burst ones (after big damage spikes) with tome and sometimes bow of truth. Latter is quite a staple for t4s due to it's very good numbers - also, if you can, buff it with quickness too for lulz.   
+---
+Your Alagade buddy should also press their 10 might button to make sure there are no gaps/undercaps in might uptime, so overall it's a very chill build with great support capabilities. Never underestimate the range of Staff 4 - it's enough to heal people on almost entire Arkk arena if you're the one in center, mending them up and pre-stacking some might before the inevitable burst phase after the pillar balls, try to abuse your blast finisher of staff 2 for stuff (mainly cleansing by blasting your 3/5 fields - sometimes it's enough and means you can forget about running Mantra of Lore), and learn when it's appropriate to use tomes and how.   
+---
+Examples being - 99cm third boss, after bullet hell phase he dishes out some uncomfortable DPS even if you go to "blind spots". Go to Resolve, pop 5, cover people with Bow of Truth - voila, can ignore all of the incoming damage pretty much entirely.   
+---
+Don't ever forget that your \*personal\* healing is inherently lower than what you provide to allies, because of all "outgoing" modifiers. Take care to not take too much damage unnecessary and use your heal mantra accordingly to cheese annoying attacks and CCs with that sweet aegis, preferably doing the same for your allies as well in the process.   
+---
+Another utility choice I don't see mentioned is "Hold The Line" - it's good for capping on protection uptime if you run with mace/shield on swap and to pump out more regen, a solid choice to lower incoming damage to the group if you're sure you won't need emergency buttons like Bow/Merciful Intervention instead.
+---
+"Holo is struggling to keep up with other DPS classes in the current meta. Instead of buffing the class, let's make it completely useless!" Anet 2019.
+---
+Multiple characters.
+---
+Did you mean sanic?
+---
+Its only a longer duration if you are staying in the field, its also 45second cd vs 30 of stand your ground. Depending on the group its either up before you get to the 4th anomaly(slow group) or its up as you land/after (decent/fast group). You can also cast it as all 5 are jumping from the first anomaly to the second so it you have stab for the kill and its cooling down a bit sooner so you have it for the 4th anomaly. As for the pizza slices you only have to block/stab one attack to cheese it or just walk around the boss a bit. 
+---
+For a one to one stab skill stand your ground is always(where fractals are concerned) better imo, only for chaos do I ever see the need to add in hallowed ground, the stab cheese onthe final boss is fun.
+---
+Interesting that this was done with two classes with the lowest HP in the game.
+---
+WvW rank has nothing to do with how many weeks. It only affects how many hours/week you need to spend in WvW. If you don't any WvW rank, it may take 25hrs/week at 21 weeks to finish WvW Legendary Armor. At 2000 wvw rank, it'll take much fewer hours, but still 21 weeks.
+---
+&gt; ...if you can, buff it with quickness too for lulz.
+---
+Do you not have perma quickness as the support firebrand?
+---
+Although 20 sc invincibility is an exageration, he does have his elixir s and a shit ton of barrier access that allows him to take on 2/3 people for a decent duration without barely any risk. I thought the the days of the sorts similar to Clerics druids meta were supposed to be long gone.
+---
+Chrono was in a good place, which means Anet *has* to nerf it...
+---
+Is this one of their voicelines? Like when they get to a new area or something?
+---
+Or are you referring to their overall attitude towards life?
+---
+Although Aragorn is the more accurate Ranger dude type :P
+---
+I have 213 Exquisite Serpentite Jewels.  I've crafted all the weapons I can for them.  Looks like I can use them to craft exo  jewelry with ori.  Any reason I shouldn't craft those then salvage them for ectos?  Anything better to do with them to liquidate them?
+---
+Ofc you do, in fact keeping up permaquickness is 100% trivial on healbrand. I meant buff the bow itself - it's affected by quickness and it makes it push out healing much faster. Not needed, but just fun to do if you have a charge of heal/potence to spare.
+---
+Lol don't forget that holo will be USELESS with the overheat change. Holo could barely compete with other DPS classes so just kill the class off. Awesome job Anet.
+---
+No I didn´t :(
+---
+Ahh the old Cleric's and Celestial tank days...
+---
+Ah yes, the most advances of counterplays, waiting. Damn you're so good, how didn't I think of waiting. I'm sure if I wait long enough, the enemy will just die of old age.
+---
+Nothing is a "disco party" unless you're using infusions or go for a crazy dye job.
+---
+There's tons of "normal" armor in the game, anyway. Admittedly it *is* a bit harder to get practical-looking armor looks for a human female compared to other races, but there are still plenty out there. Check the wardrobe and put together something you like.
+---
+So much muscle memory to relearn, losing the easiest distort/aegis share, and the whole "can't shatter without a clone" thing seems completely inane.
+---
+I would bet that you're okay if that much time has passed.
+---
+Golly you sure showed me! How ever will I recover?
+---
+Same here. I’ve started creating a habit of logout procedure where I clear my bags and swap my tools back to shared inv slots
+---
+I think you are the first to suggest charr. Thank you for your input!
+---
+I will definitely check out the intro.
+---
+So far am pretty much settled on doing the HoT story with a Sylvari, but am considering doing other episodes with other races.
+---
+My only concern is whether there are changes in the story depending on choises on previous episodes. For example meeting or talking about NPCs that appeaed earlier (e.g. Tybalt). Do you know if anything like that happens?
+---
+Sanic.
+---
+Lol tell me about it
+---
+You guys are getting downvoted but it's obviously true another expansion is never coming and in a short time the game is gonna be on life support with a skeleton crew to do server maintenance and release gem store stuff
+---
+They were not significant enough.  The entire meta has been the same since PoF.  FB and scourge stacking.  They play virtually the same way they've always played.  Some shade cooldowm or tomb cooldowm nerfs are not substantial considering how short most fights are these days
+---
+Nerfing everything =/= balance. Oh and op specs like Mirage remain untouched.
+---
+(Land) spears are like the oldest weapon ever I have no idea why they didn't survive the transition from GW1 to GW2. I do really hope they eventually (sooner rather than later) add them in.
+---
+You act like people don't play on multiple classes...
+---
+As far as I know they both do well in WvW as support with their HoT elite specs. And they can both provide stealth.
+---
+Mesmer can help with some interesting strategies that commanders try from time to time (e.g. portal bomb) and they have an easy time stealthing the whole zerg with veil. Engineer needs more setup and combos to provide stealth which can take some practice.
+---
+ I m curious to see how they will be after the upcoming patch.
+---
+Since you have PoF look into how you can unlock the mount. If you log in front time to time to do 1-2 easy WvW dailies and use the reward track potions for the mount track then you can get it without much trouble.
+---
+Yeah, true, I usually rush to be the first to the platform because as healbrand my dps on anomaly is virtually irrelevant - after buffing people up, I just park myself right by the jumpy thing and go in first. For cheesing fourth anomaly I hop in first and use f3-5 to hit people who are still flying behind me, then I spam 1 for more stab to make sure nobody goes knocked, for second one using heal once generally does the trick in case my group's a little slow to arrive.
+---
+It's going to hurt a lot buddy. They're changing the whole premise around the current spec.
+---
+Holo is ruined lol
+---
+Always impressive to see low man kills like this. I wish we managed our 5 man KC attempt, it's something I really wish to see still.
+---
+Yeah? You think so? Why are they nerfing classes like reaper and holo who are near the bottom of the DPS charts but buffing classes like DGH and not touching Mirage...classes that are currently at the top?
+---
+It's nice to see the acting getting better with time. Many people suggested Sylvari so I will definitely try one
+---
+Hopefully the vods go up eventually. I always liked the little dev insights on those streams.
+---
+I can't wait to be pleasantly surprised as well :)
+---

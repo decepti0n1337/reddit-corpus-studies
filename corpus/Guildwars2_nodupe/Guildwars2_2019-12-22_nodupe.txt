@@ -1,0 +1,1552 @@
+&gt; From what I've been reading it's a very strong possibility that the  groups I've been trying to join have mostly been try-hard groups. 
+---
+
+---
+I'm sorry to tell you, but almost every open group you're going to encounter is going to be "try-hard" by these standards. Wiping 5 hours at VG is not fun (you don't need to be an *elitist***™** player to realize that), so everyone tries to give their best to the group so you all can actually progress and not die again and again at gorse because there isn't enough damage.
+---
+When I play open world stuff like dailies, sometimes I go off-meta. Maybe I take out a lb with my ranger or I play a pistol/pistol daredevil, but when it's time to raid, I bring my prepared classes, use my food and do my rotation the best I can. The difference between raids and OW is not just what the game requires of you, but the idea that you are playing with 9 (or less) other players, and that if you fail mechanics, die, or you're just doing bad and lazy dps, you're wasting everyone's time and fun, which is a form of disrespect if it's not an accident but by a deliverate "I'm not going to do what my team needs/expects me to do".
+---
+If you still want to go your own way, create a static with people with your mindset and do whatever you want. But don't expect people to be okay with your gameplay on a public raid or a training guild raid (you'll see that they usually have a "required to raid" list somewhere).
+---
+The other thing you can do is to try to find something meta that works for you. I've seen your other post and, while a healing tempest can make it into a normal group, you're gonna have some trouble finding a spot. Most groups at most bosses play with 2 supports/healers: a Druid and a 2nd healer (which can be a Druid, a Scourge, a Tempest, a Firebrand or a Herald). Some encounters require a certain 2nd healer (i.e druid at mirror comps (largos)) and some alternative compositions will also require a certain 2nd healer (heal alacrigade), so it will take you some time to find a group if you're strictly a healing tempest. 
+---
+Other meta stuff that doesn't break "the fantasy" as much as holo/weaver:
+---
+* Warrior: (Power/brings Banners for the squad) Super strong right now, you can always fit one in every group (with a few exceptions), really easy to learn and play. Go with [this build](https://snowcrows.com/raids/builds/warrior/berserker/power%20banner/).
+---
+* DD: (Power) Easy to play and with just 1 weapon. You're going to be dodging, using your strong skills while the signet's active is on and doing autoattacks. Nothing particularly weird, you're a Bo master after all. [Build](https://snowcrows.com/raids/builds/thief/daredevil/power/). (It's likely that you end up doing more damage as a banner berserker than as a daredevil, but this is an alternative thing you can pull at power-friendly encounters).
+---
+* Scourge: (Condi) Easy to play but just for a few encounters (Desmina, MO, *maybe* Sabetha). You drop shades and spam weapon skills and shade skills, and use Epidemic constantly. [Build](https://snowcrows.com/raids/builds/necromancer/scourge/condition/) (use those skills for the training golem, but for actual raids, take Epidemic instead of any of the 3 utility skills, pref the minion) (you might need to take the flesh golem as the elite skill for Desmina if cc is not enough).
+---
+* Weaver: (Condi!) This might be the hardest rotation in the game, *BUT* there are no summoned weapons or stuff like that. You will try to weave the elements (which is the idea of the spec) while using a lot of weapon skills in the process, and then keep using a lot of weapon skills while the weave is on cooldown. Spam the signet and use the other utility skills when in fire. If you happen to enjoy this and master the rotation, you will become a *god among mere mortals* in terms of dps (at condi-favored bosses). [Build](https://snowcrows.com/raids/builds/elementalist/weaver/condition/).
+---
+From what I can tell, Guardian is the most popular class both in power and condi dps, but I'm not sure if you'll like it. It makes it really easy to swap roles because the class is really versatile (Power/Condi/Quickbrand/Heal). Power plays around power spikes with symbols, traps and the f1 chain, Condi and Condi Qb also use symbols, but now mantras and the f1 tome skills (4 out of the 5 or directly all of them depending on the situation), I find them super satisfying to play. Heal isn't more popular than that healing tempest, but the guardian's utility sometimes comes really handy (like for projectile reflection at Adina). All the builds are also at SC (I've barely seen the power qb, to be honest, but I guess some people will play it too. Anyways, that works at a Firebrigade composition which is not the most common thing you'll encounter, specially on trainings and public groups).
+---
+Don't give up on raids if you really want to play them, but realize that the general mindset around them is different than the roleplay-friendly mindset that lives around open world and story instances. If you want to get into groups, you have to understand why people act like that, instead of tagging people as tryhards or elitists or whatever and trying to fit an individualistic careless player into an activity played by *communalistic* involved players (the same goes for WvW or any other thing, the nature of a mode makes people behave in a certain way, you will have a better luck at it once you start to get into that certain behaviour). 
+---
+&gt; "Many players \[...\] fun out of a game." 
+---
+That quote is ignoring a particular player profile: people that have fun finding a meta and playing that way. Theory-crafting, min-maxing and getting his friends to play in a similar way, testing the limits of what the game can offer. For a certain type of person, *that* is fun, and that kind of people is going to get attracted by the most challenging (on paper) set of activities from the game, something that actually proves their capacity to make a class deal 6 or 7 times the damage that it would do without optimizations. Their idea of fun is very far from autoattacking with an holosmith, it's just a different way to experience games.
+---
+---
+---
+Absolutely ruined by that meme
+---
+[deleted]
+---
+You are absolutely right. That’s a good reason for not going over a certain number.
+---
+Dont forget to feed your new baby flying underwater goblinface shark with 24 charged quart crystal every week for the next 3 weeks.
+---
+Cross my fingers for ~~new elite spec~~ underwater legendary weapons and strikes mission.
+---
+Why not both?
+---
+To be fair alienware, insertcoin and funko arr pretty decent
+---
+have u tried using "run as administrator"? it has fixed a similar problem for me in the past
+---
+It's probably coded somewhere that in case of going too far from anchor, it teleports back to safe spot and if it's not reachable then bot prob attempts respawning and starting new lap. The other explanation could be that bot uses not a single one but few recorded paths in order to emulate randomness of real player jumps - to avoid detection and report.
+---
+Had the same in a Strike tonight. Crazy lag spikes. I’ve had a real increase in these the past two weeks, after years of never really experiencing lag in the game.
+---
+I was thinking on the guild logo beaver lol when I saw it.
+---
+Now it's as cringey as that reply   
+---
+S+
+---
+I think it is pretty obvious what happened .. or should be. MO started some side projects, in the hopes of making new games out of those, and either stop developing for Gw2, or leave it with living world seasons. With so much staff, so little content thus resulting in little income and no possible growing for the game, NCSoft felt the need to intervene. The people who were fired were most likely those developers working on the side project, along with some senior devs that were costing too much. 
+---
+MO felt like it was his responsibility that the mass firings happened, so he stayed with the company till everything was back on track then left, not only because he was at fault, but also because he wanted to do other games.
+---
+The ingame report is not enough, you should send that video (since it shows the account name) to the official arenanet email exploits@arena.net mentioned in  [https://wiki.guildwars2.com/wiki/Reporting](https://wiki.guildwars2.com/wiki/Reporting)
+---
+One superior flame ram is 50 supply and takes 83 seconds on a paper gate.
+---
+3 warclaws each pulling 20 times for total of 60 supply over 80 seconds does ~1/3 the damage.
+---
+I don’t understand your comment about a free flame ram
+---
+Why do you guys STILL think ArenaNet cares to do testing like this?
+---
+Well Anet literally have no marketing team at this moment....a partnership with a big mainstream company is probably not achievable since GW2 isnt a mainstream game with millions of players  and word of mouth advertising doesnt work when most MMO forums and magazines are just bashing the game left and right.
+---
+This is one of the few things that they can actually do atm even though anyone with half a brain knows this aint gonna bring new players at all. In order for people to notice the game out of an ad and start playing it you have to make an impression, make people pick this over the hundred other MMOs that are already released or soon to be. This is too small in the big picture.
+---
+Heh.
+---
+My least favorite map to do dailies on, that's for sure.
+---
+Weird what people will cheat at.
+---
+Considering the annoyance that followed a crash at that point is welcome.
+---
+As long as I'm given the choice of being ok with being a villain.
+---
+Wouldn't be the oddest of partnerships they've done
+---
+I get it about five or ten minutes after logging in and playing the game. It pops up about a half doze times. I click OK and continue on my merry business of committing heroic genocide on the so-called lesser races.
+---
+Yeah, you really do. Don't really need to specify that it's casual, but if you mean open world, you need to say open world. PvE as a term includes everything that doesn't involve fighting other players, so if you use it to exclude content that falls under that description, you're going to cause misunderstanding.
+---
+I just played a few hours for the first time in years. Spoke to an orphan who said I had to buy a present at a vendor and I realized how much I missed GW1.
+---
+&gt; If rich people are so much more progressive and accepting of queerness than poor people, as you say in your own words: " Proggresivism is usually a luxury of wealthy people. Upper classes are more progressive while working classes are less." then why are the richest and most powerful people in our country are the ones who actively fight against queer rights.
+---
+They are also the only ones fighting for them.
+---
+You think if you ask the average farmer or car mechanic do you think they're gonna be for or against?
+---
+Come on, are you really going to argue that there is no correlation between wealth level and progressivism?
+---
+&gt;Being gay and rich doesn't mean that people are going to accept you for who you are, or that your parents are going to understand and allow you to live how you like. Men like Eric Porterfield are not any more tolerant than others just because they're richer and more powerful. 
+---
+Being rich means you won't be as affected and you will be surrounded by people who are also more likely to be accepting.
+---
+&gt;To be honest, I don't feel that it's productive to discuss the hypothetical Asian queer billionaire anymore. You insist that if that person ever existed, there is absolutely no way, in any shape or form, that he would face similar issues with his queerness as I do, despite how many examples I list of struggles queer people face regardless of wealth class, as also the struggles Asian people share regardless of wealth class.
+---
+What examples did you list? The only ones you said were generic ones like keeping secrets, being afraid to dissapoint your parents or having too many expectations placed upon you, all of which are universal.
+---
+&gt;Being rich doesn't make it easy to come out as gay, being poor doesn't make it hard. It's impossible to tell who's poor or who's rich by reading the experiences of the people this reddit thread.
+---
+Come on, are you really going to insist that there is no correlation between wealth level and progressivism? Do you think the average mechanic in the rust belt is going to be equally accepting as the sillicon tech startup millionare?
+---
+&gt;The point about me going to her house and getting culture shock wasn't all that unique in my view, to be honest, since anyone who's poor and goes to a well-off person's house, or anyone who's rich and goes to a poor person's house would experience that shock of seeing 'how the other side lives', so to speak.
+---
+Yes, and that's what makes it special. Because not everyone is going to do that. Most people aren't going to experience class shock because most people live in their own social circles.
+---
+&gt;I'm not saying, "Because I'm Asian, my life is sooo different and more unique!" I'm saying that Asian culture has some bullshit to it that Asians have to sift through; Latino culture has bullshit in it that Latinos have to sift through; American culture has bullshit that Americans have to go through in order to be who they want to be and live how they want to live. Like, I don't understand Church culture or know any of the expectations Midwest families put on their children. If someone explained it to me, I would understand and I would relate. But I don't know it and I don't get how it feels to grow up in that just because I share the same tax bracket as some people in the Midwest.
+---
+Except that's the thing you're missing. That culture in the modern world, especially in a melding pot like the US, is primarily defined by wealth, because that's what limits what kind of culture you have access to.
+---
+A poor person can't regularily go to the opera or study multiple musical instruments, and a rich person isn't going to be living on cheap food. Culture does not exist independantly of wealth and is molded by the resources that are available to it.
+---
+&gt;Want to know a life experience that's surprising to me? That in the Midwest, people like to make meals like mac'n'cheese with cut up hot dogs or tuna in it. When I first read it, that blew my mind. It sounded delicious. Then I found out that for the most part, it was a poor people thing; people ate that because their moms and dads were working long hours all day, and when they finally got home and had to feed the kids, they needed something quick but delicious and filling to put together. So, 5-minute mac'n'cheese with a can of tuna in it - leaving enough time for the parent to rest up for the next day of work tomorrow.
+---
+&gt;That was something I never could've imagined, because even though my parents worked all day as well, that wasn't something they did for me. My family used to be farmers in China - they were refugees from the Chinese civil war, and my grandparents had escaped with their children in tow. In America, my parents worked 13, 14-hour days every day at the restaurant, and I would never see them except on the weekends as they left for work. My grandmother was the one who raised me; she had a small crop garden in the yard so that we'd have some fresh Chinese vegetables, and she cooked every single meal me and my siblings ate.
+---
+Well yeah and the kids of a midwestern farmer are going to have the same experience. If they have a readily available food source there's no need to buy fast food. This again is more closely related to class than it is to actual culture.
+---
+&gt;In Chinese family culture, they don't discuss feelings. I didn't understand that for a very long time. I saw in American TV shows moms telling their kids, "I love you so much," and I always wondered why my parents and my grandmother never, ever said to me, "I love you." Why didn't they hug me like American parents on TV hug their children. Is it because they didn't love me? But at least they didn't hit me or abuse me, like the parents who hated their children on TV did.
+---
+TV is not a representation of life. Its a representation of a cometee approved plastic polished act that sells.
+---
+Getting your knowledge of other american culture from reality TV shows is like studying greek mythology from disney's hercules.
+---
+&gt;I don't know if you ever heard of or watched the Pixar short film Bao, but if you can spare a couple of dollars I really recommend it. I cried when I saw it. Even without words, it showed exactly the relationship I have with my grandmother. It captures an experience that most Chinese and Asian immigrants had, and one that I hope you and everyone could relate to and understand too. 
+---
+That's not an experience only chinese peopel have though. All parents get sad when their children leave the home. Why do you think this is exclusive to chinese culture?
+---
+&gt;It's alright that you can rightfully say my life is defined by my parents being poor and working class if that's what matters to you, but I hope you can see that there is some value in what I've been sharing with you.
+---
+This is my problem, you keep bringing more and more examples, but every single example you bring is either relating to your class or universal, not you being asian.
+---
+Gay acceptance is much higher on the wealthier classes, being gay is easier when rich, everyone keeps secrets, everyone has expectations, all parents miss their children when they go away, kids of farmers will eat better than kids of poorer people without access to another food source. TV is not reflective of reality.
+---
+For some reason you've connected your problems to your identity when all of them stem from your class.
+---
+Is that Garfield
+---
+Come on, are you really going to insist that there is no correlation between wealth level and progressivism? Do you think the average mechanic in the rust belt is going to be equally accepting as the silicon valley tech startup millionare?
+---
+Gay acceptance is much higher on the wealthier classes, being gay is easier when rich, everyone keeps secrets, everyone has expectations, all parents miss their children when they go away, kids of farmers will eat better than kids of poorer people without access to another food source, TV is not reflective of reality, and so on and so forth.
+---
+Rich and powerful people are also the only ones fighting for them.
+---
+You think if you ask the average farmer or car mechanic they're gonna be for or against gay rights? 
+---
+Come on, are you really going to argue that there is no correlation between wealth level and progressivism? 
+---
+Proggressive ideals always stem from the wealthier and upper classes.
+---
+Yes, and that's what makes it special. Because not everyone is going to do that. Most people aren't going to experience class shock because most people live in their own social circles which are composed of people of the same class.
+---
+A poor person can't regularily go to the opera or study multiple musical instruments, and a rich person isn't going to be living on cheap fast food. Culture does not exist independantly of wealth, it is molded by the resources that are available to it.
+---
+TV is not a representation of life. Its a representation of a cometee approved plastic polished act that sells views.
+---
+Getting your knowledge of american culture from reality TV shows is like studying greek mythology from disney's hercules.
+---
+That's not an experience only chinese people have though. All parents get sad when their children leave the home. Why do you think this is exclusive to chinese culture?
+---
+i dont even want to look ahead anymore.
+---
+How come he is so small
+---
+Thank you!
+---
+Ok.
+---
+The only value I find here is the charged quartz, for provisioner token, that's 300+++ time gated days gone. and some charges quartz time gate crafting. Other than that everything else seems meh
+---
+Honestly, i wouldnt expect much in Q2 or Q3 either, in Q4 we might get another look at something that will not really change anything in WvW, still waiting on this so called Alliance update they mentioned back in August.....
+---
+Does anyone else find the timing of this "blog" post from Anet strange, we get a post on reddit from a 3rd party site question GW2 and management etc, then suddenly this blog post about what next year will look like.
+---
+No idea why,  but every time they fcking do underwater sht or anything about water monster. I just get that quaggan in my head at Teq saying.
+---
+"There's something in the water"
+---
+ya don't say
+---
+But you can only pick up 1 Pearl per day.
+---
+TP listings staying indefinitely is such a huge, huge design flaw. It leads to a surplus of items that can only be fixed by deliberate item sinks.
+---
+In other games you put some items on the TP and if the listing runs out you sell them to the vendor. Thereby reducing the supply and making the items more valuable, paradoxically. It's a self-regulating system and much more satisfying than getting a drop and immediately seeing that there's 16 billion of those items on the market.
+---
+&gt; Explain to me how it is any different from people doing silverwastes. Its literally the same thing. 
+---
+Rewards.  Anet didn't want PvE players using EOTM as a champ train.  Use PvE maps to do that.
+---
+You can try this sugar dough recipe which worked well for me using shape cutters.
+---
+Flour 700g
+---
+Baking powder 2g
+---
+Icing sugar 240g
+---
+Ground almond 40g
+---
+Cocoa powder 50g
+---
+Butter 380g
+---
+Eggs 50
+---
+1. Combine dry ingredients together, mix in butter, then the eggs.
+---
+2. Roll sugar dough to 2mm.
+---
+3. Place in freezer to harden.
+---
+4. Use cutter to cut shapes and place the shapes onto a baking tray with silpat or silicone paper.
+---
+5. Bake in oven at 140 degrees Celsius, for 10 minutes. Note that every oven is different so the baking time can vary.
+---
+Yep, that's right 🙂 
+---
+Especially since we're in Far Shiverpeaks now, a Norn representative fits great for this.
+---
+You could also spot Anja in the Prologue trailer near the Metal Legion concert.
+---
+She, along with Duncan and with another female human, which I forgot the name of but I assume she would be the representative of HoT commander fighting an holographic beast in Hoelbrak during Dragon Bash.
+---
+Basically Anja is "GW2 devs PC commander" in GW2 Saga trailers, etc. As Duncan was representative in PoF.
+---
+Really nice, tbh.
+---
+There was also a female Norn representing the PC Commander in Living World Season 1, in golden plate armor and with red clothes, and having brunette ponytail.
+---
+There's a few things missing. You can still submit reports for the HoT beta. Makes me wonder if the ingame support system is bogus and just for show.
+---
+Imagine seeing a human sized shadow on the walls in-game, like what you see in the trailer, then watching it grow bigger and bigger and realizing it's coming closer.
+---
+oh
+---
+Yeah, I did this too, I actually rerolled two human characters to do PoF story again, one who was blessed by Balthazar and the other one by Kormir.
+---
+100% worth it, I would say too. I LOVED IT!!! 😍😍
+---
+Also; wasn't expecting a dick-pic here
+---
+So on the raid/fractal front, there’s some thinking through here you either haven’t yet done or you may be missing some context.
+---
+Time between raid wings releases grew slowly over time.  Whether that was difficulty, resource alignment, etc. isn’t entirely clear.  What we do know however is that the Raid &amp; Fractals team we’re eventually reshuffled to become one team.
+---
+At some point (before/after W5 I believe?) it was mentioned that fractals &amp; fractal CMs were intended to be a stepping stone into raids.
+---
+This is a likely indicator that anet was trying to increase the raiding population (probably to validate working on raids as content).
+---
+Then we got Deepstone &amp; Siren’s Reef down the line (as well as W6&amp;7).  If the hypothesis that fractals were a stepping stone into raiding then it would logically follow that introducing new fractals would increase fractal population which would sort of filter into new raid population.
+---
+Then we had the announcement for icebrood saga where they said strike missions would be the stepping stone into raids.
+---
+But we already had that.  Which to me reads as the team who was working on raids/fractals has now ‘probably’ been dotted lines to the LS teams so they work on raid-like 10 person encounters that is also usable as story encounters.  Doing this has a sort of scalar effect on value per dollar spent from a business standpoint, but it also means that we likely don’t have as many (if anyone) working in fractals/raids now.
+---
+Ita free to unlock. Once its unlocked on the account you wont have to pay for it.
+---
+The episodes you unlock are not only for lore purposes they also have benefits too. Ls2 has many central Syrian mastery points in the achievements, ls3 is a great place for ascended jewellry that's easy to obtain.
+---
+You have to complete PoF story episode 1 for the raptor and whole story to begin the collections for Griffin.
+---
+HoT story also rewards a key for one part of it.
+---
+I particularly liked the VARIETY of PvP modes available.  HA, JQ, FA, AB, GvG, RA/TA.... all of that  and even the RA/TA stuff was randomized in itself so you weren't always playing the exact same conquest mode on the exact same maps.  I was really excited when Stronghold was announced in GW2, and if they had given it the extra maps, balance, and attention it deserved (as well as its own rankings and tournaments) I would probably PvP more in GW2.
+---
+And of course I got the stupid glider/backpack in the 13th one I opened, not even wanting the damned thing, and unable to sell it. I'm just after the statuettes.
+---
+&gt; Also, if you spend that much money on keys, you'd probably get all of these skins through wardrobe unlockers first anyway.
+---
+I don't get nearly enough unlockers to guarantee filling up even a single set, and that's if I get to choose which skins I want (which I don't).
+---
+You can change stats on legendary items freely, and on the spot.
+---
+Ascended items however requires additional ingredients and the mystic forge.
+---
+See link for a more detailed explanation : https://wiki.guildwars2.com/wiki/Stat_changing
+---
+Yes. It's a Red Dragon RX 5700 XT 8GB. Why do you ask?
+---
+(this was a significant upgrade from my last GPU so I was excited, it was also within my budget at the time and I can't afford a different one now)
+---
+I will try this, thank you. Is there any word from Anet if this is allowed?
+---
+You Can change the stats at will on Legendary not ascended. 
+---
+Ascended Rings, Amulets and Trinkets are fixed stats if bought with the stats on them or you can change them if buying them for the first time if they have not stats when you buy them.
+---
+Some you can change after buying like the Bloodstone ones from Living Story Maps.
+---
+Middle penis?
+---
+At this point only Weapons and Armors can be reforged into new gear with different stats.
+---
+Trinkets can't, with two exceptions: Mist and Bloodstone trinkets can be modified to have different stats, and they require a Capacitor to do it.
+---
+https://wiki.guildwars2.com/wiki/Mist_Capacitor
+---
+https://wiki.guildwars2.com/wiki/Bloodstone_Capacitor
+---
+Do not trash that trinket if you don't want it, tho. Jeweler only has level 400, so one day they may extend trinket crafting and change how they work.
+---
+You can keep it in the bank for the future, or salvage it for a chance if salvaged excellence.
+---
+https://wiki.guildwars2.com/wiki/Salvaged_Excellence
+---
+Log in. Do CMs and daily fracs, then dailies and maybe loot home instance of guildies.
+---
+As always there is risk involved with 3rd party tools, although D12 doesn't interfere with the game.  
+---
+I have sensitive eyes so if d12 is ever ban worthy they won't have to ban me because I won't be able to play the game anyway....
+---
+Well with the dx 12 thing i get 70+ frames even like in a full mistlock instance and i got a r5 2600 so not the best single core cpu. Plus the stuttering is gone. 
+---
+At least there is a workaround for gw2. Currently playing Risen 2 where no matter what graphic setting i use the fps stay the same at like 54. I honestly just can't be bothered to trouble shoot the problems with the card anymore. Hope you have a better experience in the other games you play.
+---
+Meanwhile cheaters in CN ser. let's be grateful they have their own separate servers lol.
+---
+https://streamable.com/ccfz9
+---
+Thank you for keeping me informed. Chris Cleary also doesn’t work there anymore so cheaters/hackers probably have a better chance of getting away with things now.
+---
+This is why it's awful people shot down and mocked the people asking for story modes of raids.
+---
+It would have served the same purpose and done exactly what it did for WoW and FFXIV. Fixed the problem that raids were too much time investment for such a tiny fraction of the playerbase, while also giving casuals and less skilled people something new to do.
+---
+Instead they created this weird thing on it's own that kinda lets casuals have something to do, but still kept the problem of a solid 90% of your playerbase will never experience the stories of raids that do exist.
+---
+If you care about central tyria Masteries then use gold to get some episodes if not then YouTube season 2 if you care at all about the lead up plot to HoT. 
+---
+Basically s1 goes like this salad lady goes bad tries to kill everyone. S2 tracing salad lady’s footsteps to find out what she knew about the jungle dragon and a mysterious egg. “let’s go fight the jungle dragon yay!” Time for HoT
+---
+DMZ doesnt allow all connections. Its actualy second layer of security. So what you want to do is turn off DMZ.
+---
+How DMZ works: For example you have your PC, you want to download something, first these files will go to DMZ and if DMZ Firewall has a rule that allows that packet go to your PC, it will send to your PC and then firewall of your PC has to have a rule enabled to let that packet in.
+---
+Another thing that came in mind- by any chance your PC time/date is fucked? If your motherboard internal battery is dead, it will cause your time and date to be incorrect.
+---
+Ah I did not know that, thank you kindly for the explanation. Since this is the case then I fear with my specific router that there is no way to turn off the firewall. I’ve sorted through the settings through and through and have found no way to actually turn it off. 
+---
+Motherboard battery *seems* fine, date and time are in check!
+---
+They've been taken out back to get shot like dungeons.
+---
+Looking good. I love the nice clean layout. Keep up the good work
+---
+Does DX12 allow turning down particles and such? I find myself overwhelmed too
+---
+I definitely do have a better experience in other games. I am really enjoying the card, no issues except for gw2.
+---
+So you’re getting carried and making it harder for everyone else in your group and you’re ok with that? Yikes man.
+---
+Put an asura in the middle of the Arena and play with a hammer as a guardian.
+---
+It often happens to me, especially during cutscenes - but as you say, very predictably at certain points of the game. Somebody recommended to me to keep sending the game input (press WASD, skill 1, etc), and it seems to help.
+---
+Thanks!
+---
+The problem that of this game turned monthly feed a lot of ppl would quit.
+---
+If they wanted monthly feed it should have been since the beginning. Only thing keeping me playing this game everyday is def my guild. Most of them leaving would mean me Leaving too, and just move to another game that won't force us to play to pay.
+---
+Mb it would get another player base, but it's a big gamble. Considering how old the game is now
+---
+I think they are doing it in order to make ryland more appealing as a character. We don't really know him, and all we really know is he ran off and 2 characters want to save him while one is pissed off.
+---
+By going to a vision of him, we as players can grow more attached before we run into him again in main story
+---
+Well if you aren't willing to pay then you lose your right to complain about a lack of content. Pretty simple.
+---
+The hard part is the open world stuff. These would end up being large instances which would not necessarily stay populated. Thus, they need to do scaling to make it work...
+---
+I actually suppose this game a lot. So yes, I'm allowed to complain. I just don't support the policy of pay to play. If that would come to gw2 it would be a game I had to leave behind
+---
+This sounds like an oxymoron. If you support this game a lot then why would $10 a month be such an issue?
+---
+Followed Guild Wars into maintenance mode, if that.
+---
+Is the One i use. Multiple account , trace item craft and achievment, timers. U will love
+---
+That's a good game right there.
+---
+Didn't anet kill champ trains in pve as well?
+---
+This was typed on a phone, forgive the terri le spacing.
+---
+I turned post processing off in the game settings. I think re shade has more granular options but I haven't tried it.
+---
+if you're playing the game,  you've already unlocked whispers in the dark. Once unlocked you can play it when ever you want. 
+---
+If you don't care about lore, I suggest playing tbe first HoT episode (gives basic glider) and first pof episode (gives basic raptor).
+---
+I would then suggest getting and maxing the springer mount, by playing pof maps, before you go back to HoT maps.
+---
+As it really helps in HoT.
+---
+There are a few apps out there and everytime I install them I end up un intalling them as they dont get updated regulary enough so things dont update properly. According to one app I am still making all my items for the underwater legendaries, but I finished them months ago.
+---
+I just use GW2Efficiency on my phone.
+---
+And then you got his finger in the inventory and it looked like a dick :)
+---
+What?
+---
+And probably bannable?
+---
+&gt;such as quality of life with pvp and pve.
+---
+For PvE I'd say you really want to have -
+---
+1 invisible bag where you want to store items you dont want to accidently salvage (like unidentified gear). 
+---
+[Salvage-o-Matic device](https://wiki.guildwars2.com/wiki/Copper-Fed_Salvage-o-Matic) pretty self explanatory.
+---
+[Armistice Bastion](https://wiki.guildwars2.com/wiki/Armistice_Bastion) probably the best pass, unless you really interested in fractals or just love cosmos scenary a bit too much. 
+---
+Stealth is good. Its awesome. If you class dont have access to it, get those bundles. 
+---
+[Stealth Kit #1](https://wiki.guildwars2.com/wiki/Ash_Legion_Spy_Kit)
+---
+[Stealth Kit #2](https://wiki.guildwars2.com/wiki/Harpy_Feathers_(consumable))
+---
+Jumping Puzzles? Get this - https://wiki.guildwars2.com/wiki/Prototype_Position_Rewinder - The best.
+---
+PS There is other items with great value, but these I believe are "must have".
+---
+Well, I think the idea is Red is given to the winners of last matchup because it’s assumed they’re already somehow advantaged.
+---
+you "waste" buff time trying to gain buff time tho? Getting 2hr worth of buff in 20min you really only got 1hr 40m while the snow flake only takees 5 seconds :c
+---
+It's only in the lowest tier that loses get red border and red side EBG. Other tiers, the winner of previous week gets that. And that's good because of challenge to climb through tiers.
+---
+I really wish they'd give eotm pips. I like it way more than the main wvw maps, the fact that it just kinda shriveled up and died makes me sad.
+---
+You are welcome and thank you!
+---
+I am always glad to help :).
+---
+\*Happy giggling" Thank you!
+---
+Thank and aye aye captain!
+---
+U bet. Being ganked while u just want to do something is terrible. I did my first map completion for legendary when obsidian sanctum was required . I hated it so much
+---
+PvP is unbalanced as fuck
+---
+Red bl is the easiest map to defend, the fastest map to upgrade and the fastest map to generate supply.
+---
+&gt; movement in this game is strange. once you are moving in client side, the server assumes you are going a given path until you jump or change direction.
+---
+That's not weird, that's called extrapolation and is one of the methods used to compensate for latency.
+---
+Platforms can disappear in the JP tho so it's probably a way to ensure the bot comes back in that case?
+---
+The underdogs should Be the underdogs.
+---
+What? You think Anet should buff the worst or reward the best?
+---
+Your logic seems skewed.
+---
+Farming zombies..
+---
+The only people that think it's a good addition are carebears desperate to not get farmed.
+---
+Greetings, I'm writing an article for Popular Usury Magazine and I'm trying to nail down some industry best practices for orphan exploitation.
+---
+So tell me, how much karma are you getting per orphan?  I've heard tales of over 4k per orphan harvest unit (OHU).  Are those just rumors?  Thanks!
+---
+The mount lets you respawn faster, so you need to die faster as well. The instant stomp is working as intended, without it fights would snowball forever.
+---
+It's like you people are new to anet doing wvw.
+---
+Anet listens to pve plebs feedback over wvw features because "they would play more !!!". 
+---
+Features turn out to be trash for wvw and anet attempts to fix the most blatant issues over the next 1-2 years. 
+---
+Repeat. 
+---
+Remember this sub found desert bl pretty and a great map and had no issues with warclaw. :)))
+---
+You get satisfaction.
+---
+So even if someone was botting it doesn't impact the economy or the other players gains?
+---
+Even if any of those visual bugs still happen, they are extreamly rare and have no impact on the game.. Worse thing is a good laugh when it happens, which still yet happen to me. So stop throwing shit around chanting how everything is bugged, coz it is not. Dont bother reply.
+---
+Here you have a list of the different types and their effects: https://wiki.guildwars2.com/wiki/Damage_type
+---
+Try watching disk activity with task manager during your loading screens. My hard drive isn't the best so sometimes a windows process will take priority and slow down my loading times, and rarely the game refuses to load the first map at all (fixed by disconnecting and reconnecting to wifi). Our situations probably aren't the same but I hope this gives you some ideas.
+---
+Put your items into your bank. Make your new character. Pull the items out of the bank. 
+---
+As for currencies, they are account bound so every character has access to the same gold or karma etc
+---
+True, the sooner you realize this the better.
+---
+[There's material for years.](https://www.youtube.com/watch?v=7L2WN2whj1U&amp;list=PL_YBKXszFjz2UkoaNujhPX95gbUNTCyZU&amp;index=5)
+---
+I mean, you quite frequently find groups that are not dependent on an offhealer in pugs for various encounters - Gorseval, MO, Sabetha etc.. And in the encounters where it is generally better due to high pressure, you will want the scourge to take sand savant and more healing power anyway. Insofar as a second healer is desired, you will want to carry the group harder than Plaugedoctor scourge, and if you're playing low-pressure encouters, no second healer is desired anyway
+---
+The new pvp dev dude who joined and used to be a player is giving me hope though, as soon he joins he is doing a general tone down on every elite spec and is planning on gutting the mount in wvw. I really foresee great things from now on.
+---
+I understand nothing from this. I Think ppl just posting random photos from their galleries to here now :/
+---
+/u/KairuByte You're one of the other LB devs.  You know whats going on with this?
+---
+Having a vendor window to click on the item and buy x amount would be 100x better than waiting 5 seconds between each use.
+---
+weird flex but ok
+---
+There's a reason that damage types are either phased out or made irrelevant these days - across many ongoing games, not just in GW2. Particularly in games where you only control a single character or unit. Having many damage types doesn't make those types of games better, it usually makes them worse. Right up there with racial combat bonuses for possibly least enjoyable combat feature.
+---
+No, I got all the downvoting only for "As a Gw2 player since day 1 this a great christmas present ... Ty Anet &lt;3"
+---
+ I added "Get enough of all these sissy whiners downvoting people who loves this game: 12 nolifers and counting."  later
+---
+Also the Candy Corn Gobbler STILL rolls for strength boosters, armor boosters, rejuvenation boosters, and speed boosters in WvW where those no longer work, making it so the gobbler is even less reliable. 
+---
+Boosters that don’t work in certain modes shouldn’t be removed in those modes, they should just be paused or hidden.
+---
+I remember there is a dialogue in rata sum where you talk with Canach about feeling Mordy's presence withdraw. Also the mordrem soldier easter egg is different as a salad. Great expansion :(
+---
+What is wrong with your penis
+---
+Level 78 with 72% map completion... Yeah, seems legit... 
+---
+What I'm saying is you get too much experience for exploring for that to be the case, if memory serves.
+---
+Report it as a no context image. That's specifically against the subreddit rules. If enough people bury the mods in reports, they might actually start enforcing it.
+---
+will affect maybe one dialogue\*
+---
+seriously, HoT was actually cool as a salad but it's been completely downhill since then
+---
+is this satire?
+---
+Gotta rope in the old playerbase with nostalgia
+---
+&gt; I find it sad that people feel the need to be rude if they didn't understand something.
+---
+There was nothing rude in the comment made by /u/Lazanyeah. You broke the subreddit's posted rules with a worthless, no-context image. The fact that /u/Lazanyeah pointed that out isn't rude. Your post wasn't understood because you provided no context for it which is exactly why that's against the rules of the subreddit.
+---
+It's what? 45 minutes or so on a train? Even less if you plan ahead and grab testimonies, maybe 1-2 hours if you solo it what exactly is the issue? If you plan ahead you'll have it unlocked far in advance.
+---
+Interesting. Was wondering about that too and after checking how many JPs I can do in the 30 min timelimit and doing a couple of bell choir songs I had the feeling that the JP is much better.
+---
+I was able to finish the JP 17 times and that was with failing twice before reaching the fire spot. So finishing it 30 times an hour is probably on the lower end. The other day there was a post about JP shortcuts that would make it possible to get up to 20 finishes in the 30 min time limit (but probably not consistently).
+---
+It's also important to note though that the JP has this problem where you join an instance that has about a minute left and you just have to wait for it to be over. Same goes for the bell choir though I guess.
+---
+that's alright, my fault for not staying more informed and checking more often :) I liked MO I think he was good for GW2 but MZ seems to handle it just as well
+---
+Another is some Destroyers at the Fire Islands receive more damage if Chilled.
+---
+Last few times i tried using gw2sidekick the API was stuck loading for ever and I can't get it to work
+---
+Oh wow that jump. This is another reason why I don't advocate getting a mount ASAP. So many fundamentals lost. You can see the progression of movement:
+---
+* Core
+---
+* Aspect Crystals
+---
+* Gliding
+---
+* Bloodstone Fen
+---
+* Lava Tubes
+---
+* Druid Vines
+---
+* Mounts
+---
+I guess I have a reason to save those little statues until they get added. Hopefully they won’t be anywhere near the outrageous number needed for the wintersday set lol
+---
+I agree with this, ascended food buffs being removed because of various wintersday or PvP activities is a nuisance to me.
+---
+12000 hours? Those are rookie numbers. 7k+ And counting. I just regularly take breaks and come back eventually. Eg last week i was being kept busy doing skyscale collection. Ive got 2 leggy armor sets from raids. I could and kind of want to get a 3rd leggy armor set but i dont have the time to grind it sadly.
+---
+https://www.reddit.com/r/Guildwars2/comments/ebc8gn/please_make_it_easier_to_unlock_the_elite/
+---
+&gt;A full round of Bells Choir consists of some waiting at the beginning (before the "match" begins) and the end (scores), 8 songs and 7 potential "waiting for other players" breaks.
+---
+Wait, aren't there 6 songs?  two easy, two medium, two hard.  That would match the rewards you listed (2+2 + 5+5 + 7+8), and what the Wiki states.
+---
+Shortbow 2 is effectively a melee skill if you want to spam it for dps because of this.
+---
+That is probably responsible for a bunch of broken events around the game
+---
+Do you use any third-party antivirus programs?
+---
+I totally feel you.
+---
+Guild wars 1 always felt instant rewarding. I don't know why but still after so many years I'm also just happy playing some missions and testing different builds and classes again.
+---
+Playing some speed clears or just trying to finish elite areas or dungeons with friends would be still very fun. I helped a friend playing the story again and it was so much fun.
+---
+Playing gw2 storys for a second or third would just feel "nahh". 
+---
+I don't know why and how guild wars 2 failed at this point.
+---
+I mean I also love gw2, running fractals and raids again and again with different builds and classes was Soo much fun. I'm also the kind of guy who loves running simple dungeons with guildies again and again. And also the last story chapter with zhaitan (not the fight) and listening to "fear not this night", the aurene thingy, and also the personal development of some characters still gives me chills (great job). Too add this I never played a story chapter more than 2 times, even if it was a great story. Somehow gw2 is missing something....something guild wars 1 had. Something that makes me excited about playing missions in normal and hard mode several times. But I can't totally tell what exactly...but I think it's also about how unrewarding gw2 feels at several points.
+---
+It sounds simple but sometimes I also miss to farm fractal lvl 40 or CoF 5, 10, 20 times and even more a day.
+---
+Farming Doa, fow, uw and dungeons multiple times a day in gw1 also was Soo much fun somehow.
+---
+Why would I delete gw2.dat when two other devices at my house and at my work are stuck at 0 percent as well with no files downloaded, that doesn't make any sense, and at this point fuck arena net
+---
+The Jade Maw used to be defeatable by spamming life steal on it.
+---
+Have a friend download the game completely and send you the Gw2.dat
+---
+Do a clean install of Windows
+---
+Disable firewall, antivirus, and host blockers entirely
+---
+Change the ArenaNet servers you download the game from
+---
+Move to a different country 
+---
+Go to a university and download it there, possibly on someone else's machine
+---
+Install it in VirtualBox and transfer the Gw2.dat file out
+---
+Create a macOS partition of your hard drive, install it there, and transfer the Gw2.dat file out
+---
+The level of stupidity is over 9000
+---
+yeah man, GW2 definitely shines in a lot of areas, but the investment 4 reward is just wayyyy too low. I mean I feel like Drok's running in gw1 was more rewarding than anything gw2 has to offer lol.. its a damn shame.
+---
+Imagine expecting Reddit to understand sarcasm without a "/s".
+---
+If you want to spam it, you need to actually watch the animation and only press 2 a second time when it's right on top of the enemies you want to hit, or don't press it a second time at all and just let it hit the ground as a blast finisher.
+---
+Don't activate Cluster Bomb again until the first shot is done.  Yes, this means it's not really 'spammable', unless you're in melee range.  And spamming it in melee range (without detonating) is a valid tactic for getting lots of blast finishers in quick succession, more than most other classes can manage.  Do it in a fire field for Might gain, or in a smoke field for extended stealth!
+---
+It currently is, yes.  Might very well always be, too, we'll see!
+---
+What exactly are you struggling at?
+---
+so weird how your English magically got a hundred times better than it was 20 minutes ago
+---
+Just a note for OP on the position rewinder, and this is just my opinion. That item trivializes jumping puzzles. You know what kind of player you are, if you enjoy figuring out and executing platform style challenges, I'd stay far away from it for now.   
+---
+  
+---
+It is super useful and a huge frustration reducer though, and if you find JPs hard to complete and unfun, it will change your life.
+---
+They are all doable with low man groups, why nerf them?
+---
+Right? This is the only problem I wish they'd figure out and address. Like mine usually just "times out" or disconnects instead of full on crashing. That's what I want fixed. /Rant
+---
+I'm not sure why they can "see" you in stealth in the first place, but once they do, they will chase you no matter what, until they catch up to you.
+---
+When they *do* catch up to you though, they won't attack if you're in stealth still, and just lose aggro and wander off.
+---
+So what you do is, while remaining in stealth, stand still for a few seconds. You let them catch up, lose interest, and start walking away. At this moment you keep running.
+---
+That's also a good point, you had sooo much stuff you could farm in gw1. Easiest was farming Doa and buying your stuff but I nevertheless loved jumping to simple gold weapon farms, elite/normal tomes, dungeons, material like feathers, ectos, obsidian shards, kurzick/luxon points, green weapons, Nicolas items, eotn points, skins, softcons, holiday items, destroyer cores (and other of that stuff for cool armor) and so on.
+---
+The best thing about it was figuring out an own build too farm that stuff and adapting your build to your playstyle.
+---
+I think they actually removed the mini JP that allowed you to climb blue towers ;_;
+---
+Anet had to completely redesign ogres just to deal with people going underneath the map.. they redesigned an entire tower because of a 5' square glitched part of the map that wasn't even inside the tower to begin with..
+---
+The answer to "why is X like this" when it comes to Wvw is always the same.. anet is incapable of anything more than a half baked bandaid.
+---
+With no dedicated wvw dev.. you *CAN* expect to continue seeing bandaids applied on bandaids til the mode is completely dead. There is no other outcome with it's current trajectory. No future warclaw balance(fucking goofs) is going to change that.
+---
+100% Yes red team ending up in dbl makes no sense. With dbl being greens map it wouldn't be so *deserted*.
+---
+it's especially crappy to necros because it also kills all your minions and puts them on CD every time you get a transform
+---
+Just do not buy
+---
+ Nothing in gemstore is needed for anything but fashion war
+---
+oh man what was that skill called in gw1 that allowed you to gain the elite skill of a miniboss? that was such a cool concept
+---
+damn nostalgia is hitting me hard rn..
+---
+also is it me or was random arena for ZKeys like miles better than anything gw2 PvP besides maybe legendary gear?
+---
+This video? https://youtu.be/_F7kgM52aus
+---
+I could see it. Recently leveler a chat through mal comp. Startet at lvl 30 and ended slightly above 70% map comp
+---
+You can't hit WC from dredge anymore.
+---
+Cata spot WC is the easiest to deal with using mortars and trebs from keep. Only works when you ninja or outnumber.
+---
+You can treb sm outer from QL, duri and WC
+---
+&gt;oh man what was that skill called in gw1 that allowed you to gain the elite skill of a miniboss? 
+---
+[Signet of Capture](https://wiki.guildwars.com/wiki/Signet_of_Capture)?
+---
+Signet of capture?
+---
+There's not 8 songs....theres 6. 100 points per perfect song and 600 is the max score possible.
+---
+still the same troll
+---
+lmao already did
+---
+ Install it in VirtualBox and transfer the Gw2.dat file out 
+---
+LOL Create a macOS partition of your hard drive, install it there, and transfer the Gw2.dat file out 
+---
+nice edit on the duh, you have a nice life, peace
+---
+Signet of capture (:
+---
+Yeah random Arena was also a lot of fun, I really enjoyed farming those zkeys.
+---
+Balthazar points in general, like doing daily zaishen quests or daily trapping. Sadly I never really played gvg or heroes ascent.
+---
+considering NCSoft is a Korean company, who very much supports the grindy mmo/pay to win model, I think they'd laugh at you for calling gw2 grindy
+---
+&gt; For what? the amount of gold
+---
+Look at GW2 but remove the rewards. Do you still like the game? The only thing you are talking about are rewards.
+---
+Not true. If you climb up a tier you get red BL.
+---
+You can't cast a second CB until the first either hits the ground or you explode it. You can't spam the skill. If you need to damage at range you go rifle Deadeye, or pistol pistol if you can't kneel of there are many ads likely to intercept your death's judgement
+---
+So a Monkey with a hand busy toying with his banana can do them, while watching the discovery channel on the second monitor.
+---
+Obviously noone wants content that you need to pay attention for, or Grenth forbid, needs some actual investment into gameplay mechanics.
+---
+YES Thank you!
+---
+Np :D
+---
+No such thing as too hard raid boss. Emptiness of LFG is not because of difficulty.
+---
+Some bosses have more mechanics than others. Difficulty is determined by the squad itself. How well players know mechanics?
+---
+Mondays and evenings are much more busy than other days if you are struggling to find a group.
+---
+Back in the day, you could kill WvW targets with Righteous Indignation by dropping a dark field and having people use finishers that caused life steal.
+---
+From the same guy who made a troll post about racism earlier.
+---
+Stop trying
+---
+same bad troll as 25 and 24 days ago.. lol
+---
+where do you get snowflakes year around other than the player market (auction)?
+---
+I like your idea, but I fear Anet would remove some of the wonderful buffs you get.  The boons from Candy Corn Gobbler are far superior to the Snowflake Gobbler.
+---
+As a compromise, I would be okay if they upped the candy corn needed to give us the suggestions you are requesting.
+---
+look at gw2 but add 1k g+ 1/1000 drops to every dungeon/raid/fractal. Think more people would find drive to grind?
+---
+But its already piss easy to unlock specs...
+---
+Blue is worst eb keep since you can take down outer and inner at the same time
+---
+The class that carry your asses in fight where Dps need to kill adds but they are too focus on their rotation to do mechanics.
+---
+I used to play Minion Master back in Guild wars (factions) and played warlock for multiple years in WoW so the pet management isn't much of an issue. Although the main reason i want to play Ranger is the Druid Specialization, I very much enjoy playing support roles (will probbly make a guardian in the future).
+---
+Would it be ok to buy gear while i'm leveling? it's usually a "no-no" in most mmorpg's ive played to buy gear from AH/trading post, since you can usually get by with the gear you get from questing.
+---
+I'm also thinking of leveling cooking and the other profession that lets you craft gear for ranger, while i'm "questing" around the world, is that ok? or should I not waste the materials until i know what i want at endgame?
+---
+ty4the reply
+---
+Skipping mechanics with DPS should be illegal. Something should be done with mechanics, like making boss invulnerable during mechanics to prevent skipping it.
+---
+No Arc, no logs. Sorry!
+---
+He has a point, if you're not playing because you actually like the game you're playing, then congrats, you're a sucker to the infinite psychological reward feedback loop. What do they win, Jonny? A brand new skin and 10 hours of wasted time. 
+---
+Just take a break from time to time.
+---
+With dead content it usually means “Not getting updated with new content anymore”  
+---
+Dungeons have been dead for a very long time now. Sadly it looks like Fractals and Raids are about to join them as well
+---
+Yeah its just sad that they actively refuse to give use difficult settings for raids, something like: story, regular, cm mode would be nice and wouldn't take much resources while providing huge amount of value.
+---
+Saying that it would split the player base (lul)... idk why they suddenly care about this there, when they didn't give a **** when they released LS episodes together with new fractals/raids.
+---
+Or the fact that they are way to many maps small maps instant of a few big ones where you can gather more open world players for bigger events instant of scattering them over the multiple dozen maps which are all dying out, after 1-2 weeks, because you dont have players on them anymore...
+---
+They just prove again and again that they are just so disconnected to their playerbase.
+---
+Playing a game for fun seems to be an ancient mindset. 
+---
+If the only thing that keeps you in game is a cookie then you are not enjoying the game.
+---
+Pls no they will just nerf it if they ever get to reworking it....
+---
+I rather have more anyone but more value with it
+---
+I have played about 11k hours since first beta and still find many things to do!
+---
+Mainly every day I do normal dailies, LS dailies and potential festival dailies (like Wintersday right now). Also every day I try to kill strike bosses. Every Monday I do raids with random pug groups. Most bosses die at Monday, if not, I try again every evening rest of the week.
+---
+Rest of the time I play WvW and/or festival activities, maybe some fractals and dungeons, maybe advancing achievements. If a new raid/fractal/strike is released, I go explore that.
+---
+When a new map and/or story is released, I go complete the story, explore the map and try to do all the achievements. When some kind of bigger QoL update gets released (like build templates), I go explore that, get to know how it works.
+---
+Sometimes I make a new character to experience different builds what I might be missing. For example I don't have condi FB or heal scourge yet, but would really like to get to know them one day. Sometimes I make a new character just to explore vanilla maps again. Sometimes I come up with a cool name and create a character with that name. Sometimes I plan characters on paper, their name, their looks, their build and their purpose. I find designing characters very fun and creative.
+---
+https://orteil.dashnet.org/cookieclicker/
+---
+I play Tetris 99 and Rocket League because its fun.  Shit, most of the games I play are for the fun.  I play Final Fantasy Tactics amd Chrono Trigger once a year for fun.  I play board games with the family for fun.  None of those games give rewards.  The point of playing any game is to 1) win and 2) enjoy the experience... Or in few cases, hate the game but get paid to play.
+---
+Then stop playing and go do something else.
+---
+I think you should spend some time on other things, as it’s obvious that you’ve exhausted your interest in this game. Nothing wrong with that, nothing lasts forever. Can always return when there’s new stuff to do or your interest returns.
+---
+You also reference OSRS. Granted I see your point there with the best in slot gear costing obnoxious amounts of ingame wealth, and that being a driving force to grind something. GW2’s selling point is a cooperative community where it’s easy to have fun with others. OSRS is focused on a being a solo progression experience, and a very grindy one at that. They’re vastly different systems. GW2 has you exploring and participating in the world while OSRS has you standing around / doing a single task for 10-100 hours, repeating the same thing over and over and over again.
+---
+I personally like that GW2 isn’t like that. Tasks become incredibly monotonous. The only reason I’ve managed to progress in both RS3 and OSRS as much as I have is because of Netflix, Anime or Youtube / multitasking other things at the same time. It’s a massive idle game in many aspects.
+---
+That's basically what I said?
+---
+So GW2 is a garbage game but keeps you playing because it promises you gold at the end of the day?
+---
+I find that if you have more of an esoteric taste in music that tidal is one of the few streaming services that actually provides decent recommendations.
+---
+Its a very difficult subject to deal with. If the infusion comes from a rmt transaction then it is what it has to happen. Now, should areanet give back the mystic coins to proper owner, well thats up to them to move stuff from accounts to other accounts...
+---
+gw2 is that game for me. 14.000 hours here, rewards doesn't matter to me. My goal is to complete all achievements, that's fun enough for me.
+---
+Candy corn node in home instance, Wintersday tree in home instance.
+---
+Oh dude world boss trains, or hero point trains even if you have them all, are a blast.   
+---
+I try not to focus so much on gold, end up having lots of fun.
+---
+I think he was talking about the candy corn node in the home instance for year round harvesting of candy corn for the gobbler. The wintersday gifts give them but not at a hight rate. Was hopeful for a snowflake node for home but not likely with the tree giving gifts, maybe they can enhance the tree to drop 7-8 snowflakes a day in addition to the gift?
+---
+I bet with you that those coins (or the gold for selling the coins on the TP) are still there on someones account. All Anet does is play into the RMTs tricks and punish the wrong players.
+---
+You’re fighting against the inevitable though. No MMO in the entire history of gaming avoided repetition and grind. Not even WoW. WoW manage it slightly better because it releases regularly expansions but once you’ve done the new content you’re back at doing what you were doing pre-expansion. 
+---
+Moreso, long grind is an old trick, probably the oldest form of trick used by game devs. It create an artificial longevity to a game, keep players busy and active for reward(s) that took little to no resources to implement. 
+---
+The good thing with GW2 is that in its core, they minimized the grind... But the minute you aim for optional rewards (cosmetics, gold) you fall into this old trick.
+---
+Arenanet cannot allow itself to increase rewards since there will always be players going overboard and farming *the hell out of the content*, breaking the economy. So they *have* to put a limit somewhere. Daily fractals for instance can only be done *once a day*. The rest of the repeatable/farmable content give little reward especially because it’s repeatable and farmable.
+---
+As for you, the sad truth is you probably reached a point where you’ve done what you had to do. It happens to all. Some players settle for just free roaming and playing for the sake of it, either by habit or because it’s satisfying enough, but this obviously doesn’t apply to you. There is no harm into doing something else for a while, finding new goals and games and whatnot. I know you don’t like this mindset but there is some truth to it: where you’re at, questioning what you do and why you do it, is a point *everybody* eventually reaches in any MMO... And it’s up to you to answer these questions.
+---
+Thread removed: Low-effort/-value post.
+---
+See full rules [[here]](/r/Guildwars2/wiki/rules)
+---
+I'm worried if they change it, they will nerf it.
+---
+Killing a raid boss is not fun unless you get shinies?
+---
+https://www.reddit.com/r/Guildwars2/comments/dq5yrj/support_took_away_my_chak_infusion_and_gave_me_a/
+---
+well, last 3 episodes of that season were pretty huge quality increase especially story wise. Theres a new mount,  new raid, frac, strike missions are new (mini raids, releasing with the new season), Icebrood Saga started 4 monthts ago, with 2 episodes out now, another out in january. 2 new masteries, with 8 unlocks. Split balance teams, balance got lot better. We have roadmap for the first quater of next year: Swiss Torunaments for pvp, Warclaw balance for WvW, Icebrood Saga ep 2, Visions of Past (new story gamemode), and new content in Lunar New Year. In the upcoming episode theres a new world boss coming, after years of us not having a proper one. (If you played gw1, Drakkar should say something to you). And some other minor stuff.
+---
+Why have you forsaken us :(
+---
+I noticed one of these... :( 
+---
+ So here take this... :D
+---
+No content is fun if you're not getting an appropriate reward for the time you're spending.
+---
+Why would they nerf it? They want people to find value in it so they buy it. It's a gem store item. Make it useless and no one will want to buy it.
+---
+Oh rip. Was hoping I could share it here and maybe someone will like it idk.
+---
+Signing up to only one language instead of all four should help.
+---
+It's a lot more worth it to sell the gift you get and buy snowflakes than to open it.
+---
+ANET support at its finest....accidentally account bound a legendary...support said they couldn't do anything about it, resubmitted my ticket a day later and a different GM did it for me.
+---
+And I'm sure it will cure cancer and make everyone's penis huge too, wont it?
+---
+How is telling someone who is unhappy with something to stop doing the thing they're unhappy with "gatekeeping?"
+---
+in the 4 years i've  been playing this game i have done raid training and cleared 8 bosses. i gotta say theyre like story mode swtor raids. but lately i find i dont have the "stamina" to keep up my dps rotation, mechanics and dodging for long fights. 
+---
+i used to be a hard mode raider in swtor, cleared them all. now  i dont want to spend more than 5 minutes killing any single thing.
+---
+I felt this way in 2017 after a month of PoF. I just stopped playing. There are other games and hobbies.
+---
+Alright, I think that's all I have to say on this. Thank you for taking the time to read my comments and discuss them. What I think I conclude from this is that I see the world through red and green lenses, you see the world through yellow and blue. This is my last response. I'll provide some clarification on several points.
+---
+&gt;Rich and powerful people are also the only ones fighting for them.
+---
+&gt;You think if you ask the average farmer or car mechanic they're gonna be for or against gay rights?
+---
+&gt;Come on, are you really going to argue that there is no correlation between wealth level and progressivism?
+---
+&gt;Proggressive ideals always stem from the wealthier and upper classes.
+---
+This is factually incorrect, and you can find this out by reading any history on queer acceptance and the LGBTQ+ movements. Here is a [scholarly essay on the history of the movement](https://www.apa.org/pi/lgbt/resources/history) if you want a source, but in summary, queer acceptance started in the US through poor people in New York  in the 1920s - black jazz singers, drag queens, and other 'misfits' gathering together in the hidden underworlds of the city. That was where queer communities in the US *began*: poor people. The rich are the ones with the *power* to change the laws and organize against the other rich and powerful, but they aren't the ones changing people's views. Rich people aren't the ones coming out in crowds of hundreds of thousands to march on the streets, showing other closeted queers that there are people just like them, as they demand to be seen and accepted. Would the queer movement have succeeded without the efforts of wealthy philanthropists and organizers fighting for gay rights? No, it wouldn't. Would the queer movement have succeeded without the millions of poor and middle class activists? No, it wouldn't. Hillary Clinton and Barack Obama both opposed gay marriage when they started their campaigns. It was because of ordinary people calling in and showing in polls that gay marriage *mattered* to them that Clinton and Obama changed their stances to better reflect their constituents. They wanted to gain more votes and popularity with what the *people*, who by numbers are overwhelmingly the poor and middle class, wanted. The rich are not more accepting, and they aren't the ones responsible for changing this country's views on queer acceptance. That comes from changing culture.
+---
+&gt;TV is not a representation of life. Its a representation of a cometee approved plastic polished act that sells views.
+---
+&gt;Getting your knowledge of american culture from reality TV shows is like studying greek mythology from disney's hercules.
+---
+Of course I know that. You're missing the point. American TV still represents American ideals. Is it an *false exaggeration* that American families express their love by saying "I love you" and providing physical affection? My only frame of reference as a child for love was what I saw on media and what I saw people around me do. I see other children being hugged and kissed on the forehead by their parents. I hear other people around me saying "Love you" or "Te amo" to their families. Yet this was not provided to *me* as a child. Because this is not how Chinese culture expresses love. My learned expectations of Western expressions of affection lead me to believe that my family was incapable of love, since while I was growing up in the US, I learned that if you *love* someone, you tell them through words and body language. 
+---
+Is that not how people normally express their love?
+---
+But that's not how *my* family did, because that isn't in the culture *they* grew up with. That's why I, who grew up with American expectations of love, didn't believe my family loved me *until* I was an adult and learned how Chinese people express their love: through providing, guiding your life, choosing what you can and can't do, and trying to protect you from making 'mistakes' (like dating the 'wrong person'). American parents do this too, but if you ask an American how they feel when their parents do that, they would see it as controlling, stifling, and having their autonomy disrespected. And while this is *true*, since I also feel that way, I and other Asians who understood this culture learned that this is how our parents show their love and care. All of those methods of love, as well as the struggle of accepting it, are shown in the short film Bao. That's why I say it's valuable since it shows family relationship struggles that most people can relate to, through Chinese family culture.
+---
+&gt;That's not an experience only chinese people have though. All parents get sad when their children leave the home. Why do you think this is exclusive to chinese culture?
+---
+You didn't watch the film. 
+---
+I think you understand that gay people face problems straight people won't, but the nature of their struggle doesn't *matter* to you so much as the thought that gay people will only be more likely to *have* those problems in the first place if they are poor or working class. The priority problems in your view tie to class and wealth, and all of the other problems in the world can be boiled down to 'universal'. Everyone goes through the struggle of queer repression because everyone knows how it feels to have to hide part of yourself from others, everyone understands the struggles of immigrants assimilating to a different culture because everyone goes through feeling like they don't fit in when they move somewhere new. That's what I'm understanding about your view from your reactions. These struggles just don't matter to you in the face of the poverty divide. 
+---
+Did my life turn out the way it was because I was poor? Yes. Did someone else's life turn out like mine because they were poor? No. So what distinguishes my life and my perspective, as a poor person, from someone else's life and perspective as a poor person, are all of the little things that you say are universal problems. Assuming you and I are both in the same social class, why did we turn out so different then.
+---
+I've gained awareness of things I hadn't thought much of before and it was valuable for me to view your perspective of the world. I appreciate talking with you.
+---
+To add to this, don't be fooled by the name "legendary crafting", Legendary level weapons and armor aren't needed at all to do any sort of endgame content and are extremely lengthy grinding processes that reward you with cool cosmethic weapons and armor with stats you can change on the fly. It's nice to have one but they take months or years of real time to make depending on how many time you sink into them.
+---
+Jil Adren is that you?
+---
+Why *should* you do every fractal 100 times? MMOs don't work by making the goals for you, you have to figure out and set your own goals and your own things to work towards and then do them. MMOs, or at least good MMOs, aren't just for people who say "I want to do this one specific type of activity and only this one specific type of activity." They offer variety and when you grow tired and bored of one thing, go and do something else.
+---
+You sound like  you're focusing WAY too much on min/maxing your rewards for your amount of time playing. It's self-evident you're going to wind up burning out playing that way. Forget about rewards for a while and, if GW2 really *is* a good game, then just *play* it for a while. Go explore a map you haven't been in for a while, roll a profession you've avoided because it's not part of the meta, go hunt down some achievements from a category you even forgot existed. You're responsible for curating your own existence and enjoyment of the game, and that's a fact for *any* game out there.
+---
+Ah, my b, completely misunderstood.  The tree used to give out Giant gifts, but it got changed to regular gifts a few years ago.  I doubt they'd go back, but it would be nice if it rewarded something a little above average.
+---
+they didn't really indent to prove "every" single booster for hours for more or less free with this item, making booster from other sources useless
+---
+I hope one day you will actually enjoy gw2 for the gameplay it provides, not for some numbers increasing in your wallet.
+---
+As others have said, uninstall and quit. It's not going to get any better, just more of the same.
+---
+Just be glad you got out before wasting another thousand hours.
+---
+Let me know when it adds gameplay that's worth endlessly spinning your wheels over.
+---
+It's called End Game content for a reason.  Also, there are at least a few games that have been released over the years.  I'm sure you could play one of them.
+---
+Read the post. He isn't saying he's unhappy. He's asking what's next? What kind of system is implemented to keep him interested outside of the game being a chore to grind out his next goal. Your comment is literally telling him to go away. Your logic is that because he sounds like he doesn't like the game then he's better off just calling it quits, which if everyone thought that way the population of the game would be decimated ( such as when the games veterans decided to mass quit the game a little while back). Right now alot of players are holding on to that tiny bit of hope that the game can be saved from being nothing but a tell tale game.
+---
+If your solution is "if you don't like it then leave" then that's gate keeping.
+---
+When they nerf it again I want my gems back.
+---
+Just to be clear though- if you only buy items from the in-game trading post you have nothing to worry about right?   
+---
+&amp;#x200B;
+---
+I don't trust buying stuff off of 3rd party sites, and I don't know why anyone *would*.
+---
+Jesus Christ this company is fucking trash that would never ever fly in WoW. I would just quit forever.
+---
+At some point you'll need some extra money/gold. Would it be nice to earn this by doing something you like instead of doing something you don't like or working in a job you don't like?
+---
+I think it's disgusting that people telling others how they should enjoy their games or how to have fun?
+---
+You're always talking like we are the bad toxic elitist, telling you how to enjoy gw2. But if you check reddit you'll notice that most of the time it's you who wanna tell us, how we should enjoy our game and you can't imagine, that we actually have fun.
+---
+So do what you want, be happy, but stop blaming others for things they like... That's what unhappy people do (and yeah, I also do it sometimes, but I try to improve their)
+---
+Not really comparable since there is no direct feedback on player improvement. In other games you have ELO you can keep pushing, or super hard content to beat once you got good enough.
+---
+Not bad for a precursor.
+---
+&gt; there is no direct feedback on player improvement.
+---
+Dps meter and the general ability to do fractals and raids, handling mechanics properly is indicated by a smooth run, no matter how low dps is. Even within the raid community the skill gap is insanely  big. Winning in PvP is equal to every pvp game.
+---
+The more I read this the better it gets
+---
+Why the hell u are valuing items in dollars ? U cannot sell for real money and if u should be happy u should only send 17 $ to get ot
+---
+Ah fuck here I go again
+---
+bahahaha
+---
+I really feel you on this. The sad part about this is how relatively easy this would be to fix. For me, all it would take would be more legendary gear, that does not require you to play pvp or wvw (cause those are, just like with op, not what I play mmos for). Because as of right now, you look at your weapon of choice, dislike the legs, and thus a huge part of the endgame grind is gone...
+---
+Also a casual player, I've just been working super, super slowly toward the achievement.  So you can sell the drinks and tonics, or consume the drinks and sell the tonics to get something out of it now, while still working toward the achievement.  You have to consume 10k drinks for it!
+---
+I like red side in EBG, the keep has high ground, treb can hit SM and there is sometimes fun small scale siege fights between Anza cliff and keep. Cannon, ballista, treb and bubble.
+---
+&gt; click [...] for a few hours.  Plz dont change it.
+---
+You mean you wouldn't want to get that 4 days in a few minutes instead?  You retarded?
+---
+Yep. They called strike missions a stepping stone to raids but that means very little if they never release new raids. I don't actually mind strike missions being the new endgame so long as Anet is willing to fully invest into making them worthwhile... but they won't.
+---
+A big chunk of it was the cities, they gave a lot of %, also ive been skipping a lot of the random events and havnt touched the story quests yet. Im glad you have been so helpful to someone who doesnt know the game!! ♥️
+---
+all the games you mentioned have lootbox "reward" systems lmao
+---
+2/10 for effort, who the fuck upvotes this shit is beyond me
+---
+&gt; Same place you get candy corn in June, the TP.
+---
+Home instance node helps keep that supplied more though.  Not sure how many snowflakes you get from opening a single gift.
+---
+Thankyou for the tips, i really appreciate the info!
+---
+[Indeed.](https://twitter.com/soldierofpepe/status/1208496191081717761)
+---
+But the new one is a Christmas item, it doesnt turn you into a reindeer and stuff.
+---
+Yes!
+---
+Mechanics &gt; DPS
+---
+Many blind players in raids forget to kill adds and do mechanics because they are too focused perfecting their static rotation and maximizing DPS. Rotation should be dynamic, depending on situation.
+---
+In core tyria maps they aren't essential but are great for getting around. Raptor for example is the go to for movement as it can jump a long distance which gets you around much faster. Glider let's you glide and springer jumps up a good distance. In heart of torns / path of fire maps they are essential as those maps were designed with mounts in mind. Some areas you can't get to without mounts. The 3 basic mounts are unlocked pretty easily as far as I can remember. The others take some work and gold.
+---
+The treats are different, not an equivelent item
+---
+"Achievements" in this game are just more chores.
+---
+For example: do this X times to unlock Y at vendor. It involves some running around, pressing F, killing some trash, and more afking at event spawn than actually doing things.
+---
+It's literally worse than the infamous "go and kill 15 wolf".
+---
+Indeed, I just wasn't sure. Never did them much to begin with.
+---
+Dang. You won’t have to suffer for gift of exploration
+---
+WvW. Rewards there are trash (although better than they used to be) but the game mode is a ton of fun.
+---
+Which games?  Help me move on.
+---
+So much this, Achievements are great goal treadmills but people associate them to heavily with other games and Achievement's systems.
+---
+People used to complain very loudly in mapchat if someone "messed up" the champ train by killing a champ off-tag.  Heh.  There's still some of that toxicity if a meta or other event fails though.  I don't think it can be gotten away from entirely.
+---
+It’s similar in base concept only; doesn’t play similarly at all
+---
+&gt;Do you walk in the woods for hundreds of hours a year?
+---
+I do. Hour or two every day. And I listen to podcasts while I'm doing it. Never gets old, and I'm in pretty darn good shape because of it.
+---
+[removed]
+---
+You're speaking of extrinsic rewards, but what about intrinsic rewards. That's what has kept WvW players going for years.
+---
+It would absolutely work in gw2, but due to the misguided “conquest is our bread and butter” approach by the gw2 devs it will never happen. 
+---
+Unfortunate because GW2 pvp really needs a shakeup and adopting some of the ideas from other MMOs like SWTOR and WoW could go a long way to revitalizing pvp.  But it’s likely too little too late at this point regardless
+---
+That comes down to personal preference. I haven't been playing anything similar to gw2 recently, other than arguably destiny 2, but there are plenty of reasons not to get super invested in that game either. 
+---
+In terms of stuff i actually really enjoy, I got back into the fire emblem series last year and I'm still riding that wave. I've finally gotten around to playing some games on my switch backlog like astral chain and the bayonettas, and more recently pokemon. Just a few days ago I picked up DMC5 when it was on sale for the game awards and I'm planning on sinking my teeth into that and death stranding after christmas. 
+---
+I dunno man, I don't think "scratching the itch" of gw2 is particularly healthy. Play games that are fun in and of themselves. If you've never played a fromsoftware (dark souls) game, I strongly reccomend giving that a shot.
+---
+Since the snowflake gobbler is a vendor, why not going the route of the Leyline Converter?
+---
+Have the festival vendor sell a "Universal Gobbler", and make all other gobblers add tabs to it, by making the last tab of the universal gobbler be an "Upgrades" tab that sells upgrades to the Universal gobbler in exchange for the gobblers themselves.
+---
+* Buy the universal gobbler
+---
+* Have the gobbler you want to unlock in your inventory, 
+---
+* Use the universal gobbler.
+---
+* Switch to the Upgrades tab.
+---
+* Buy the corresponding upgrade (takes effect on acquisition)  -&gt;
+---
+ * The original gobbler disappears, 
+---
+ * The entry to buy the upgrade disappears.
+---
+ * Now you can switch to the corresponding tab of the universal gobbler, and you'll have the entry for the gobbler you just unlocked.
+---
+Then replace the random buffs and transformations from the candy corn gobbler with a single purchase that gives a random buff alone, no transformations, in exchange for increasing the cost to 10 candy corn instead 3.
+---
+Is it even rometly known by now what those "visions of the past" are? Or why are we already shitting on this?
+---
+NO. They can 100% rollback op account and punish THE ACTUAL PERSON THAT USED RMT.
+---
+This is BULLSHIT and should not happen, ever, for any reason. Punishing the other party takes the same effort as punishing OP. Please take anets cock off your moth before posting bullshit like that.
+---
+Rewards are part of the fun, period.
+---
+Gameplay is the most important thing, but it isn't everything. You could even argue gameplay itself is fun because it's rewarding on its own; either because of the challenge, the visuals, or whatever.
+---
+GW2 is not rewarding, not on the item/skin level, and definitely not on the gameplay level. There's barely any challenges on PvE, and PvP has been stale since years. Even more, the third pillar of what makes a game fun, socialization, has been neglected to death as well.
+---
+Those three pillars reinforce each other. For example, a boring dungeon has interesting rewards, so people still play it, and have fun socializing to farm the item they want.
+---
+The gem store has obviously affected one of the big pillars, but there's multiple mistakes in the other two as well. Challenging content and guilds are both dead, and don't even get me started on challenging group content.
+---
+So yeah, GW2 has a rewards problem, on all three fronts.
+---
+this is clearly in the topic of pve as OP even stated the only thing they are having fun with is pvp and that's because of the intrinsic reward of winning and every match being varied compared to pve.
+---
+They said its story content that will let us experience past story trough different characters, the one coming now specificaly focusing on Ryland.
+---
+Yeah you're going though additional instances of stories that happened in the past. I think they'll be the new fractals that can be done without any knowledge. Like strike missions being raids for people who want to braindead face rolling a giant bullet sponge boss.
+---
+It has nothing to do with punishing. Its the removal of rmt ítems. Punishing would be to ban the account.
+---
+Yes it shouldn't happen and should be taken into consideration. I really don't know how they usually act in this situations but it's not easy.
+---
+It's fractals but in LW format kind of thing.
+---
+&gt; Half of the time you find the rewards in the gemstore. Now this game is about the living world, which is story focused, but why would I want to play this story focused MMO when there are much better ones on the market, like FFXIV. 
+---
+It's so sad to see how GW2 has neglected its strongest points, these being massive group content (Battle for Lion's Arch, Triple Trouble), exploration (specially jumping puzzles), and the combat.
+---
+LW3 was the beginning of the end.
+---
+&gt; Those are competetive games. E-SPORTS GAMES. if you look at any fps shooter like COD/BATTLEFRONT/BATTLEFIELD and they die within year,bcs they have 5 weapons to unlocks and GAMEPLAY itself will never save any game for more than year... many ppl like you are stucked in past,like  20 years ago when you get one good game per year and you whoud run around for 5 years. this is different age,you have to cuddle your players,MAKE them stay.
+---
+Achievements are a mess, lot of entries for pointless stuff, and no entries for actual challenges. Achievement points are completely arbitrary and imbalanced, you get the same points for both dumb and hardcore stuff.
+---
+Anz is the only relevant complaint here. Otherwise red keep is actually the easiest to defend if you actually use what's provided.  
+---
+Red keep is great because it forces a lot of chokes and has more terrain to maneuver making it harder for the enemy group to avoid damage in a push. There is also very little space to spread out when hitting walls or gates which will again force them in to taking damage when committing to the keep.  
+---
+It's true you can hit it from a distance with trebs, but mortars in the keep, both inner and outer, can easily reach all areas on the Anz hill. Cannons can also prevent balistas if placed close enough to the edge.  
+---
+There are counters to all of these things if you're prepared but as with any structure, become significantly harder to defend if the enemy is given time to prepare.  
+---
+Red borderland is also an advantage since many people avoid it making it easier to maintain if you have a few people keeping camps flipped. And the size of it is the _benefit_ because it allows you much greater time to prepare for attacks even after they've begun. Tower and keep lords are stronger which makes it easier to wipe a group on the lord with a smaller group and especially in the case of keeps/garrison, they're so large you have plenty of time to respond to an attack even if outer is already open.  
+---
+Honestly the only point I really agree on is Anz. It takes forever for it to upgrade and no matter how you siege it it's difficult to defend assuming the offending force is larger. Reducing it to having only one destructable wall and maybe closing off the area beneath the bridge behind the lords room ( the little offshoot bridge where the mortar is ) so that you can build things beneath the bridge that are difficult to destroy, would probably help a lot for making it easier to defend.
+---
+Except the other MMOs get consistent updates, with new goals and challenges.
+---
+Yup, raids and fractals are no longer available after the next episode, you totally nailed it
+---
+It is done partly to avoid the 15% trading post fee, but also because ArenaNet has capped the amount you can sell a single item for on the trading post at 10,000 gold, which doesn't seem to be high enough for exceedingly rare items such as these.
+---
+&gt;  Caedite eos. Novit enim Dominus qui sunt eius.  
+---
+&gt; --&gt; Kill them all; let God sort them out.
+---
+Edgy
+---
+As I said you get XP for crafting so you might as well do it while leveling to get this extra benefit of leveling up faster.
+---
+I would not recommend it as a way to get cheap gear. To compare it to my example from above, the lv 20 masterwork coat that cost 45s, that's the one from crafting. It costs 7s36c to craft. At the same time you can buy the exact same one (stat wise) for just 4.5s and get a rune on top of it (so it's actually slightly better).
+---
+And if there is a way to make money from crafting it is usually exposed quickly and/or people who play the TP for hours every day bring the profit down to almost 0 rather quickly. The coat for example get's sold maybe once a month by someone either accidentally buying it, a beginner who fell for it or some rich guy who just wants the skin and doesn't care. At least that's what my guess is.
+---
+Your idea of leveling crafting alongside your char level only kinda works as you will have to keep making things that are not optimal (in terms of getting the most crafting XP for the least amount of gold spend) and might end up costing you a lot more. For example people usually make gloves, head and shoulder armor because they use less materials, but you would have to craft every armor part every time.
+---
+With all that said, I would suggest you do craft while you play. Keep it up with your char level, so you can craft stuff that is of use for you. But maybe not craft everything you need. check TP prices first. This makes sure you don't go broke, leveling crafting isn't a chore and it's more lore friendly :)
+---
+Helpful links:  
+---
+[gw2crafts.net](https://gw2crafts.net/) gives you a guide telling you exactly what to do to most efficiently level crafting and what it costs
+---
+[gw2efficiency.com](https://gw2efficiency.com) Probably the best site to get tons of useful information about your account. For example it tells you exactly how you can craft an item you want, how much it costs, what parts you arealdy have, etc.
+---
+Regarding end game and crafting. Yeah if you want ascended armor you need leatherworker and if you want ascended weapons you need huntsman (and more actually, since some weapons require other crafting disciplines. For example a greatsword requires weaponsmith. Huntsman just covers most of the weapons a ranger can use).  
+---
+Crafting is basically something that is needed for most end game gear, some meta food and some other things like agony resistance for high end fractals (can be bought at the TP too though) or some collections.
+---
+Regarding harvesting: For ranger armor you will need leather &amp; cloth that you get from salvaging armor while weapons need wood &amp; metal that you get from gathering nodes (and salvaging items). Most of the stuff is not worth much on low level however, except iron. That is very valuable and you can find it after leaving your first starting zone. Always go for that if you see it. There are also spots where there is always a rich node version of a node (gives 10 materials instead of 3, respawns after about 23h). You can find them on the gw2efficiency site that I linked above under the tab "gathering". Shows you how to get there and how much money they are worth. Plants for the most part are not worth the time.
+---
+I think the real problem is why are things worth more than you can list on the TP
+---
+I log in. Camp north keep with my guild. Get angry whispers calling me a cheater.  Then log off. Rinse repeat. 
+---
+The salt of other players never gets old.
+---
+Well let's say I took a break for a year, even 2. When I get back will I see new fractals, dungeons? Even raids, I'd see maybe one more wing but rest of the 7 wings gonna be same. 
+---
+Let's not talk about updated game modes and talk about something else. Will I see new classes? New expansion maybe?
+---
+Red keep invuln zone is halfway up the road.
+---
+Welcome back!
+---
+Although rewards increase fun and staying power, most games that came out 10 years ago had no rewards
+---
+I do ride my bike almost every day. And it is still fun to do.
+---
+I play my guitar every damn day for 19 years, the same guitar, but i dont do it for any reward. I dont ever played it in a band, not even presented myself on a talent show, or anything like that. I just play because I love to. If you are feeling that you HAVE to do your chores inside the game, that sounds like your not having fun with it anymore. You are free to move on.
+---
+Thats a problem caused by players, not game devs. If they put a cap of 10k to trade (game economy perhaps?) why go beyond that? Imo makes no sense. This is why we lost his gold in the first place, go beyond game boundaries.
+---
+Would you read a book or watch a movie over and over again for literally years?
+---
+The part you people aren't understanding is these systems are necessary because games EVENTUALLY get boring, no matter how good they are. And that's fine, because you can still keep players invested with rewards. The only argument y'all are bringing against this is that a person should just play the game less, but how the fuck do you expect ArenaNet to make money with that kind of situation?
+---
+&gt; They said we will take part alongside Ryland, not as him, so it should technicaly be the same thing.
+---
+If this is the case, I can't help but wonder why they just don't make it a fractal.
+---
+your face when the scammer is anet by not returning your gold. :\^)
+---
+Technically true, but a dumb argument. The amount of possible situations in a PvP scenario goes into the billions or even more, so for all intents and purposes it is infinite. Additionally, you dont know what situation is coming next, whereas in a PvE scenario you can learn enemy behaviour and always know exactly what to expect next.
+---
+Again, I didn't buy it for the theme.
+---
+Max gold is 10k. Currently 50+ person are waiting for an order to fill. I’ve been up there for 6 month (was 41st when I logged the b/o in). Discouraged from not getting the fucking item I’ve worked hard to get and not willing to risk my account I now play about 15mn per day after years of having it as my only game
+---
+Which doesn't really make sense because Twilight Oasis was literally a fractal that was a "Vision of the Past" taking place directly before the episode it was released in and was related to the story of that episode.
+---
+&gt; They are developing the game with the same mentality the majority of people are playing it.
+---
+One might say, what's the issue then?
+---
+Or you should give people what they don't want?
+---
+It doest quite work.
+---
+The stone should say 'New raids and New Fractals"
+---
+You aren't losing what is currently there.
+---
+It's nothing new. They did it before in GW1. You could play through missions as Gwen, telling her story after the Searing.
+---
+Fractals but without the things that make fractals unique.
+---
+Yes you are right. To be honest the problem have a easy fix, put higher limit, but i also think that the 10k trade would be enough to everyone to trade their goodies. It would be enough or close enough to buy/craft a full legendary set. Maybe that is the reason why the limit still is 10k?
+---
+I'm 100% sure I didn't because I was taking aggro away from tank this week only. Week ago it was all fine and he was tanking with 1 toughness trinket. 1 week ago I had 1k toughness for sure and today when I logged in my bow gave me 215 toughness. I did not touch the character. So you're wrong.
+---
+Does anyone actually care about Visions of the Past? I love Living Story and lore, and PvE and exploration are my main modes of play, but this seems... uninspired. Like they're trying to make a big deal out of an uncharismatic character.
+---
+I would also add that the daily crafts are one of the few ways to make money while crafting. Deldrimor Steel Ingots are about 1.3 gold cheaper to craft, while Elonian Leather Squares and Bolts of Damask are about 50-60 silver cheaper.
+---
+The problem is, no one who gets these uber-rare items wants to sell it for the TP limit+taxes and there are many, many buy orders at max cash for these already.  This can be solved in two ways, but ANet has yet to do anything to increase the supply and refuses to work on the TP either, so the only solution to acquiring these items before the game being put onto maintenance mode is to mail trade.
+---
+Yes, that is exactly what I said. Give people what they don't want.
+---
+It's basically hollywoodization. Lot of lukewarm content that gets in and out of your brain as fast as possible, no commitments, no need for communities, no need for effort, no need for long-term goals. Long-term fans who loved the game for anything else than living world fade out and get replaced with new ones.
+---
+It doesn't hurt anybody per-se, and it makes money. But you can see the loss of passion in the diluted form of everything. I fail to see how this would be good for player retention, having nothing special to really grasp onto, and abandoning the few parts that were there. But they have the numbers and I don't, so that's that.
+---
+Was it a Named Bow or stat selectable?
+---
+Either way it’s an easy fix just craft a viper inscription
+---
+I dont think so, they can be easily confused xD. But luckly is very easy to change the stats nowadays, and not very expensive.
+---
+Well T1 is there for you to learn the basics. I don't know why we need standalone worse T1 fracs.
+---
+What about season 2 where we play as Caithe?
+---
+Well, here is the sad part. Items from super rare cathegory called contracts. They are very very convenient items, at least in my eyes.
+---
+Look at this - https://wiki.guildwars2.com/wiki/Permanent_Bank_Access_Express  Honestly, I cannot imagine playing without it.
+---
+Why sad? Well, bank access cost 4k gold at this moment. Price of 2 legendaries.
+---
+I get rewarded when I go to my job 5 days a week. That's what I call work.
+---
+I don't get rewarded for watching a movie, reading a book, going to a football game, going to the pub with friends, going to a nice restaurant with wife, going for a long run, playing a video game....
+---
+I do those things for fun. That's the reward.
+---
+&gt;The irony of your post is that you're basically comparing apples to orangatangs. With the exception of raids/strikes, none of them are even remotely similar to be comparable.
+---
+Anet literally said that sagas are replacing expansions and that strikes are the new raid content.
+---
+Seeing as anet said that sagas are replacing expansions it stands to reason to reasonably assume that raven is a standin for gliding as the first mastery.
+---
+Your memory doesnt serve correctly.
+---
+It's possible to get 100% at level 63. You'd have to purposely try to do that, but it's been done.
+---
+&gt; No, they didn't.
+---
+&gt; 
+---
+&gt; They said that The Icebrood Saga will have expansion-like content.
+---
+So, let me get this straight.
+---
+The new saga will have expansion like content...
+---
+And we're getting a saga instead of an expansion...
+---
+[HMMMMMMMMMMMMMM](https://pharmaintelligence.informa.com/~/media/informa-shop-window/pharma/images/puzzlepieces_maradon333_552753190_1200x675.jpg?h=444&amp;w=790)
+---
+&gt;They said that strikes will be a new 10-man content intended as "raid training".
+---
+Except "raid training" only stands if they actually plan to release more raids and the lead raid designer [left the company a couple of weeks/months ago.](https://old.reddit.com/r/Guildwars2/comments/dv56c3/crystal_reid_raid_designer_pve_boss_designer_has/?st=k4hjon8j&amp;sh=5beddabb)
+---
+Also, we've had [other raid devs](https://old.reddit.com/r/Guildwars2/comments/e2b7ov/from_his_instagram_guess_jason_reynolds_lead/?st=k4hjnxof&amp;sh=9b294743) [leave this year as well.](https://old.reddit.com/r/Guildwars2/comments/aus65j/more_raid_devs_leaving_the_company/?st=k4hjo1fz&amp;sh=b1132435)
+---
+That's the reason I prefer the bells.  I've had GW2 up on one screen. and Netflix on another.  I can do the bells out of my peripheral vision with the sound off, and devote most of my attention to whatever video I'm watching.  Gifts/minute is way lower than the JP, but it's easier to do for 2-3 hours at a time without going nuts.
+---
+On Choir Bell, playing notes while the ‘waiting for other players’ bar is filling will heal you. I see so many people not doing it, maybe it is worth mentioning :)
+---
+Good work on the guide!
+---
+Didn't see it that way. Seems fair.
+---
+\^ gets it
+---
+&gt; Firstly, Nightmare Fractals is not a Season 1 fractal.
+---
+It is.  It's a marriage of a few mechanics and instances of the tower strung together to be one cohesive fractal. 
+---
+&gt; Secondly, the other four .. That said, they've been altered to the point they're not akin to the original anyways, thus furthering the "imperfect reflections" aspect as well.
+---
+And this can't be an imperfect reflection of what went on with Ryland?  They had no problem releasing Twilight Oasis to give context for the world boss Amala in Istan.
+---
+Mate, CS:GO is like the 6th game in that series. The series has had a hardcore following for bloody years. The latest game may have loot boxes, but that doesn’t explain Counter Strike’s popularity for the past 20 years...
+---
+LoL also didn’t have a loot box system for what, the first 4 years or something? Was still super popular in those years.
+---
+&gt; Quality of Life   
+---
+From the Gem Store, Copper-Fed Salvage-o-matic is basically the only must have. Other things can be useful but this is the one I get the most use of by several orders of magnitude.
+---
+I would prioritize the Living World Season bundles over anything else because they are actual content. But after that, salvage.
+---
+&gt; Story Missions   
+---
+The core story is pretty bland and rough. It's worth doing because you need to know what's going on for other, later stories that are actually good.
+---
+&gt; Continue with map exploration
+---
+Only if you find it fun, or want to attempt to make a Legendary Weapon in the immediate future.
+---
+There is no reason to keep doing it if it bores you.
+---
+&gt; Skill points
+---
+Hearts actually give you zero, so I assume you mean the Hero Challenges.
+---
+Short answer no. Long answer no but the ones in the expansion give 10 points instead of 1. The tradeoff of that they're harder, and might sometimes require you to ask for help in map chat.
+---
+Not everyone plays ranked. Most people that do play ranked have no hope of hitting the tier needed to get the reward.
+---
+&gt; And we're getting a saga instead of an expansion...
+---
+"We got a Living World Season instead of an expansion, OH GOD WE'RE NEVER GETTING EXPANSIONS AGAIN" is how I'm seeing your mental thought process, in all honesty.
+---
+Did you believe we wouldn't get another expansion when they announced Season 3 as well?
+---
+&gt; Except "raid training" only stands if they actually plan to release more raids and the lead raid designer left the company a couple of weeks/months ago.
+---
+Devs come and go in game companies all the time. This doesn't change anything. There are other people in the world capable of creating raids than those who were creating them for ArenaNet previously.
+---
+&gt; I just don't understand the "they never release new raids" complaint when they've been releasing them this way for 4 years.
+---
+You can round it off to two a year if you want to actually believe that's a fair response, but the complaint is that the gap between raid releases drastically increased after the initial HoT raids, to the point where it now appears they're just done releasing them period. Anet released new raids every 8-10 months while other MMOs released that level of endgame content at a much more rapid pace. Anyone who regularly raided has had more than enough time to do everything that raiding has to offer. 
+---
+&gt;Snark aside, I do have a serious question: why do you still play if you're this bored with the previous content, this disinterested in the current and upcoming content, and have so little faith that it will get improve in any way?
+---
+Most of us don't anymore.
+---
+Maybe just buy boosters then? Instead of buying something you didnt want lol this guy man...
+---
+He's got a point, I'm 800 hours as well and fractal lvl 100, Ad infinitum from fractals, done wing 1, 2 and 4 some multiple times, got all mounts. I don't just focus on pve as well, I've completed 2 of the ascension tiers and almost done with the 3rd.
+---
+Usually I just glide in from other side.
+---
+Such as enjoying the story. Exploring the beautiful locations. Playing with friends. Mentoring new players. Jumping puzzles. Easter eggs. Trying out new classes and builds.  Communicating with others solely by jumping around.  Chatting in LA with people you’ve never met. 
+---
+To be honest, if you can’t come up with any reason to play than accumulating wealth, then you should probably move on. Spend time accumulating wealth in the real world, so you can do what you want, or help others less fortunate.
+---
+The gobbler is far more economical. It is also obnoxious and could be better.
+---
+even race is irrelevant
+---
+Race doesn't matter in gw2, except for aesthethics or first couple of missions.  
+---
+In gw2 you can't make bad choices regarding weapons/traits/skills/etc because you get to Unlock everything. You are not forced to choose X or Y. You will unlock everything so you can choose to swap skills/traits/anything whenever you are out of combat.  
+---
+That said, it's worth to mention that 90% of the stats of the game are useless. There is only a few sets that are useful, but you don't need to worry about that until you hit group-content like fractals or raids.
+---
+Because they added so many ways to farm gold and let people abuse the AH to get richer doing nothing that gold lost its value without the upper bound being raised accordingly.
+---
+Of course Asura, because Masterrace
+---
+Well and I think the drop rate of this stuff needs to be adjusted
+---
+&gt; Expansion -&gt; Season -&gt; Expansion -&gt; Season Is the format the game's cycle was stabilized around and what we've come to expect.
+---
+Is there such a thing as "stablized" with ArenaNet? The moment they have something going, they change their pacing. And it isn't like this is the first time we went from LW Season to LW Season.
+---
+Besides, for those who consider the full scope, the fact they went into another season makes perfect sense. Because they need to have been working on an expansion while Season 4 was being released to have had one ready by now. But instead they were working on other non-GW2 projects (that got canceled with the layoffs by NCSoft).
+---
+So without having an expansion ready, they had one solution to maintain releases: another season.
+---
+This isn't cancelling an expansion because there was no expansion to cancel. What got canceled were non-GW2 projects.
+---
+&gt; So, why are raids cancelled then? We haven't heard a single word about them since the last one was released.
+---
+"No mention of" != "cancelling".
+---
+Let that fact sink into your head, and don't waste time with direct insults - it just makes you look like an asshole.
+---
+Agreed.
+---
+Checks out, same guy.
+---
+God only knows what he does with this in PvP/WvW. Let's get this fucker out of our game.
+---
+Or increase drop rate :D
+---
+Fix what? Remember, that Anet has been quite open in explaining that things exactly like that can and may happen if you trade outside of TP, and if you get scammed (for example, by someone selling to you an illegally obtained item), they will ban the scammer, but you will *not* get your money back. Direct trading has no security, and if any issue happens, you are on your own. In this case, an issue did happen, and the YT video creator can not expect that Anet will make an exception for him.  
+---
+There's nothing to fix, because nothing is broken - everything works exactly as advertised and as planned.
+---
+&gt;It's basically hollywoodization. Lot of lukewarm content that gets in and out of your brain as fast as possible, no commitments, no need for communities, no need for effort, no need for long-term goals. Long-term fans who loved the game for anything else than living world fade out and get replaced with new ones.
+---
+Welcome to capitalism, where we all race each other to the bottom.
+---
+if you actually watched the video.. you'd see as to why he had to buy it this way. But because you didnt and just blame him, this is the reason why he bought it on GW2Exchange.
+---
+There are 0 people selling CES on the TP and it had like 8 or 9 buyers already that would prioritize over him and those people are rich enough to leave 10k gold in the TP which means they hope a noob sells the CES on the TP, they'll get it and sell it for double the profit on GW2Exchange. Which means it can take a year or two before he actually manages to buy it from the TP with how things work.
+---
+He also stated he would gladly buy the infusion from the TP or even from the gemstore but he simply can't so his only resort is to buy it how he did. It is literally the fault of the game in this case, but he never said he'd want his money back or anything. His main point why he was upset was because he got flagged for RMT, showed proof and anet never bothered to remove the flag for RMT (which means he gets a permaban for something he was innocent off if it happens again) and he still received a double punishment which is 100% unfair.
+---
+Obviously, but my point being, does anyone actually give two shits about Ryland specifically?
+---
+Edit: Also, story has never been a big Anet focus, so I'm unsure if this will turn out a good story, despite what it looks like now.
+---
+Because those same kind of people aren't the ones who invest anything into the game and will drift off to a new distraction just as quick as they arrived
+---
+People who enjoy buying everything upfront and putting in minimal effort to "beat" content rarely invest themselves into a game because there's little to encourage it as well as the fact that any other game can offer the same instant gratification dopamine with a different wrapper.
+---
+Increasing the TP limit would most likely inflate the prices for everything else. 
+---
+A good solution would be to increase the drop rate for the Chak Egg Sack until its price lowers back to within 10k. Much harder said than done for various reasons at this point, but the only real solution I can think of.
+---
+Best to contact support. I switched out an aura infusion with a permanent extractor and the infusion suddenly went missing, there are probably still some bug with gear templates....
+---
+&gt;on GW1 you could run endgame dungeons with chances of really good items with high value, or solo underworld and have challenging rewarding content.. But on GW2 the rewards are so mediocre that I dont even see the point. Look at a game like OSRS, the moment you reach endgame you can start doing raids that have a pretty decent chance at items with a real world value of over 1000$. I'd lose my mind if I got that. But on gw2 you can get an extremely lucky precursor (that I havent gotten 1 in over 1200hrs) which is the equivalent of 17$? and thats one of the best drops you have to offer? and its almost a once in an accountspan thing? idk man..
+---
+Wow, what a shitty way of looking at things.
+---
+Ohh okay, that makes more sense. I thought they were talking about the whole thing.
+---
+For leveling a mesmer I would go with any but norn, as the other races have elites that summon allies, which come in handy as core mesmer elites are a tad to weak. The summons add some damage regardless of your gear, and keep enemies off your back so you can focus just on damage and end fights faster. 
+---
+Unless you have the [Digital Deluxe Upgrade](https://wiki.guildwars2.com/wiki/Digital_Deluxe_Upgrade) of the Core game that gives the Mistfire Wolf Elite. 
+---
+Then all your characters will always have a summon and it won't matter.
+---
+&gt;The only compressible part of it are the 5 breaks of 25s, which are skipped if all the stages are full.
+---
+More specifically, it's when nobody is off stage.
+---
+It's possible to clear an instance beginning to end with like three people if no one leaves/fails their section. I did calculations too like three years ago. It used to be much more annoying because of the "play whatever you like" section we used to have.
+---
+I miss that, it was something that needed a bit of co-ordination. Better than the clock-watching that followed. That and the general death of field blasting make combos feel rather pointless (SS scrapper aside), shame because it should be one of the game's most interesting mechanics
+---
+&gt;They've released a new raid wing roughly twice a year since 2015.  This will be the first year they haven't (Wing 7 released in June), and instead of one wing with 3-4 bosses, we got 4 strike missions with one boss each.
+---
+To an objective outside observer, that sure sounds like one's replacing the other, especially when it's going to be April at the earliest before we can expect anything new on the raids front since they mentioned nothing about raids in either the live presentation nor their Q1 2020 layout
+---
+&gt; This MMO was initially advertised as the most group friendly MMO, but support for most group content is dead, and the group content that is there doesn't provide any meaningful challenge
+---
+Its ridiculous how this MMO turned into a singleplayer game that wants to hook you with its tiny story bits every couple of months. I remember when most of my swtor guild fled the ship when it was announced that they will drive the story road and wont deliver group content in the foreseeable future. They delivered Story chapters, about an hour each with different difficulties.
+---
+The game nearly train wrecked, then started delivering a new raid in parts, which was praised, and finally went back to full new raid release just time to leave GW2 again, which apparently wants to take a bit of the "story driven singleplayer experience" in Multiplayer games.
+---
+The difference was, that there were a lot less white knights, who thought vets leaving the game is something normal and good for the community.
+---
+Anet continuing their proud tradition of abandoning current things for something more New and Shiny, instead of improving what's there
+---
+I would both agree and disagree with that. The healing power from tempest comes from knowing how the class works together as opposed to how heal classes usually work (druid Celestial Avatar for example is really obvious). The healing heal tempest does with the snowcrows build is huge, but its only when you understand the intricacies of the class. When playing staff you can just spam water 1 which is extremely easy, but when playing dagger+warhorn your healing comes from attuning to water constantly for soothing mist, granting regeneration with shouts granting healing with shouts and using your heal skill. This makes it much more complex, but adds the ability to give a lot of might and help extend boons making it superior but harder
+---
+&gt; Just to be clear though- if you only buy items from the in-game trading post you have nothing to worry about right? 
+---
+Well
+---
+https://www.reddit.com/r/Guildwars2/comments/4149jf/til_using_the_trading_post_is_buying_gold_rmt/
+---
+all builds can reach the same effectiveness in raids (probably only exception being dgh needing to take some retal if hes the only dragonhunter in his sub). You can just copy a build from snowcrows, learn it and achieve very good results with it without changing a thing. The only thing that you need to be mindful about is the class choice and viability chart which may not completely reflect whats viable in pugs (condi on sloth for example is probably good in pugs since you get enough ramp up)
+---
+I don't play ESO, but there's an option called Action Camera that binds the camera to the mouse without any button presses. Is that what you're looking for?
+---
+You can still get punished for RMT for selling things on the tp.
+---
+there we go
+---
+I don't think the original concept of the "living world" was any important, just another overrated idea of theirs, which sounded great on paper, but dumb or outright unfeasible on reality. Most people never gave a damn about that dream of theirs.
+---
+What made LW1 great across most players was the cadence, the story variety, and the open world content, most of which could be brought back easily, thanks to a simple trick:
+---
+**Duplicate instances**
+---
+You say Kessex Hills can't go neither back nor forward. I say that's dumb, you could easily make multiple instances of Kessex Hills, each on a different timeline. It's not something you could reflect on the world map easily, but that's unimportant anyway.
+---
+Having duplicate instances would let us experience different events on the same areas. Following the Kessex Hills example, we could have:
+---
+* Original 15-25 Kessex Hills, with all the original level experience, present at the world map.
+---
+* Toxic Kessex Hills, for level 80, not present at the main world map (maybe at another, moving a timeline slider or whatever).
+---
+These duplicate zones don't even need to respect the exact boundaries of the originals. For example, using this approach Lake Doric could have included Divinity's Reach as well. In the end these are new instances, where we copy+pasted the terrain from already existing zones.
+---
+That's the best solution, imo. They should have gone this route, but they were obsessed with the dumb living story approach, where the world had to be realistic and the events had to leave a mark. I still can't believe to this day that someone approved such retarded idea, specially in a game like GW2 where events replaced classic questing, and zones are supposed to be dynamic and change back and forth (town is attacked, you have to rebuild, rinse and repeat).
+---
+TL;DR: You can alter a map as much as you want, as long as you're working on a copy and the original is still ingame, intact with all the original events.
+---
+It's ok!  They're looking at rebalancing the Warclaw!  Everything is A-OK.
+---
+&gt;Given the gap between Season 2 and Heart of Thorns, and Heart of Thorns and Season 3, and how different Season 2 and Season 3 are, there was no footing present there either.
+---
+How are they different? The format was the same, its just the ammount of maps and episodes shifting around. Its what established.
+---
+Season 2 -&gt; Expac -&gt; Season 3 -&gt; Expac
+---
+Why d you think anet reassured us that the "saga" would have expansion worthy features? Because they know they've set the expecations for seasons to follow expansion and vice versa.
+---
+&gt;They did so with Season 4, when they began working on non-GW2 projects instead of an expansion.
+---
+Several issues with that.
+---
+1.) There were still people working on gw2, as we were reassured that "everyone fired was working on non gw2 projects" we don't know how true that is, but assuming its true, then what was the gw2 team working on?
+---
+2.) Assuming the projects were no cancelled, what was the plan for gw2?
+---
+&gt;Maintenance mode means no releases. 
+---
+You're right, tiny bland hour long releases every 2 months and constant updates is so much better.
+---
+&gt;And was there a point to you deleting then reposting the same exact response?
+---
+I doubleposted due to iffy internet right now.
+---
+&gt;That actually wasn't an insult. Honestly, if that makes you feel insulted and drives you to have the need to lash out, then I feel sorry for you and suggest therapy. 
+---
+It absolutely was an insult, you're presenting the other person as hysterical with the "oh god" and the caps lock.
+---
+If you're going to pretend it wasn't, you're only proving me right about you being a little bitch.
+---
+For a second I got excited thinking Bit was playing the game again...But no it's just some guy patting himself on the back way too hard over nothing.
+---
+I can't imagine being in the mind of somebody that would want to do this so much they are that fast at it
+---

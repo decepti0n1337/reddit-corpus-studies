@@ -1,0 +1,742 @@
+Outjerked again
+---
+---
+---
+I’ve messed with call pet in wild decks.  The problem is that most beast hunters use smaller beasts that only cost 1-3 mana.
+---
+Dinomancy a really can be pretty strong with hunter.  If you play it, you won’t get the Zuljin hero power because it gets played again, but when most of your deck is cheap beasts with rush, it’s actually probably better most of the time anyway.
+---
+&gt; What if Blizzard allowed players the ability to trade in Legendary cards for others? 
+---
+
+---
+And with that, you've created a grey market for legendary cards.
+---
+Few days ago there was a guy who posted similar image but with 100K gold, you still have some grind to do ;-)
+---
+Good news! /u/KreaHS posted an [excellent guide](https://www.reddit.com/r/CompetitiveHS/comments/c1s70g/going_down_the_rabbit_hole_pogohopper_rogue_guide/) on that deck earlier this week in comphs.
+---
+It goes over decklist, mulligans, general strategy, and case studies of important turns in example games (with links for full replays).
+---
+Looks like a really cool deck.  Thanks for the share!
+---
+All calculations for the AI are done on blizzard servers, it would take a massive overhaul to allow that to take place client side. That would certainly not be worth the effort it takes.
+---
+Also it would open up exploiting in the pve modes although that is not that big of an issue since the rewards are small and they are pretty easy to get anyway.
+---
+Thanks for sharing your creds, I'm sorry if you felt your opinion wasn't being fairly considered otherwise.
+---
+I don't think we actually disagree here, no one's saying it replaces  Soul or Forest's Aid. When your game plan against control is to just exhaust their removal, another board refill is far from redundant. If someone told me a month ago that Druid would be playing Harvest Golem, I'd be just as skeptical as you are now.
+---
+IIRC auto chess on DotA 2 has its foundations on another wc3 mod.  So it's really yet another wc3 mod coming to fruition.
+---
+For all your jojo memes. Thank u
+---
+It's not happening. Sorry
+---
+Piranha Launcher wasn't great but there are tons of worse cards, I don't know why people hated on it so much. It actually was pretty good in Arena.
+---
+Hunter’s Animal Companion is always Huffer anyways, it doesn’t need that option
+---
+When the face play taunt, me still go face
+---
+Mimiron's Head itself isn't sticky and needs to survive a turn.
+---
+you ignored the actual biggest problem with Mimiron's Head which is that the 5 mana 4/5 itself needs to survive a turn
+---
+And what does "one legendary per release" do? Nothing. And if you allow it in general ppl would just make more accounts, farm guaranteed legendaries from packs, trade em to their main account and never spend a cent on the game again.
+---
+It's not a trading card game, it's a collectible card game. If you want something you have to play for it or spend cash.
+---
+He said “trade in” like you would with a car dealership,  not trading with other players. A guess a 1-time 1:1 swap per expansion
+---
+I think it sounds cool, and player friendly
+---
+What decks does hutner 'rule out'?  I know it's popular (bit too popular, it could certainly have a lower play rate) but what's hunter surpressing?.
+---
+You can't compare it to Antonidas. You can create Fireballs from Antonidas the turn you play it. You aren't REQUIRED to stick him for a turn to get value from him. You are from Mimiron's Head, and cards like that have basically never been good in Hearthstone.
+---
+It's the highest of tier, but overload shaman is fun as shit, and the 16 damage combo turn from an empty board is a magical, salt inducing swing turn.
+---
+Saw your copy/paste a few times, it's a good resource, I cleaned up the formatting.  Feel free to use. ([In markdown](https://notepad.pw/ziy1vpyh))
+---
+Some of your questions have already been answered, but I wanted to add that it is also possible to have competitive decks even if you only have few resources. For example, here are my successful budget decks for the post-buffs meta:
+---
+----
+---
+**1. Silence Priest (1,420 dust):** *([Guide](https://youtu.be/su9I_1UvLLo))*
+---
+    AAECAa0GBKEE8gWClAPWmQMN+ALdBOUEpQnRCvIM8vEC5fcCg5QDh5UDrpsDgp0DyJ0DAA==
+---
+**2. Token Druid (1,200 dust):** *([Guide](https://youtu.be/T7DmYXNidp8))*
+---
+    AAECAZICBPIFigbWmQOftwMNQP0C9wPmBcQGmPsC9v0CiYADjIADtJEDw5QDzpQDypwDAA==
+---
+**3. Zoo Warlock (1,420 dust):** *([Guide](https://youtu.be/ZzB-g39ZAkU))*
+---
+    AAECAf0GAvsFn7cDDjDyBc4H2QexCMIImPsC9v0CiYADzIED3IYDxIkDiJ0Dx50DAA==
+---
+**4. Tempo Rogue (1,440 dust):** *([Guide](https://youtu.be/9AWy-ujn7a4 *([Guide](https://youtu.be/su9I_1UvLLo))*
+---
+    AAECAaIHAA+0Ac0DmwXUBfUFiAfdCO/xAsf4AtaCA4+XA5CXA6iYA/uaA/6aAwA=
+---
+**5. Bomb Hunter (1,760 dust):** *([Guide](https://youtu.be/j1ctYTd_h6M))*
+---
+ 
+---
+    AAECAR8C8gWftwMOpfUC4PUC4vUC7/UCufgCkfsCmPsCqPsCvPwC9v0C1/4CiYADzIEDtpwDAA==
+---
+Righteous Protector will save you!
+---
+**Format:** Standard (Year of the Dragon)
+---
+**Class:** Priest (Anduin Wrynn)
+---
+Mana | Card Name | Qty | Links
+---
+:--:|:---|:--:|:--:
+---
+0 | [Silence](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/EX1_332.png) | 2 | [HSReplay](https://hsreplay.net/cards/1189/),[Wiki](https://hearthstone.gamepedia.com/Silence)
+---
+1 | [Inner Fire](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/CS1_129.png) | 2 | [HSReplay](https://hsreplay.net/cards/376/),[Wiki](https://hearthstone.gamepedia.com/Inner%20Fire)
+---
+1 | [Northshire Cleric](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/CS2_235.png) | 2 | [HSReplay](https://hsreplay.net/cards/1650/),[Wiki](https://hearthstone.gamepedia.com/Northshire%20Cleric)
+---
+1 | [Power Word: Shield](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/CS2_004.png) | 2 | [HSReplay](https://hsreplay.net/cards/613/),[Wiki](https://hearthstone.gamepedia.com/Power%20Word%3A%20Shield)
+---
+2 | [Ancient Watcher](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/EX1_045.png) | 2 | [HSReplay](https://hsreplay.net/cards/605/),[Wiki](https://hearthstone.gamepedia.com/Ancient%20Watcher)
+---
+2 | [Dalaran Librarian](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/DAL_735.png) | 2 | [HSReplay](https://hsreplay.net/cards/52866/),[Wiki](https://hearthstone.gamepedia.com/Dalaran%20Librarian)
+---
+2 | [Divine Spirit](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/CS2_236.png) | 2 | [HSReplay](https://hsreplay.net/cards/1361/),[Wiki](https://hearthstone.gamepedia.com/Divine%20Spirit)
+---
+2 | [Extra Arms](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/BOT_219.png) | 2 | [HSReplay](https://hsreplay.net/cards/48101/),[Wiki](https://hearthstone.gamepedia.com/Extra%20Arms)
+---
+2 | [Mind Blast](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/DS1_233.png) | 1 | [HSReplay](https://hsreplay.net/cards/545/),[Wiki](https://hearthstone.gamepedia.com/Mind%20Blast)
+---
+3 | [Arcane Watcher](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/DAL_434.png) | 2 | [HSReplay](https://hsreplay.net/cards/52654/),[Wiki](https://hearthstone.gamepedia.com/Arcane%20Watcher)
+---
+3 | [Faceless Rager](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/DAL_744.png) | 2 | [HSReplay](https://hsreplay.net/cards/52936/),[Wiki](https://hearthstone.gamepedia.com/Faceless%20Rager)
+---
+4 | [Archmage Vargoth](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/DAL_558.png) | 1 | [HSReplay](https://hsreplay.net/cards/52438/),[Wiki](https://hearthstone.gamepedia.com/Archmage%20Vargoth)
+---
+4 | [Hench-Clan Shadequill](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/DAL_040.png) | 2 | [HSReplay](https://hsreplay.net/cards/51715/),[Wiki](https://hearthstone.gamepedia.com/Hench-Clan%20Shadequill)
+---
+4 | [Spellbreaker](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/EX1_048.png) | 1 | [HSReplay](https://hsreplay.net/cards/754/),[Wiki](https://hearthstone.gamepedia.com/Spellbreaker)
+---
+4 | [Unsleeping Soul](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/DAL_065.png) | 2 | [HSReplay](https://hsreplay.net/cards/51847/),[Wiki](https://hearthstone.gamepedia.com/Unsleeping%20Soul)
+---
+5 | [Convincing Infiltrator](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/DAL_039.png) | 1 | [HSReplay](https://hsreplay.net/cards/51714/),[Wiki](https://hearthstone.gamepedia.com/Convincing%20Infiltrator)
+---
+5 | [Witchwood Grizzly](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/GIL_623.png) | 2 | [HSReplay](https://hsreplay.net/cards/47346/),[Wiki](https://hearthstone.gamepedia.com/Witchwood%20Grizzly)
+---
+**Total Dust:** 3020
+---
+**Deck Code:** AAECAa0GBKEE8gWClAPWmQMN+ALdBOUEpQnRCvIM8vEC5fcCg5QDh5UDrpsDgp0DyJ0DAA==
+---
+*****
+---
+**Class:** Druid (Malfurion Stormrage)
+---
+1 | [Acornbearer](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/DAL_354.png) | 2 | [HSReplay](https://hsreplay.net/cards/51790/),[Wiki](https://hearthstone.gamepedia.com/Acornbearer)
+---
+1 | [Mecharoo](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/BOT_445.png) | 2 | [HSReplay](https://hsreplay.net/cards/48886/),[Wiki](https://hearthstone.gamepedia.com/Mecharoo)
+---
+2 | [Dreamway Guardians](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/DAL_733.png) | 2 | [HSReplay](https://hsreplay.net/cards/52810/),[Wiki](https://hearthstone.gamepedia.com/Dreamway%20Guardians)
+---
+2 | [EVIL Cable Rat](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/DAL_400.png) | 2 | [HSReplay](https://hsreplay.net/cards/51380/),[Wiki](https://hearthstone.gamepedia.com/EVIL%20Cable%20Rat)
+---
+2 | [Power of the Wild](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/EX1_160.png) | 2 | [HSReplay](https://hsreplay.net/cards/503/),[Wiki](https://hearthstone.gamepedia.com/Power%20of%20the%20Wild)
+---
+2 | [Wrath](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/EX1_154.png) | 2 | [HSReplay](https://hsreplay.net/cards/836/),[Wiki](https://hearthstone.gamepedia.com/Wrath)
+---
+3 | [Blessing of the Ancients](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/DAL_351.png) | 2 | [HSReplay](https://hsreplay.net/cards/51779/),[Wiki](https://hearthstone.gamepedia.com/Blessing%20of%20the%20Ancients)
+---
+3 | [Harvest Golem](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/EX1_556.png) | 1 | [HSReplay](https://hsreplay.net/cards/778/),[Wiki](https://hearthstone.gamepedia.com/Harvest%20Golem)
+---
+3 | [Microtech Controller](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/BOT_535.png) | 2 | [HSReplay](https://hsreplay.net/cards/49164/),[Wiki](https://hearthstone.gamepedia.com/Microtech%20Controller)
+---
+3 | [SN1P-SN4P](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/BOT_700.png) | 1 | [HSReplay](https://hsreplay.net/cards/56223/),[Wiki](https://hearthstone.gamepedia.com/SN1P-SN4P)
+---
+3 | [Savage Roar](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/CS2_011.png) | 2 | [HSReplay](https://hsreplay.net/cards/742/),[Wiki](https://hearthstone.gamepedia.com/Savage%20Roar)
+---
+4 | [Explodinator](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/BOT_532.png) | 2 | [HSReplay](https://hsreplay.net/cards/49161/),[Wiki](https://hearthstone.gamepedia.com/Explodinator)
+---
+4 | [Replicating Menace](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/BOT_312.png) | 2 | [HSReplay](https://hsreplay.net/cards/48536/),[Wiki](https://hearthstone.gamepedia.com/Replicating%20Menace)
+---
+4 | [Soul of the Forest](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/EX1_158.png) | 2 | [HSReplay](https://hsreplay.net/cards/381/),[Wiki](https://hearthstone.gamepedia.com/Soul%20of%20the%20Forest)
+---
+4 | [Swipe](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/CS2_012.png) | 2 | [HSReplay](https://hsreplay.net/cards/64/),[Wiki](https://hearthstone.gamepedia.com/Swipe)
+---
+**Total Dust:** 4400
+---
+**Deck Code:** AAECAZICBPIFigbWmQOftwMNQP0C9wPmBcQGmPsC9v0CiYADjIADtJEDw5QDzpQDypwDAA==
+---
+^I ^am ^a ^bot. ^Comment/PM ^with ^a ^deck ^code ^and ^I'll ^decode ^it. ^If ^you ^don't ^want ^me ^to ^reply ^to ^you, ^include ^"###" ^anywhere ^in ^your ^message. ^[About.](https://github.com/HearthSim/deck-code-bot/blob/master/README.md)
+---
+Lol someone is salty, just run cards to counter it. It is called tech cards, just relax.
+---
+Thanks, Blizzard
+---
+You're just 4 years late
+---
+But thank you anyway...
+---
+/r/OutOfTheLoop here, what is auto-chess?
+---
+TF2 was also Half Life, there’s a really interesting NoClip documentary on Valve which I think most people here would enjoy.
+---
+I can't see it to begin with
+---
+Roughly half of all wild warrior decks are aggro decks actually (pirate warrior with Ship’s Cannon exists).  So...no, that argument doesn’t really hold up.
+---
+Also, Boom Mad Genius was still everywhere in standard even when all the other death knights were legal.
+---
+Like...the stats sure seem to point to him being one of the best DKs they’ve ever printed.
+---
+No deck is fun to lose to...but there are decks that are completely obnoxious and where control decks do keep removing your stuff over and over at least they are not cheating out stuff on turn 4 that should be played on turn 9 just to keep cheating it out over and over again.   
+---
+Control decks are unfun to play againts but they are not toxic.  
+---
+Im gonna end this here cus it looks like you ran out of actual arguments and you made me repeat myslef in some places.  
+---
+Have a great night!
+---
+That's true of the early and mid-ish game but the late game is much, much more strongly about positioning and quick decision making
+---
+Would never see play. 0/10 way too weak. It dies to removal.
+---
+This TrumpSC  [video](https://www.youtube.com/watch?v=TJKJ7B06eFE) helped me a lot. Although, I did already have a vague idea of what it was all about. If you really want to get into it I hope this helps.
+---
+I'm sure someone has mentioned this already, but in the original auto chess mod for DotA, all the spawnable units had chessbased movement patterns that added a level of strategy
+---
+&gt; but they didn't see the value in it. 
+---
+Alternatively, because they were busy making WoW at the time.
+---
+Outgonked once again
+---
+And I still have no clue what the hell I'm doing  after hours of gameplay. I just spam mechs or druid whenever i get lucky drawing them.
+---
+That's because I just cropped out the [developer's original concept art for Pirhana Launcher](https://i.imgur.com/DJcL2J6.jpg).
+---
+&amp;nbsp;
+---
+https://i.imgur.com/KZh2kHT.png
+---
+I converted a [[hobgoblin]] druid deck someone shared online that used [[feral gibberer]] to be more mech based. Flying Machine is something that sounds fun that I over looked, but I don't know where I'd fit one in. It's a very low mana cost deck, so 3 mana for flying machine is a bit much. [[Jeeves]] is the most expensive card in the deck at 4 mana. Same stats as Flying Machine, but with crucial card draw over windfury. At 3 mana is the titular hobgoblin, savage roar, and [[Bronze Gatekeeper]]. Gatekeeper seems like the biggest candidate to be cut, but the magnetic and taunt aspects are pretty useful. Magnetic lets it be an extra bit of damage the turn its played, and the taunt helps stall the opponent and protect other little minions as you wait for your buffs.
+---
+Maybe I'll cut the Gatekeepers and put a copy of Flying Machine and SN1P-SN4P in.
+---
+Deck list for anyone interested. I don't promise it to be that great but it can work.
+---
+### Hob Mech
+---
+# Class: Druid
+---
+# Format: Wild
+---
+#
+---
+# 2x (1) Dire Mole
+---
+# 2x (1) Living Roots
+---
+# 2x (1) Mark of the Lotus
+---
+# 2x (1) Mecharoo
+---
+# 2x (2) Annoy-o-Tron
+---
+# 2x (2) Darnassus Aspirant
+---
+# 2x (2) Echoing Ooze
+---
+# 2x (2) Mark of Y'Shaarj
+---
+# 2x (2) Power of the Wild
+---
+# 2x (2) Upgradeable Framebot
+---
+# 2x (2) Vicious Scalehide
+---
+# 2x (3) Bronze Gatekeeper
+---
+# 2x (3) Hobgoblin
+---
+# 2x (3) Savage Roar
+---
+# 2x (4) Jeeves
+---
+# 
+---
+AAEBAZICAA/3A+YFwg6FEI4QmBDeFegVwasCzbsCi+UC9uwCpfUCkfsC9v0CAA==
+---
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+---
+* **[Hobgoblin](https://media-hearth.cursecdn.com/avatars/331/641/12250.png)** Neutral Minion Epic GvG  ^[HP](https://www.hearthpwn.com/cards/12250), ^[TD](https://www.hearthstonetopdecks.com/cards/hobgoblin/), ^[W](https://hearthstone.gamepedia.com/Hobgoblin)  
+---
+3/2/3 | Whenever you play a 1-Attack minion, give it +2/+2.  
+---
+* **[Feral Gibberer](https://media-hearth.cursecdn.com/avatars/356/265/76864.png)** Neutral Minion Rare KnC  ^[HP](https://www.hearthpwn.com/cards/76864), ^[TD](https://www.hearthstonetopdecks.com/cards/feral-gibberer/), ^[W](https://hearthstone.gamepedia.com/Feral_Gibberer)  
+---
+1/1/1 | After this minion attacks a hero, add a copy of it to your hand.  
+---
+* **[Jeeves](https://media-hearth.cursecdn.com/avatars/331/611/12216.png)** Neutral Minion Rare GvG  ^[HP](https://www.hearthpwn.com/cards/12216), ^[TD](https://www.hearthstonetopdecks.com/cards/jeeves/), ^[W](https://hearthstone.gamepedia.com/Jeeves)  
+---
+4/1/4 Mech | At the end of each player's turn, that player draws until they have 3 cards.  
+---
+* **[Bronze Gatekeeper](https://media-hearth.cursecdn.com/avatars/376/262/636688324044505350.png)** Neutral Minion Common TBP 🐉 ^[HP](https://www.hearthpwn.com/cards/89896), ^[TD](https://www.hearthstonetopdecks.com/cards/bronze-gatekeeper/), ^[W](https://hearthstone.gamepedia.com/Bronze_Gatekeeper)  
+---
+3/1/5 Mech | Magnetic Taunt  
+---
+^(Call/)^[PM](https://www.reddit.com/message/compose/?to=hearthscan-bot) ^( me with up to 7 [[cardname]]. )^[About.](https://www.reddit.com/message/compose/?to=hearthscan-bot&amp;message=Tell%20me%20more%20[[info]]&amp;subject=hi)
+---
+Better than nothing
+---
+I started about a week ago myself. M6V5C is my ID if u wanna be bros in game
+---
+That explains why they let it squander.
+---
+Also competitively as a spectator. The strategies involved massive deathballs since pushing off objective wins is such an advantage
+---
+Actually drew Wargear next turn, then turn after that had lethal. Balanced.
+---
+Wdym, 1 hour ties, op rng bs and SMOrc is so fun to play!!!!
+---
+If you don’t believe Blizzard didn’t immediately jump on the opportunity to make a mobile auto chess game I have a bridge to sell you
+---
+I only know one sense - fear
+---
+r/ThatHappened
+---
+Kachika
+---
+That’s a good one, saving hyena til later in the game and combining tundra rhino, hyena and unleash hounds can let you burst for up to 14 to the face if your opponent has 5 or more minions on board, and it leaves you with 2 durable minions that your opponent has to either Kill or get killed by.  Setting up big bursts is a reliable way to beat mech hunter.  Only dire frenzy tundra rhinos and wyverns really. Snake trap is perfect for setting up  your hyena to have a big gain next turn. The reason I run 1 mana discover a secret is because certain matchups are vulnerable to certain secrets. Rat trap for rogue, snake trap for hunter mirror and Murloc shaman, and misdirection for big priest.  But yeah mainly focus on setting up big bursts. Having the secrets in makes your zul Jin even more crazy too.
+---
+[[Coldwraith]] would be much better today due to [[Ray of Frost]]
+---
+Dota mod in wc3 is inspired by a starcraft custom map
+---
+What boss was that again
+---
+Is it anything like Teamfight Tactics or whatever Toast has been playing lately?
+---
+Thanks so much, man! This is awesome, totally didn't know about this feature!
+---
+MYSTERIOUS FIGURE: Hello, Hungry
+---
+HUNGRY: Father!?!!?!? I thought you died in the fire of the 100 wackey jokebook factory!
+---
+HUNGRY'S FATHER: *Meddlesome laughter* I have been born again, Hungry. The puns have given me power. More power than you could have ever possibly imagine. I will show you this power, and we can rule the landscape of sitcom humor and 2012 memes together!
+---
+HUNGRY: I'll never join you!!
+---
+HUNGRY'S FATHER: That's not your perogative
+---
+HUNGRY: NOOOOOOOOOOOOOOOOOOOO
+---
+It's the other style game being targeted to Hearthstone streamers.
+---
+DOTA Auto Chess is one and recently riot came out with team fight tactics.
+---
+Hey there,
+---
+Unfortunately, your post was automatically removed because you failed to assign it a flair within 5 minutes.  If you assign it a flair, your post will be automatically re-approved shortly after.
+---
+To assign a flair to your post, click the button titled "Click here to edit your flair" underneath the post. If you are on mobile or have CSS turned off, the button is just titled "Flair"
+---
+[Example With CSS](https://i.imgur.com/9TTfq91.png) | [Example Without CSS](https://i.imgur.com/3V6ugiq.png)
+---
+If you're having difficulty finding the flair button keep in mind:
+---
+You -can't- flair your posts if you're:
+---
+* Submitting via reddit mobile on a browser.
+---
+You -can- flair your posts if you're:
+---
+* Submitting via the reddit mobile app, and a variety of other reddit apps.
+---
+* Submitting via a desktop version of the reddit site on your mobile browser. You can force this view from the menu options.
+---
+You can choose either of the options above to flair a submitted post.
+---
+^(Have a question or think a mistake was made?) **[^(Message the moderators because I am a bot.)](http://www.reddit.com/message/compose?to=%2Fr%2Fhearthstone)**
+---
+Yeah, and I'd agree the cards aren't balanced. The point wasn't to create balanced cards. I gave a mage stealth lol how would that be remotely balanced? It's like someone complaining about the lack of selection at a Mexican Restaurant because they wanted chicken parmesan.
+---
+I'm sorry you walked into a thread inspired by a comedy skit of a card named groin puncher and expected balanced cow based cards in hearthstone. And that you learn to express yourself with insults and rage. When you're done being miserable you can join the rest of us in the real world. It's a better place than the misery you're lurking in.
+---
+The dota2 mod was just a copy of a WC3 mod called Pokemon Defense.
+---
+Unfortunately, your submission has been removed because it is a repost.
+---
+Please search the subreddit before making a post.
+---
+If you're not familiar with the subreddit rules, you can read them [here](https://www.reddit.com/r/hearthstone/wiki/rules)
+---
+^(Have a question or think your post doesn't break the rules?) **[^(Message the moderators.)](http://www.reddit.com/message/compose?to=%2Fr%2Fhearthstone)**
+---
+Pokemon.
+---
+It's simple, I play Barnes, summon another Barnes
+---
+2 mana 3/2?? Way too op, you can't play it.
+---
+Nah probably programmed that way to prevent bug and stuff.
+---
+Thanks! I managed to beat it replacing Soulwardens and Shriek, by Plot Twist and Aranasi Broodmother.
+---
+They need a Leroy Jenkins.
+---
+I certainly wouldnt be holding my breath if i was you. If all you can think about when someone says im content with my life, is the amount of negativity in the statement, then you should try to be a little more optimistic.
+---
+And Garry's mod. Still very popular on steam.
+---
+&gt;Deal damage to the enemy opposite of the pawn
+---
+I'm pretty sure that's not how a pawn works
+---
+"Why are you booing me? I'm right!"
+---
+I think your point gets slightly undermined that this deck is kinda hot garbage.
+---
+My cards keep disappearing after I lose a match so RIP
+---
+as a warlock main thank u u did it for SCIENCE
+---
+Prep coin concede is an elite combo that’s been op since the stone ages. (It’s making fun of people who misplay by coin after prep since prep “reduces” the cost of coin)
+---
+The mulligan strategy can be complicated at times but it's not that bad.
+---
+I think just keeping the obvious cards is a good place to start, and then you can try keeping other stuff and see how it goes. You always keep shield, arms, cleric, mecharoo, framebot; gatekeeper and snip snap if you can curve into them; pyro vs aggro, especially on coin. Other than that, cards I've kept in specific circumstances (in a certain matchup, with a decent hand already) would be circle (if i already have cleric and pyro and am on coin vs aggro), silence (with a decent hand vs mech decks), inner fire (in matchups where i need to combo them quickly).
+---
+I tend not to keep combo pieces very often. All in all the mull phase isn't the worst I've seen but there's definitely room for error. I think most of the difficult comes from sequencing your turns/plays and setting up lethal clock, though. I've thrown many a game by doing stuff like playing the wrong 1 drop or playing my 3 drops in the wrong order.
+---
+Starcraft and warcraft are both very similar to other rts games at the times and were made because that genre was popular at the time. WoW was obviously heavily based on Everquest and made because the genre was getting popular. Overwatch is largely based of TF2. Heroes of the Storm is obviously just another MOBA created because those are popular. Hearthstone is just another digital CCG and is based largely on the WoW TCG and MTG.
+---
+Diablo is really the only game that I think could be considered innovative but the guy who came up with it didn't work at Blizzard at the time so I don't think it counts.
+---
+You'd be surprised as to how many people are still unaware of this rule
+---
+Or you only have cards from 1 xpac and build a scuffed deck because rastakhans gave nothing to offer.
+---
+DrHouse#21792 EU I will show and you will go 1st
+---
+Dog dropping the milk in his basket and starts walking towards the cashier while Firebat delivers lethal sitting on the toilet and starts wiping.
+---
+Question 4. The one about Hall of Fame legendaries, is their answer correct??
+---
+But you wouldn't really want to run Silver Sword in such a deck.
+---
+But the image clearly shows that it's the kobold lackey
+---
+Play warrior or mage, you cant climb with anything else.
+---
+Do you have problems with reading?
+---
+No StarCraft is THE RTS, WOW is the MMORPG. They are so huge you think its basic, but for their Time they were revolutionnary. Fair point for overwatch tho
+---
+Ah, okay I see what you're doing. I don't know WHY, but... okay. Have fun with that I guess? Enjoy the SSDH being an aggro autoinclude by your definition as well. Have a good day and all that.
+---
+by this definition every cod is a quake mod because it technically runs on a really fucked up version of idtech 3 to this day
+---
+It's not the same.
+---
+For **silver sword,** you need the Villain to survive, then you attack.
+---
+Your opponent can just double trade into the minion and still kill it. When your villain resurrects on your opponent turn, it doesn't have the buff so it can't be resurrected again. You gave him the ability to resurrect only when you attack on your turn.
+---
+For **Sword of Justice**, the buff takes effect everytime it gets summoned, which is everytime it dies and resurrected. The buff applies automatically even when it's not your turn. So your opponent can't just double trade and kill it. Because it will get resurrected again and again and again.
+---
+how is arma a mod
+---
+Asserting dominance early I see.
+---
+If there's obvious lethal on the board (Just ram all his minions into my hero) and if I can't possibly win even if he misses lethal, I usually just pass my turn without doing anything. I only concede if he starts to waste my time playing as many cards as he can.
+---
+original starcraft is the rts
+---
+starcraft 2 is a weird super generic version of brood war that no one really liked
+---
+It's *the* new genre right now, just like battle royales and mobas in the past.
+---
+Tbh it feels more like "how many interesting/random facts you know about old expansions" but it was still funny, got 7 out of 10
+---
+It's about sending a message.
+---
+That’s not even remotely true
+---
+Sylvanas, Ragnaros, Genn, Baku, and the reward set legendaries (can't remember how many, I know it's the Murloc with Charge and Rock Tauren.
+---
+Statistics don't work that way.
+---
+Inphase37 #2961 have a quest to trade
+---
+The Innkeeper might have daily quests too!
+---
+So what way do they work?Will it be okay if i tell you i got 7.5 avg wins with mage? I just highlighted what can happen when you play it often
+---
+But the first one cost 3, and Tome cost 5 to begin with? And Scepter of Summoning only works on minions? And Robes of Guadiness would round down to 2?
+---
+Ordering. One of the safes was likely played before the necromancer.
+---
+No, this video is literally just an ad for shadowverse with the same premise as a previous video he did that was just an ad for MTG.
+---
+Power play OP this hunter is calling you fat because you’re a giant he is actually just smorcing
+---
+&gt; I’m telling you that sticking one of those guys on two easily is an 80% winrate. You aren’t just generating 2-3 cards. You’re immediately creating a massive board with a hand refill full of aggressive minions that all have tribal synergy.
+---
+How are you "immediately creating a massive board" by playing angler on 2? That's... a 2-3? And on 3 you drop 2 murlocs? That's far from "a massive board"... 
+---
+As for the rest, I've been playing murloc shaman from rank 5 to legend (not just that deck, I rotate 3 decks) and I never had a concede after an angler on 1 or 2. Nor did I see anything remotely close to a 80% winrate with angler on 2 (and I'm sure the trackers won't find anything similar either).
+---
+Nevermind the fact that drawing 1 or 2 murlocs before they kill it isn't THAT big of a deal... Sometimes you draw 0 murloc even if you play it on 1 or 2. 
+---
+Rogues can always kill it, shaman can sometime kill it (if they have a murloc on board) or silence it, etc.
+---
+Warrior likely won't be able to kill it, but warrior doesn't really give a fuck either, given they have 53 board clears.
+---
+Primordial glyph reduces cost of the discovered spell by 2
+---
+Probably some random order. The first safe was destroyed,
+---
+Minions get destroyed by play order, one of the Deathrattles was played before and one after the Necromechanic
+---
+I was experimenting with plot twist and elekk to get more buff cards. It worked for this game; never any time else
+---
+Probably some random order. The first safe was destroyed and had the deathrattle doubled. Necromechanic was destroyed and then the second safe, so no more double effect.
+---
+This is actually a really funny concept and I would totally watch it. Like chess boxing almost. 
+---
+They could do it indoors of course.
+---
+it gave me resurrect into another 1/1
+---
+They both were summend threw Power of creation
+---
+Oh thats weird then
+---
+Yeah, on my very first game in the Tavern Brawl, I started with a Zul'jin in hand and then drew another one.
+---
+For the memes ?
+---
+TokTheGod#2936 on EU 80g trade quest. You go first, but I can show.
+---
+Thats right, but odds of getting those 2 specific beasts are even smaller than the highlighted combo
+---
+So 500 coins is $5. Was is a good amount... nobody can tell. I personal buy maybe 1 time for a new expansion, since I want to complete my collection. But what you need is hard to say... I would start buying some of the bundles, the problem if you want to buy wild stuff I think they aren't aviable in the hearthstone app anymore, correct me if I am wrong.
+---
+So you can only buy stuff in Hearthstone itself, not over the online shop.
+---
+There are persons buying packs for over $1000 a year, some just buy the new Expansions for maybe $200 a year, and some just the cheapest special bundles for maybe $50 a year. 
+---
+No one can say how much you should spend, but I would not pay more than $0.5 for a hour a play Hearthstone, so if you buy Stuff for $50, I would play 100 hours before buying something again.
+---
+Then you just wait a turn... he’s playing quest mage. This was just out right bad. It plays into doom sayer unless he had an argent or something but still he then plays a high risk for no real payout. Because it’s a 50/50 to basically auto lose to doomsayer and 1/4 to ruin your win con. All just to have a 3/2 one turn earlier. (All assuming he did in fact have two silverware golems
+---
+IIRC it actually doesn't lose stealth, it's permanently clearing until you kill it somehow.
+---
+Hax0r#1308 on NA trade quest. You go first, I can show.
+---
+A 3/2 and a 3/3 a turn earlier, but yes
+---
+Correct :)
+---
+But it has Rush
+---
+Looks like a SN1P-SN4P going out of its way.
+---
+For me it happens a lot after having random disconnects.
+---
+But they changed the mechanic quite done time ago which means the stealthed poisonous dreadscale now works
+---
+OP is in for a world of pain now. Best just FF.
+---
+You are wrong, any stealthed minion will unstealth if it deals damage, be that by attacking or by an effect. For example knife juggler will unstealth as soon as you play a minion.
+---
+Took me like 5 tries on normal mode, and a single try on Heroic for some reason (read: Robes of Gaudiness OP)
+---
+It honestly feels bad winning with that deck without playing a single Pogo.
+---
+&gt; If you look at the main classes that are played right now (warrior, mage, hunter, shaman and rogue), 3 of them have LOTS of aoe/board clears
+---
+You do realize that's **why** they're played less, yes? Classes like Priest don't see much play because they get so, so very easily overwhelmed. Token Druid and Murloc Shaman has set the bar pretty high. Since you used Consecration as an example, that clear counters neither of those decks---not even the Underbelly Angler dies to it and the Murlocs are so, so easily buffed out of the spell's range.
+---
+And to suggest that simply beating the Murlocs at tempo doesn't really dispute my previous point either---two aggro decks trying to take the lead with no comebacks is as equally much of a dice roll, just depending on who managed to get the good turn one, two, three curve. 
+---
+The fun in Hearthstone is that you can lose the board early, but still make a comeback around mid-game. You might only have fifteen or ten health left, so it becomes really tight and promotes more interesting decisions and risk-taking. But if you just plain die around four or five because the two or three mana minion gave an eight drops worth in value or stats, the game just ends on that first dice roll.
+---
+I get that you like Underbelly Angler, but it is a card that hits that exact problem with cheap minions being way overboard. I also don't see why Blizzard wants to force Aggro Murloc to be a thing, it's a terrible design that's just about creating a fast board that will kill your opponent before they can interact with it.
+---
+And as I believe I've said before, some of my best and most memorable games have been against aggro, trying to survive as a control deck. Trying to exhaust their resources and stabilizing. But I legit hate playing against decks that just snowball the board from turn one and you never get to even play because you weren't lucky enough with your opening hand. Mana Wyrm was "balanced" too, but nobody liked getting beat up by an 8/3 one cost minion.
+---
+Then you have cards like Cobalt Scalebane at five mana which was a stable in aggro, but never really felt unfair and created both diverse games and make for interesting decisions (do I have the minion it buffed or the generator, do I trade the bad minion away to increase the chances of my Scalebane hitting the right target, etc).
+---
+Wow, you found a way to make the hero power work. Every single time I get his hero power through the ring, my run ends.
+---
+Nice.
+---
+I saved up 40 packs worth of gold but didn’t get as many legendary pulls. I did craft Kangor’s army immediately though because mech paly is super fun and was really successful at the time. I’ve always wanted to make a Mecha’thun deck though, but never crafted him. My friend made the deck so I play it with him when we have a friendly match and we can borrow decks.
+---
+It's more of a drafting game than a deck building game.
+---
+It's more drafting than deck building.
+---
+You purposely left out my "early board dominance" to quote examples that define it.
+---
+Aggro has largely been the same since beta, I think it's good to see designs that let them play a different game. People hated odd pally because of the 'infinite value' hero power so they tried to tune it into a 'semi value' minion instead.
+---
+Underbelly angler certainly does not "decide" nor "auto win" games as much as you insist, it is just a very strong card that requires a sizable amount of good RNG before getting value out of it.
+---
+I actually meant Randiun Wryn, made famous by Noxious. (Uses lorewalker Cho and Millhouse mannastorm)
+---
+But cool to learn that my old weird bomb deck has a whole archetype now!
+---
+I literally can’t beat control warrior with mech hunter, I don’t know what I’m doing wrong
+---
+An opponent refused to kill me two turns running, so I topdecked Zul’Jin. Dunno if they were toying or farming quests.
+---
+Loo bro this dude added 15 legendaries into his deck late game and stalled it out 40 turns... plus the hero spell is ridiculous
+---
+Boom reaver only sees play in big warrior which is not really meta at this point. Nobody uses oondasta right now but that could change with the next expansion. I’m not the best to give advice on your collection because I have no problem dusting cards I don’t currently use if I see a deck I like. I’d just dust both lol.
+---
+I thought about that but. This match was like 4 minutes long and i get around 300+ ranks per win/loose. I really dont think thats possible.
+---
+Also, for how long have you been playing the game? Pretty hard not to have 30 cards in a standard set from last year. And if you're that new, the f2p friendly option is arena, the brawl is an extra option for an extra pack a week, but that doesn't make much of a different, it would be much more efficient to focus on arena
+---
+Wdym not masterpieces? This was a very good video
+---
+I believe the pencil and paper rule is not actually in the TOS, they've just said it a few times.
+---
+There is at least 2 data channels in the game. You can be disconnected from the game, not see any cards being played, but still see your opponent hover over cards and emote.
+---
+So we know the "communication" channel is separate from the actual game data channel.
+---
+Never tried to look at what data goes over that "communication" channel, but there is probably enough data to give you quite a bit of bandwidth (so you're not just limited to dots and dashes). It would be pretty easy to do a "secret knock" over the channel, and if both sides see it, start using the channel for communication.
+---
+Depending on the structure of it, you're going to have to deal with the problem of eliminating the noise of the actual hover events somehow.
+---
+And then of course you've probably got a 50/50 chance of getting a cease and desist letter from Blizzard. If you're not trying to make money off of it, I'd say there is at least a reasonable chance they just ignore it since both parties have to opt in anyway. At the same time this is a children's card game and humanity is one of the reasons we don't have chat currently in the game, so they might be concerned that a child could install the sidecar-chat app and they would be partially at fault.
+---
+Hi! The deck manager and everything else can be opened, but I can't seem to find any way to actually move the columns. :c
+---
+This was me with all the good discards like clutch mother in hand.
+---
+The mind recoils in horror.
+---
+Yep, it can be hard.  
+---
+https://www.youtube.com/watch?v=xCtRPtjGGXI
+---
+Im pretty sure steathled rag will lose stealth even though it never attacks.
+---
+But having these answers on top of the quest on top of these theory golems. The opening hand won’t have that much and if they’re hoping on drawing it is even worse
+---
+We're two months from the last release, 2 months from the next release.  This is time where folks are irate for the sake of being irate!
+---
+I mean you are dead to warleader - bloodlust, so really, tell us if you won or not?
+---
+Tiny violin
+---
+Try menu "Window" -&gt; "Unlock windows".  
+---
+And disable "Auto position trackers" in "Preferences" -&gt; "Trackers".
+---
+Also the HSTracker app for Mac is somewhat of a beta version. It's really buggy especially when it comes to windows positioning with multiple screens or spaces. I gave up on self-positioned windows and use locked windows with enabled "auto position trackers" now.
+---
+He might be prepping for Zul'jin later on. Gets more value eventually
+---
+500 packs every expansion is way more than anyonr would ever need
+---
+Which we basically get with hof amd nerfs anyway
+---
+Planeswalkers can be killed with creatures. Hero cards cannot be "killed" with anything other than something that would reduce the enemy to zero.
+---
+I dislike both, but Planeswalkers are definitely better in terms of design.
+---
+No that was when they made Protoss /s
+---
+A.K.A: Lich king failed
+---
+I am serious. ~~And don't call me Shirley~~
+---
+Still will probably take multiple tries. I'd recommend Shaman. Aggressively mulligan for [[Underbelly Angler.]]
+---
+Also, take most if not all the spells out of your deck, otherwise Lich King will just straight-up kill you.
+---
+So then why keep it in opening hand, these arguments aren’t weather quest is good or not in the math but if the play in the screen shot is correct. Statistically speaking, unless his hand is the nuts that we can’t see (and statistically it isn’t the nuts) then no it was not the correct play.
+---
+* **[Underbelly Angler](https://media-hearth.cursecdn.com/avatars/386/587/636899122617601324.png)** Shaman Minion Rare RoS 🐉 ^[HP](https://www.hearthpwn.com/cards/90648), ^[TD](https://www.hearthstonetopdecks.com/cards/underbelly-angler/), ^[W](https://hearthstone.gamepedia.com/Underbelly_Angler)  
+---
+2/2/3 Murloc | After you play a Murloc, add a random Murloc to your hand.  
+---
+So you don’t de-rank
+---
+The Dyn-o-matic nerf is hillarious I have to admit
+---
+Im actually a long time resident sleeper who is playing odd wallet warrior on the wild ladder between ranks 1-10 depending on how much big priest i can stomach before countering it with disco lock and killing them on turn 5
+---
+God works in mysterious ways.
+---
+Ok
+---
+I wasn't even referring to Hero cards specifically seeing as at least half of them were front-loaded with their battlecries rather than their passive effect or Hero power. It was really just about snowball cards generally.
+---
+Granted, I'd argue Planeswalker cards are worse design relative to Hero cards, especially when there are over fifty of them in a Standard format.
+---
+We’re in the sewers, making it a 1/2. Sound the bells (0 mana because anomaly mode) gives +1/+2, maintaining the attack-health ratio of 1:2.
+---
+Completed with Sergioxks#1592
+---
+I don’t know because I don’t play in wild, but after a quick search the top list did have doomsayers. I was under the impression nova doom and blizzard doom would be too good to ever cut but I could be wrong.
+---
+Also, ignore what I said about spells. Turns out that's Hunter and minions.
+---
+I played around 10 matches today and lost over 12hours
+---
+Do you not realise this is relevant to the sub because it's posted by and going to feature Mike Donais, one of the main people behind hearthstone
+---
+Again, you're saying that certain Planeswalkers in Standard are powerful. That's legitimate, and a concern for WotC to look at.
+---
+This does not fundamentally mean Planeswalkers are too overpowered by their design, just that individual Planeswalker cards are. There have been tons of Planeswalkers throughout Magic's history that do not create an "unbreakable position" because they're just low-power cards. 
+---
+However, I am stating that Planeswalkers, inherent in their design, have a safety valve (of being able to take damage/be attacked), which is something Hero cards do not have. That is just a design flaw, full stop.
+---
+I generally dislike Planeswalkers as a card type, because of their snowball-y nature. But the designers at WotC gave them counterplay, which is something Blizzard simply did not do, meaning Hero cards were a bigger design mistake overall. That is all my posts are saying.
+---
+Could you elaborate a little bit? What do you mean by 
+---
+&gt;Having a 3/2 that cycles itself turn 1
+---
+Quest Mages these days typically run Arcane Giants, Flamewalkers, Mana Cyclones, Apprentices, and a ton of cheap spells to accelerate the quest incredibly quickly, then win simply by using the quest for additional damage. Doomsayer is too slow to fit the gameplan, since they aren't waiting to assemble lots of combo pieces.
+---
+Thanks! Can't do jade tho. I don't have enough dust
+---
+Thanks, gonna try it now
+---
+Heya, I wrote a reply to a comment on my "finally reached legend" post earlier and it pretty much answered this question.
+---
+"My original aim when deciding what deck to use from rank 5 onwards was to beat Bomb Warriors. I came across across tons of them in the rank 8-3 range.
+---
+I personally found that warriors excel in removing single big threats (shield slam, execute) as well as numerous smaller threats (Warpath &amp; Brawl). Thus i found the trick is to build up 2 or so strong minions through use of the magnetic mechanic and you play around their best cards. I also started focusing on going face whilst being mindful of making solid trades.
+---
+Leeroy helped close out games and I found that i virtually always lost once warrior hit 10 mana crystals and had the extra effects of cards online (like that 10 damage battlecry) and the discover 3 mechs. So try to close it before 10 turns."
+---
+[[Dragon Soul]] and multiple weapon buffing neutral minions
+---
+* **[Dragon Soul](https://media-hearth.cursecdn.com/avatars/357/528/73322.png)** Priest Weapon Legendary KnC  ^[HP](https://www.hearthpwn.com/cards/73322), ^[TD](https://www.hearthstonetopdecks.com/cards/dragon-soul/), ^[W](https://hearthstone.gamepedia.com/Dragon_Soul)  
+---
+3/0/3 | After you cast 3 spells in a turn, summon a 5/5 Dragon.  
+---
+This is why I play almost exclusively thief rogue. It may not be top tier, but it's so fun.
+---
+if he had scorched the 3/4 before playing cone of cold and ping it was “guaranteed” (if given he got cone of cold off the mana cyclone) lethal
+---
+Or you could just kill command face for same result?
+---
+\#Sponsored
+---
+Someone in the chat asked "What card took the most amount of time to make work in the game?" and Mike said that its one of the cards from the next expansion.
+---

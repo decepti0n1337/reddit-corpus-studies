@@ -1,0 +1,570 @@
+ 
+---
+I forgot that interaction existed
+---
+---
+---
+I filled my board boss couldnt switch to my side and died
+---
+Awesome grammar, bro.
+---
+I agree with this. Nourish did deserve the nerf it got, but wild growth really didn't. Even just unnerfing wild growth would be nice imo
+---
+Game state where he's played and suggest 3 random cards. Then play out the game with that card. Weight is given based on how quickly lethal happens after you play the card. 
+---
+
+---
+Anything past 3 turns, remove from pool and start over.
+---
+Took like a minute to think of that. I imagine there are holes and better methods, but it's definitely possible.
+---
+Hey there,
+---
+Unfortunately, your post was automatically removed because you failed to assign it a flair within 5 minutes.  If you assign it a flair, your post will be automatically re-approved shortly after.
+---
+To assign a flair to your post, click the button titled "Click here to edit your flair" underneath the post. If you are on mobile or have CSS turned off, the button is just titled "Flair"
+---
+[Example With CSS](https://i.imgur.com/9TTfq91.png) | [Example Without CSS](https://i.imgur.com/3V6ugiq.png)
+---
+If you're having difficulty finding the flair button keep in mind:
+---
+You -can't- flair your posts if you're:
+---
+* Submitting via reddit mobile on a browser.
+---
+You -can- flair your posts if you're:
+---
+* Submitting via the reddit mobile app, and a variety of other reddit apps.
+---
+* Submitting via a desktop version of the reddit site on your mobile browser. You can force this view from the menu options.
+---
+You can choose either of the options above to flair a submitted post.
+---
+^(Have a question or think a mistake was made?) **[^(Message the moderators because I am a bot.)](http://www.reddit.com/message/compose?to=%2Fr%2Fhearthstone)**
+---
+That's not really true at all? If you put down [[Daring Fire-Eater]] and [[Spirit of the Dragonhawk]] you can deal 9 damage with a single Hero Power use meaning you can get Ragnaros out as early as turn 6.
+---
+* **[Daring Fire-Eater](https://media.hearthpwn.com/avatars/381/767/636791254591009212.png)** Mage Minion Common RR 🐉 ^[HP](https://www.hearthpwn.com/cards/90177), ^[TD](https://www.hearthstonetopdecks.com/cards/daring-fire-eater/), ^[W](https://hearthstone.gamepedia.com/Daring_Fire-Eater)  
+---
+1/1/1 | Battlecry: Your next Hero Power this turn deals 2 more damage.  
+---
+* **[Spirit of the Dragonhawk](https://media.hearthpwn.com/avatars/381/677/636791252942192098.png)** Mage Minion Rare RR 🐉 ^[HP](https://www.hearthpwn.com/cards/90178), ^[TD](https://www.hearthstonetopdecks.com/cards/spirit-of-the-dragonhawk/), ^[W](https://hearthstone.gamepedia.com/Spirit_of_the_Dragonhawk)  
+---
+2/0/3 | Stealth for 1 turn. Your Hero Power also targets adjacent minions.  
+---
+^(Call/)^[PM](https://www.reddit.com/message/compose/?to=hearthscan-bot) ^( me with up to 7 [[cardname]]. )^[About.](https://www.reddit.com/message/compose/?to=hearthscan-bot&amp;message=Tell%20me%20more%20[[info]]&amp;subject=hi)
+---
+I played pretty consistently from beta to Blackrock and then my device couldn’t support the game anymore, I’ve recently been able to get a new laptop that can handle it so I’m trying to get back into it
+---
+Mind games
+---
+I’m pretty sure it works with friend duels too.
+---
+By de old gods
+---
+I found the alarm-o deck couldn't do it for me. I used the deck below to beat the lich king with warrior and although most of the cards have rotated out of standard, the frothing berserker combo can be pulled off with other minions.
+---
+http://www.hearthpwn.com/decks/919621-lich-king-budget-and-standard
+---
+Ive been having a great time with quest hunter at rank 3!
+---
+I tried a deck that was both when it came out. It wasn't very consistent but when I won, I won big.
+---
+I went 44-4 in the Heroic Tavern Brawl (3 12 wins and my last one timed out) with Oondasta Taunt Warrior. This was a complete homebrew but of course Control Warrior shells are always gonna be pretty strong, especially back then (per nerf and early meta).
+---
+Grizzley, Armegadillo and War Bear are all have pretty great synergy with it and eachother, but the problem is it's just so many big cards. It's amazing in the mirror and was pretty good vs slow/combo decks too like Quest Paladin etc because you just had the option to minion them down a lot more, but it's definitely weaker overall. The main problem is although Town Crier seems like it has big synergy with Oondasta and Amani War Bear, it's actually pretty bad because you really want to draw your 4 mana rush and Zilliax.
+---
+   
+---
+A different take on The Hive:   At the start of your turn summon a 1/1 bee with Rush. Deathrattle Cast BEEEES!!! on the minion that destroys The Hive   
+---
+Was thinking maybe a basic 'at the end of turn summon a 1/1 bee with taunt' but i wanted a card that utilised the idea of a hive itself, Bees defend when there is something attacking it. Not sure if this design is any better but sounded cool in my head.   
+---
+Or make it spawn 4 1/1's that attack a random enemy and die at the End of your turn?  (maybe start?)   Anyway not sure if these ideas a super broken or boring, but couldn't leave this post after seeing the hive without offering a design i felt would be balanced but keep the texts flavour
+---
+ITT: Lots of people who don't understand death phases.
+---
+The Missile Launcher alone will suffice. You can magnetize it or play it separately. When it fires, it will mortally wound the Khartut Defender, the Goblin Bomb, and the enemy hero. Then the death phase begins, and *all three* of those characters will die together. Then, the Deathrattles of the two minions will go off, but they won't have any effect. The enemy hero already died alongside them at the beginning of the death phase, so it can no longer be healed or damaged. Once the sequence ends, they lose.
+---
+To address the interactions other posters are probably basing their explanations on: A hero *can* survive going below 0 health and being healed back up, but *only* if there is no death phase between the damage and the healing. If the hero has 0 health when a death phase starts, it's dead. So if your 1 health hero with a 5 attack Lifesteal weapon hits a 3 attack minion, you'll go down to -2 and then up to 3 before the death phase and live. But if your 1 health hero with a normal 5 attack weapon hits a 3 attack minion with "Deathrattle: Restore 5 health to the enemy hero", you will not survive. You'll go down to -2, die at the same time as the minion, and it cannot heal you.
+---
+Play control warrior.
+---
+&gt; You que into people with similar dust in their collection for casual.  
+---
+That's not true. It's all based on a hidden MMR.
+---
+Stuck on warrior and shaman are the last two I need to do.
+---
+you dont need to always use this combo, the cards can be used on many more minions for just massive burst damage. Also this combo deck is Tier 1, so you can't say its a bad deck.
+---
+Emeriss, the hunter legendary dragon that doubles the attack and health of all minions in hand. I run him in a Hunter C'thun deck. One game I got Brann to stick for two turns. Played Emeriss one turn followed by C'thun the next. I think it was over 80 damage.
+---
+The first (and only) time I've beat them is because of that overwriting their hero power.
+---
+i did it, didnt get anything special
+---
+thinking of coming back too, in the same situation
+---
+My IQ is low, my deck’s really whack, I press button get +2 GOLDEN attack.
+---
+Unless they just started that month and haven't ranked up yet. But sure, it's all the MM's fault and it's out to get you
+---
+8 hero powers is harder the 4
+---
+thats shit design like i said. thats like if overwatch queued grandmasters with bronze players every month lol keep defending it
+---
+Hey, I think you misunderstood something. For Grandmaster, you don't get packs for watching 3/6 hours        
+---
+&gt; Running on the Twitch.tv/PlayHearthstone channel exclusively during the designated time frames, we’ll make it rain Saviors of Uldum card packs–at random, once an hour, we’ll drop 1,500 packs to viewers who have linked their Twitch and Battle.net accounts.
+---
+For more information, I have an article about it on my website!
+---
+https://hearthstone-decks.net/twitch-drops-for-grandmasters-and-playoffs/
+---
+You really are an idiot aren't you. Enjoy your casual whining.
+---
+misery#11147 just want to get it done quick
+---
+The thing that bothers me is the BM. All I do most months is sit at rank 5 playing and building whatever fun decks I can find or think up, and losing most of my games is expected.
+---
+But when I played yesterday and 5 games back to back had emote spam from tier 1 and 2 meta decks against my quest warrior it really does make me question who I'm playing with. I don't want to have to squelch every opponent and imagine that we're playing a friendly game.
+---
+Ahhh ty
+---
+Wished it work like Baku HP
+---
+### what.
+---
+# Class: Paladin
+---
+# Format: Standard
+---
+# Year of the Dragon
+---
+#
+---
+# 2x (1) Crystology
+---
+# 1x (1) Making Mummies
+---
+# 2x (1) Murmy
+---
+# 2x (2) Micro Mummy
+---
+# 2x (2) Subdue
+---
+# 2x (2) Temple Berserker
+---
+# 1x (3) Bronze Gatekeeper
+---
+# 2x (3) Call to Adventure
+---
+# 1x (3) SN1P-SN4P
+---
+# 2x (3) Sword of Justice
+---
+# 2x (3) Witch's Cauldron
+---
+# 2x (4) Annoy-o-Module
+---
+# 2x (4) Bone Wraith
+---
+# 2x (4) Replicating Menace
+---
+# 2x (5) Mechano-Egg
+---
+# 1x (5) Zilliax
+---
+# 2x (6) Khartut Defender
+---
+# 
+---
+AAECAZ8FBKX1AqCAA5OlA5+3Aw2DBe73Apj7Atn+AuH+ApGAA7SbA6GhA8WhA/KlA/SnA8qrA5asAwA=
+---
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+---
+I’ve only come across 2 hunters that I can remember so far and I’ve won, but I will say it has absolutely been the hardest matchup so far
+---
+FISH KILL!
+---
+Sorry for spamming but I would say after a few more games I’m having more success with 2x hunters mark rather than 2x hyena.
+---
+This is like apple version of Claptrap
+---
+Then don’t buy it lol
+---
+The solo adventure is for people who want to play the solo adventure, not people who want packs
+---
+Not really the *exact* same, but a similar effect to Zephyrs could be done with just a "blank" token card that can be whatever card you want.
+---
+Again, the adventure could give 21 packs as reward. It seems you don't like higher rewards.
+---
+I would concede.
+---
+That is yogg
+---
+And anotha one
+---
+One word:
+---
+Shudderwock.
+---
+I spent 200€ on the last month and half after a long hiatus, up until LoE I had everything.. Even after putting this much, still no cards for paladin or mage decks. It's crushing.
+---
+Balance. Tons of neutral battlecries. Choose One is very controlled in Druid.
+---
+I would say tracking given that you want to play the aggro game most of the time. Just don’t play it turn one that would not be a keep in your mulligans.
+---
+The mage totem is why i was so disappointed with mage quest, they could have had some cool synergy with the hp cards instead of slow and bad card generation
+---
+aggro-zoo hybrid. I don't have many cards. Tho i played with Rafaam maybe 12-13 times. Maybe i got lucky with 1 loss. Because the legendaries i got was not generally garbage.
+---
+Thx
+---
+Every time I think about spending money, I see a post like this and remind myself that it isn't worth it. It is a funny feeling when I look at rare that I was to craft for fun but won't because the dust could be used for actual meta cards.
+---
+The duplicates you can dust no problem. You might want to keep a copy if you choose to get into wild at one point.
+---
+Most people say you keep them to play Wild and for Brawls. They are nice cards and if you really need the dust you can disenchant them to craft something you want to play. You can always craft them later if needed.
+---
+Still, it's fun to speculate regardless...
+---
+Squeamlish even has a voice line for when that happens! She utters "My candle... is kaput!"
+---
+The "-saur" comes from the Greek "sauros" which translates to "reptile", for future reference.
+---
+The tables have turned
+---
+L
+---
+r/karmalottery
+---
+you discount mechs or dr minions and stack a ton of snip snaps on top of each other then go face
+---
+Yeah, someone replied earlier talking about Kazakus, which I completely forgot about. I'm going to try the decklist posted on here.
+---
+what were you looking for?
+---
+I thought thats what this thread is About...
+---
+Good guy Jaraxxus
+---
+Hearthstone games almost never end in a draw, one person will just be the winner.
+---
+I really don't understand why people are downvoting you, your answer is exactly right. +1 from me.
+---
+You don’t need to be an arena master, just do dailies and you can keep up just fine.  I’ve also never spent a cent and I can play 90% of deck.
+---
+You only need to invest cash if you’re a new player, or haven’t played in a while. But once you’re up to date it’s not necessary.
+---
+you need a high iq to understand this.
+---
+Have effective board clears in your deck and some early game minions to combat their early game plays. If all else fails, use hungry crab to better take the early game and more consistently deny murloc warleaders from tip the scales. Once you effectively deal with the first tip the scales they generally wont have a fantastic follow through unless they draw a second prismatic lens into the second tip the scales.
+---
+"My calculations are where the action is at!"
+---
+That's how it's always been. Otherwise you could have huge like 200 card decks designed to lose game one then perfectly counter the opponents deck for games 2-3 after taking out 140 cards
+---
+Mindbreaker never works against bosses with custom hero powers.
+---
+that equals to 40-50 packs so 1-2 legendaries 3 at best, and you have a great player experience playing with only those 3 legendaries a whole rotation? great!
+---
+i'm f2p in this game forever and i have the feeling that who pays 80$ (and maybe even more) every four months just for a bunch of cards doesn't really care about how much they get for it.
+---
+Thats why i switched to wild only. I simply cannot and dont want to Spent such a huge amount of money over and over again. I just Play with the cards i got and when i get the feeling i cannot keep up anymore (which soon will be the Case) i will quit. And i'm completely fine with the fact that i will quit HS sooner or later.
+---
+If the costs were somewhat reasonable i'd gladly spend some bucks, but it is just too much.
+---
+Got 2x emerald goggles once, made for easy run
+---
+" It’s literally the cheapest CCG on the market"
+---
+No, that's objectively Shadowverse.
+---
+because otherwise druid quest would suck or shaman quest would be broken
+---
+Then you're retarded, cause I've never payed a dime in HS and I still get to make some killer decks.
+---
+So if it's too expensive, it's 100% on you
+---
+damn i am too poor for shudderwock so i run a Fire elemental instead, totally forgot about pit crocolisk
+---
+Greetings! Another week has passed, and that mean another list of the top cards of the week from r/CustomHearthstone. DAnon318 not only managed to win our weekly competition, but also managed to create one of the top created cards this week. Without any further to say, i wish for you to have a great weekend. Below are links to all the original posts, incase there is something you're wondering about with the cards + Potential tokens.
+---
+Conjurer Awlyn by OvertCinnamon
+---
+[https://www.reddit.com/r/customhearthstone/comments/cxxh7b/some\_of\_my\_best\_friends\_are\_spells/](https://www.reddit.com/r/customhearthstone/comments/cxxh7b/some_of_my_best_friends_are_spells/)
+---
+Drunk Patron by DAnon318
+---
+[https://www.reddit.com/r/customhearthstone/comments/cyragw/grim\_patron\_but\_drunk/](https://www.reddit.com/r/customhearthstone/comments/cyragw/grim_patron_but_drunk/)
+---
+Drawing Blood by 4chanwastoomuch
+---
+[https://www.reddit.com/r/customhearthstone/comments/czoltv/is\_it\_fuel\_is\_it\_burn\_is\_it\_mill\_you\_decide/](https://www.reddit.com/r/customhearthstone/comments/czoltv/is_it_fuel_is_it_burn_is_it_mill_you_decide/)
+---
+Dark Magic Trees by Isa20p
+---
+Void's Influence by Nobuudy
+---
+[https://www.reddit.com/r/customhearthstone/comments/cyct6d/the\_void\_embraces\_all/](https://www.reddit.com/r/customhearthstone/comments/cyct6d/the_void_embraces_all/)
+---
+Groundkeeper Hagerd by someone who should really consider a different username.
+---
+[https://www.reddit.com/r/customhearthstone/comments/cz2r3l/got\_critters/](https://www.reddit.com/r/customhearthstone/comments/cz2r3l/got_critters/)
+---
+Apex Predator by GoldemGolem
+---
+[https://www.reddit.com/r/customhearthstone/comments/czfyx5/apex\_predator/](https://www.reddit.com/r/customhearthstone/comments/czfyx5/apex_predator/)
+---
+Path Finder by BrazZOR170
+---
+[https://www.reddit.com/r/customhearthstone/comments/cye8fd/lets\_try\_this\_way/](https://www.reddit.com/r/customhearthstone/comments/cye8fd/lets_try_this_way/)
+---
+Dragon's Rage by Bahob
+---
+[https://www.reddit.com/r/customhearthstone/comments/d09g9x/how\_many\_times\_can\_you\_cast\_this\_spell/](https://www.reddit.com/r/customhearthstone/comments/d09g9x/how_many_times_can_you_cast_this_spell/)
+---
+Our competition Winner - DAnon318
+---
+[https://www.reddit.com/r/customhearthstone/comments/cxza8b/weekly\_design\_competition\_246\_legendary\_spells\_2/](https://www.reddit.com/r/customhearthstone/comments/cxza8b/weekly_design_competition_246_legendary_spells_2/)
+---
+just got this [https://prnt.sc/p30qwz](https://prnt.sc/p30qwz)
+---
+I saw it and when reading the reddit thread about the brawl "finishing the legendary quest for a pack" it meant that.
+---
+WoW Classic, new D3 season, PoE
+---
+Basically...tons of things that are more fun than Hearthstone
+---
+Funny how every single thing I said got misconstrued. You're the one who brings up how much money you have to spend, even though you don't have to. You're the one who mentions the need to "keep up".
+---
+They do it by giving you a lot more choice to balance risk reward. In hearthstone it's typically one fight, add card, another harder fight.
+---
+In slay the spire you get to pick your path. So if you have a strong deck you can take harder paths to get more rewards. Or if you have a particularly weak deck you can take more risks knowing you will lose to the end boss 
+---
+Hearthstone basically has a lot less decision making. So your the skill ceiling is a lot lower
+---
+I only get offered toki, millhouse, and azalina. This is just upsetting.
+---
+It’s not programmed to work in any solo mode content
+---
+Sziasztok! Csabi vagyok 12yrs pls follow me and subsrice:c
+---
+This is... Requiem
+---
+*Drawing Blood* makes me think how much more flexible and overall interesting some custom Hearthstone cards are, compared to what we actually get.
+---
+The deckbuilder literally netdecks for you when you autocomplete by seeing what's the most popular deck it can make with your cards. It only works for Standard, the Wild version is still as bad as ever.
+---
+is there any reason to come here? nothing new, nothing exciting. just a bunch of half assed memes and clips of barely interesting gameplay. even coming here just for any news is underwhelming. the game has come to a halt creatively and the sub is uninspired because of it.
+---
+I don't understand why Ziliax and Zephyrs needs to be HoF. Imagine Zephyrs getting nerfed, you'll start to see stale Control Warrior decks all the time. Zilliax has always been balanced and I see no reason for it to be hall of famed.
+---
+Proof of this fact shows up to my shop pretty much every morning 5 minutes late.
+---
+He just wants a friend
+---
+Mostly because image posts gets a lot more attention.
+---
+We had fewer than 40 votes on a lot of the textboxes, while this seems like it's gonna hit the top spot on the front page.
+---
+Bran can be the easiest of the fights if you get the poisonous choose one. Think can use poisonous seeds to.
+---
+um what? 
+---
+Surely for someone who invests "$80-160" a year it would be costing... you know, the numbers you just said it cost.
+---
+I don't think that's the point though.
+---
+I think that when you spend $50 or so to pre-order an expansion and can't build a single deck *you want* to play, something is not right.
+---
+In the thread that it was made in, people pointed out that there’s basis for it summoning a 5/5 on the first cast, since pogo-hopper specifically specifies “other” pogo-hopper.
+---
+HOW LONG CAN THIS GO ON?!
+---
+wait that came out more than two years ago? 
+---
+... jesus.
+---
+Either way, they could've top decked an answer (be a magnetic mech like Zilliax or Snip-Snap, or an Omega Assembly to find a magnetic mech). By trading into the 3/4 instead of the 5/5 they guaranteed your win. It was a misplay on their part. A small one, and very possible that it wouldn't have changed the outcome, but at minimum, they could've taken one more turn to find an answer.
+---
+&gt; It's not like they have some major single target removal in the early game. 
+---
+Backstab, SI7 Ageny, and Goblin Lackey kill your Tidecaller, and Eviserate and Hooked Scimitar kills every minion you play in your deck. Rogue is the quest of single target removal, and you are just wrong on that point.
+---
+Granted, Murloc Shaman doesn't lose hard to either of the popular rogue decks on ladder anyway,.
+---
+Perhaps the deck builder thinks a lower curve is better without Boom and you should go for faster games.
+---
+I agree with you, but for a slightly different reason.  While functionally zephrys is rather similar to cards like mastermind's acquisition, mastermind's acquisition is an extremely difficult card to wrap your head around.  You have to have a good idea of what your deck struggles with and what else is in the meta to plan the options in your sideboard, and you need to have a stronger grasp on what you need in each matchup.
+---
+Zephrys is the hearthstone version of that effect because he is much more player friendly, if you are a newer player he can even be an excellent teaching tool for thinking about what kinds of effects are possible in the game.  And yet, he stills performs his best if you are an experienced player who knows how to control what he gives you.
+---
+Luckily for myself it's the only game I play, so $80 or $100 every three months isn't bad
+---
+Blizzard must be secretly adding dust to my account because I haven't spend a dime since WW yet I have multiple decks in standard and wild.
+---
+Imagine a 4/5 flame imp on turn 2 that summons a taunt. Might as well concede lol.
+---
+It's expensive if you're new or if you want to play wild. Otherwise I find it fairly reasonable to dust rotated cards as new expacs release. No one is forcing you to spend money on the game, it's completely your choice. 
+---
+I haven't bought a pack in over a year now and I'm always able to craft every standard meta deck I want. Does it kind of suck and limit my play options? Yeah, but it's a trade off I'm willing to accept since I get to spend $0 on the game and have no real interest in wild.
+---
+I think it’s $15 dollars after the release
+---
+If it's actually able to recognize that, it would be good idea to provide a hint for players. I presume most people who use that feature are beginners who don't yet understand curve.
+---
+&gt;The current HoF in Hearthstone is just a junk disposal for cards that Blizzard thinks that are to strong for Standard. 
+---
+None of the cards in the Hall of Fame are too strong to be in Standard. However, they are too strong to be in Standard forever. Each and every one of them would have been perfectly acceptable as expansion cards give cards on the same level of them have been made like the Lich King and Zilliax.
+---
+&gt;The criteria to go into "my" Hall of Fame would be: Strong over a long period of time, played in a variety of decks (even after possible nerfs) or just a iconic card for the community. 
+---
+What would even be the point? Why would we want a permanent reminder in game for all of Standard's boogiemen from ages past?
+---
+The OP never said anything about cards in this new Hall of Fame being given to everyone. Granted, what would even be the point when so many of them are Wild only and often do not see much play there?
+---
+This guy right here, I am what you call a casual
+---
+What's stronger dr. Boom, Lord of the Netherlands and Rogue/Warrior or one divineboi?
+---
+It's hard to just restart the client when you see something that's not working intentionally huh? Guess it's better to continue and then complain about it if you could easily fix it yourself.
+---
+Woah
+---
+But that's only for doing the OTK - one should have the skills to survive till then.
+---
+none of what you said is true.
+---
+This is a good post not only because it highlights a real cheating problem, but also because it once again brings attention to the ridiculousness of having any sort of game plan balanced around "APM" and animation time.
+---
++1 to this 👍 - Blizz, please fix your goddamn animations.
+---
+A tap is +1 card advantage, as is Arcane Intellect.
+---
+Keep in mind that it is one mana, a card, and 4 health for 2 cards, not just 1 mana and 4 health.
+---
+I like how you still haven't actually explained *why* anyone should care lol
+---
+nah
+---
+and i dont need to. it is obvious.
+---
+and while we're at it, make summoning portal do what it says.
+---
+Don't worry, you keep reposting this pic, I keep reposting my comment :*
+---
+I forgot to assign a flair lol
+---
+Maybe the button can be made such that it only dismisses the new cards that are not actually new but that show up as new despite you having them in your collection for a couple of years?
+---
+Keep in mind these ones aren’t guaranteed, those aren’t until the playoff matches.
+---
+Yeah, I don’t really expect it to be the most competitive deck but it’s just super fun to me, being able to play 3 archetypes in one is super fun
+---
+if myra's doesn't make mechathun tier 1 this piece of shit definitely won't
+---
+Sarcasm aside, scoring Milhouse twice is a pretty nutty roll.
+---
+52% of what? Because 52% of 500 million would still be an absurd amount of money. Percentages indicate tons of different things and you can really only speculate without figures.
+---
+brann is stupid.
+---
+the beast had 14 health left and he had 10 damage with 3 monsters on the board. he attacks and its 4 life left and then plays 2 dire wolf.
+---
+none of the deaths of the cards resulted in him draw cards.
+---
+he had 10 life left and the beast did 10 damage and i lost.
+---
+yes, you are following fine, we just happen to disagree.
+---
+That’s a good point. Not sure why I was thinking they all had to be played at once
+---
+Trading 80G quest. Regailia#1250 NA.
+---
+The easy solution is to kill this deck since he does no good for the game anyway.
+---
+It's not random. I don't know exactly what it looks for, but it will commonly put the same neutral cards into your deck no matter what class you play. Cards like Zombie Chow, Plated Beetle, Mind Control Tech, Fungalmancer,  Emperor Thaurissan, Baron Geddon, Lich King, and Ysera show up almost every time if you have them. It seems to value situational effects on a stick, with a curvestone mana curve.
+---
+It's a bad card powerlevel-wise, but it's nice designed imo.
+---
+So the deck was nerfed so it... ruined.... huh... what?
+---
+Dude, I asked for help. If you cant help me, then please  dont even comment anything.
+---
+Public service, so that when you meet scum like this, you'll recognize the signs of something fishy going on
+---
+Underrated
+---
+&gt; If you are consistently late every day and you don't have some unavoidable scheduling conflict, you're dumb.
+---
+I don't know the kid you are talking about, I was responding to this statement.
+---
+Legendary is not a big problem now there are these protections, epics becomes a bigger problem when it comes to deck price.
+---
+People really enjoy playing Big Priest and since it was pushed out of the competitive sphere, where else would it go?
+---
+Honestly if you're ever spending $1 on this game after the welcome bundle and haven't bought every adventure you're wasting your money. Far, far, far, far more enjoyable than Dungeon Run Clone #813 and far better rewards too.
+---
+I will never understand how people enjoy random solo content over pve where you get to make your own decks.
+---
+If you have confirmation that it's your account then they can probably help you. Maybe something like security questions, 2 factor Auth (if battle net has that, idk) or purchase history documentation might help. I would say ask them before something happens because I assume it would be harder to deal with then.
+---
+🤷🏼‍♂️
+---
+Even if I don't do anything that wouldn't be possible otherwise?
+---
+10 mana to cast tracking and bomb toss with random targets. Sure, why not
+---
+Phew. I *hope* a simple picture of my drivers license will be enough. Now I’m anxious that I won’t remember the answers to my security questions that I answered probably five years ago. I’m hoping it’s not some bullshit question like “What’s your favorite band” or something. 
+---
+I’m certainly going to try to get this sorted out on Monday, since customer support doesn’t seem to be active at the moment on a Saturday.
+---
+* The hero takes damage equal to the chosen minion's attack.
+---
+* The minion does not take damage.
+---
+* The minion goes back to it's original position.
+---
+* If the minion has a damaging effect (ie lifesteal) it triggers.
+---
+The only way to do that is either modifying the files of the game or using 3rd party software.
+---
+ yuliusaje#2926, **EU, Trading 80g Quest**  
+---
+  I show mine and you go first
+---
+You realize that in the case of not hitting the desired target this thing is basically a 3 mana Ragnaros, right? And this is if the Patron doesn't survive the hit. If it does, it is even more absurdly strong.
+---
+NA 80 gold trade Jeffrey#12988
+---
+path finder is so cool
+---
+&gt;you don't have to worry about nerfs or standard rotations killing your favourite deck or anything like that
+---
+*Cries in Caverns Below*
+---
+That's absurdly, stupidly OP.
+---
+This again? It is expensive if you want to play every and all decks. I've been playing from launch, have 20k dust and about 2 to 3 competitive decks by completing dailies which let's me open about 80 packs. I can see people struggling just starting out, but there's some fun in collecting cards and improving your collection over time. There's no need to buy any packs to get a legend viable deck together, the complaining gets old fast.
+---
+MTG Arena far better if you’re going to pick one, better set design
+---
+if you are in na add me nIgHtMaRe#18656
+---
+Sounds like you've had some bad luck. I've been playing wild since the format first came out from every rank between 25-5 and I've never ran into the same deck 11 times in a row.
+---
+What about mage quest lol
+---
+No because there were taunts in the way which would've negated an effective trade.
+---
+Only because the animation system is so bad. When cheating is removing slow animations I feel it's more about the system beeing bad than the cheat abusing something problematic - not saying this isn't cheating though.
+---
+Fuck screenshots, right?
+---
+this guy gets two millhouses and complains
+---
+yes anxiety is a thing, but it goes away the more you play. trust me. so start playing like 20 games in a row and you'll see your anxiety goes lower and lower.
+---

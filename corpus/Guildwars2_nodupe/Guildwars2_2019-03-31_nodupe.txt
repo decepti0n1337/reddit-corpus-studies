@@ -1,0 +1,1124 @@
+No real capes, only butt capes.
+---
+---
+---
+Thread removed: Low-effort/-value post.
+---
+
+---
+See full rules [[here]](/r/Guildwars2/wiki/rules)
+---
+It even has pubes.
+---
+Damn that's the biggest weeabo otaku content I've ever seen on gw web
+---
+&gt; Very few languages have strict guidelines on how they're written. 
+---
+With all due respect, [many languages](https://en.wikipedia.org/wiki/List_of_language_regulators) have that. Some institutions I know are not on the list, but I would need more time to research why, than I currently can spare. 
+---
+It so happens that I am asked a LOT, by English native speakers, whether I learned XY rule. Because foreigners would learn the language more explicitly. It so happens that even my friends who studied English language at Ivy League colleges, are completely out of their depth after about 1-2 sentences, when discussing properties of language, like what is a noun, a verb, what is a case, it's functions, etc. 
+---
+To get back to the person you answered, even in English there is a "currently considered correct way" to construct certain sentences. They just do not teach it to their native speakers. And before someone points out "but, but, apostrophe" I see that mistake from native speakers just as well as from non-native speakers. Check the use of native speakers of "lose" vs. "loose", or the most misspelled words, and similar fun info. Eye opening, to say the least. 
+---
+Lots of choco dolyaks for you tekkit 😂😃 for your effort
+---
+All this time, I was staring at the bright-yellow leak stains.
+---
+On the TIP?!
+---
+Below the shaft.
+---
+That fine. 
+---
+Thanks!
+---
+Really like this art. Have more? :D
+---
+Take a look!
+---
+STRIKE THE EARTH
+---
+Wow!
+---
+This was truly necessary.
+---
+You did well.
+---
+I like the Arah background. Totally underrated place.
+---
+I'm having the same problem...
+---
+Yes, going to resupply would be better. Building shield generators and rams/catas to protect from all the defensive siege is the way to play the game. But beating on a door to open it is also viable albeit the slowest way possible to open a door. I have been guilty of doing this against door catapults because I would not be assed to walk back to a camp. 
+---
+Well, that's pretty badass, can't argue with that.
+---
+Just don't play it hardcore or you will be disappointed
+---
+Also, lets stop with the dudu bulshit already please. 
+---
+&gt;Half reward track progress* FTFY
+---
+\&gt; Also, gw2 snowflakes downvoting me 
+---
+It's the internet - it's filled with stupid people who don't understand what's going on.
+---
+Since beta I've been checking in on that gate with hope and disappointment. Where's mini based combat? I want to pit balthazaar against the new virtual chouya.
+---
+&gt;so upset
+---
+I guess I missed the sign that he was "so" upset.
+---
+By Ogden's hammer, what savings!
+---
+Not asura
+---
+I like you like goats.
+---
+It's because I'm just as stubborn as one!
+---
+Hoping for the copper-fed salvage. Silver was up earlier in the month.
+---
+\&gt; so upset 
+---
+I guess I missed the part where he was "so" upset.
+---
+\&gt; sometimes people just disagree 
+---
+...with facts O.o
+---
+I did it with marks and converted it to PoF stats. However I did do this with PvP Grandmaster Marks. I didnt have enough  and had to craft the chest, which was painful. 
+---
+Yeah. Some map artist absolutely had a blast making this, then just sat there not saying anything but increasingly amazed as it got closer and closer to live release.
+---
+Sure because changing a wallpaper or shortcut parameter is the same as changing the function of how the keybindings work. 
+---
+Don't be ridiculous...
+---
+Don't say that. Then granting permission for things becomes a question of whether the permission merits a game change or not, and whether they should delay commenting until they've had time to look at the development...
+---
+Agreed. With all of the new elite specs coming out that basically allows all classes to use all weapons, it would be one more thing that wasn't unique to a class. 
+---
+However, now that we know this could be a thing, is it right to keep it from being an option? Those of us who want our class to look more traditional can just choose not to use the transmutations and those who are excited about a cool new way to customize their favorite characters can do so.
+---
+Your UI is so big and your graphics are so low :(
+---
+They give a set value of progress, only thing to do is figure out which track you want running that it'll go towards and have that set.
+---
+I'm just thinking about this and I already wonder how on earth one would play a number of short, consecutive notes.
+---
+" **What happenes if you give an infinite continue coin to Drooburt?** " Well .. he would respawn ! Even Jesus did when he got his infinite coin so why not Drooburt ? But keep in mind that it might take him 3 days to do so ... xD
+---
+It really isn't, I never use it in PVE. For what it does, Raptor and jackal are just better. 
+---
+Simple fix, don't hit reset if you die. When you respawn the window wont' be there but after the 30s is up you'll be ported back to the choya.
+---
+That doesn't always work in w2z3, which is precisely the place in which you want it to work the most, since it's nor possible to backtrack.
+---
+What map is this?
+---
+Thanks for the amusement you two
+---
+It was bound to nothing, I use double tap. But I found a way to do it. Binding dodges to numpad dot and then:  
+---
+  
+---
+    #NoEnv
+---
+    SendMode Input
+---
+    #IfWinActive Guild Wars 2
+---
+    NumpadDot::
+---
+    SendInput, {Space Down}
+---
+    SendInput, {NumpadDot Down}
+---
+    sleep 5
+---
+    SendInput, {Space Up}
+---
+    SendInput, {NumpadDot Up}
+---
+    Return
+---
+Elon Riverlands I believe
+---
+It would just require a reversion, since the flute used to work that way and now doesn't.  You used to be able to press buttons multiple times in a row to get a soft difference in notes as well, though I did generally like to use the cancel to make them crisp.
+---
+I think they thought they were doing us a favor by adding an animation to the cancel, but I'd much rather have no animation, and let that animation be something that kicks in after a second or two of not playing or carrying a note.
+---
+ruuuuude
+---
+\*boing\* \*boing\*
+---
+jump as soon as you land
+---
+There are sales "quite regularely" but they are not 50% off everytime. When the next big one is? ... noone knows. But given that the welcome back event just started this week I would consider to be patient over the next four to five weeks. Otherwise it is quite common for ArenaNet - at least for the recent past - to discount the game during releases of living story episodes.
+---
+Looks real furry to me.
+---
+ITT people don't know how diverse furry art/look/ taste is.
+---
+Also hey, thanks for showing a new artist to follow!
+---
+Do they kiss or just sniff butts? 
+---
+Bought four to bring me to the max. 2000 material storage. Yes, please. 950 Gold -&gt; Gems.
+---
+I had this issue too. I tried to give a mate two of them today and there was no option to do so... found out after converting gold to gems though... so he got three bag slots instead. 
+---
+Or when you go for t3 👀
+---
+It's almost like UI size is inversely proportional to resolution in this game, and systems that aren't able to run the game with high graphic quality also might need to reduce the resolution.
+---
+Or your team mate in t3 👀
+---
+I really really am! lol OwO 
+---
+Now you got me blushing. Thank YOU so much for being a part of this community and even watching my stuffs &lt;3 
+---
+Watch at 320p for true nostalgia
+---
+You can buy mystic coins with bauble bubbles. They are on a vendor that changes inventory each week, but at least for now bauble farming = gold farming.
+---
+O ok
+---
+Some years back it changed.  Unfortunately.  Hopefully it will get patched back some day.  😐 
+---
+The last time I crafted an ascended set was several years ago and it costed me around 800g. Material prices have dropped now, so I think maybe 600g now? I did some calculations and found it's worth $28.80.
+---
+Awesome that's wonderful to hear. It's actually far cheaper than I expected. 
+---
+I'm here to play Guild Wars, not Tab-In-and-Out-of-Game-and-Swap-Through-Alts Wars. That is the entirety of my point.  I am not saying expanders revolutionize gameplay. I am not saying everyone needs to buy them. All I said is that many players ("players" specifically referring to those who buy the expanders) find expanders to be the most convenient option.
+---
+Wow, and I've been playing the harp as my go-to and didn't even notice.  That's terrible, because the flute really has a unique and lovely sound to it.  I'm sorry for neglecting you, flute, you got broken while I wasn't paying attention ;_;
+---
+Also hey &lt;3
+---
+Peter Fries directed this and several months later he was fired. Coincidence? I think not.
+---
+Well, it’s not a great idea, and I’d recommend against rushing for ascended armor. Given the sales, I’d assume Gems to Gold conversion is pretty good right now. Depends on the type. You could calculate by choosing the armor in the crafting calculator on Gw2Efficiency, then use their gems to Gems to Gold USD/GBP/Etc.  converter to find the cost. If you wanted to buy them all immediately, set Daily Crafting Cooldown to Buy. There will be a huge price increase by not crafting your own daily cooldown mats. 
+---
+Next update: Removed cock rock.
+---
+Then don't.
+---
+They paid an artist to make it, that's what a commission means. $100 to be exact according to OP
+---
+As mentioned elsewhere, $100. Here's OP's comment about the artist https://www.reddit.com/r/Guildwars2/comments/b7bjxh/commissioned_a_pic_of_my_guildies_charrdian/ejqe4a1/
+---
+The tunnel has collapsed. (See Tigmi in Desert Highlands) And I don't know about you but a map that consists of a long tunnel stretching from Ebonhawke to Desert Highlands (Before you get a mount, no less) doesn't sound interesting to me.
+---
+Boa jovem!
+---
+Uma das melhores coisas no gw é sua lore, e ter um conteúdo em sua língua nativa sempre é algo bem vindo, principalmente pra quem é novo no jogo ou quer dar aquela revisada na memória, parabéns.
+---
+Can someone refresh me on how to get Kaiser Snake skins via achievements? Are they just through accumulated dailies? 
+---
+I did world 2-3 the other day after clearing it.  I had about 20 seconds to spare and I essentially ran from the start to the last coin without stopping.  In order to get gold, it's practically required to clear everything first or at least through that ram puzzle.
+---
+North of ogre camp in desert highlands down in the ravine at the very edge of the map
+---
+If you dodge-jump on Mirage, you still move, whereas a standard dodge leaves you stationary.
+---
+with Bushes growing out the FRONT too!! wtf lol this is taking fantasy art to a new level. 
+---
+The cock rock
+---
+For SAB, the glorious chest at the end of normal mode or tribulation mode, is it one per day per char or one per day per account?
+---
+i know all that, i read the wiki... but how do i get any 2 more mastery points without The Springer or the glider??????????
+---
+Mastery point farm in PoF,
+---
+If you press H and check the achievement tab , under PoF story and PoF maps, you will find a list of achievement that would give you mastery points, plus there are few that require the mounts to get on the maps. 
+---
+So I would start with story achievements ^^ most of them have guide on YouTube and some GW2 sites. But most achievement have hints that help you understand what you need to do.
+---
+Hope this helps,
+---
+Cheers
+---
+Thanks! No wonder I didn't see it the first time. 
+---
+Urban Battleground Fractal:
+---
+"Hans, are we the baddies?"
+---
+This is nauseating to watch with the FoV that small.
+---
+Then, get HoT? It a great expansion.
+---
+Do mastery insights on other maps, do story. There are mastery insights on core maps too. 
+---
+Have you tried opening your achievements tab and looking at the path of fire section? 
+---
+Yes! Each chapter offer achievement that gives mastery points.
+---
+PoF and living story 4 only offer PoF mastery points, HoT and living story 3 only offer HoT mastery points,
+---
+Core maps and Silverwaste offer core mastery points.
+---
+If you check the achievements you will see the point mark on it, those are the ones you should focus on to gain the points you need.
+---
+Oof true. 
+---
+I speak multiple languages fluently, and quite frankly, I learned a lot of English on online forums and games. You can only get better at using a language, so there's nothing wrong with pointing out wrong usage of grammar. 
+---
+There's nothing mild about it!
+---
+achievements that give you PoF mastery points have a purple symbol to them btw.
+---
+It is.
+---
+I need gold so i can have fun lol
+---
+I've just downloaded and tested all in one pack with a new taco and everything works, do you still have that issue?
+---
+Who is Pike? :p 
+---
+My Godness
+---
+Nice to see more parts of Rhoban the Dwarf have been found
+---
+Fashion Wars with Outfits **Pepega**
+---
+Neat, didn't know that, Thanks!
+---
+Malyck’s tree comes to mind
+---
+well man, e full set of ascended armor doesn't cost 225 g :) it's much more than that, given that one single piece is around 80g. 
+---
+AHAHAHHAHAHAHA
+---
+Flashbacks to my first time in 2013 or so... very accurate. Stupid hammer. 
+---
+Bigusdickus?
+---
+"had a blast" too
+---
+I took a long time I decorated by being on the surface I would make a video to show how I do
+---
+Is this the new ride pet ? 
+---
+[removed]
+---
+It's really annoying. 
+---
+I did world 1 and had to leave the instance a few times, so I decided not to bother with world two until they fix it as I dont want to spend hours trying to do it
+---
+I just did Soulless Horror for the first time. I was playing healer druid. Since I wasn't on pushing duty, I just used Axe/Warhorn. I don't mention the staff because I felt that the staff was just getting in the way, so I didn't use it. Despite using Stone Spirit, having good support chronos, and exhausting all of my astral force every time, I was accumulating enough astral force to be able to use CA off cooldown consistently. Whenever I exited Celestial Avatar, I'd use the warhorn abilities immediately and then for the next five or so seconds, I'd maybe use the spirit-activated skills or Glyph of Empowerment off of cooldown or play with my axe. Rinse and repeat. I felt that swapping to the staff wasn't really particularly beneficial. It was annoying to switch back to axe/warhorn, coming out of CA every other time. I'm still somewhat new to raiding. Is that normal/okay for healer druid? I didn't hear any complaints about heals.
+---
+Thanks! :)
+---
+The only reason to get this is for convenience. Even without accounting for the real-world cost, it's only 1.44 copper less per use than the Master's Salvage Kits, which do the same thing. Additionally, the Mystic Salvage Kits does the same thing and is nearly **50** copper less per use than the Silver-Fed Salvage-o-Matic costs per use. And on top of that, you should only be using these on level-68-or-higher exotic gear; you should use lesser salvage kits (e.g. Copper-Fed Salvage-o-Matic) on anything of lesser rarity or of a lesser level. How often do salvage level-68-or-higher exotic gear? The Silver-Fed Salvage-o-Matic isn't worth much unless you significantly detest acquiring new salvage kits every once in a blue moon.
+---
+I just finished Crafting the Medium and Light Sets which are way more expensive than the Heavy one like 2-3 days ago.  
+---
+As I stated, the Stat I crafted was the cheapest (Verata's) at the highest piece being 55\~g. the cheapest being 42\~g.
+---
+Yeah, enormous amount of effort was put into posting this. Made with lots of love. 
+---
+You mean plastic surgery.
+---
+You know what they say about elona
+---
+Thanks, that article is on-point; a lot of info to sift through. 
+---
+I do have both Seasons 3 &amp; 4 -- Does that change anything? Should I farm Lake Doric for jade shards to buy the Jade Pendant?
+---
+Is there a reason I shouldn't just burn 30 Laurels on an ascended amulet?
+---
+Honestly you should never be swapping to staff unless you need the staff 5 wall for some reason (start of cairn for instance) and for burst healing (staff 5 counts as a water field, can blast with staff 3 and war horn 5). You want to stay on axe/wh for more DPS and boons, normally you swap into CA for a couple skills (CA 4 for sure) then swap out to regen before the cooldown is off, if your team is getting hit a lot you'll regen more like you were seeing in the fight. I'd suggest just looking at your might output in the fight log (if your group uploads to gw2raidar or if someone is running arcdps) for a good idea of how well you did but I'd expect it to be pretty high if you were often using CA and warhorn.
+---
+Why couldn't I get amulets and trinkets from Living Story? If they're there, I suppose I can.
+---
+I do need to up my Agony Resistance sooner rather than later, though, to start doing T3 fractals. Is there a reason I shouldn't just burn 30 Laurels on an ascended amulet?
+---
+Some people just liike doing stuff, for you know that weired thing called fun....
+---
+Laurels are kind of time limited (only get 35 - 55 every 28 days). So if you want to save them and use them on other things that's an option instead of farming up some living story currency on season 3 episode 1, 4, 5 or 6. 
+---
+https://www.reddit.com/r/Guildwars2/comments/b4c48x/this_is_a_program_to_overlay_your_rotation_while/?utm_medium=android_app&amp;utm_source=share
+---
+Best way to train rotations. Also firebrand needs allies to perform the full dps because of burning share stuff.
+---
+Where is this wall?
+---
+It's key to do some specific jumps and escapes routes in sPvP.
+---
+A jump dodge at the right spot can make the difference between dying or not.
+---
+Ok, the reason why scepter is so good, is because it has many hits per second. The #2, the Symbol has the symbol damage plus some random hits on top of that. Its important because ypur F1 passive dmg scales massivly with the amount of hits per second.
+---
+I didn't realize that log-saving isn't turned on by default, but I loosely recall the numbers in the buffs window. I started with only 105-ish on might, but on the later pulls, I was occasionally getting higher might numbers than the other healer druid (who was the exp leader). I hovered around 177 on might (occasionally peaking at 210-ish). Fury was around 5.7 and protection fluctuated between 3.5 and 5.5 (depending on how frequently a Tormented Dead was nearby when Quicksand came off cooldown). I don't recall seeing the other numbers. It was of course a training raid, so I'm still getting used to things. I doubt that I'm “better” than him, so I guess they were pulling attention away from their rotation instead so that they could focus on the squad and mechanics. Either way, are those numbers okay? Idk fully understand what those numbers mean.
+---
+Haha listen... gg wp = good game, well played. 
+---
+It’s a term traditionally used in player vs player formats near, or at, the end of a match/game.
+---
+We used it since I started in gw1 PvP (in 2008) so it’s probably older then gw1 but I have no idea how much older, or from which game it actually started.
+---
+Suffice to say as it’s older then gw2 by a lot... Hell no it’s not going away, NEVER!!!
+---
+(And btw in PvP you don’t just say “gg wp” after each and every match.... Screw that you gotta earn it.. “gg” is not manners so you don’t get it free, it’s a term of endearment we only say at the end of matches that were actually “good games”.. not the end of a shitshow)
+---
+Unless you are being trolled in game or really don’t like the anet commands /resign /gg? I’d just drop it and stop using it in pve (lol)... I mean what about anet secret commands?
+---
+**Just tell people about the “Alt+f4 for a chance at 200free gems!” (Only works on full meta maps though)** 
+---
+I wanted to buy a dreamthistle skin with claim tickets.  Do the skins rotate so I can buy them again or is TP my only option?
+---
+fact
+---
+yes tis true, the final form will be super saiyan
+---
+why are we doing fast runs for normals? they are too ez
+---
+if you do the yeti where 1 baits while the other throws bomb, it does fairly quickly
+---
+&amp;#x200B;
+---
+also wizard with 2 ppl nunchucking is 1 burn phase ;)
+---
+I will consider this. For Power builds in particular the opener is probably the most important thing to get right, because that is where the burst is. 
+---
+Thank you. 
+---
+... they wouldn't be changing how keybindings work. Those keybind flags already exists in the game. That's the entire point.
+---
+It sounds like you may have accidentally left zone 3 too soon. You have to wait until the warp timer runs out to get your Z token
+---
+Woah, look st all the new stuff
+---
+As mentionned briefly if you don't really end up using staff on SH and you have 2 druids then by all means take a Longbow as swap from A/Wh: double pushing is adding a lot of safety in the fight as you can always recover from a late epi or if the push was interrupted by another random CC. It also mean the Messenger will go die far away and will probably not even make a drop of red AoE on the platform when the boss is below 33%.
+---
+Maybe u changed them at npc. Last eve i changed by mistake 17 w2z3 and i decided i wont do it again. Wanted to cry....
+---
+It's also a POI called [Lonely Vigil](https://wiki.guildwars2.com/wiki/Lonely_Vigil)
+---
+Father earth
+---
+Let’s use /abondonraidbykillingyourself
+---
+It's important to understand that condition classes; even burn-based builds like Firebrand aren't great at every boss.  They're generally best at bosses that are a big contiguous mass of HP.  Stuff like Dredge/Ice Elemental, Nightmare's Mama or Siax for example.  
+---
+Generally speaking, the worse your group is the better a condition build will be because it'll have more time to ramp up.  If you're playing with really good players you may only see about 20k vs. 30k with weaker players because power burst builds are usually upwards of 30-40k burst.   
+---
+Firebrand mainly camps axe *except* before entering Justice Tome (F1).  In the burst rotation it generally looks something like...
+---
+Scepter 2 -&gt; F1 (2, 5... 4... 1, 2..) (periods indicate lengthier cast times) followed by another Scepter 2 &amp; (2, 5...4...1, 2..). 
+---
+Something also important to consider in Fractals of the Mist are break-bars.  
+---
+Fractals **are not** Raids.  They're much shorter encounters.  You want to abuse broken break-bars for the exposed debuff as much as possible in Fractals.  
+---
+&gt; Exposed is an effect applied on several enemies when their Defiance bar is depleted.
+---
+&gt; Increases incoming **direct and condition damage** the target takes by **50%.**
+---
+You generally cast mantra of flame whenever you have an extra charge.  You double-proc Zealot's Flame when you get the crit-proc.  Preferably you should try to stand in your Sc 2 or Axe 2 Symbols (Might &amp; Fury).  Standing in wells and being aware of your boons is important.  In order to burst hard you need to scale with Power of the Virtuous (Boons = 1% Dmg) and Imbued Haste (250 Condition Dmg when you have Quickness). 
+---
+It's important to waste no time casting Renewed Focus.  It's one of the longer invuln skills in the game at **3 seconds** meaning you can use it to do things like invuln Mama's big spin attack.  Using Restoring Reprieve for 2s aegis procs takes a little practice and is absolutely worth it too.  You should save burst skills for an imminent break-bar burst whenever possible.
+---
+Fractal Potions (and masteries) as well as proper food (Fire Meta Salsa + Toxic Focusing Crystals) are fairly cost-effective for BiS food. 
+---
+&gt; It would instantly buff certain classes without actually increasing their DPS or creating any power creep
+---
+Buffing classes that aren't seeing play up to the level of ones that are isn't really power creep though.
+---
+&gt; Not only that, but it would further diversity; you wouldnt need to hold up a whole raid or fractal group because you couldnt find a warrior/druid and you could mix match much like you can swap dru/chrono with fb/rev.
+---
+This would also be true if you just removed the buffs.
+---
+&gt; Lastly, it would "free up" those classes from having to play a very rigid style; no more having to use two slots for banners when you could easily split the buff coverage with another class--aand in a game where you have a max of 3 utility slots, freeing up 33-66% of them can really open up options for some classes.
+---
+Same here. It always bother me that you spend so much time adjusting your character's look, but the moment you return back to game play, there's a minor flaw that you somehow missed. Wish we can take our character for a walk while in creation to see everything...
+---
+By all 6 gods, what is that thing? It's HUGE!
+---
+I agree with you, but outside of organized/speed kill scenarios, the ability to quick draw CA3/4 and WH5 for extra healing and boon output is worth a lot more than a tiny DPS increase from vicious quarry. It's something you have to consider based on how confident you are in yourself and the group.
+---
+If I were to start a new account, I would try to get my fractal level as high as possible ASAP. But that’s just because I love fractals and it’s the best gold per hour in the game. 
+---
+f
+---
+I really disliked that episode :/ The Commander of the Pact (especially if non-human!) swearing fealty to Kryta? Yeah, **no**.
+---
+Me too i am poor now
+---
+And not even a good one. This is fooling nobody
+---
+Only if u are not playing WvW. Ascending there is much cheaper. Around 60-80g a piece.a. and free stats choice.
+---
+literaly biggest issue in game.
+---
+Thanks for all the replies, just woke up abit more so I can explain further.  
+---
+at the moment i've tried doing quests (the living story etc) and I find it REALLY boring, i've tried fractals, and I find that fun, only thing is that I can't see the reason for going higher, GPH is nice, but I dont get a incentive to get higher (its like Diablo 3 rifts, its fun for awhile but after that it just becomes repetetive.)   
+---
+I'm not sure if the game is for me, is there something i'm missing or is this game just not a game for me? :)
+---
+once you have ascended there is pretty much no linear path, just do what you want. it's not helpful but it's the truth. honestly this game is probably not for you if you want to go really hard, the only thing that you will be able to sink a lot of time into is AP or legendary crafting, everything else is just kind of shallow. AP and legendary crafting are about as inspired as fetch quests, if that's your thing, go for it
+---
+I reached the point where I don't join groups on LFG with "dudu" in them. Get that trash out of here.
+---
+Finally a proper use of this meme.
+---
+I've seen a ton of them, some are more noticeable than others.
+---
+HoT has a TON of unused 'entry points'.
+---
+\^ This.
+---
+Though it also resulted in pugs always carrying me through the fan room of the uncategorised fractal, and I only realised that there *was* a mechanic there when I did it with a full-newbie pug party, and we all died there seemingly without reason xd
+---
+I guess the lesson is to read a fractal's wiki page before the first time.
+---
+But also lore-wise. The Commander of the Pact swearing fealty to Kryta? Especially if non-human? Hard nope.
+---
+It's not supposed to be a literal statement. The charr replaced theism with technology.
+---
+Early April Fools
+---
+Open the hero panel (press h), then click on the Achievements tab on the left, then look at the entry 'Collections'. The stuff in there gives you goals to strive for that can easily last months, if not years.
+---
+There is no *gear* progression in GW2, but there is no shortage of goals to complete.
+---
+and his wife...
+---
+Never said it was rare to have an institution claiming to be the governing body of the language.  I said it was rare to have it actually be official.  Also church Latin is the official language of the Vatican and thus isnt dead.  Vulgar and medieval Latin are dead
+---
+😂😂
+---
+The Ranger danger is real!
+---
+What a weird comment to wake up to from that dude lol 
+---
+I can learn rotations, but what I want is to understand them, because in battle many times your rotation is interrupted, or something goes wrong, and you need to know what to do. I wish these guides helped you understand why you do what you do in the order you do, rather than just giving you a list of skills to use by order.
+---
+No, I don’t think this game is for you. You could try Tera, it certainly has the linear gear progression you’re looking for coupled with a shit ton of farming. The boring part is levelling because the combat is so much slower but it’s retarded fast to reach 65 where endgame begins simply by spamming dungeons
+---
+Downside would be that is has 1/3rd of gw2 or bdo’s population so you will need an active guild which isn’t hard at all to find
+---
+Talking about changes a lot of people say the personal system being removed was good. I think it needs to return and be expounded on. It would be great to wrap this into an expansion where you start seeing reactions based on your personality. If they add a notes/journal system it would add a personal touch to each character that allows you to add goings on and things you want to remember about each character. But that's just my opinion.
+---
+Great! Whats the name of the armor pretty please?? 
+---
+Still mad that they lost the war? The salt is real.
+---
+It's wonky, so doesn't always trigger.
+---
+About 20g daily you don’t really have to farm it just do the dailies
+---
+if you are going for a HARDCORE game content, just dont play it, is more like a casual thing, but if you dont care too much about raids, and endgame content welcome.... otherwise
+---
+FFXIV and ESO are pretty solid for hardcore players....
+---
+Jumping does not have evade frames unless you dodge-jump, so you'll always be hit by those.
+---
+My only problem with them is how they hit you miles away from their  apparent range, the cloud of dust they make around themselves.  
+---
+You could be quite far away from that, and they still hit you.
+---
+That's disappointing.
+---
+Its an outfit and its available in shop its called "Logans pact marshal", you could hide the helmet which is nice. 
+---
+You can complete achievements and... that's pretty much it. My problem with it is that most of the endgame goals rely heavily on the crafting system, material and gold grinding (it wouldn't be a problem if there were diverse ways to do it, as we stand right now, there aren't) and well, if you're the kind of guy interested in linear progression, there's no reason to get legendary gear after ascended because they have exactly the same stats, legendary is all about the aesthetics.
+---
+Now, there are many activities like jumping puzzles and mini dungeons, but you can complete those in a couple weeks and the rest of the achievements are mostly crafting something or doing fetch quests, or both at once.
+---
+Wel, your welcome. But I actually feel like I don't want to buy the game. I'm a newbie free2play-er, I'm at level 80 now but I'm not going to buy expacs. Though the game looks and feels quite good, I don't think that it worths that much they ask me to pay. I mean, I almost bought Heart of Thorns yesterday, but I had suddenly realized that the story is not included in the expacs. Really? I came from Elder Scrolls Online and to be honest GW2 really looks and feels cheap compared to ESO but somehow I need to pay more for GW2 to get the content. In ESO they put all main story content into the latest chapter/addon/expantion (lust like WoW), so if you are a new player you simply buy the latest expac and you get the most part of the content (the main story quests and zones from both base game and expantions). That's the best way to get playerbase refreshing. And GW2's way really looks like the worst. It literally says "We don't want new players in our game. Unless they ready to pay for all previous content packs". I know I could grind my arse off to get a ton of gold for gold-to-gems exchange, but I'm not a grinder-type of a player. I'd rather not to bother at all if I had to grind to get the story. And I know that the devs have to get money to keep the game running, but I believe they won't get enough with such a weird system they have. It just reaaly looks weird: active players buy expac and then play for free till the next expac. New players buy expac and all LW seasons (and the longer the game lives, the more seasons new players have to buy). Come on! The only result they'll get is there will be even less new players in the future!
+---
+GW2 is built around giving the player back their freedom to make their own choices.
+---
+Other games have, as you said, a linear progression system so that you always have something next on your agenda you can work for. This, however, makes it IMO something I have to do instead of something I want to do. For example, I have to do this dungeon I don't like just to get that gear tier that already will be obsolete a few hours further or with the next expansion.
+---
+GW2 is different in that regard because it is about the choice of what you **can** do not what you **have to** do.
+---
+So, I can do PvP for a while until I don't want to anymore, then I can do raids or fractals. If that gets boring then maybe I hope into WvW or could work towards a legendary. **You** have to decide what you work for not the game.
+---
+So figuring out what you want to do is something only you yourself can do and nobody else. Some like PvP, others WvW and others even like to build legendaries, it really depends on where your focus is.
+---
+In regards of your comment and "the living world is boring", that can happen at some point, not every living world episode is that good but it gets IMO more interesting and you also could get more invested when you dive deeper into the lore.
+---
+On the other hand, anything in any game will get boring if you play it often enough but that is why GW2 is such a great game because you don't have to do stuff that you don't like or can just switch around.
+---
+I did my first fractal the other day. I need 5 pristine fractal relics to craft mawdrey. I solo'd volcanic, then the 2nd one, but got stuck at the bonfire lighting on the 3rd one. Too many enemies to manage and light the fire so I guess I'll have to wait til the daily is on the first 2, give it another shot, or join a group. Leaning towards the first option lol.
+---
+So is there any tl;dr to this, or do I have too sit through a basic tutorial to Gw2? Where is the "build"?
+---
+The results of colossal statues not being censored. 
+---
+Or it was censored, and this is where the phallus was discarded to.
+---
+Check table of contents, build at 0:33 :)
+---
+On the contrary it looks like it's having a good time despite the absence of its female equivalent. 
+---
+I just hopped on that last week and worked my way up to the hero point.  Don't tell my wife. 
+---
+For not having DLC, Metabattle is probably the best source for builds; it's not the most hardcore but also has a wide variety of builds with and without expansion gear and expansion specializations (trait trees).
+---
+Leveling, you can use literally whatever you want, though. Most builds don't really come together until the far upper levels. Pre-Lv. 80 is easy, and there aren't any trait or skill choices that will hinder you; by Lv. 80 you'll have everything automatically unlocked anyways and can switch traits and skills for free outside of combat, so just pick what looks good.
+---
+I'd say if you enjoy sandbox-y flexible games where you can do whatever you want to make progress without much of a guiding hand and are willing to occasionally wiki to learn more in-depth mechanics, this is a good game for you. Most of the difficulty comes from the expansion content with the leveling zones being very relaxed. 
+---
+There are no individual quests like standard MMORPG's; rather, each zone spawns timed events rotating over several hours where players can jump in to help or fight enemies to succeed, with most zones also having a very large boss that spawns every 2-3 hours if the required events succeeded. There is also a lot of credit for exploring, as well as NPCs who will become vendors if you complete certain tasks to help in their areas.
+---
+The game has a playstyle that's a hybrid between action combat and tab targeting. In GW2 gear doesn't matter much, and the top tier of gear is easily obtainable within a couple of months. But unlike a lot of other games, player skill &gt;&gt;&gt; gear level. There are a lot of things available to grind for in the lategame but very few are gear upgrades; cosmetics, achievements, legendary items, and convenience items are the four big things that a large amount of the community is focused on. Plus with the reflexive combat a lot of old players just take pleasure in improving their game skill and challenging themselves with harder and harder things.
+---
+Open-world PvE has no friendly fire or resource fights; all loot and resource nodes are kept track of individually player-side giving a lot of incentive to cooperate. However, the game also doesn't have much of a traditional trinity, also meaning you're never forced into a group if you don't want to be, and all classes can take multiple roles and build types. The game also has a sPvP (5v5) and WvW (large team vs large team) gamemodes that let you play against other players, as well as instanced content in Dungeons, Fractals (tiered minidungeons), and Raids (10-man more difficult content).
+---
+there is a workaround for it
+---
+if you die while and adventure is active, dont click restart, let the game respawn you at the latest checkpoint. After 30 seconds or so you'll get ported back to the adventure flag
+---
+The real monstrosity is how you can have so many random collections open at the same time
+---
+This game have op endgame gear as people already said, but when we get a new patch or expac we don't throw that away, instead we get new stats, new elite specs, new ways to play your profession and we focus on skills and how to get better. GW2 is skillbased and that is what is important in the end, not a new tier of raid were the boss have a few milion more hp and your raid gear have a few more higher stats and everything you gained back in the last tier is worth zero. Skills and how to get good imo is a better goal then getting the last tier of raid gear which is the same as the one before just a bit higher stats.
+---
+Wow thank you for writing all that! It was really helpful:)
+---
+I currently have 3 storage expanders (max 1000 slots). This is how many mats I have over 260 of:
+---
+* 24 basic mats
+---
+* 23 intermediate mats
+---
+* 12 advanced mats
+---
+* 8 ascended mats
+---
+* 17 gemstones
+---
+* 54 cooking materials
+---
+* 5 festive materials
+---
+That's 143 mats, which adds up to \~250 inventory slots I'd need on mules when you factor in that I'd need 3 slots for the mats I have over 750 of.
+---
+There's just so many mats that can go in material storage, with more added all the time. This item is worth far more than extra bank tabs, not only because each one gives you much more than 15 extra slots of storage, but also because **you don't need to visit a bank to use that storage**.
+---
+Even from a purely practical standpoint, convenience is a worthy investment because time = money. Inventory management is one of the biggest time wasters in this game.
+---
+I got perma stuck on a rock in the river on trib mode River rapids.. rock pushed me upstream, water pushed me back into rock.. couldn't move. Had to restart :(
+---
+Oh, I didn't know that you have such deep insights into Anets source code.
+---
+Okay, discussion is done, have nice day, bb.
+---
+Think of it as a skill priority list instead. Always use the highest priority skill.
+---
+You can complete w2z3 trib in 15mins, if you know what to do.
+---
+nice competition if you ban half of all competitors left in the game ... instead of encouraging ppl who left to return at least for that 
+---
+I'm an idiot and though this was about Pvp rotations until I got to the "alt+tab part
+---
+You can solo 1burn with the finger and the slingshot.
+---
+You can /gg if you need to. (if you were not aware) 
+---
+That’s rich coming from the guy who argued they had to change the system.
+---
+You can find every single end game build on metabattle.com. Fractal and raid builds are usually similar, but in fractals, condi is barely used. PvP and WvW build are different, but you don't need gear for pvp, you can set your stats in the menu. Open world is useless.
+---
+Ugh. PTSD.
+---
+Removing few to encourage many to participate and ultimately increase the popularity of raiding in the game whilst it's struggling to maintain a lot of pugs?
+---
+I'd say that's a good move.
+---
+I'm part of a casual static and had no interest in last month's competition due to the hard-core guilds being involved. There's no competition that way for average Joe. My static will be looking to attempt this month's one.
+---
+And nobody would have a chance against qT if they decided to participate. 
+---
+I am sorry but this is not about fractals. This is largely about raids, I would never bring a condition DPS into fractals. 
+---
+That, soldier, is a threat ( ͡° ͜ʖ ͡°)
+---
+What rotation?
+---
+Geeze I forgot about that post. Kind of the reason I hate mods in general across all things. That said I’m sure a good chunk of mods here arnt that bad and are doing a decent job, even if they sometimes forget what fun is...
+---
+https://wiki.guildwars2.com/wiki/Deldrimor_Steel_Ingot
+---
+daily
+---
+Incontinentia Buttocks
+---
+Dig spots are now available in Infantile Mode
+---
+Easier paths for Tribulation are done, you can download the new version:-)
+---
+This right here. It's a good decision, trying to engage more people into this sort of challenges. I hope we see a lot more entries this month!
+---
+F A S H I O N 
+---
+ 
+---
+https://gw2style.com/look.php?id=1417
+---
+So that's how my girlfriend chipped her tooth.. 
+---
+It's all a matter of perspective
+---
+As the other comments say, understanding a rotation is going to be way better than rote memorization, but I find it useful to have the muscle memory so you can execute the rotation without needing to think too much. Keep in mind that this is not a replacement for true understanding. Some tips for memorization in no particular order:
+---
+- break it up. It's easier to memorize 3 groups of 5 skills than 15 skills all at once.
+---
+- work backwards. It's easier to get the unfamiliar part out of the way while it's fresh in your mind. 
+---
+- memorize keys, not skills. The idea at this point is to develop muscle memory.
+---
+Just Revive. 4Head
+---
+God the old Cliffside was a pain
+---
+Farming normal mode isn't worth it. Learn W1Z1 tribulation speed method and you can do one run under 5 mins and get over 300 bubbles
+---
+My ideal team would be a different game mode.
+---
+For Serpentine do daily catacomb runs for 3-5 jewels per day.
+---
+For Branded Mark do hearts daily for 5 marks per heart/day
+---
+Serpentine jewels: do the metas each day, and use the reward from the metas (deldrimor plate pieces) to make a deldrimor plate. Take that to the light of deldrimor puzzle room (west side of the keep, went there during the story with the giant graveling room). Complete the puzzle to get to the last room (green plate room). Use the light of deldrimor to get 3 guaranteed jewels per day
+---
+Branded masses: mining and buying them from heart vendors
+---
+Torch 5 is a huge increase when there are multiple targets though
+---
+So in other words you have no idea how their source code look like and all your stuff is based on nothing. Thanks.
+---
+&gt;At least I’m using a bit of logic from existing features
+---
+Oh, so you **have** insight in their source code? So you have or not?
+---
+All your arguments are based on nothing. While I said they have to make changes, which is a fact, *you* came up with detailed "knowledge" about how exactly their source code works, **even though** you knew that you have *no* idea how it works. You have *no* idea, if you are right with your guess or not, and yet you say it's the truth.
+---
+I don't want to "discuss" with a charlatan.
+---
+:-D
+---
+This is absolutely hilarious. Thanks for this, I’m gonna try it.
+---
+if you do the daily in 10 min each its prety good money
+---
+Thanks! Great username btw
+---
+And the solution?
+---
+Na or eu?
+---
+Yep, thwomps are the worst
+---
+I got stuck in a mushroom on rapids, but was able to wiggle out by using my whip. Only discovered it by mashing my skills all over lmao
+---
+Don't even know what revenant and core thief can do!
+---
+There's no collection for them either. 
+---
+\*Update\*  
+---
+Vid is in 1440p now :)
+---
+I'm gonna hazard a guess at NA because he posted the timezone in EST. 
+---
+Well no, it ended with a war crime to match a prior war crime. I'm just glad it's over and I can drink with my Charr friends I made around the time of the Krytan Civil War.
+---
+But it's still a matter of historical fact that the Titans and later, the Destroyers, along with the Higher ups in the flame legion that held political control at the time where assassinated by humans. Regardless of Charr propaganda, it's not disputed by independent scholars.
+---
+I think I would’ve liked to have seen the radiant with a blue color. Would give the contrast of red being hot and blue being cold.
+---
+While rotations are never as simple as just executing them to the letter, something I've found that helps me learn how to do a longer rotation is to break it up into "segments", usually separated by weapon swaps. I practice executing skills within a particular segment, master that segment, learn the next one, and then in the end, I just string them together. Thinking of your rotation as "segments" helps bind the skills associated with a segment to muscle memory. So instead of thinking that you have to execute 40 individual skills or steps and getting flustered, you end up only having to remember 5 or 6 different steps while your muscle memory takes care of the individual steps of a particular segment. It might not work for everyone, but thinking of rotations in that way made it a lot easier for me in particular.
+---
+Mystic Coins are a terrible deal. Buy the Holographic Super consumables from the regular trader. Much higher profit and no weekly cap.
+---
+how do I get the 300 baubles? digging stuff? 
+---
+Those are some really fast times for world 2. I know that I can beat world 1 quite easily, but I am unsure about world 2 for now.
+---
+I’ll be down haha I just came back as well.
+---
+Welcome to Guild Wars 2! 
+---
+People already said a lot about what you can do, so I'll say something different. I'll tell you what I did last night in GW2.
+---
+I logged in on my main character with the feeling I was going to do stuff on an old map.
+---
+I went to Verdant Brink, the first map of the first expansion, with the idea of progressing the event chains on the map. But they were already done and it was time for the big bosses. I helped take one down for a daily reward and went around the map looking for chests to open until I was out of keys. When I was out of keys, I went to the starting point to wait a bit and talk to new players just getting into the expansion.
+---
+When the timer reset, I started a group to do the event chain (basically, a series of related quests with a medium boss at the end). We started with 5 and finished with about 20. Also got more keys to open more chests. 
+---
+While we were doing it, another player started a group to complete Hero Challenges. Since I had all but one done, I joined to complete the one I was missing. Also started talking with a returning player and giving of summary of cool changes since he was last online.
+---
+Then I went to organize my bank (needed some cleaning) and while doing it a friend called me to do a World Boss. After finishing it, we went to another older map, since I had an achievment to complete there and he had never really explored the place yet. We did some Heart Quests to get the daily items I needed for the achiev. While doing it, another player started a group preparing to fight the big bosses of the map. We stopped what we were doing and went to help. We were able to finish one boss, but not the other. After this my friend logged off and I kept doing the stuff needed for my achievment. On the way to complete it I also found areas I hadn't been before and got Map Completion (and a nice reward) on that map.
+---
+All of this took a bit above 4 hours to do. I logged in, did the stuff I felt was fun at the moment and kept going to the next fun looking stuff to do. Nothing of this was needed for better gear. It was for the fun of exploring the maps, fighting monsters, doing events, achiev hunting and getting a new backpiece skin. 
+---
+Hope I was able to give you some insight into Guild Wars 2 and hope to see you in Tyria soon :D
+---
+Nice man add me JimmyCombine.1365
+---
+You were preoccupied thinking whether or not you could, you didn't stop to think if you should.
+---
+Quotes aside, there is a difference between "it works", and in my experience pugs in T4s without CMs are quite incoordinated anyway (both in group composition and in performance/strategies)
+---
+I was going through the shortcut worm in the Dark Woods in SAB and ended up bounced on top of it. I ran off the side of the worm and ended up below the map, which was neat to look at. It's replicable, too; the images taken on top of the worm were from immediately afterwards, when I was trying to get through the worm again (I want those baubles!).
+---
+* Signet of Inspiration (SoI) - anyone who has a boon will have it extended by constant value. Boon Duration has no effect.
+---
+* Boons from Shatters viz. Flow of Time (alacrity), Seize the Moment (quickness), and Bountiful Disillusionment (stability &amp; misc) only affect the Mesmer only.
+---
+So currently if you use SoI you just spam is constantly. If you want to give boons to others it's via Wells; and it's really important for the players to stand for the last pulse. No worries SoI, quickness, and alacrity are still super useful and powerful even with these changes.
+---
+*Your* the solution!
+---
+No need. When you die, DON'T click on reset. It looks like Adventure popup is gone but if you wait like the 30s you will get ported back to Choya:-)
+---
+oh so, the end chest, I can spam as many times in one day as I can to get 300 baubles? without counting the glorious chest
+---
+you mounted on the shaft?
+---
+yep
+---
+Hey, it's worth a shot, you won't lose anything by trying, but if you don't then you gain nothing.
+---
+&gt; Finally got my legendary! I started crafting it during the end of the Ming dynasty!
+---
+lmao that was awesome
+---
+its the challenge mote just fyi.
+---
+I'd like to see the same for Spirit Weapons too.
+---
+The Firebrand Axe Auto basically has one.
+---
+Giving him anything during any festival is a total waste.
+---
+Well clearly the game supports it. And right now it's an approved mechanic available  primarily to people who use third-party software.
+---
+Anet should explicitly also approve the third-party software required to do this as well since apparently they don't care about the macro.
+---
+This kind of mechanic presents a significant advantage in game to people using the macro in things like PvP.
+---
+I've always wanted to play Fractals, and this is basically what I thinks gonna happen when I start!!
+---
+only when you're on scepter since scepter autos are single target. axe auto cleaves just as much as torch 5 does
+---
+Truly amazing, good job. =)
+---
+Heal.
+---
+If you have excess laurels use them to buy heavy crafting bags for T6 mats, the rest you could buy if you want it done faster. The assented bloodstone dust and dragonite ore you’ll have to farm 
+---
+Does support refund difference in gem price if I purchase something a day after the sale?
+---
+Beyond capes, I'd love to place my emblem on more things. Even better, change the physics of the guild kite so it doesn't bend down to the ground when you run and attach it as a back piece. 
+---
+I main necro and even before looking at rotations i had rough idea of what i need to use to maximize damage just because i have so much experience with the class. This is why i prefer people playing their mains even if its not the best inslot because they will perform better on their mains than what they make 2days before with tomes.
+---
+20 bauble bubbles for 25ap? any time son.... any time
+---
+I find that just hitting space+V with my thumb (at the same time), works every time.
+---
+Nice!
+---
+The metals and woods are pretty easy to farm. If you enjoy the activity of farming and don't feel the need to complete the item in just one day, then I'd say just farm those. Oh, on the topic of 'instant completion', keep in mind that some of the ascended materials are time-gated to creating once a day.
+---
+The anomaly isn’t a Phantasmal weapon. Change my mind.
+---
+I agree. Depending on the kind of fractal PUG, it may also be worth noting that you won't always have the second part of fire brigade. In that case, especially when you consider the usual quality of normal T4 pugs, I'd probably prefer a heal FB over a heal renegade.
+---
+For raids though, renegade usually brings more to the party than support FB. However, for a raid newbie I'd very strongly recommend learning it on a dps class instead of a supporter. If you screw up as dps, you won't hurt the group as much as when you do it on support. Power DH is an excellent choice for learning the first wings.
+---
+The things are already in the way of your visual cues. I don't think you want more of that.
+---
+I await my champaign in the mail. I expect it next patch day.
+---
+They missing from for me too (checked API with gw2efficency) but they're actually showing up on the home instance.
+---
+Depends on the fight. Firebrand is amazing on 100cm with all the stability. My group started running support FB for 100cm, then swapping back to druid for burst heals on 99.
+---
+https://gw2efficiency.com/crafting/calculator
+---
+A lot of that is just ores and logs. All of those can be gathered which doesn't depend on drop rates on all.
+---
+I would buy the reagent and the primordium then gather the rest.
+---
+I love these!
+---
+i can be unlucky for day or two or even 3 days but 7 days and zero drop? 
+---
+My first took about six months of casual playing, second was three months, but less casual. My friend took about six months on her's. It really just varies person to person.
+---
+It can happen.
+---
+Just checked gw2efficency now and they're missing there too.
+---
+Glad yours are still showing in the home instance for you.
+---
+To be stranded in the void away from God's light and warmth is to be in Hell.
+---
+so you didnt get big reward for using trebuchet?
+---
+That must hurt like a son of a bitch
+---
+&gt; Why so combative?
+---
+All your arguments are wrong. *end of discussion* 
+---
+You say I'm wrong? Why so combative? Don't be such a little punk...
+---
+You understand? He barged into a conversation, said "you'r wrong, what I say is the truth" and that's it. No refutation, no proofs, no explanations, nothig. Just his statement.
+---
+Ofcourse he had to be a charlatan at this point, because he had *no* insight into the actual source code, so he had *no* idea what he talked about and he brought *no* proofs, *no* explanations, *no* context, *no* base for his satement, nothing. 
+---
+And yes, if someone claims his statement as correct, even though he neither can know it nor is able/willing to proof anything, then ofcourse I call him a charlatan, because that's what he is in that moment. 
+---
+Sure, you could believe everything what any random guy says, only because we says it, but then you would believe tons of sht and just false things. 
+---
+And if I'm "combative" or "such a little punk" to you, only because I expect proves, if somebody claims something, especially if this claim is against another statement, then it's your problem, not mine. If you want to proof someone's wrong you have to bring a proof and no empty allegations. 
+---
+Getting zero for a week isn't any weirder than getting 1 from every meta for a week.
+---
+A character in this D&amp;D show called Critical who is played by a voice actor named Ashley Johnson, who look exactly like this character especially since the character is a cleric that wears full plate armor
+---
+The narcissism in this post
+---
+This is pretty similar to flipping a coin 14 times and getting heads every time. It’s rare but not impossible.
+---
+Which looks better?
+---
+Point the arrow at the ship (1 &amp; 3). Hold down 2 until the bar is about 80% full, then let loose.
+---
+I bring condi zerk to fractals at time too when i forget to swap gear n stats.but it depends on how bursty your other 2 power dpser are. if they know what they are doing  they will kill all the mobs faster than your burning n bleeding. At bosses, while condi can out dps power, it also means the fight is longer than normally if you were playing a core warrior. core has like 1000cc every 13 second which is huge compair to headbutt which is often used in rotation and may be in cooldown when breakbar happen. core can also bring EA without loosing any dps.  
+---
+just something to think about when bringing condi zerg to frac next time. 
+---
+Magnificent.
+---
+did that, didnt work
+---
+How do you get to the PVP lobby? I can't find anything explaining this anywhere.
+---
+Is the time from collecting mats / gold to buy mats?
+---
+we've got the [Shortbow](https://wiki.guildwars2.com/wiki/Guerrilla_Arc) to go with those already; priority should be getting the sword, shield and staff to complete the set for Revenants... more weapons can follow in the future.
+---
+That's odd then. It usually works for me and it goes down in 1 shot. It does take a significant delay for the projectile to travel though (7-10 seconds).
+---
+But if harpoons work better for you then harpoons it is!
+---
+How do you give stab?
+---
+that's too bad; Siege weapons are used a ton in WvW; so their use in PvE comes natural to those who play WvW.
+---
+You can open the chest once per day?
+---
+Are there other kinds?
+---
+Yeah last year they said they will add a new option to acquire crimson skins cus 5 years is a big time gate... Seems they forgot about it. 
+---
+"EXTRA" meaningful? Aren't gen1 leggies easiest and cheapest to craft?
+---
+I don't get it either but I loled because the music is just so great with this video
+---
+I liked leveling my first char, but if u ever feel bored, just use the lvl 80 booster if u bought an xpac. Take in mind that all game modes give u xp. So if u find pve open world dull, go pvp or wvw. 
+---
+Sadly the game is kinda outdated so the first story levels and early maps do not at all represent what this game has to offer. 
+---
+You mean "Progeny Tip"
+---
+Still have both of them.
+---
+Can confirm.
+---
+Some brave soul already tested this out, thankfully :)
+---
+Are you telling me that EST doesn't mean European Spring Time?
+---
+"You have been doing nothing but dying for 15 hours, please take a break."
+---
+We must teach the non-natives our language in all its propriety!
+---
+^^^/s
+---
+The method of getting this has been posted on wiki for some time ;D
+---
+You ever just... gain 2100 gold and then lose it in the same hour?
+---
+That was a wild day for my bunny waitress mesmer. Went out of that casino with a net loss...
+---
+The item from the crimson assassin weapons achievements is now ascended and contains another moto infusion. It used to be a regular backpack skin. Basically, they significantly improved the collection reward!
+---
+yes
+---
+well i knew i was gonna get downvoted for it, but i still made the post. this means i dont care about downvotes, you get it now? or want me to draw a picture ^
+---
+How much does silverwasts net?
+---
+Grats! Just finished Sunrise myself, so I know that feeling of accomplishment has gotta feel good! Revel in it!
+---
+What offhand is that?
+---
+You don't need those for most ascended sets...
+---
+[wiki link](https://wiki.guildwars2.com/wiki/Fractals_of_the_Mists)
+---
+**What is a fractal?**  It's a mini dungeon for 5 players.  There are currently 20 different fractals.  They're numbered 1-100, and the higher the number the harder the dungeon.  At every 25 levels a new random debuff called an [Instability](https://wiki.guildwars2.com/wiki/Fractals_of_the_Mists#Mistlock_Instability) is applied in the dungeon - at levels 26-50 you have 1 instability, at levels 51-75 you have 2, at levels 76-100 you have 3.
+---
+**Is it end game content?** Yes.  You can enter before being level 80, but there's a special damage type for fractals 20-100 called [Agony](https://wiki.guildwars2.com/wiki/Fractals_of_the_Mists#Agony) that will instantly kill you unless you have special infusions, which can only be applied to Ascended equipment, which requires level 80.
+---
+**Is it hard?** Levels 1-25 are, as others said, for beginners and not much harder than open world content.  Higher levels are harder, and levels 76-100 are genuinely difficult.  Levels 99 and 100 have a special Challenge Mode (CM) for very experienced folks.
+---
+**Is it pvp?** No.  Entirely cooperative PvE.
+---
+**Does it require expansions?** No, but if you have HoT you get access to masteries, which makes fractals significantly easier and more rewarding.  I would not try T4's (levels 76-100) without full fractal masteries.
+---
+**Do you have to complete the expansions?** Not at all.  The masteries from HoT actually require Core Tyria experience, so doing HoT content won't help at all (except doing the first story quest to unlock masteries in the first place).
+---
+**Why is it called fractal?**  Lore reasons.  You can pick up the story while doing the fractals, but basically they're miniature alternate realities.
+---
+Meta chests are character daily
+---
+which reward?
+---
+I can't be the only person who doesn't net 100g in an hour...
+---
+Sure sure, whatever you say. You are always right.
+---
+APM = hydrosploratic
+---
+cHolo = cTerrorFlactul
+---
+cEngi = convertibleSedans
+---
+cRenegade = slamflorp
+---
+That's the actual point of my comment. ;)
+---
+Fair enough
+---
+It's a red. Again. 
+---
+Money in this game is worthless if you dont care about skins. If you need more stats you propably doing raids or fractals which gives enough gold / magnettite shards to get the armor. 4/6 trinkets can be bought with winterberries.
+---
+Sjampis*
+---
+For me it only took about a month and half, with gold being the only issue in making it 
+---
+Its not entirely accurate. This is the "flat gold rate" you get. Fractal chests randomly drop magnificent goodies, like ascended stuff. I have ascended 1.5 characters just because of these drops in relatively short fractaling career and I don't make any ascended weapons myself anymore due to drops. So the actual gain is hard to estimate. + relics. However, if they are of any value  for you is up to you, as they are mostly useful for "fractal progress" related stuff. I'd fractals are absolutely worth your time if you enjoy them.
+---
+The majority of people who play GW2 aren't going to be able to build a legendary in just a few months. 
+---
+3 and a half years is a bit on the longer side though. I can imagine  
+---
+When you see people on this subreddit say that it takes like a few months at most to make a legendary, know that people who frequent this subreddit + comment/post (this is important) are more likely to dedicate more time to playing the game.
+---
+The average player doesn't make anything *close* to 30g a day. Probably 10g or under.
+---
+Yeah, sad that it still takes some time to get it tho :D
+---
+I was talking about liquid gold not drops or valued items. Yes you can dump everything on the trading post make even more money but that's not what I was referring to. 
+---
+r/GuildWarsDyeJob
+---
+I find it always a lot faster to farm gold and purchase everything from the tp when crafting ascended stuff. You will need about 60-70 gold to craft the cheapest ascended greatsword there is, and then convert it to berserker's in the mystic forge (check "stat swapping" in the wiki).
+---
+The RIBA farm in the Silverwastes supposedly gives you about 20-30 gold per hour, plus 10-15 more if you do the Palawadan + great hall metas in Domain of Istan.
+---
+That being said, if you have Heart of Thorns and have finished the main story, the cheapest way to get an ascended greatsword (practically free the first time) is doing the Caladbolg collection, it takes about one hour. 
+---
+Easiest and cheapest among 2 gens, 4head
+---
+what is that reward?
+---
+Does anyone else get frame drop when fighting Queen Bee Dog and the bee spitting attack?
+---
+"Distant laugh of tp barons"
+---
+Yes, noticed that while I was trying to break some decorations
+---
+There are some editing mistakes in the video due to which Jo might decide to take down the video and reupload a fixed version.
+---
+Please excuse me if, by the time you're clicking on the video, it has become unavailable.
+---
+well after doing something for 200000 times its hard not to remember it, then you grow bored and start reading what the heck your abilities/traits actually do and then bit by bit you will master your character build, doesnt happen overnight....
+---
+For example, at this moment this is the price for crafting the berserker's sword
+---
+[https://i.imgur.com/WIpHJiH.jpg](https://i.imgur.com/WIpHJiH.jpg)
+---
+However, you can save some gold crafting the one with the Grizzlemouth inscription instead, and then converting it to berserker's via the method mentioned above. 
+---
+[https://i.imgur.com/P5S6Rwy.jpg](https://i.imgur.com/P5S6Rwy.jpg)
+---
+It’s glassy, and radiating light. Also it’s not a Phantasmal version of a prexisting weapon, like every other Phantasmal weapon.
+---
+Thx, using ranger for fractals/raiding mostly as a druid so that leaves thief, who I hardly use for WvW! :)
+---
+I mentioned Grizzlemouth because I'm not sure how to get the Thackeray and Nerashi inscriptions. Grizzle is the next cheapest option. 
+---
+Not really considering they use a version of the ranger axe skill, whirling axes.
+---
+I started Bifrost in late November and finished it yesterday, but I took about 3 weeks off from playing in there since I was traveling. So mine took me like 3 1/2  months I think? 
+---
+However, I insist that the best option is doing the Caladbolg achievement if you have finished the HoT story. It practically gives you one ascended weapon for free (you can repeat the collection for other weapons, but after the first time you will have to craft/buy some items that are expensive). 
+---
+[https://wiki.guildwars2.com/wiki/Knight\_of\_the\_Thorn](https://wiki.guildwars2.com/wiki/Knight_of_the_Thorn)
+---
+[Yet you're willing to bring a generally "mediocre" DPS build into raids?](https://i.imgur.com/decSlAy.png)  Where exactly are you using it?  It only really shines at places like Sabetha or Sloth where you can get F1 tome resets.  You need to understand when and where to use cFirebrand in raids.  
+---
+I'd suggest starting with something like cQuickbrand and then learning the full cDPS build.  As far as the pDPS meta goes in Fractals, cFirebrand is probably one of the most bursty condition builds, and people that don't realize that haven't figured out how to play it correctly.  It's definitely not something that I'd bring into CM runs, but it's more than adequate and has plenty of utility for regular T4 Fractals.  
+---
+The disparity between cFirebrand and pDPS builds isn't really that significant, lol.  The main problem are phase-oriented fights.  Any boss with a lot of movement isn't going to get much benefit out of your 2/5/4(2) skill rotations.  cFirebrand is mainly for bosses with a lot of stationary movement.  
+---
+Places that I'd use Firebrand: VG, Sabetha, Sloth, Mo, or maybe Deimos.  It's not a particularly versatile build, so if you can't play it well, and you're trying to take it anywhere else then yeah, you're going to struggle.  The truth is that the majority of people that play GW2 are *bad* -- like *really* bad -- and this extends to both FoTM &amp; Raids.  I play cQuickbrand &amp; cFirebrand because they're relaxing, versatile and have a lot of useful utility. 
+---
+I dont know, maybe tell me what you are talking about?
+---
+I haven't checked the price of the inscription at this moment. If that's the case, then ignore my rambling. 
+---
+However, it's still good to know that this can be a viable method. And sometimes it's cheaper if you craft the exotic inscription yourself, since it doesn't require many materials and maybe you already have them lying around. 
+---
+This made my day.
+---
+Fair point. The length is obviously a problem. 
+---
+That was the free trial weekend (first  ever?) in November (15th I think) and it when I started to play. I finally got the game for Christmas and have been playing ever since. 
+---
+there's already a focus for that set and it's the chains (forgot the name tho)
+---
+idk how possible that is, could be an interesting thing to look into though, hopefully it isn't too visually cluttering. 
+---
+This is a major pro tip.  Thank you.
+---
+Stormdagger from the gemstore. Had it for a while, and it fits perfect with the Bolt. Now considering changing my armor to make everything lightning dyed :D.
+---
+so alot of people compare "memorizing" with "understanding", but the important thing to understand is that you have **priority skills** rather than a set rotation. (at least for bosses, golem is straight up rotation of course)  
+---
+since your group dps and therefore burst phase timings will vary a lot from pug to pug, you're better off just learning how to pick up after an interruption than to follow a set list of skills.  
+---
+a good example of this is elementalist, more specifically weaver.  
+---
+there are occasions between phases or when certain mobs spawn when you want to deviate completely from the "optimal rotation", simply because some skills have situational priority.  
+---
+and yeah, it still devolves into "just learning the class, man". it sucks, but keep going at it
+---
+&gt;However, I insist that the best option is doing the Caladbolg achievement 
+---
+I would.  I honestly would.  My problem is that I've got ADHD and honestly, I have a hard time sitting through the story parts of this game. So much talking.  After, I completely forgot the story.
+---
+/r/trebuchetmemes would like a word with you.
+---
+I buy continue coins with baubles and I have way too many of it.
+---
+“You need infinite coin” is another bullshit the community spreads around for no reason at all.
+---
+Thanks for looking that all up and linking it. I'll look into the episode rewards too, thanks.
+---

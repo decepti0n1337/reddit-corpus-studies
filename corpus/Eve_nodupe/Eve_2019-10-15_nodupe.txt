@@ -1,0 +1,676 @@
+Mommy already did during the early years it seems
+---
+---
+---
+Noted!
+---
+nice job
+---
+There is none.
+---
+&gt; CCP didn't earn $200
+---
+
+---
+except its plex. that has a specific monetary value that just got erased off CCP's books.
+---
+doesn't get more passive than that
+---
+cant wait for the pcgamer article
+---
+I'll record their convo on TiS Discord. If they agree.
+---
+Yeah I also filled my mining ships with them, it gets lonely...
+---
+you know, when i heard about this i thought "haha, chori, i wonder how he gets around the instalocking reseboed ship next to the wreck they obviously put up to prevent looting" - then i saw the video. Just because its effort doesnt mean there would be no in game solution someone trying to loot your shit.
+---
+You glue them to your hull, frozen meat is surprisingly tough, it adds a bit of buffer before your armor starts taking damage.
+---
+Literally didn’t know that was possible. I’ll give it a try next time
+---
+I wish at least low sec and wormholes were immune to this shit
+---
+Game time that could get him banned at any point if CCP caught the RMTer at some later point.
+---
+When it comes to perma bans, you play it safe.
+---
+What’s RMT?
+---
+If you drop a structure an anchoring timer is visible in space.  The timer is for 24 hours.  At the end of that timer there is a 15 minute window where the structure can be attaked.  If the structure finishes that timer intact (the mechanics for pausing reinforcement timers is a bit complicated in itself) it will be anchored and can be attacked at any time.  The structure will now be in low power and can be fitted and fueled.  It will have full shields and hull.  If fueled it gains an armor timer in addition to the shield and hull timer it has unfueled.  The only way to fuel an upwell structure is to fit a service, put fuel in the fuel bay and online the service.
+---
+If, after the initial 24 hour anchoring timer, the structure is attacked during the 15 minute reinforcement and it's hull HP is reduced to 0 the structure is immediately destroyed with no further timers.
+---
+PM me your eve name and ill hook you up with some.
+---
+isn't that convenient.
+---
+I hear that HAM legions are the bee's knees sooo
+---
+I prefer the slaves, militants, and dancers.
+---
+*hauls 5bil in blueloot and faction mods in tornado* 
+---
+*stops to gank 300mil iteron forgetting cargo*
+---
+*iteron lives and scoops loot*
+---
+Don’t do it yourself, that’s what the dancers are for.
+---
+Doubt the MCRN sees it that way.
+---
+no u
+---
+Here's how it works:
+---
+If your structures is **full power**, then it its shields are vulnerable at all times. If someone uses a data or relic analyzer on your structure, they can find out your vulnerability timer (hour and day). If they shoot your structure, then once the shields are gone it will enter reinforced mode, coming out of reinforcement after a duration (length dependent on the type of space you're in) at the next vulnerability hour +/- 2 hours. Attackers have a 15-minute window to start shooting, otherwise the structure heals all the way back to full. If they strip the armor without letting 15 minutes under the damage threshold go by, then the citadel enters reinforced mode again, coming out after a duration (again dependent on the type of space) at the next vulnerability hour *and day* \+/- 2 hours. Attackers then have a 30-minute window to start shooting. If they strip the hull, your citadel blows up.
+---
+If your structure is **low power**, then things work similarly except that attackers can strip your shields *and armor* in the initial pass, proceeding directly to the "hull (reinforcement) timer".
+---
+hope you get to keep this one, m8,   PARLAY !
+---
+Late to the party, but this is top level.
+---
+Can't be helped. Had he kept quiet, he might end up getting banned, himself. It's RMT.
+---
+Pretty awesome dude. Trust is the most expensive thing in eve, I would trust you
+---
+&gt; Been a very long time since the last one though.
+---
+CCP is its own favorite charity.
+---
+"Save the ~~Community~~ Dev Team!"
+---
+Took way too long for someone to get it, good on you.
+---
+i contracted you 100 injectors,
+---
+[deleted]
+---
+It's an opportunity cost.  Sure, it dosen't literally take money from CCP but someone who was willing to pay for PLEX, and would have probably bought it from CCP if not for other opportunities, has now instead paid a third party.
+---
+Wow.  During an ESI check for a new recruit, I identified that he was doing some RMT.  I sent a ticket identifying 11 characters involved in the RMT with specific details to the contracts so that they could investigate it themselves.  My response was that they would look into it, but couldn't comment on blah blah blah.  Ticket closed.  No reward for me.
+---
+One of the important aspects of in-game currencies is that they can't be turned back into real money, so in effect when you buy PLEX you're not exchanging currencies, you're buying a product, and what you then do with it is nobody's concern.
+---
+If you can turn it back into real money, however, suddenly CCP has a whole fuckload of issues they have to deal with like gambling, trading, etc. In order for in-game currencies to function, game companies _cannot_ allow RMTing even if it weren't harmful to the game's economy and health.
+---
+I forgot just how shitty asteroids looked when I started :p
+---
+I've baited out a few CCP posts
+---
+Both.
+---
+I ran my first sites in a vexor, and intentionally ran it until I died.
+---
+I think it's generally pretty possible to get a feel for content (first) in a cheaper version of the ships you're interested in running.
+---
+So you lose 250mil per try and still bitch and moan they made stealing hundred billion wreck harder?
+---
+Not a good change forcing you to commit at least some effort, as attackers do? 
+---
+Smh tbh fam
+---
+[removed]
+---
+"Sorry where do i read that?" -some guy in the channel where the motd is
+---
+&gt; I think it's generally pretty possible to get a feel for content (first) in a cheaper version of the ships you're interested in running.
+---
+For T5s no not really, i tried.
+---
+I just give the ol  ^
+---
+I guess you forgot about the 40 faction forts to make the goonies go away?
+---
+No,  I am trying to fix myself some implants.
+---
+The revenant is also the only one that offers bonuses to the hull that make it exceptionally good at something worth using. Trying to hold down a snaked revenant is like trying to catch a greased snake, meaning it's the best hotdrop super by a large margin, and it has fantastic fighter bonuses on top of that. 
+---
+Every other ship on that list is a FAX or dread that has to Siege and make itself a 40b killmail for 5 minutes, meaning it can only really be used in a wormhole, and that just leaves the titans, which cost 250-400B depending on the day, and due to the vastly superior tanking offered by some of them (looking at you komodo), properly fit they can survive so many doomsdays that even in a massive titan fight it's not worth shooting them.
+---
+Found the RMT client.
+---
+What's RMT? 
+---
+Random Money Transfer?
+---
+He could be confused because we use pins and extra layer security on cards. At least the NL does this.
+---
+Just a few add-on, a long long time ago CCP patched NPC trading and made the price of trade commodities flexible depending on how much you've brought/sold
+---
+And then trading with npc became as profitable as getting rookie ships and sell them
+---
+That's part of the game left forgotten in history
+---
+Directly sharing the gm response, yes. Paraphrasing like op does is fine.
+---
+Pretty sure everywhere but the US has security code and pin code.
+---
+The Damavik is nowhere near bad. I don't know why those silly haters want to make it look bad. It's just not true. It can fit an exceptional good tank, has over the top tracking and speed, Sig is small and can run 2 neuts withe cost of 1. It's my new favorite frig and kills everything i engage. I got engaged by Kiki, jackdaw, hookbill and stiletto the other day, killed Kiki and jackdaw in that engagement. I killed rocket corax, arty and autocannon thrashers, daredevil, ishkur... Don't let the hate flow thru ya, try it out.
+---
+You don't have instances.
+---
+The whole system is a single instance.
+---
+**Question 1:** What was your best experience or small story during your time in CSM (one that you can talk about ofc)?  
+---
+REAL *Question 2*: Warp Disruptor II or Warp Scrambler II?
+---
+Even various 2FA in some cases.
+---
+I don't think that the market for training implants is big enough to seriously affect the LP value. Also I thought most training implants come from storyline missions and not LP. Do you have some more insight?
+---
+could this also be a decent fit without the 3bil pod? looks really fun
+---
+Honestly seddow sucks
+---
+Lol
+---
+The point of this Thread was how an alliance tried creating contact against a coalition  
+---
+and the coalition decided to batphone 2 other coalition to blob the alliance  
+---
+Not much chance to be "competitive" there buddy
+---
+Rev not jump this time? So sad
+---
+Sounds like a poor excuse for being bad.
+---
+these young ones don't know a fight
+---
+you mean the thing that EVERYONe was equally able to do? totally unfair i say!!!
+---
+Step 3. WHACK
+---
+Well, move to Thera yourself. What stops you?
+---
+What have you become ?
+---
+Indeed, and the unfleeted player in the Corvette I mentioned was sitting 700-1000km away from the centre of the site, uncloaked and still received payout. Apparently the only requirement for payout in invasions is to do 1 dmg to any triglavian ship within the site and remain on grid when the site is finished.
+---
+I clearly recall using cards in store in the US and not required to sign for or use a pin number. You're in denial son.
+---
+Story of my life.
+---
+do they really need to train them across the remaps though?
+---
+if people don't want to use the benefit of planning their training they can just set it to 20/20/20/20/19 and forget about this setting altogether
+---
+Looks like an ez dunk to me.
+---
+EVE 2k19 - scrubs having 1k Titans but still retarded
+---
+Bad spai is bad
+---
+WP!
+---
+IMHO it wasn't unhealthy to begin with just maybe over tuned. The solution they had was like the worst possible way they could have fixed it. Almost as bad as locals busted now it's gone.. 
+---
+Make it so you cant perma jam wow that's hard.. But no making them entirely useless is the answer! Or at least force them to cycle thir lock after a jam but no you just get to lock the jammer no problem Cuz that's fair.. They single handedly killed ecm with this change.. Can't even defencive ecm anymore which is sickening honestly. Burst can't be used in hs cuz concord... I can agree fleets of ecm was bad but burst still does the same thing so what exactly did we solve? Poor dude who gets jamed geting bored? Like come on.
+---
+But if we're honest the majority of the big fights happen despite preparation, not because of preparation.
+---
+If people have time to prepare they have time to get scouts in place and blueball if the odds are strongly enough in their favour.
+---
+print screen automatically gets you a screenshot that you can then crop like you want
+---
+No, you spurged through god knows how many posts begging for attention. All after several of us stoodup for you against goon leaders for months despite being told you were cancer... trying to help you. Even after you were about to rob a goon sig. Then for some reason still left and talked shit about the alliance on the way out. 
+---
+Didn't post any of your welps saying please don't feed more. In the age of bordem I don't understand why anyone would talk shit to someone still willing to create content for the members (yours or theirs).
+---
+And I think you mean, only dudes who get headshot 10 seconds into any fight use monitors?
+---
+What's the significance of the $249 thing?
+---
+that's a subtle way of saying "I give up trying to change the game because CCP doesn't give a fuck to the CSM's suggestions"
+---
+What do you use the 200mm AC to do? Is it for aggroing the npc or mowing down smaller ships that get too close?
+---
+The skills are given by Aura actually. Career agents give books only, not skills
+---
+Happy Cake Day!
+---
+shart dragon
+---
+I have sold some close to those stats for between 2-3bil.
+---
+They don't sell very quick so might be a bit of a wait.
+---
+Yea I know they have combat VS the others. Good to know that one can is different. Maybe if I come across one I'll do it lol. I did one or two when they were spawning in wormholes but I don't 5hink that happens anymore.
+---
+Yeah..I thought so, currently is fitted on my ship :))))
+---
+Jesus talk about God rolls.
+---
+ [https://mutaplasmid.space/](https://mutaplasmid.space/)
+---
+besieged covert sites yeah are lowsec only. the proper ghost sites with the exploding cans can spawn in any class of wormhole space tho. And only in wormhole space can you get the grand prize the [High-grade Ascendancy Omega](https://evepraisal.com/item/33529)
+---
+the highsec and lowsec ones give shattered villard wheels used to make ascendancy implants. the nullsec ones are the worst because no hg omega.
+---
+Even from a highsec ghost site tho just like 2hr ago i got 100mil from it.
+---
+He gets the same dividend of payout as if he was a contributing member of the fleet.
+---
+Why no adjustments to frigs and dessies?
+---
+Small ships SHOULD REMAIN VIABLE AND HAVE REASONABLE MOBILITY ADVANTAGE.
+---
+Cynabal 6.5 Slicer - 5 - WTF CCP?
+---
+24b vs 420m  
+---
+good guys win
+---
+You know if they threw this into the balance changes above the change to the sotiyo container drop size they would have gotten a LOT less drama around that.
+---
+Its faster than ever, I'm liking it since mach is my favorite...
+---
+This is the product of the fiction that XIX were actually in charge of the drone regions blue donut. Which was never true. NC. were bluetral from Pure Blind to Insmother my entire first year of the game. The DRF and DCU were NC. pets. So were Guardians. Tri were blue until the reset. Why does everyone act like this wasn't a thing? We had one big blue donut, it imploded, and then PanFam got glassed.
+---
+No real money transfer.
+---
+You didn't used to be able to warp to 0 at all. Every warp was to 15. Then autopilot was added and warp to 0
+---
+what about the alliance ticker?
+---
+ima take you up on taht offer!
+---
+Throw me an ingame mail on Cable Uta / Choridon Saissore so I can identify you :D
+---
+ I went to hoboleaks to confirm the information in the absence of anything from ccp.
+---
+Nope.
+---
+you arrived at 15km +/- 2.5km
+---
+You will now arrive at 10km +/- 2.5km
+---
+And can jump at 2.5km out.
+---
+It depleted OP luck quota for this year...
+---
+Confirming I spent the entire summit trying to buff null blocs
+---
+About goddamn time.
+---
+ahh the good old days, making warp to 0 bookmarks for the entire pipe..
+---
+This is cool, strange about patch notes tho.
+---
+They were delayed for 15m or so because reasons
+---
+The AT died for this
+---
+Huh, could be CCP Games (not the other CCP) trying to noobify a few things for the Blizz boycotters lol
+---
+they are ceptors now
+---
+Autopilot is a nice qol change that will have zero actual impact on the game.
+---
+Frigs and cruisers basically cost the same when fitted properly. Actually the reason is that frigates are able to kite better and usually dont get blobbed that easily.
+---
+Slinging it into warp sure but over long enough distances the HIC will still beat you to exiting warp even if they warp after the super leaves grid
+---
+LOL stats per member say otherwise. Sure you have more kills with 10k people than with 15.
+---
+This is a good change. Thank you CCP! We know you guys care even if we are jerks about it.
+---
+Begin the summoning circle to bring back Killa.
+---
+CCP doesnt care if they ban people by accident. They only care about direct cash flow into their company.
+---
+&amp;#x200B;
+---
+Botting and paying with Plex? You are good to go.
+---
+Well sure but also people don't take bigger ships on roams as those small ships will always outrun them and tackle them.        
+---
+Roaming in bigger ships died hard when ceptors got nullification as even if you left a bubble on each gate after your gang - ceptors could now ignore this and easily tackle you or slow down.        
+---
+Warping faster mean that your cynabal gang can be as fast on the next gate as the people that chase you in destroyers.       
+---
+This is huge ... now just remove the nullification from all the ceptors and people can bring bigger toys to play again (if they have skilled dictor pilot in gang)
+---
+Ancils have their own mutas. They dont use normal shield booster ones.
+---
+Can we have drakefleets now?
+---
+GSF will always third party against NC., just like NC. Always third parties against GSF.
+---
+Why cry about it. NC. has opposed GSF in ever major conflict since I started playing EVE in 2011. There’s a reason I show up to shit on them every time. Must fight cancer.
+---
+They do? 
+---
+If they're not, it's a bug, and you should have reported it already?
+---
+Hehehehe.
+---
+It's a reference to neither. (Though it is a skyrim quote)
+---
+I brought in drugs as an example. I never talked about how hard it is to come by.
+---
+Yes, botting is a problem. Not reporting RMT does not help.
+---
+Yes, a person that has evidence against him and can't prove his innocence is judged guilty.
+---
+Ask any court if they would not judge the same.
+---
+I don't even know about Brisc, but mkay. Judge me with overgeneralisation.
+---
+Look, there is an action that is illegal in buying, selling and production.
+---
+There is evidence that someone is involved with said illegal action.
+---
+Person can't prove his innocence.
+---
+Person gets ruled guilty.
+---
+Yes, production is the problem, but it's also the hardest to stop.
+---
+https://getsharex.com
+---
+Good lord there are so many parts of this that are either wrong, poorly explained, or wrong.
+---
+I dont know what shitfits you're rolling out with but a t2 cruiser does not cost the same as a t2 frigate. t1 or faction for that matter either.
+---
+yep, also fact that you can outrun destroyers is HUGE because it is not only that you can run from them gating and leaving bubble to slow the enemy, but also it mean that you can chase them.        
+---
+If CCP will finally kill the nullification on the ceptors people can actually bring bigger ships to gangs again as group that is chasing you will need to move by drag bubbles on each gate like in the old days.        
+---
+Warp to 0 or at 10 to gate in a dictor, drop a bubble and burn to gate in your dictor and enemy need to rewarp or burn 20km giving you precious time.          
+---
+/u/ccp_fozzie  kill nullified ceptors - give nullification to shuttles or something that cannot shoot or point.
+---
+cool thx. I will give it a try
+---
+dude, were both in init. when was the last fleet we had that required us to go 20 gates...
+---
+I think you've misunderstood my comment. I'm not saying anything about them being solo-able or not, what I'm saying is that if e.g. in an incursion there are two fleets on grid, whichever fleet does more damage during the site will be the fleet that gets the payout.
+---
+  
+---
+In invasions, even if a fleet (or an individual) did 99.99% of the damage during the site, some random dude gets the same share of the payout even if they are not in fleet with the original site runner(s) as long as they do 1 damage to a rat during the site
+---
+The grudge was older than that , it is from the Goon vs Bob era.
+---
+No
+---
+This is a bad post.
+---
+Ah, I’ve heard of the 2019 version of this guide (the one that includes pirate ships too), but didnt checked the 2014 version. Thanks though mate :)
+---
+Ah, more excuses. Sure thing.
+---
+You can only use stargates to low- or nullsec systems with capital ships. Jumping without stargates requires either a cyno beacon or someone else being in fleet with you using a cynosural field generator module on either a Recon or a Blackops, jumping without stargates also has range restrictions.
+---
+fact based discussions are not your thing ?
+---
+Hyperspatial crab boats with zero tank? They deserved to die.
+---
+Why is a it a bad post?
+---
+You are about to receive messages that may be harmful to your mental state. Your sense of reality will be questioned. Your view of things will be altered. You are now part of the META. The meta controls everything. The meta determines what will and will not happen. 
+---
+/s
+---
+We learned it by watching you, dad!
+---
+r/EveJobs
+---
+The big alliances like Horde, Goons, TEST, Brave will provide some good benefits, but ultimately, they don't care about you. You're just another number, you can be replaced.
+---
+It probably has something to do with the game disliking nested containers.
+---
+Would also be super easy to scam by sticking non-ammo in one of your ships.
+---
+That’s a pretty small timescale
+---
+Don’t they take literally ages before doing anything to botters?
+---
+So why worry about the affairs of empires, then?
+---
+There was a guy, who built bowheads, and he actively used hired drivers to transport them to hubs. I saw this few years ago.
+---
+The fact is, you're making excuses.
+---
+There are people out there that wanna mine. Instead of moaning about the game being influenced by mining, you could have recruited miners and harnessed their benefit instead of letting your opponents to that, then coming on here with your impotent and pathetic complaining.
+---
+Blops could use heavy buff to tank so they could be used for something else than bridging bombers again.
+---
+Don't forget about the jump gate shortcut.
+---
+kiki's are the flavor of the month ship at the moment which is why they get used more. That and they delete frigates and a fleet of them will delete caps. they are super strong, agile and deal decent dps for their role so it's no surprise they get used more.
+---
+https://nosygamer.blogspot.com/2019/09/the-myth-of-migrating-bots.html
+---
+k fam
+---
+Something like a garmur or retri or trig is easily up to 300m. But i was actually thinking about like faction cruisers and t1, which are cheaper than that. Since those hulls are rather cheap the only thing expensive is the fits. And their price kinda similar to frigates.
+---
+garmur can give you its money's worth, all round good stats and the tackle range will come in handy in groups.
+---
+Most destroyers and frigates are unaffected, unless they have hyperspatial rigs. Interceptors see a buff from this though.
+---
+I think it would be foolish to take away something as basic as local unless you are actively trying to make sure new players never come back after 30 days. Between simply learning the simple mechanics of the game like flying, to the nuances in navigation to skill trees; adding an even more complex barrier to entry in forcing new players to corp up just so they have intel is a bit much.
+---
+14 billion for a fitted super...
+---
+VOTED
+---
+Thanks mate, I also promise blue pils and fedos jajaja
+---
+I was expecting memes and got good suggestions
+---
+I also have memes
+---
+My knickers just left me...
+---
+Right, but a Tech 2 fit kiki is like 200 mil, which not all that much cheaper than a tech 2 fit Muninn. Muninns will delete Kikis in a fleet fight, and delete 90% of non-capital defense fleets as well. However Muninns aren't used on roams as much because they warp slow.
+---
+FC can I bring pants ?
+---
+Stop being a cancer that everyone loves to murder?
+---
+You want to get rid of drag bubble camps too?
+---
+What has changed?
+---
+Next thing people will ask to have a CSM member who is a bot. I mean we have to represent everyone that plays EVE right?
+---
+To all those who think invasions are risk free, try it first, then think again. Just look up zkillboard under invading precursor entities: 5.6trillion isk destroyed. And most of these arent shitfit, they're bling fits but as I've mentioned in my original post that it is not raw risk in the form of bling but the situational awareness to know what to prioritize as targets. 
+---
+I like that 5 trillion isk has been taken out of the game somewhat because even if you lose a ship in one of these sites, either an MTU picks it up or the wreck despawn because theres no way the guy who just lost his ship can get another ship that can tank and clear the site to get his loot back. But damn are these invasions not risk free :)
+---
+* and they’re x-large size only
+---
+Ken Moen, not the hero we want, but the hero we need.
+---
+Hell yeah! Finally, my sub cap poor ass has a chance for content
+---
+https://eveonion.com/eve-news-in-brief/
+---
+Would have to drag him out of retirement, but Ken is a man of the people. If the people need him, he'll be there for them.
+---
+Well played...
+---
+True but not that impossible.  Stage in a WH with the static leading to your desired class, roll until you find it with your fleet prepared to jump in once the right way spawns.  There were dozens of Corps trying to do this to get into Rage during the Fort Knocks bash.  What makes it nearly impossible is just a game of probability versus how effectively you can rage roll and scan.  
+---
+Hot tip:  For best results, sacrifice floating frozen corpses, wrecks and exotic dancers to Bob from your staging undock.
+---
+\[deleted\]
+---
+Good idea!
+---
+Fool, now all of China knows you're here.
+---
+T2 industrials too.
+---
+NEEEEEEEED
+---
+and T3 ?
+---
+Totally agree. Just trying to explain why 200 dollars is a lot 😊
+---
+Nice change
+---
+It's alright I guess.
+---
+T3 industrials?
+---
+Awesome!
+---
+Quantum Rise. Nano was way too stronk before.
+---
+Who?
+---
+Battleship EHP/DPS in the progression is crap compared to almost every other ship class.
+---
+A linked Ferox has what, 70% of the EHP, 90% of the DPS of a Rokh, 50% faster, 6 times the tracking, 1/4th the price, much less SP intensive. The only downside is 50% less optimal but rokhs can't track shit. The price sidegrade to Eagles gives you over double the speed, MWD sig reduction, better tank with ADC active, nearly equal range, much better resists so you can tank more with equal logi.
+---
+A dread is only 8 times the cost of a battleship and look at how much more you get. 10 - 15x the more EHP, 10x DPS, a jump drive.
+---
+Battleships need buffs and caps need nerfs to bring the power curve back in line.
+---
+Catching ratters is not the only PVP available... plenty of small gang pvp going on in tribute, I can’t comment on other regions....
+---
+Avoid the blocs and there are plenty of good fights to be had.
+---
+I mean intergrate it into the ship window and not under the fitting management window
+---
+Happens everytime I post
+---
+Can bots use GoFundMe?
+---
+Wow, forgot that it wasn't around back then. Thats definitely a requirement lmao. Although you have to imagine it definitely got people logging in more, I remember when I started a new char on EVE today i'd queue up a week of skills and probably not touch him until they're done.
+---
+Sad face....yes. I was excited to get cable at a whopping 500kb a sec. I downloaded a 4 min video in a couple of minutes lol.
+---
+lol so great....need!
+---
+It IS in the ship window...behind the wrench...
+---
+eh, im mixed about this.  On one hand, yay subcap buffs, on the other boo making lighter ships worth less compared to heavier.  So im in the middle.
+---
+Yeah looking over all the expansions and where the game was at the time, I think I'd pick Crucible.
+---
+so is this live
+---
+You have incursions, invasions, and frigate abyssal.
+---
+That’s about it and two of them are less then 12 months old, but at least CCP seems to be working on it.
+---
+Still they aded another attribute to ships to play with. Which created smartbombing Proteus, new type of gameplay.
+---
+EVE has always "struggled" to retain players for the same reason that it inspires a cult following of loyal fans: because it is a challenging game set in a harsh universe of permanent consequences. It is a niche game that gives players carte blanche to carve out a place for themselves in the galaxy, but does not insulate them from the actions of other players. If you are one of the few who can hack it, the accomplishment is immensely rewarding. But few can, and that's just EVE working as intended.
+---
+Well if you respond to this I'll know you're into me you little bootygoblin :)
+---
+"Don't web me bro!"
+---
+It's referring to this UI in WOW:
+---
+https://vanilla-wow.fandom.com/wiki/Loot#Loot_options:_Need.2C_Greed.2C_Disenchant_and_Pass
+---
+OK boys, you know what to do.
+---
+  #occupyperimiter
+---
+In Bastion*
+---
+These are awesome thank you!!
+---
+Does your gf play too? Or does she just lie when her friends ask what she's been up to?
+---
+Damn that’s nice!!
+---
+you forgot to titanforged it
+---
+*surprised Pikachu face*
+---
+[Prepare ship for light speed](https://www.youtube.com/watch?v=ygE01sOhzz0)
+---
+It still required the botters to have lots of ship replacements, and the more ISK invested on their bots the longer it takes to break even, and the more assets that are lost when CCP bans them. Most bots seem to have a lifespan of a few weeks at best. Sure a VNI can make a profit every day even if you lose 10 of them a day if they're running 23/7, but you still need 10 Vexor Navy Issues on that account per day, which requires investment into logistics/production (especially for BC/BS hulls like myrm domi), which also makes it easier to tell who is complicit with the botting, and it's probably easier for CCP to find bots with metrics by tracking assets/build jobs etc.
+---
+We should also keep in mind that just because you can make a profit with losses in nullsec, doesn't mean it is better than Highsec where there is virtually no risk. Nullsec is 50-60m/hour for bots in most hulls they use, Highsec is probably closer to 20m/hour for botters, but if you aren't losing 5 ships per day then it becomes better, especially as the bots can use hulls like Rattlesnakes with moderate bling to make up for isk/hr that they cannot in nullsec. 
+---
+In Nullsec there is also added costs like tax/rent and JF services for the botters.
+---
+https://zkillboard.com/br/111877/
+---
+:thinking:
+---
+That would require risk involved, so thats a no go.
+---
+Dunno
+---
+But I'm pretty sure I'm hygiene negative playing this game
+---
+What do you enjoy doing?
+---
+With market-based prices for many activities, and the sheer number of possible activities out there, trying to list them all by isk/hr isn't going to work. I'm not saying it's a stupid question, but you need to narrow things down if you want to get an actual answer.
+---
+I am virgin positive
+---
+if you are happy with your alts skills you can just extract him and only pay a few hundred mil a month if he does absolutely nothing that produces income and from that on it should be easy to turn a profit
+---
+[NOW](https://i.imgur.com/uPlqKb7.png) there is a sweet roll on your XLASB.
+---
+u/teddy9110 why are you still flying that racist flair?
+---
+Why should i be doing that?
+---
+Generally no, but there are ways. 
+---
+For example, you split that 179 million between 3 different character slots. You can maximize your profit from each account by using those slots to put stuff on market and contracts, do PI, and also skill farm.
+---
+The down side is that it takes a lot of maintenance to do those things. Adjusting market orders might not seem that bad until you're trying to manage the .01 isk game for 20+ market orders on 9 different characters. Even just extracting skills for that many characters takes fucking forever, and I don't even want to think about PI.
+---
+I bet once the person is on the CSM they’ll definitely double my isk.
+---
+Now dps with 1 gun
+---
+Whats stupid about this is someone who is not a hunter could steal this. Imagine a warrior pretending this dropped for him crying BiS. For these reasons we will need a loot council in addition to our dkp system moving forward. 5PM to 8PM each night we will raid sotiyos. Those who cannot attend will be expected to farm jump fuel for the raid.
+---
+Now we know where the RMT money is going.
+---
+Sometimes it evaluates wrong, counting good negatives as bad, e.g. cycle time of a rep or even misreading ESI at all.
+---
+I pay my sub do what ever the fuck I want with my time.
+---
+Yeah, our receptionist was really nice.  
+---
+&gt; Also: take money.
+---
+Dude, yes.  EVERYTHING IN REYKJAVIK IS EXPENSIVE. Leave town and go see other stuff if you want to save money.  We skipped blue lagoon explicitly because of the shitty tourists and the lame deals.
+---
+Snaefellsjökull National Park? Badass.  Akureyri? Badass.  Best fish and chips ever.  
+---
+We haven't hit closed roads yet but the winds have been bitter cold, a summer trip might have been a more decent ticket.  Our best shot at the northern lights is this Thursday/Friday so still hopeful amidst all this rain.
+---
+The part I'm looking most forward to is the glaciers/waterfalls in the southeast.  Oooo man
+---
+And attackers can get in and out faster, I don’t see the issue.
+---
+There is the problem. Bastion...goes their own, different, ‘way’
+---
+China is going to make your work fire you, careful
+---
+dude that's the WS on my mach.
+---
+Nah, she just supports my space rock habit.  I can quit whenever I want.
+---
+I used shittles for that so be sure to have an alt in a pod to board a pilotless shuttle, or a cargo scanner at least.
+---
+He's already been doxxed no doubt. Chinese agents are probably already in route to silence him
+---
+Scammed goonswarm for 900bil, SHARING THE WEALTH!*   
+---
+   
+---
+^^*some wallet verification needed
+---
+PRE-QR
+---
+It’s the CAPF logo in horde :)
+---

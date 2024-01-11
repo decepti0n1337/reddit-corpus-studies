@@ -1,0 +1,2444 @@
+really ?
+---
+---
+---
+Grats, I’ve been grinding medium clues for a while now trying to get rangers to bankroll a build I wanna do. But, no luck
+---
+Way back in the day I was trying to grind out 99 magic through high alch. I was wearing Sara's white Cape, and the. Blessed dhide. Back then each peice was around a mill or more. I was standing on a popular world that was the pvp hotspot. I was standing a tile behind the start of the wilderness (this was before they made the trench or anyway to stop accidentally going into wildy) just alching my thousands of yew bows. 
+---
+
+---
+I'm enjoying watching the players fight and talking to other alchers. A guy trades me. I accept and suddenly my character is walking backwards into lvl 1 or 2 wildly. Instantly frozen and massacred since I wasnt there to fight. Apparently there was a way to make players walk backwards past the line when they tried to move to the trader. I lost so much money and supplies. But I was more pissed I lost that outfit!
+---
+Tele-alching, I tele-alched Camelot to 75 mage in my first weeks of playing and it was pretty fast all things considered.
+---
+Dude sold a bunch of elys in one ge slot, exceeding the 2,1B cap. The last one sold to the only offer that could fit in the remaining space of the cashstack
+---
+\&gt;INB4 Jagex actually does it
+---
+Yea its a method, never said it was gud lul
+---
+I'm just waiting on the hopeful chance that the Zaros halo makes it in when then new LMS stuff gets polled.
+---
+Could be the very next one :) Gl !
+---
+300 runs and i still havent gotten barrows gloves😞
+---
+Was just thinking about that the other day, would be ideal. Halos are so nice
+---
+Nice
+---
+I hate this sentiment, because the way you wrote it implies that playing efficiently cannot be fun.
+---
+Efficiency is a slider. You aren't either efficient or you're not - you're 70% efficient, for instance. You do the most efficient method, that you still personally think is fun.
+---
+no one plays this game and thinks oh shucks I hate efficiency let me go kill black dragons with bronze arrows to stick it to the man. as long as being more efficient isn't significantly more effort people will generally do it.
+---
+Oof
+---
+Can someone add a botched prayer flick on top of this and a 73 hitsplat when the punch connects? I'd love to but I suck at animation :(
+---
+You seems to know a lot about these sheep, what attempt was this?
+---
+Thanks i guess it was a glitch that they fixed
+---
+Happens in real life too mate :/
+---
+It's like the twitch plays Pokemon ledge
+---
+&gt; spending every single second
+---
+Ardoug is what i always said.
+---
+actually i do pronounce those Bs really subtly
+---
+They nerfed the hell out of them.
+---
+In my anecdotal experience, the previous actual rate was way higher than what the wiki suggested, and the current actual rates are lower than the already nerfed lower rates that are on the wiki.
+---
+I get roughly the same amount of nests with yews that I did with willows. Wiki says average 8 per run and I think that's way high for yews.
+---
+It doesn't really come off that way in the video a lot, it's hard to tell whether he was joking or not. He has "felt bad" for people in the past and often compensated for whatever it was he did that made him feel that way.
+---
+News
+---
+Home - News Home
+---
+Farming Timer Rework &amp; Skilling QoL
+---
+15 February 2018
+---
+Farming Timer Rework &amp; Skilling QoL 
+---
+This week sees the release of the highly-anticipated Farming Timer Rework! Alongside that, many of the "QoL Month Week 2: Skilling" suggestions that passed the most recent in-game poll are also being released.
+---
+Farming Timer Rework
+---
+Keen farmers will have known that crop growth timer system in RuneScape has some irregularities, dating back to the original launch of the skill. Depending on when a player chose to log in &amp; out, or hop worlds, they could wind up causing growth ticks to not happen, slowing down the patch potentially by hours or days. As Old School RuneScape players make such heavy use of the world-hopper, this could be very annoying. 
+---
+Aside from growth ticks sometimes failing to run, the legacy system - first programmed in 2005 - was remarkably complex, making it quite unfeasible to identify specific problems inside it. Sometimes those were advantageous for players, such as the Gnome Stronghold fruit tree patch tending to grow faster than other fruit trees. However, they were more often drawbacks, especially where hardwood patches could be delayed for days. 
+---
+In this update, we've deleted the entire timer system and written a new one. 
+---
+Before describing the new system, it's worth taking a moment to say what a growth tick actually is. Imagine the game has clocks that tick every 5 minutes, every 10 minutes, every 20 minutes, every 40 minutes, and so on. 
+---
+- The fastest crops grow whenever a 5-minute tick occurs. This mostly applies to weeds and flowers. 
+---
+- Slightly slower crops grow whenever a 10-minute tick occurs. This applies to crops grown in allotments. 
+---
+- Slower crops grow whenever a 20-minute tick occurs. This applies to herbs and bushes. 
+---
+- Even slower crops grow whenever a 40-minute tick occurs. This applies primarily to tree patches. 
+---
+- Other crops grow on 80-minute ticks (belladonna), 160-minute ticks (fruit trees), 320-minute ticks (spirit trees) and 640-minute ticks (hardwood). 
+---
+For example, onions grow on the 10-minute tick. If you've got your seed planted before a 10-minute tick occurs, it'll grow when the tick happens. If you missed it, you'll have to wait for the next 10-minute tick to come around - it won't piggyback on the next 5-minute tick. 
+---
+The main problem with the old system was that by logging in and out at unfortunate intervals, including world-hopping, you could make a tick never happen at all. That would make your crop take longer to grow - substantially longer, in the case of slow ticks. 
+---
+The new system aims to solve that problem. Logging in and out should no longer stop a tick from happening to you. This means that once your seed is in the ground, you'll know roughly how long it'll take to get from its first growth tick to its fully-grown state. 
+---
+You do still have to wait for the relevant ticks for your crop, though. The system should handle logouts and world-hopping far better than it has over the last decade, but we can't offer individual timers for each patch to let their growth start at the exact moment when you plant your seed. 
+---
+As you can imagine, rewriting the entire growth timer system has been a very large job, with the potential to impact just about all the Farming code. We've given it a considerable amount of testing, but your patience would be very much appreciated if you run into problems. You can report bugs by right-clicking the 'Report' button in the game - it opens a bug report form that gathers extra info about your account's state to help the testers work out what's going on for you. 
+---
+For a start, please don't be alarmed if your crop durations are disrupted by a few minutes as the system transitions from the old version to the new one. 
+---
+QoL Week 2: Skilling
+---
+The "Search" and "Attack" options found at the end of the Herbiboar hunting activity have been switched. "Attack" will now be the left click option. 
+---
+The Jar generator options have now been switched to have the left click be Impling jars, and the right click be Butterfly jars. 
+---
+If a player has the upgraded Fertile Soil spell unlocked but isn't carrying any Volcanic Ash, they will now be given the option to never see the warning again. 
+---
+You will now catch 2 Karambwanji at level 5 Fishing. Every 5 levels past this level, you will catch another additional Karambwanji. 
+---
+Scrolls of redirection now use a scroll interface when selecting which tablet to redirect to. 
+---
+Players may now store up to 1000 buckets of each type of compost in the Tool Leprechaun. We've also allowed for empty buckets too! 
+---
+Players may now store Plant Cures with Leprechauns. 
+---
+The "Activate" and "Inspect" options have been switched in the Tower of Life. "Activate" will now be the left click option. Additionally, players may now left click "Activate" on the Tower of life Altars with the required items in their inventory to automatically add them to the altar. 
+---
+Slayer masters who ever so politely reminded you to only kill creatures on task whilst in their slayer cave are a little less polite. They will now only remind you once every 30 seconds to limit interruption. 
+---
+The Digsite Pendant now has right-click options for each teleport location when worn. 
+---
+Bolts can now be enchanted in sets of 10 via the make-all system. There is a slight delay between bolts being enchanted when selecting more than 1 to enchant at a time. 
+---
+Leather crafting now uses the make-all system. 
+---
+Glass-blowing now uses the make-all system. 
+---
+The guardian mummy at Pyramid Plunder has been given the ability to remove any remaining charges from the Pharaoh's sceptre. 
+---
+The Pharaoh's sceptre can now be recharged with noted artifacts. 
+---
+The dialogue the Guardian mummy has when selecting the "Start-minigame" option at Pyramid Plunder has been removed if you have already seen it once. 
+---
+A chatbox message has been added to notify that poison resistance is about to expire. 
+---
+The Staff of light now displays its special attack's effect when hovering over the special attack bar. 
+---
+Players may now clear our broadcast messages from their chat history by clicking their 'Clear history' option. Certain official broadcast messages may also have URLs to open, linking to sites such as our official Twitch channel. Note: the only URLs we send in-game will be from the official broadcast message system, and can be clicked on. Do not manually visit any sites claiming to be from Jagex. 
+---
+ 
+---
+In Other News
+---
+Items dropped in Vorkath's instanced fights will now stay on the ground for 30 mins, like they do in the Grotesque Guardians' instances.
+---
+Dinh's Bulwark now applies its damage reduction effect only if wielded in the Defensive stance, as originally specified in the blogs.
+---
+A grammar error displayed when searching for adventurers inside the Monkey Madness 2 tunnels has been corrected.
+---
+The use of apostrophes in the name of Slayer's Respite is now more consistent.
+---
+Discuss this update on our forums.
+---
+Mods Archie, Ash, Ayiza, Curse, Ed, Ghost, Jed, John C, Kieren, Mat K, Maz, Roq, Ry, Stone, Sween, Weath, West &amp; Wolf 
+---
+The Old School Team
+---
+Jagex
+---
+This website and its contents are copyright © 1999 - 2019 Jagex Games Ltd, 220 Science Park, Cambridge, CB4 0WA, United Kingdom.
+---
+Use of this website is subject to our Terms &amp; Conditions and Privacy Policy
+---
+Go to heck
+---
+Decorative pickaxes are so ugly I can’t believe people use them xD
+---
+[removed]
+---
+&gt;Edit: being logged out when the global tick happens will cause you to miss the plant growth
+---
+no it will not. since the rework i have not missed a single growth tick, and I had spreadsheets to track that
+---
+To prove that they have more time then most people.
+---
+Fucked up. But my kind of humor.
+---
+I'd say 70 range or flat 70 melee stats to do it effectively, but melee preferrably
+---
+I've been doing rc for a week and I love it. Should I get myself checked out?
+---
+I hope the best for you :(
+---
+&gt; for some people this game is about relaxing and having fun.
+---
+sick
+---
+Maybe they have high defense and HP because it feels like it takes a long time. I also just hate how it seems like you can't stay in one spot to fight them, partially because they aren't aggressive and partially because of the way they move. Basically when I do it (task-only area always) I'm going: (1) click wyrm to run over and shoot it; (2) click wyrm again because for some reason it fucking changes form and you aren't attacking it anymore; (3) make sure you didn't run too close and get in melee distance, so maybe click again to back up; (4) run over to grab drops that go 2 tiles away from where it seemed the wyrm was actually standing; (5) suddenly no wyrms are nearby because they slithered away with that stupid animation, so run over and click another one to start over.
+---
+Even if they were super weak the process is kind of annoying compared to almost anything else. It's like, think about how annoying it is when you're afking a particular monster and then they lose aggression so you have to look up and trigger it every time. It's that, but always, and you also have to trigger twice.
+---
+The real prize is the cabbage shield.
+---
+I see where you got your name
+---
+Why? And why 42?
+---
+mire-ehk
+---
+runechat is better any day
+---
+I know those guys get paid a lot, but watching some one get brain trauma isn’t fun for me.
+---
+Just replace any lowball offers like that each time you sell bstaves or other things to make sure it doesn't go stale
+---
+No, lazy ironman
+---
+I mean dice bots are worse than cancer, but the people who use them are almost as bad
+---
+Post the RSN so I can report it.
+---
+So basically for normal rocks, it’s a contest to see who can mine the ore faster? That’s what I had a feeling it was but the randomness made me doubt that. In hindsight, the number of ticks it takes to mine an ore is random to an extent, which is probably the cause of the randomness
+---
+No but I pronounce the b in lum-bridge
+---
+I've been pronouncing it "Ar-doh-n" this whole time
+---
+Oh thats cool, never seen that spreadsheet before.  So it looks like the higher level herbs take over at around 8 herbs per patch and that is on the lower side when you use UC and have a decent farming level(70+) since he estimates it from 8.5 to 9.5.  So pretty much what I've said seems accurate.  That at higher level farming or "endgame" content farming, the expensive herbs always outclass things like avantoe and toadflax for profit.
+---
+alch yourself
+---
+Not to the downvoters lol
+---
+The people that use them should be banned for feeding RWT, but Jagex doesn't seem to give much of a shit either way.
+---
+Correct
+---
+*assuming he hasn't botted almost all of it*
+---
+It’s a normal function
+---
+https://docs.google.com/spreadsheets/d/1wzy1VxNWEAAc0FQyDAdpiFggAfn5U6RGPp2CisAHZW8/edit#gid=158500257 
+---
+really good dps calculator to figure it out for your own character
+---
+Imagine being upset that you're at a disadvantage because you chose to not work for things that could give you an advantage. You're like a homeless person that refuses to take donations. Swampman good
+---
+F2P bots get banned much faster
+---
+bruh its a game....
+---
+Always said "mi-reck" or "mirre-key" since listening to swampman pronounce it
+---
+Maybe top 5 for greatest PC game of all time (even though technically it’s no longer just restricted to PC).
+---
+But greatest game of all time? Probably not even in the top 10.
+---
+It's a dog eat dog world
+---
+## bruh 🙌🤙😂👏😂
+---
+You can do blast mine after you get to 75
+---
+Yeah. That’s probably fair for why people pronounce a lot of things differently in rs
+---
+Oh honey...no.
+---
+Yes.
+---
+Polish up that bucktooth and say hi to Tim Allen for me
+---
+The spec adds the skill levels of your opponents’ stats with your own, then divides all XP evenly.
+---
+This effect is permanent, and can be used even in non-combat areas.
+---
+Spicy m3m3, bud
+---
+The guy with the d scim is pissing me off, it's not matching. Like what the fuck
+---
+Thank you Scapian. I will see you in Lumbridge. Thanks for enjoying us and memorable moments
+---
+I always said Are-Doon
+---
+Getting graceful is this game's casual filter. It's not really a long or difficult grind but it's just inconvenient enough to introduce people to what to expect in future grinds and push away those who won't like it.
+---
+*Su-b-tly*
+---
+K
+---
+No you didn't, liar.
+---
+Agree 100%
+---
+Same. 
+---
+Bobby Knuckles plays osrs and he's a champion m8
+---
+Is there a better explanation, possibly using lambda calculus?
+---
+Well yeah he's walking around in shit gear getting stream sniped.
+---
+Nature rune running? Nah. Abby whip running.
+---
+Attaboy, that’s the attitude to have
+---
+Oops 7*
+---
+Yeah I guess. Most runs I used 4. But 7 max. I still brought 12.
+---
+Ar-duh-guh-nuh
+---
+Would love to see a Jmod response to this.
+---
+Nobody asked, buddy.
+---
+Why not lel
+---
+The fact that it happens and has happened numerous times over the course of 19 years shows they (jagex) have an affinity for NOT proofreading their code. The fact that they literally have to call fixing a typo a "bug fix" supports the assertion that they do not actually check what their colleagues code. Never did I imply all of those from England have an issue with the English language; you inferred that. It's fucking laughable because there are a plethora of times where people poke and prod at other dialects of the English language under the guise of "you're not using English correctly", yet  a development team from an English video game studio can't use the English language correctly.
+---
+All organic, but thanks for the compliment.
+---
+I never said it was awesome, but who are you to judge someone else’s decisions?
+---
+imho yeaj
+---
+/r/jesuschristreddit
+---
+It’s good money and good xp, has more variety than basically any other skill
+---
+YEa xD
+---
+Hey look, more karma whoring
+---
+I think the same.
+---
+Tell me what?
+---
+You obviously don't know diddly dick about math, nerd.
+---
+What does any of this have to do with finishing the quest before starting training?
+---
+Man... i didn't realize that was the wrong way of saying it until now.  I don't play or discuss the game with anyone I would talk to in person so it never came up.
+---
+tbh quests are fucking ass
+---
+We want snu snu!
+---
+PLOT TWIST MODS ARE USING INSIDER TRADING!
+---
+Idk why y'all are being dicks
+---
+The puzzles arnt that complicated compared to mep 2's in the slightest
+---
+There's no way I did it without the guide, that's just an impossible feat that's so unbelievable... Like c'mon dude -.- if I got stuck id look over, but for the most part I didn't have to.
+---
+hp is 76
+---
+Ironman hate him
+---
+goodnight, i will always miss you, :'(
+---
+my hp is 76
+---
+No wonder people at the GE keep calling each other gay, there's just huge balls clogging it up. Idiots.
+---
+Ardidgeridoo?
+---
+Hahahahahahahahhaah all the mtx in the world is worth the tradeoff for superior sheep herding mechanics
+---
+From memory Ghorrock tele is faster (bring water staff equipped + 2 law runes each trip). PvP world banking is faster too. If you've done SotE you could respawn at Priff instead though if you don't want to be on PvP world.
+---
+No, its just the only game that i can play for a ridiculous amount of time
+---
+Grind IRL till you have to respawn in Lumby. I pray you’re at peace.
+---
+I'm not, thank you though :)
+---
+i pk and i never kill any iron, youre literally a loser if you're killing anyone skilling imo iron or not, there's 0 sport in it. if someone has the mind set to kill an iron just because theyre iron, they need a serious psyche evaluation
+---
+Oh I misunderstood, that's my bad. You're right, I suppose you wouldn't have to finish the quest.
+---
+But I'm going to stop pretending I know anything about F2p Irons lmao
+---
+THANK YOU!
+---
+trekking is fun.  how is that going to help slayer?
+---
+Read the new reddit posts, they commented on random posts about buffing it before the Q&amp;A on posts that barely got any upvotes.
+---
+Contact NPC saves so much time it's unreal. Call up Duradaddy from the bank and its smooth sailing.
+---
+errr OSbuddy?
+---
+AR doo ween
+---
+Swamp man GOOD
+---
+Yeah but we helped a lady find her missing cat, so the genocidal negative karma balances itself out.
+---
+Wish my view went that far.
+---
+That‘s what I was doing at first, a decided to tweet at JagexSupport and ask them about it. That‘s when I found out to report for Rule 7.
+---
+That’s how I say it.
+---
+yea I'd suggest some initial questing for the important unlocks like tree gnome village for the trees and the start of fairytale II for the rings.
+---
+As a general rule of thumb most skilling activities are not profitable. 
+---
+Blast furnace steel bar is 4-500k/h profit for not much requirement. There's also the usual advice of doing varrock diary for the battle staffs. And herb runs.
+---
+Morytania hard diary and then barrows run is a pretty good goal to aim at I think. It's great gp/h and you'll easily sustain a bond.
+---
+sol this time. sorry bud
+---
+Save it for april 1st jmods
+---
+No, I can’t look.
+---
+I get that but it's the wildy. The skillers know they can die there so that's why they dont risk stuff. Them Skilling or being an iron shouldnt stop you from killing them...
+---
+There are quite a few empty worlds lately. Ranging from 340~ ish to 380~ iirc
+---
+I mean I don’t know how to speak english but here I am
+---
+and level Runecrafting to get the diary? excuse me
+---
+Maybe you should spend less time on reddit and more time improving your reading comprehension.
+---
+Osrs Advice is a cool clan chat to hang out in. My IGN is Vespolar1 if you wanted to add me too
+---
+Weak sauce. Take 25 or stay at home this semester.
+---
+An outlet or source to redirect my questions to would be helpful, I know there is work involved.. but one does not have the resources to get involved in the community or even get in contact with said individuals
+---
+Would be slightly better but quite a bit more expensive to use, and not worth the marginal increase in accuracy.
+---
+It WAS when the lever wasn't there and it was a ladder instead, now that you can teleblock people it's ruined.
+---
+And he flatlined. What a bust.
+---
+Did you get slapped with the quickness?
+---
+$11 btw
+---
+Yeah me too - I want absolutely no part of this tomfoolery
+---
+Very Sorry to hear this man. Life is given and taken away at random. It’s heartbreaking to hear that you know your time, but maybe you can make the best of what you have left. Spend it with people you love and do the things you want. 
+---
+Sorry if this is ignorant (anyone else feel free to answer too), but is there no operations that can be done to give you more time or possibly remove the tumor? I’d bet this community alone could pull together some donations, even though you said you aren’t accepting any
+---
+used to be possible
+---
+When Swampletics beats the Theatre of Blood, I'll think of you. Thank you for being on this Earth with us &lt;3
+---
+H
+---
+See you in Lumby brother, make sure you're not skulled🖤
+---
+Do you like stupid grinds that are hard, long, and slow? Start a members Ironman in my opinion
+---
+That’s pretty good I really want pet. I post my hydra progress often check out my profile
+---
+400 kc with 8 arcanes and 1 dex in my name. Have only seen 1 tbow split. Consider yourself beyond lucky.
+---
+I'm sorry to hear of this. I will pray for you.
+---
+I think to some people having the red badge means the world to them, like B0aty for example. He'll die on a 2k+ HCIM to a DC and drop the account to start over
+---
+Your link has been removed because it is not whitelisted. If you are posting an image, please use [imgur.com](http://imgur.com/) to upload images.
+---
+/r/2007scape only allows certain links to be posted due to a high amount of phishing links, if you feel your link should be whitelisted please [message the moderators of 2007scape](/message/compose?to=%2Fr%2F2007scape).
+---
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/2007scape) if you have any questions or concerns.*
+---
+Also wondering this.
+---
+I also LOL'd at the fact OP took a month to get 130 marks (or half the set). He must be playing on mobile on smoke breaks at work lmao.
+---
+I always said ar-ug-dohn. But like the sheep I am switched to ar-do-ween
+---
+I like the idea and I’d bump it up to maybe even 10 shards. That’s about 1.5 gauntlet runs worth and you get about 1 superior per task.
+---
+I’m willing to bet that some people who are aren’t employed by jagex but are in the know of future updates use that info to make a quick buck using the GE and RWT.
+---
+Same
+---
+/r/femboys for gentlemen of culture
+---
+I think that's a reasonable addition to the dungeon's monsters since its a low amount that would be gained per hour and it's in line with other methods of obtaining them.
+---
+yeah fucking christ
+---
+r/cursedimages
+---
+how did no one notice this
+---
+💙
+---
+Yeah but this takes like a day and I have the rest of my time for rs
+---
+The hero that doesn't wear a cape.
+---
+Arrrdoooon
+---
+Seeing as how as soon as it was added in game people were REEing about the upkeep cost, it was bound to get a buff. People were just quick on the draw to merch the hell out of it before it skyrockets in price.
+---
+Can this be an eye-opener to people to nerf these ridiculous pvm resource drops?
+---
+You are a noob for not having 83 construction tho.
+---
+he only killed one too, it's not like it was 10+ mins of him killing tons of HCIM
+---
+When I started my iron I just kept on theiving for quick early cash, then eventually took cakes as my main food source then just kinda chilled around, did ardy easy for free tps. Then did the dorgeshun questlinr and farmed the little thieving vaults for a long time I thought that was really fun tbh. Probably not the most efficient but I personally don't like the typical Ironman start of wt to 99 and/or Barb fishing to 99.
+---
+what was his offer
+---
+I pronounce it like “my wreck”
+---
+Remember it's not how we die. It's how we lived... See you in Lumby my dude. &lt;3
+---
+How would it stop them? It'd require a 15 second script change
+---
+As an Ironman this is my wet dream
+---
+The method is when you get to the point in rune mystery quest where the duke gives you an air talisman, don't continue the quest from there, and drop it on the ground, ask for another, drop etc etc bank (withdraw all air talisman as note) repeat until you have about as many as you can stand
+---
+THEN when you're ready to train RCing you take the air talisman and a tiara to combine them at the air altar for RCing xp
+---
+if you're not an ironman don't do this method. simple as that
+---
+Still isn't proof, I dont see your iron man helmet
+---
+In an alternate universe, Disney buys Jagflex and builds Lumbridge castle in disney world
+---
+Playing Dr Google won't help the guy out and might serve to offer false hope. Place trust in the knowledge of his team of neurologists/oncologists and the fact that percentage survival depends on so many factors such as aggression of the cancer, degree of metastasis, etc.. Lots of love to OP, you're a very selfless dude
+---
+Why u attacking ur son wtf
+---
+You need ds2 for the material to make it.
+---
+They originally talked about in on the Q&amp;A over a week ago as well.
+---
+Ubuntu 18.04
+---
+Obviously he did, I'm pretty sure "use his anvils" doesn't literally mean "use his anvils" if you get what I'm saying.
+---
+Repost. Idiot.
+---
+Why are you posting other youtubers videos?
+---
+HCIM and IM are a protected class in RuneScape
+---
+Concept: don’t call someone a rude name at the end of a post and actually have a mature, coherent point. 
+---
+*reply calling me pussy or dickhead incoming*
+---
+Set goals for things like raids and inferno.
+---
+And 500m cash.
+---
+To drop them stacked to continue getting more
+---
+F
+---
+why do you have those absolutely useless markers in a line rofl
+---
+why not? i didnt see it here before I assume I missed it
+---
+They recover in the short term and about 10 years later after all the CTEs had some time to backlog and pile up it’ll hit just like NFL
+---
+25 buttholes himself posted it. Search before you post.
+---
+what kinda question is this? the one method left is volcanic mine passively getting mining exp while spamming for the Ash Covered Tome
+---
+you listed literally every other viable thing
+---
+Found that too yesterday
+---
+Ahah I got this last week too and had a chuckle
+---
+5-1? Does melee protect always stay up in this strat?
+---
+WAOW
+---
+I’m probably misunderstanding, but at that point can’t you just leave them in the bank instead of putting them in and immediately withdrawing them as notes
+---
+Also ard-oin just sounds awful
+---
+Looking to powerlevel farming, never really done farming before and looking at guides etc looks complex (I bet its not when you get the gist of it) but what's the main thing to plant if you don't care about profit and only exp? 28 farming atm, aiming for 70+.
+---
+Acquire a gf.
+---
+Don't listen to that fucking idiot
+---
+Check the recovery information needed and give him as much of it as possible, maybe even do a few “fake recoveries” to yourself so you know what info works, I know exactly what answers I need to put to get my account back due to being stupid when I was a kid
+---
+Zulrah does for sure. Vorkath's learning curve is literally taught to you as a quest boss, and even that is "put pray back on, shoot a spell at this thing when he freezes you, move away from falling thing, and walk when he spits".
+---
+To say Zalcano doesn't have similar mechanics to learn is to over simplify it sharing similar designs
+---
+&gt; I can't really "unfocus" from jad
+---
+Yes you can.
+---
+Just keep it simple and do 1 action per prayer switch.
+---
+Idiot.
+---
+Hunter is literally one of the easiest skills to level to 80+. I dreaded the reqs for DS 2 and had 82 two weeks later from birdhouses. I’d easily consider agility more challenging, Its all about perspective.
+---
+I used his anvil, he used mine. I don’t see anything wrong with some consensual activity to the mutual benefit of man and dwarf. It’s the 5th Age, guys, c’mon.
+---
+It sounds like you want the short route to fame. Well let me tell you buddy, there's no short cuts in life
+---
+yeah that's not what happens. Johno R started all that fake drama, it doesn't happen. quit spreading his bullshit
+---
+I hit 99wc yesterday, guess it's time to go buy a gun?
+---
+First person to spec swamp boy would be as infamous as Durial himself
+---
+FYI void mage is never better than a standard mage setup if you have tormented
+---
+For me, Runescape is a journey.
+---
+I wonder how many times I will take it.
+---
+I feel like the classics are WT from 50-99 and barb fishing to 99 for an efficient start
+---
+Bump because still super interested lol
+---
+I promise you he couldn't give less of a rats ass you didn't tip him. literal man child
+---
+It refreshes whatever state your stats are at. That's exactly how it was polled. You're potting back up to a full boost, and the divine continues to refresh that. Just as if you brew down, it will refresh that.
+---
+Some of these memes really hit home..
+---
+Likewise here.
+---
+Just get a takedown 4Head
+---
+Jesus fuck you really are a fucking child
+---
+So sorry to hear this. Hope everything is as good as it can be for you these next few months. This is also a truly wonderful idea you have so that some part of you can live on with friend. I am sure they will he forever grateful.
+---
+Yes best game ever.
+---
+Hey, today was my second time being pked while runecrafting outta the blue, should i just be buying abyssal bracelets to stop the annoyance of having to refarm my fucking pouches?
+---
+I was getting bored of running and both times was on 1 glory charge left so I'm not bothered its just annoying lol
+---
+I believe they said the engine team is currently working on some of the changes needed for Clan System/Group Ironman, so it has a good chance of being announced.
+---
+With Microsoft paint, idiot.
+---
+No. It made you spend half of your playtime waiting for a trade while watching an auto typer. Mist boring fucking content ever because the only thing you do is set your price and try not get scammed. Aids system once rs2 started getting bigger. Im glad the GE is an automated trade system of sorts and not an auction house style.
+---
+How much money do you have to spend? 
+---
+Main thing you wanna be doing is fruit tree runs once a day, and normal trees whenever they're ready. 
+---
+Teleport between all the patches, check health, pay the farmer to chop the tree down (200gp), plant new seed, pay the farmer to protect the tree (various farming produce, check the wiki for each type of tree). You can skip the protection and just ultracompost instead, bit cheaper but more risky.
+---
+Because Zulrah has no barrier to entry. Vorkath and Gauntlet require completion of grandmaster quests and high stats so them being rewarding make sense, it's end game content. You can start a new account tomorrow and fight Zulrah. Personally I feel it shouldn't be so rewarding as it's so easily accessible.
+---
+I can put the titles anywhere
+---
+DarkScape was better
+---
+I can agree with that, Zulrah shouldn't be consistently good money. It should be you get lucky every once in a while.
+---
+Obnoxious af, it's really annoying in RS3, would not like it in OSRS even if it were toggleable.
+---
+Arlington, rudapesh.
+---
+Yet I always get downvoted when I say we rush updates/get too frequent of updates.
+---
+Dude go fucking bank stand on w2 if thats how you want to play this game. Everyone else wants to actually play the game.
+---
+Dude, I heard those shots fired all the way from over here
+---
+See you in Edgeville
+---
+He should be fine. Just leave him with all the necessary information like passwords (former and current) and answers to security questions and such.
+---
+Jagex have already said publicly that the no account sharing rule is meant for buying and selling of accounts mostly, and that sharing an account with one other person isn't going to get you banned.
+---
+Have a great time my dude..
+---
+h
+---
+Relevant discussion.
+---
+https://www.reddit.com/r/2007scape/comments/a21er8/comment/eaum6q4
+---
+His omg im so sorry was forced dude clearly didnt care nor should he its the wildy sucks for the hcim tho.
+---
+Is there a theoretical optimal way to organize your bank that most max players use? Anyone who feels like all their shit is super easy to find in the bank care to weigh in?
+---
+My bank has finally filled with enough junk that I'm getting close to capped. I have a tab for all three combat styles, for teleports, food, potions, farming stuff, and misc/loot to sell. Everything else (stuff like graceful, cratinf items, my pickaxe/axe, quest items, random shit) goes in the initial general tab. This worked well at first but that first tab has become enormous, started needing to use the search function for way too much.
+---
+Not sure if this has been posted here yet but this is from the game Crab Champions  
+---
+[https://twitter.com/CrabChampions](https://twitter.com/CrabChampions)
+---
+Jagex is powerless against tabless meals
+---
+I recall John C mentioned doing something like it for OSRS way back. He said if we did get it, it would be fully toggleable; more so than in RS3. I wouldn't mind a system like that, but I'd want to be able to toggle each type of broadcast (e.g. 99, max, milestone, rare drop, etc) by global, server, friends, clan, etc. Also, players would be able to opt out of having their accomplishments broadcast.
+---
+Not something that is a big priority; I'd rather have chat timestamps first. But it would be nice someday.
+---
+Well, I didn't expect to cry over /2007scape today. But here I am.
+---
+Watch out, we’ve got a badass here.
+---
+Shame on those of you who actually looked at her twitter to see if she said this...
+---
+No.
+---
+Wait what you spent 50m on supplies?
+---
+I think that was thuh johke
+---
+I found MEP2 to be way easier than others make it seem. Dragon Slayer 2 was easy, if you aren't an idiot.
+---
+Yeah I just wanna have a small party with my bois when I get my 99. Plus it would be annoying after awhile.
+---
+You could have walked into Falador bar if you're looking to get easy sex 🙄
+---
+I didn't think much of it in rs3, and I don't think it's particularly useful. I'd prefer it not be in osrs.
+---
+I thought I saw something like that... I definitely agree with the filters. I'd like to know if someone gets a t bow. 
+---
+I agree with the time stamps too. There's a timeline feature for it but other than that... CC chat is a nightmare in a slow cc
+---
+Everyone: The OSRS community only cares about efficiency now
+---
+Michaelsmetsker2: Hold my beer
+---
+Well, he does have a point
+---
+Dude auto typers were not player interaction. Im telling you right now osrs can be one of the most social games you will play if you join a multi pvp clan amd jump in voice channels everyday and make actual lasting friends that you can do anything in the game with. This is the same for pvm. We are more social now but in a different way. Hmu if you want invites to some clans, i know a few
+---
+100% expected but nice
+---
+I almost scrolled past
+---
+This is quality
+---
+You’re a champion. Let me know if you ever want to team up in this operation.
+---
+Farming.. idiot
+---
+If coach would’ve put me in the last quarter, we would’ve *TOOK* state! No doubt... No doubt in my mind
+---
+I think some clients already can do timestamps... But it is a really nice feature to have for chats. Chances are if we were to get either timestamps or broadcasts, the chat system may need some backend tweaks. Perhaps it could get stuff like increased character limits too; I know RS3 allows for a bit more per message than we have.
+---
+Well, I think that's a really optimistic perspective, but an inspiring one.  I wouldn't have the patience for the goal in OP's post.  Maybe he's just kicking so much ass that his work ethic spills over into overachieving even in things like OSRS, lol.  
+---
+Sorry for being presumptuous /u/Netbook_Pro.  I guess I have bad impressions about high XP achievers after hearing about the guy who shit himself to achieve an XP record, or something like that.  (And the poor guy still didn't win.)  Not trying to make fun of him, just saying, I'd developed a bit of a mental stereotype for what it takes to go for these kind of goals, and it wasn't fair to you.
+---
+It's just like the real world: fake it until you make it.
+---
+Resting is more of an RS3 thing. Just spitballing here, but I'd think the community as a whole probably wouldn't appreciate a mechanic that lets you recharge your run energy (and HP, to an extent) so quickly. Perhaps it'd discourage training agility and/or the use of stamina potions.
+---
+Now only if it was useful, even if it was just for ironmen
+---
+Especially the guards!! They’re as bad as the elves!
+---
+Zulrah is less money than vorkath for more effort, why should it be nerfed?
+---
+You get a chunk of dragon metal during the quest to actually make the locator orb iirc
+---
+Oh, good point!
+---
+Yeah use archers ring and a MSB (i), or a blowpipe if money isn't an issue. 
+---
+Do the above if you want to AFK ranged XP. If not and youre okay at all with looking at the screen, you're better off cannoning slayer tasks and using chins on monkeys.
+---
+I didn't mean to make fun of him.  I was concerned.
+---
+There's nothing respectful about what he's done, it's something you shouldn't admit to having done irl if you were him. Mentally ill.
+---
+I feel like with all the people leveling cooking, someone would have recorded eventually when they stopped burning certain foods. But I guess also anyone skilling is only cooking maybe 1-3 foods anyway.
+---
+That's an advanced tactic to do kills faster. It's not a mechanic of the boss.
+---
+There's "cheat" in his comment. Never use cheat software otherwise you risk losing your account.
+---
+/u/settled
+---
+Not even that. A bond takes less than 1 hour with us minimum wage.
+---
+I don't disagree that somewhere down the line someone has enough data to find the remains, but the reality is like you said. Most people only cook a certain food all the way up to max level or even over time since the rest aren't worth the time to train with comparatively.
+---
+In the same poll the extended information from the poll blog.
+---
+&gt; Provided that your Strength level is 99, drinking a divine super combat potion will boost that level to 118. The renew effect will ensure that it won’t drop below 118 for 5 minutes. If, however, the stat is reduced by either an NPC, spell, or a potion such as a Saradomin brew, the effect won’t renew the stat back to 118, and will instead begin renewing the stat at the level it’s been lowered to
+---
+So yes, the question was shortened in a way that could be misunderstood... But the context and full explanation was also provided. You just ignore it for your own reasoning.
+---
+The potion is working as intended and polled.
+---
+downloading and reuploading the image is xp waste i’m just gonna xpost this whole post back into the sub
+---
+Bondies gtfo reee
+---
+Said it well. I remember the days merching my dragon legs for 2.4m outside seers bank. That felt great trolling the forums and in game to make some good money between trades.
+---
+  
+---
+But it is much nicer now being able to just buy supplies I need to actually play the game because when I merched I never did anything else it consumed so much time. So GE? Good and bad.
+---
+It doesn't take into account anything. It just shows the profit for average herbs. It's just a table to check the prices, you have to know your yields yourself.
+---
+My best friend committed suicide. I knew his password and emailed jagex in an attempt to protect his account so I could save it, as RS was a huge part of our friendship. They permanently banned it. So I would say don't even mention it to Jagex
+---
+Probably more sources to get onyx gems now after sote
+---
+&lt;3
+---
+Currently doing this grind now, what’s your total using all the other drops as well?
+---
+Whats your RSN? I'd like to add your account to keep it as a memory. I always do this for lost players
+---
+I was looking on GE tracker it seems that less are being traded too by a lot do you think maybe everyone has one now? Or do you think it will rise back over Christmas
+---
+Right click the report button, click report game bug, then describe the bug. They almost always get fixed within the week
+---
+I've never really thought of it, but that's exactly how I have always pronounced it in my head.
+---
+I don't see a problem with it. While it is nice to have dungeons themed around the region with original creatures inside, not every dungeon is like that and it isn't a new thing. Also, it isn't uncommon for some creatures to exist around the world, like with Hill Giants or Greater Demons. So it makes perfect sense that Kurasks could exist in more than one dungeon; they just aren't a super common creature. And TBH, even the Fremmy Slayer Cave is a pretty weird group of monsters that have little in common beyond being Slayer Creatures.
+---
+Its not possible in osrs. Happened a few yewrs ago. No way to get them past the start of white wolf mountain on the catherby side.
+---
+Seems to be Zalcano. She can drop Onyx and whether it is just initial hype and/or panic, that is causing a price drop.
+---
+Thank you I thought it might if been
+---
+Fuck man
+---
+sorry to hear
+---
+Be strong man
+---
+Pretty sure Curtis mentioned on his stream that chaos tunes were crashing too which effects the price of the fury as well.
+---
+Ban incoming
+---
+I'm hoping as I keep earning my way into higher and higher total level worlds, they'll eventually vanish.
+---
+Inb4 runecrafting
+---
+He had it in his cape rack
+---
+Damn one of my favorite pets. Nice tho
+---
+Accents are still a thing, and affect all words, not just the ones people don't identify with
+---
+Imagine trioing Bandos in 2019
+---
+This would be such a simple topic for a jmod to answer, but nobody is showing up since there is no nsfw image
+---
+I don't mind :^)
+---
+Sorry no, I'm not in favour of removing the Hunllef's horns from the cape.
+---
+Plus that rapier in his inventory. Doesn’t scream rwt or anything lul.
+---
+You can switch your task. Talk to the slay master
+---
+Do you do it at lunar isle or abyss?
+---
+OOF u got rekt in the comments
+---
+Yes i use runelite.
+---
+Bonds are 5.60€/~4 Mil
+---
+You can buy bonds from the Runescape website or the Grand Exchange
+---
+They didn't age too bad lmao, still relevant considering the amount of phishing/scamming and fake RS sites going on nowadays
+---
+The first time you get a cape you have to kill all 3, after that you only have to kill 1.
+---
+runelite plug-in -&gt;interface styles
+---
+bruh i was just killing hellhounds plz no
+---
+I’m not familiar with this kind of illness, but is it possible OP just doesn’t have enough money for surgery??? If that is the case OP please say something, I’m sure the community could raise money through go fund me or something like that. We can reach out to other commuties etc. Can people upvote this top comment for awareness
+---
+Trippy.
+---
+Welcome! Guy above me answered everything, just saying hello
+---
+i think divines are useful, where you wouldn't use brews and really need the boost staying up. I personally would use them at slayer i think. Depends strongly on if you can afford them and are willing to pay the money or rather use a super set with a prayer potion.
+---
+When you already have to use prayer, you should probably just use a normal super set.
+---
+I tried to be..
+---
+Nice, maybe it can help teach you to take a screenshot =)
+---
+You're going to miss theatre of swamp :'(
+---
+Scanning a list of &lt; 100 elements every 600ms is practically no work at all for a modern processor
+---
+No other explanation I can see
+---
+I’ll be waiting for you in Lumby my friend ❤️
+---
+Hi!
+---
+The only differences are the price and protection from the corresponding creatures in gwd.
+---
+Pretty sure its like the disk of return. Darkness.
+---
+Dude that quest has a learners permit by now it’s not spoilers.
+---
+Swivel!
+---
+Wave2:need money
+---
+Don’t mind me.... r/cutenoobs
+---
+Give it to me
+---
+(Jk)
+---
+But I mean
+---
+If you ever have too much go I’ll be here ok buddy
+---
+Hold my kebab
+---
+Lol no
+---
+Fair enough hopefully it a really is "soon" I his time. Thanks for the reply
+---
+no, life doesn't have any meaning lol. 
+---
+we're just meant to reproduce and survive, that's pretty much it, and as it currently stands there are almost 8 billion people on earth.
+---
+but yes.. his approval rating is the highest it's ever been. \[i.e it's gone up\]
+---
+Over 20 I think everything turns to coins, under 20 most of them can be reobtained easily (whether they break and have to be repaired, or drop to the ground). A notable exception is the lunar staff which just disappears.
+---
+They made updated versions around 2006 and I've never been able to find them since.
+---
+Stand on top of two clues, right click one and pick up bottom then click to pick up top one?
+---
+There were certainly jokes about it.
+---
+Not knowing some trash tier youtuber from a decade ago = new
+---
+Looool
+---
+who?
+---
+That book was my childhood
+---
+I never said anything about twitter or his manners?
+---
+Im 67 rn. I grinded 80 agility first, trained nat through 65, banged out all the elf quests I needed (have fun if you haven't done ME II yet) and now imma do death runes through 77. Download some podcasts, buy a 12 pack in your choice of gamer fuel and settle in for the long haul.
+---
+you never had to
+---
+For some reason I pronounced it are-duh-noog for the longest time but now I just say ardy or ardoin
+---
+&gt; I actually meant that you don't have to rely on my experiences.
+---
+Im not.  Im just saying anecdotal evidence isnt very strong to rely on in general and why I dont base things off my own or anybodies anecdotes when I know the actual data.  
+---
+Take care tho.
+---
+Exactly, but if someone has a different accent to you and therefore pronounces their name differently, you have to respect that pronunciation because it is a name. A normal word is fine to pronounce differently, but names are a special case where the pronunciation is determined by the owner of said name. Of course, if you’ve never met them or they’ve never indicated how to pronounce the name, anything is fair play.
+---
+This makes me worry as I just reached 2k.
+---
+Sire
+---
+As a welsh speaker Prifddinas isn’t difficult to say..
+---
+Just log out if you can.
+---
+Oh ty I didn't know there was a fake one owo
+---
+The defensive stats of karils might be worth it for you, depends what you're doing.
+---
+Explain pls
+---
+r/sbubby
+---
+What that bwana say??
+---
+Have you ever really been pked doing a clue?  I never have so these memes dont make sense to me
+---
+Are you recording your progress? I bet a lot of people would be willing to watch something like this.
+---
+There is definitely a learning curve to Zalcano, or at least there is if you want to play strategically and get mvp consistently.
+---
+U can feel bad and do something. Felt bad putting my dog down. Part of him wanted to kill him but he could relate to the pain the guy would feel when he dies.
+---
+201 KC currently, Had a tbow in my name in a 4 man, a maul in my name in a duo (was salty) and countless dex/arcanes.
+---
+runescape said trans rights
+---
+He *obviously* meant 10k bonds to keep your membership going on your ironmeme
+---
+na, blade will be a minority of shards sink
+---
+U can have conflicting emotions.
+---
+imagine only having the stats to be a black haavisto smh
+---
+I have seen people on WDR get a fullblown aneurysm when you give them 10k gp less from an arcane split.
+---
+Damn this boii bout to get hacked
+---
+Well the issue would be what people do with runecrafting though. You would just pay bar runners and make insane xp. Only way I can see it working is if it was for ironmen only
+---
+If that's for solo i'd get rid of the ferocious gloves and tormented bracelet lol
+---
+Just wish they wouldnt lock bis pvp updates behind pvm and quests. 
+---
+I do agree with u. But i want it both ways. Let me get b gloves, inferno, etc thru pvp only. 
+---
+Tho wildy literally has one thing. Complaining about it on the wildy side but not pvm side is stupid.
+---
+Red salamanders until you can do black salamanders, then black salamanders until black chins. Then black chins to 99 or until you reach 5 traps out of Wildy at 80, then you can switch to red chins if you dont like Wildy but black chins are still better
+---
+Always do highest tier birdhouses
+---
+I agree doesn't look right without the horns :D
+---
+U could say the same about anything. Why do bis gloves come from helping a cook in a kitchen? All lore is made up.
+---
+Because that makes it better...
+---
+VPN?
+---
+This man living in 2050
+---
+I've never actually been killed, but tons of attempts. Most people who try to pk clue scrollers are bad at it, so...lol. But yeah, from my experience it's super commonplace. Even in 2k+ worlds I've had groups try to mob me.
+---
+D pick only recently :p. 
+---
+Before u could get 3a. Maybe 3a pick will be upgradeablw to crystal and then its moot too
+---
+Glad to know you probably never left WT/the wildy yet
+---
+I like the bottom right one not even showing teeth.
+---
+I like to think the person who made it googled "Drake smiling" and only found 5 pictures that worked so they had to grab a filler one.
+---
+Earth tiaras
+---
+Dwh
+---
+I have 4 pieces of warm clothing equipped with it, so my damage is minimalized. I just need to know if I'll be able to pick it back up if I do die.
+---
+The same thing can be said about what you just did, nobody asked you to come and shoot down the guy who took a joke too seriously..
+---
+No, this is not how the internet works,  i have the right to tell someone that i think he crossed the line, even if in reality i might miss-understood what he meant, like you have the right to tell me that i was wrong, but yoh can't tell me that i didn't have the right to comment about something that was not directed towards me, while commenting about something that was not directed to you..
+---
+Getting a zammy spear... i hate zammy
+---
+You dont even have to pay people literally just use an alt account
+---
+I think you can, check items kept on death interface when you at wt next time
+---
+Read the books in the quest. It's fucking amazing.
+---
+Only do Underground Pass with like 70+ Agility though.
+---
+"I'm not here to make friends, I'm here to win!"   
+---
+\*cries in no vorky\*
+---
+incase of delete https://i.imgur.com/52y8Zfm.png
+---
+on a canoe
+---
+It's the internet, but doesn't change the fact that i have the right to say my opinion.
+---
+Wintertodt is a skilling boss that gives great exp so what happens to your argument there?
+---
+Zulrah is capped at 15. Maybe OP chose the even number (14) for 2 kills/trip or something.
+---
+Nice man gratz, feeels good.
+---
+Had a twisted bow offer for 1gp for soooo long. I’ll always be there waiting patiently in the darkness 😅
+---
+I'm here now and it will only keep part of the outfit if I die, the rest will either be dropped or destroyed. If it just drops then it'll be fine. I don't know if it's one of those items that just disappears on death though. That's what I'm afraid of.
+---
+I use work WiFi on my phone. But it won’t show runescape because runescape is actually running on my desktop miles away.  It’s good for clicking super combats and absorption’s
+---
+You’re incorrect. The tanks job at bandos is to pull aggro of the boss. Nothing else. You don’t want the tank to so dps because if they do too much they can steal the pet roll from the main (as happened to Coxie recently lmfao). 
+---
+The alt (tank) at bandos can bring a warhammer/avernic switch if wanted but it’s not necessary.
+---
+In exactly 2 months from now, I’ll take a shot in the name of Sweaty Jellyfish 🍻🥃
+---
+Thanks dude
+---
+were these real? the one with the blood seems really familiar but idk if im imagining it
+---
+Untradables don't drop on death below 30 wild. You're fine.
+---
+you still get the xp
+---
+So if I die in Wintertodt, it will drop like anything else?
+---
+Should still have it. It at least put some type of speed bump in the way of auto hopping/scouting bots.
+---
+Also, if the world hop limiter wasn't for PVP specifically, why have it at all? I don't see the downside in removing it from everyone else if PVPers no longer have it.
+---
+Sad thing is they don’t really get paid that much
+---
+J.K. Rowling constnatly confirms that, yes.
+---
+Not all heroes wear capes.
+---
+I remember losing a rune pouch unexplained once, still had the bank holder but not the pouch 😢
+---
+He used to cast a combination of fire/earth/water blast,  some sort of special technique unkown by most.
+---
+139 here, I don't even hate quests that much but the prospect of doing 30 of them is just too much right now.
+---
+Let's not make this a thing for our sake.
+---
+Ye, how many times has this book been posted? 1k+, probably.
+---
+Hey man, I've had this happen too, and have seen at least two other posts about it. There is a way to make it work, haven't figured out how to reproduce it though.  
+---
+The interesting thing is that if you start completing one of these clues, the completed step count increases. After you complete the first clue, this is supposed to reset, as it does if you were juggling the clues, but it doesn't reset, and you get to complete the other clue in a maximum of 1-2 steps.
+---
+I was thinking this to motivate me as well, looking specifically at Mort hard as a goal. What others are worth doing? I haven't done diaries since RS3 and half the rewards have changed.
+---
+Obby set/ Full Dh.
+---
+Should've used Thurgo's anvil, that's where the pros smith at
+---
+Why I'm cryin in the club rn
+---
+I’m booking Saturday 8PM
+---
+Ugly looking creatures, choose some non-deformed outfits
+---
+Did this man just use a karma farm post to mock farming karma posts to farm karma.
+---
+Brilliant
+---
+Probably splashed it too, embarrassing.
+---
+now i know how to get featured in not-so-ironman-mode swamp boy adventures.
+---
+Oh fuck I've been rumbled, *teleport to Varrock*
+---
+Leave a signature in the incoming history books
+---
+Didn't even notice. Goddamn this post is next level
+---
+my name is the lorax and i speak for the trees
+---
+If you click yourself, yes.
+---
+1750 Total lvl, sitting at 1720 now
+---
+Depends if they're  some sort of skiller or not. Skillers could achieve 99 mage without interacting in combat whatsoever.
+---
+Now that’s a 284773 IQ move
+---
+Lol, dont know how you calculated that, but its actually ~93%.
+---
+The irony of a bot saying this is almost humorous
+---
+Has anyone ever been outspoken about such an inexperienced move?
+---
+I hate to break it to you but skull trucking is not bannable and not against the rules. You are warned before you go in the wild to not bring anything you aren't willing to risk. 
+---
+There's a risk when going into the wild and this is why. Just like people who try to box you, be weary of everyone. It is the wilderness after all and anything goes.
+---
+Skilling pets on avrage takes about 18-30m xp to get so it's very lucky. It's not even unusual to go 50m+ xp dry on some of the pets
+---
+Oh sweet. I haven’t got the step yet lol
+---
+a prompt you get in MTA alchemy room, when you exceed 10,000/12,000GP you get this prompt appear every single alch you do.
+---
+You're a pussy or dickhead incoming.
+---
+Thats correct. Im also doing silly stuff that normal uim does not really do. =)
+---
+Hermione was an Ironman, btw
+---
+Lol.
+---
+Short sword more like
+---
+Nah it's pure shit
+---
+krill tsufghdsuotnoth
+---
+It's a rare occurrence for them to have to do anything like this. It was a pretty big slip up to let this many changes come through that failed polls.
+---
+i dont think you can report someone for being smarter than you
+---
+I'd be fine with risking more when pvming. However I'm not fine with risking doing activities that i can do in my sleep from a dc or lag spike or any other variable that is completely out of my control.
+---
+The pros of increased risk just dont outweigh the cons for me.
+---
+unlock autocast ancients with every staff
+---
+Fucken hell whats the big deal
+---
+Unpopular opinion: model updates and graphical changes are great for the game and shouldnt need to be polled all the time
+---
+I’m not sure, we do use “like/likes” in Denmark, but we got it from english, so we spell it like that too
+---
+Any tool drops?
+---
+SNEAK 1
+---
+Because the elf models wouldn't be consistent then if you had the new and old models at the same time. The old ones were some of the oldest models in the game too. Also they won't poll to revert them as only a minority really wants the old ones back. See the elena poll for reference.
+---
+Autoclick agility xp.
+---
+You don’t have to move mouse so you can just set an autoclicker and leave.
+---
+It is worthwhile to dds spec ahrim from 60s in combats to 99s. But you won't kill ahrim from 4 specs on average til around 85s combats, so having ranged to finish ahrim off is worth it til say 80 cmbs. And yes I've tried it myself I been doing barrows 1600 chests at all levels of progression on my acc. See dps calculators for further info. Only builds it bad for is like 75 range 60 att 60 str, or 60 att 1 str 40 range but idk why anyone would have the latter and obviously if your ranged is significantly higher than melees then just use that.
+---
+Hi Mod Weath,  
+---
+Would it be possible for us to have a system to see if our reports went through and were helpful in getting the bots banned? Or even just a notification that the bot was banned.
+---
+it's legit just preference at this point, max efficiency vork is probably slightly better but more effort than zulrah imo
+---
+Support tbh
+---
+Wouldn't that get them banned? Clicking the same spot over and over on such an obstacle? It's hard to report them for me because of agro monsters
+---
+A lot of things should get you banned and don’t.
+---
+Most of your essence on an Ironman comes later from things like Gargoyles and Zulrah, you're definitely crazy I'd you mine the essence needed for 99 haha
+---
+It’s crazy how sad it can make you that a stranger in your community isn’t gonna be with us anymore. I’m sorry you’ve been dealt a shit hand man and huge respect for being so upbeat. More man than me.
+---
+Wish it be like that...
+---
+Nice! Very close together, I got my 2 pairs on 217 and 290, both in Morytania coincidentally
+---
+his hand
+---
+Big rng
+---
+Are you really though
+---
+What do you mean?
+---
+Thanks for the information, what are the weakest melee only bosses?
+---
+idk either, if i had twitter i'd ask him :D
+---
+Not too familiar but is splashing rats actually an effective way to get 99 magic?
+---
+Demographics is not at all limited to age. Being a more-than-casual gamer on it's own is a great factor towards the OSRS we have today, and has nothing to do with GE or the likes.
+---
+10/10 flair use
+---
+The rat was peter pettigrew?
+---
+Congratulations, you have achieved the highest possible Photoshopping level of 99.
+---
+But don't you get it they changed a character model that is a clear sign that treasure hunter and eoc are coming /s
+---
+Oh dam didnt see it that way! Your right let's get the pitch forks out and go fally
+---
+Also causes a bit of lag and bugs for some
+---
+ar-DONG, for sure
+---
+It just sucks so much. I didn't realize I should be doing the Ourania alter until just now at god damn 62. Nats are profitable by like 15k an hour via the abyss. Without a giant pouch they aren't nearly as profitable. At least I found out about that altar today and not a few weeks from now.
+---
+Thats not the same.
+---
+Smite doesnt give you extra damage. Having veng is absolutely a huge difference and is probably enough on its own to justify the 3 combat levels.
+---
+If you have smite your opponents just has to watch his prayer and drink a potion every few hits. If you have veng your opponent has to assume he can take up to 50 recoil damage every time he specs you.
+---
+“Children sucking on a mother's tit,
+---
+Wounded ... down in a pit,
+---
+Dow Chemical doesn't give a shit,
+---
+Napalm sticks to kids.”
+---
+Yakon talafun. Pregenta. Shoo Flee!
+---
+Lol I look so gay
+---
+You're basically saying that the player base has changed over the last 15 years - and you're right in that we do not have the same kind of gamers playing Runescape that we used to have.
+---
+That's demographics for you. I'll give you that the game has been geared slightly towards efficiency, given that we have much more customisable left-click options etc. (QoL updates really), but that's a consequence of a more "hardcore" gaming community - not the other way around. In other words, if you think Jagex has molded us all into hardcore gamers by adding left-click options and skippable dialogues, you're wrong.
+---
+Yeh it was interesting, especially when you saw someone get like 5+ at the same time.
+---
+It kinda improved my motivation too so I could get a broadcast message of my own!
+---
+I certainly didn't put my age as a 48 year old man when I was a 5th grader, that's for sure.
+---
+This is pretty relevant
+---
+https://www.youtube.com/watch?v=blgvslrfYV8
+---
+Lmao imagine living in Broadmeadow
+---
+The effort people go through to feel included in memeing...lol
+---
+A
+---
+Osrs dad build tbh
+---
+Get a lance. Sell pegs+prims+whatever else you have to for it.
+---
+D
+---
+Pretty much, but the whole “crime with extra steps” thing has defended politicians for a century so good luck here
+---
+Funny I was gonna say she looks like Tifa
+---
+Use the Whomping Willow to teleport. It works like The Grand Tree.
+---
+What's your username, GoblinRammer123?
+---
+Yes, servant?
+---
+at minimum wage it’s probably about 1 hour or just over after taxes
+---
+I feel like the bots will keep on coming back until Jagex starts punishing the people giving them money.
+---
+I gave up on the pet hunt for now. I'll be back though.
+---
+This is why you only take only what you need depending on where you're going. DDS, spade, clue. Clue's are protected upon death, so are the caskets. For clues that require extra items, that's for you to decide.
+---
+Or even an Elf boss. To make it worth doing an Elf task from time to time. I honestly expected this.
+---
+Leveling Wood to 69
+---
+based
+---
+I dont understand this tbh. That's enough xp to max like 15 accounts. Im all for setting goals and stuff but I can't even justify spending a couple hundred hours grinding a single 99
+---
+What trick is that?
+---
+Its called “player attack options” set to “hidden” and you’ll never have to worry about get skulled
+---
+Of course he could have a life if he has a job where he can play at the same time, I even said so in a previous comment. I'm just correcting you in that he plays 6+ hours a day (and possibly much more, I'm not sure how F2P AFK training compares to EHP).
+---
+Im maxed and have over 300 slots of my bank left, your clearly collecting junk or hoarding. Also ash said numerous times that they can't add more bank space. Thus the reason they create other means of storage like in farm guild.
+---
+This image is already getting jpged to hell and back.
+---
+*laughs in UIM*
+---
+Jokes aside, engine limitations, so this is a good opportunity for adding other storage options to the game, much like the recent seed vault.
+---
+WOW!
+---
+Is... Is that the dude who plays Sherlock..?
+---
+Still there! By the rune rocks
+---
+and the bubbling trap areas in the cave system before iban's area. These are being added back at least.
+---
+its just a pain to have to tele all the way to the farming guild after every bird house run or a slayer task. i like the idea of the seed vault they should just have more located throughout the map to make it easier to access.
+---
+How is this image *already* getting jpged to hell?
+---
+Does killing lvl 28 minotaurs in the stronghold of security give better drops than killing lvl 12 minotaurs?
+---
+Player ID, or PID, is used to break ties when two people are both doing the same thing. e.g. if you're spam clicking a pile of items at the same time as someone else, the person with lower PID will get the items. If you're attacking on the exact same tick as someone, whoever "has PID" will be the one to deal damage first, if both hits would be lethal.
+---
+Only really matters in staking, pvp world/wildy looting, and sometimes in pvp fighting.
+---
+Drop for me you got for free through slayer
+---
+Done about 60 medium clues since the collector log came out. Had 3 ranger boots and 0 spiked manacles.
+---
+Nah. He got it all from ToG
+---
+The rats name? Albert Einstein.
+---
+Gl then man! I hope you get one soon!
+---
+That was a surprised "no shit" rather than a sarcastic one I think
+---
+Around 160m total adding the tool, shard, tips, gems, and runes
+---
+That's it, I'm getting me cannon
+---
+A normal autoclicker that clicks every x ms? Easily. AHK script with a range that you change once a day? Almost impossible
+---
+Doesn't need full CC number, only the last 4 digits since that's all Jagex can see. (and if it's Visa/MC + expiry date)
+---
+Started at 82 mining ended at 85, 500 kills before the buff/nerf 500 after. Used graceful with d pick
+---
+L
+---
+Just one :(
+---
+I'm still not sure if it actually is the image assets that are the culprit. Sure they are part of it, but it's just a hassle to go through the process to relaunch the app w/o all the copyrighted stuff
+---
+This isn't all my loot from the 1k, just the ores and bars
+---
+How's the ancient magic of the stars? Can you cast it now on your own?
+---
+OH SHIT THAT CHANGES EVERYTHING. I MISSED THAT
+---
+yo chill
+---
+I am horrified of death, and I have anxiety and depression because of my fear. You’re such a brave person and I hope the best for you in your last couple of months. May you find peace in wherever you go or don’t go. 💙
+---
+I like how u went all the way down to the dks cave and decided to leave after the very first kill since it was loot lol
+---
+The real full rune
+---
+yeah bud do you realize how fucking ass running to it and back is
+---
+Edgeville dungeon!
+---
+If you got the korend house portal you can get to most shit pretty easy
+---
+Why you gotta do me like this man
+---
+#2 all time on this subreddit from Lynx Titan's 200M all was faked too. The guy posted it a few minutes before Lynx got it, and he ended up getting all the karma. Probably going to happen again, though most people don't care about Hey Jase.
+---
+Rodger that
+---
+Corrupt gauntlet you get an extra roll. I believe the normal is 2 rolls and corrupt is 3 rolls. So normal is 1/500 per completion and corrupt is 1/333 per completion,
+---
+Kid forgot his protection prayers
+---
+Just talk to seridor in mage tower to turn off option
+---
+Just casting it too early man, give it a couple more seconds.
+---
+Because I'm a bad person
+---
+I just got my first, 305KC in catacombs 😁😁 gg
+---
+Did you just rag.
+---
+If you're wanting to rebuild your bank you wouldn't be focusing on points, as that doesn't help toward making money.
+---
+Konar's pretty good in terms of GP, considering you'll be receiving Brimstone keys, alongside the items you receive from the task.
+---
+Just banter
+---
+MAN AND RIFLE, A MARKSMAN AND A SCOUT REVEALED
+---
+This is epic
+---
+Yeah, to add onto this. 
+---
+Make stash units
+---
+Alch or sell anything you won’t ever use. 
+---
+If you’re an iron take some Time to use your materials up every once in a while. 
+---
+The wise old man can get rid of the quest items that you don’t need anymore.
+---
+People like you are the reason why GE is full of beggars and dice bots
+---
+It's a fad. Just a bunch of depressed confused kids looking for something to identify with. Instead of getting them the mental health help they need we are suppose to tell them what they're doing is okay and good. And this does not help them. I hope this fad dies down soon.
+---
+And Hermione took a trip to the make-over mage.
+---
+To clarify my question, would the number of logs chopped per game increase drastically with 61 vs 70 wc, I know fm is based off the fm lvl
+---
+Is there anything really that displeasing about the new models? I know it's a matter of opinion, but from what I've seen the content looks good and doesn't push the graphics too far past the OSRS style. I've played the game for years, but never explored the elven content.  I think a lot of people are nostalgia locked into disliking any new content regardless of what it is. I'd assume a majority of players aren't too concerned about it. Just like how over half the player base voted for warding, yet that won't be added to the game. I know the change has been upsetting to people (clearly on reddit), but doesn't seem like a majority are seeing it as an issue
+---
+seed drops go from 1/100 chests to 1/40...
+---
+normal mode is 1/1000...
+---
+1/400 corrupt likely, just a guess
+---
+About how much coins should I set aside for supplies for fire cape attempts?
+---
+Remove all the Slayer cave sand try again. They're all so stupid
+---
+So what you can do is you look at the chances of not getting it in 2500 kill and whatever that percent is take it away from 100 to get the odds of getting at least one of the drop.   So every kill you have a 2499 / 2500 chance of not getting the drop. The odds of not getting it twice in a row would be (2499/2500) x (2499/2500), or (2499/2500)^2.  Substitute the 2 for 2500 kills to get the odds of not getting the drop in 2500 kills.
+---
+*gnometastic*
+---
+And like the new models that they’re making look better than that creepy ass old man from that one quest so I’m not complaining.
+---
+How would making monsters further from a tele remove the ability to bring max DPS gear?
+---
+High IQ^
+---
+I open reddit and i see your shit, fuck you woomy! Naah, but for reals gz @@@@@@@@@@@
+---
+You obviously didn’t get the point of OP’s post and your feelings got hurt. “Brainlet” goes both ways don’t get your panties in a bunch bro.
+---
+So a bankie did call me a brainlet for pking in a 100% optional PvP area...
+---
+Mines 0:48 as well, no bgs just 6/8 of my ruby bolts procing and no xp drop under 200 after that
+---
+Just theoretically a 10hit kill would be possible with DHCB so 30s killtime. (But there are phases so like 35s might be lower limit).
+---
+OFC you need a insane amount of luck
+---
+Top tier content
+---
+Top tier rap
+---
+Top tier voice
+---
+boom
+---
+How were you going to get it past tavelry gate?
+---
+Plot twist: this guy has more fun then you
+---
+It was polled so its all good.
+---
+I'm also from vic, so I just assume all places with the name broadmeadows are awful places. With good kebabs.
+---
+Cool thanks man that’s not that bad. I have almost all of the gear you mentioned except the book of law which I probably should get anyways.
+---
+OP dies IRL and wakes up in Lumby, only to find himself locked to UIM.
+---
+So you still didn’t get the point of OP’s post... Also get off reddit for once lol. You’ve responded within 2 min to both of my comments.
+---
+oh no! u even had one last shark in your inv :(
+---
+I’m in Phoenix gang in my iron. But can’t play until Wednesday
+---
+If you are in combat with one that one. 
+---
+If you aren't in combat or interacting with one probably the one with pid. (By interacting I mean stuff like using crackers on one)
+---
+Also interesting fact is that direction a player is oriented is only correct if you were there when he moved otherwise he is just oriented into default direction.
+---
+Dharok set with super combat pots for very afk 95-100k/hr nmz
+---
+Gotcha with that in mind I guess I’ll melee in NMZ for imbuing points and xp since I do get quite a bit of range xp with slayer.
+---
+Tears were shed in the last place I'd expect.
+---
+Thank you so much :D
+---
+The regular Kourend tele is the one that becomes a portal in the poh though?
+---
+You just want more easy scape updates I see
+---
+pvp never gonna get better with the CMB system all messed up
+---
+Good tip thanks man!
+---
+Oh right sorry, forgot it was a F2P post, was half asleep lol
+---
+[I hate you](https://i.imgur.com/w3Qrj3R.png)
+---
+Pwople these days
+---
+Can be found at oneholyrobot.com if anyone is interested
+---
+To improve the game for others
+---
+No. Just no.
+---
+Im new, what is ahk?
+---
+You can use whatever logic you need to to make yourself believe you are right.  But if you stop stuff like this from happening from the start, it is easier to fight and set an example.  If you let this go, then you let the next thing go and so on and so forth.  At that point, it is harder to say it is your IP if thousands or millions of people are using it to profit.  If this wasnt monetized, it wouldn't have been an issue more than likely.  You seem to be missing the whole monetizing other people's property bit.  Fair use and breaking IP laws are two different things.
+---
+If true, I see how he got the tumor
+---
+Clue boxes have purpose if you're holding more than 3 items.
+---
+As a quote from the wiki regarding treasure trails ["... __unless it is an item kept on death__ or if the player has a clue box, in which case the player will lose the box but keep the scroll."](https://oldschool.runescape.wiki/w/Treasure_Trails)
+---
+"tHiS wOuLd ReQuIrE eNgInE wOrK..."
+---
+If I had to guess, it is to show the passage of time. When you return in SotE, its has been a while since you killed Iban. His cult wouldn't have a reason to stick around with him gone. They do similar things in other quests, but they should probably add some disciples about somewhere for the robes.
+---
+Money isn’t an issue
+---
+it wont stop because to many people act like fanboys and fall in love with the mods and believe that they are doing everything they can against bots and ignore the magnitute of the problem...
+---
+I'll probably look into getting my combat stats up because I don't really need money rn, and I can't do thieving because I would have to activate the bond. Thanks for the tips
+---
+Ah weird, didn’t know that.
+---
+Those dudes broke. Petition to put down Barrows well, where players can donate GP to help these poor fellas out.
+---
+Set up 2fa on your account / email next time and you would have been saved
+---
+If you got all the requirements to do so you probably deserve the benefits you are getting. Max DPS and teleports are not the easiest to get anyways.
+---
+Umm not as significantly as you may think, if you already have the weapon itself. I'd say an additional 200-300k for a decent amount of scales and addy darts. I wouldn't do a dragon dart switch if you're worried about money because that's an additional ~150k on its own.
+---
+As for BP vs. RCB.. it's significantly faster for clearing the waves and shortens the jad fight considerably. I would say BP is almost objectively better for it. That being said, for a noob using BP means a swap to long range to tag the healers is almost required so you don't screw up by walking too close to Jad, whereas you don't need to with RCB since it has higher range. Sort of personal preference, maybe try a couple runs to 30 or so with just a couple of brews and restores to see what you prefer.
+---
+Yes. These were all real.
+---
+Get rekd
+---
+Nothing can ruin this man, it's an a4 sheet of nostalgia 10/10
+---
+I assume 50 base stats means 50 in all stats? And also thanks for telling me about runecrafting I already heard it was insanely hard to train it xD. Thanks
+---
+Rest in peace brother
+---
+That's exactly why I went for 14.
+---
+theyre only gone post quest
+---
+Dont you also have to kill them to get staff of iban back if you lose it?  Or am i thinking of something else?
+---
+Definately will do - thanks for the feedback!
+---
+No, you tried to make a point off of one aspect saying stealing property is okay.  It isnt, no matter how you try and spin it.   Just because people/companies let it slide doesn't make the other side correct.
+---
+You are welcome and yes 50 stats of everything so you get to learn the basics of every skill. Good luck with your gaming experience I hope you have fun. :)
+---
+False News
+---
+Seriously. I mean, not to impede on OP's decision, but Meningiomas seem to be the most curable type of brain cancer. My mom is *currently* cancer free after being told she had 1-2 years to live about 3.5 years ago. After she was told that, she got a second opinion and the new doctors tried a whole new round of alternate treatments.
+---
+Where can I read more about this?
+---
+Good luck getting a new Ibans now.
+---
+If I didn’t then I sure do now. LAWLZZZ
+---
+The Slayer teles are pretty easy
+---
+Unlucky my dude, highly reccomend doing Zalcano to build up that cash stack 👍
+---
+Its fine I don't plan to convince you any further. Just know I think you are simply wrong and I think people would generally agree when they think about it.
+---
+Since his magic and ranged attacks hit through prayer, praying melee is the best you can do.
+---
+If I didn’t then, I sure do now. Lawlzz!
+---
+I don't like this solution at all. It just bypasses the problem and kills flax spinning completely.
+---
+Lance + dfs + superior antifire + proc melee
+---
+Yeah but at least here in runescape a report doesnt actually take any of your time, it's a less than 10 second process.
+---
+They should stop giving out free membership to begin with.
+---
+Let's have a reddit party in game, I'll bring 1k beers and kebabs, couple blurberry specials for the pub soldiers.
+---
+We knew Dumbledore was gay a long time ago but nothing about grindelwalde feeling the same about him. No hints to that whatsoever until she went and said they had extreme gay sex and dobby had a 10 inch cock
+---
+*flips pages* did you know *lands finger* Penelope Clearwater is actually transgender!
+---
+What do you mean
+---
+Is there a way to avoid his magic/ranged attacks?
+---
+To find that probability you will need to do a binomial estimation. It's very easy to do with a calculator online.
+---
+Sorry for the loss. Most wont show sympathy but it's common sense that you never put your details in. As the old saying goes "If it looks too good to be true, it probably is" 
+---
+A quick run down on what happened: Someone was impersonating Woox with a a similar account name on Twitch; viewbotted the stream to make it seem real and you entered your details into a phishing site which you can follow from here.
+---
+If you ever get directed to another page and asks you to sign in, PIN/ Auth etc, it's a scam/ phish etc you run for the hills. And more importantly, **ask around** It's better to fall short on knowledge rather than wasting all the time you've put into your account to get hacked.
+---
+No I think he's saying he's wearing melee gear. Which means he's getting titty slapped my magic attacks. 
+---
+OP just use black dhide and a rune cbow with diamond bolts e and ruby bolts e. Stand right next to kbd and pray melee. Even at 80 range you should be able to pull 4-6 kills a trip no problem with pots.
+---
+No, so that's why melee method is meta, because you get a chance for him to hit 0
+---
+yes
+---
+Thought this was going to be a picture of shaggy from scooby doo at first
+---
+I see. Thanks dad
+---
+Saw you at Mod Mark's CC the other day with Framed. We found your dog btw
+---
+I hate seeing these in my runs maybe about 1 out of every 16 chests it's such a waste I cri evy teim
+---
+No just wondering why people would spend so much time with no reward in a video game
+---
+What happens if you die with a clue scroll casket in the wild? Is it it possibly dropped? Should it be?
+---
+Just do quests to get started. They take you around the RuneScape world, remind you how skills and other game mechanics work, and give you rewards to get you going.
+---
+There might've been a lot of spaghetti code related to it that they may have been cleaning up with song of the elves.
+---
+I rolled my eyes at the book post until I read it. Well done, Karma Earned.
+---
+AppData is a hidden map so that is probably the issue. Making it visible may fix it
+---
+Unbelieveable
+---
+Read whats on the book cover
+---
+I’m pretty sure this is unintended because if you lose your iban’s staff you have to kill these in order to loot it back lol.
+---
+Why did you post this? this has nothing to do with Runescape...
+---
+Such a clean look, very nice :)
+---
+In a couple of months my tears will be back to being shared between herb, rc, and construction
+---
+fuck, you beat me to it 😂
+---
+Even 1250
+---
+xD yourself to hell you harlot
+---
+Then why did you quote uncle Rico
+---
+Dont see any exp?
+---
+I swear y’all just take anything you see from /r/gaming and change the noun in their title to something from this game.
+---
+My bad! Thank you my friend! And OK I'll just have to install it when I get home. 
+---
+And I didn't spend a dime actually. The new system reddit gold is if you're gifted gold platinum or silver you also get a certain amount of tokens that evidentally can be used to give someone else platinum/gold/silver. I can't remember the exact amount but I got gifted gold awhile ago which gave me enough tokens to gift a free silver. Never did it before but you helped out so why not!
+---
+I didn't ignore anything. I've responded to them with additional questions but they never got back to me. So after that I removed OSRS from the apps name because I thought that was the main culprit.
+---
+I always forget that website ads exist.
+---
+well you used to be able to; now they fixed it so it disappears in a f2p world after 30 seconds
+---
+Picking mort myre fungi or barrows if your cash stack is super low. Could also blast furnace if you have some money. 
+---
+Slayer (especially konar) without cannon will be slow but can help rebuild your bank if you want to keep training.
+---
+Lance and BP/ACB
+---
+Yeah but supposedly if you’re willing to max an account you’re supposed to be able to get an inferno cape. 
+---
+Afking your skills to max total does not mean you have the skills/desires/ability to obtain an inferno cape. I’ve seen how difficult it is to get one and it just won’t happen for me lol
+---
+Ya I did the same thing years ago 🤦🏼‍♂️
+---
+Yeah the scim is hardly less efficient than even a Sarasword, dragon defenders op.
+---
+Didn't even look like he got hit that hard, not much force behind that punch looks like a dive to me
+---
+Seems like you need better internet
+---
+This sounds very much like the unpopular systems currently in use and killing WoW, so no thanks.
+---
+I love binging special snowflake OSRS content, what channel is this?
+---
+Much love brother ♥️ See you in lumby one day
+---
+When you’re turning around, do you do it right as you reach the end of your path or before?
+---
+You just contradicted yourself. Didnt bother to read, but glad you read it? Cmon man its not that hard to figure out.
+---
+100% unintentional change
+---
+along with the other unintentional changes that they've been fixing
+---
+cool your shorts
+---
+50 is half of 100. Smh
+---
+What did they do in rs3
+---
+The real root of the issue right here
+---
+Man if you don’t learn how to take screenshots I’m gonna hack into your roblox account and say naughty words till you get banned
+---
+wtf have you been doing?
+---
+On the mobile app’s login screen (iOS), what’s the difference between “Continue with Game Center” and “Continue with RuneScape account?”
+---
+10/10
+---
+DS2 is a blast. I started playing in May and got my QC a few days before SOTE released, DS2 was by far my favorite quest.
+---
+Was killing bloodvelds the other day in catacombs and had them all tagged and waiting in line to be killed. This dude in barrows with a Sara sword walks up and tags 4 of them, so I dps whatever veld he is fighting and having rapier, I get 3 kills in a row. He gave me a similar rant as the dude in the original pic, telling me I'm everything wrong with osrs. Gotta love when people trying to crash you flame you for not letting it happen.
+---
+Is the pray bonus of the range cape really better than the extra damage from the assembler?
+---
+Sure could have saved me a lot of time, by making a mole pet. :-) That being said they look awesome as heck! &lt;3
+---
+its just old quests i guess, was probably a lot harder for the engine to do things back then
+---
+What's that song with the guy in a unicorn head mask doing woodcutting around runescape and in real life?
+---
+Going to start using nieve slayer soon (currently 81 combat) and i have level 50 magic and range. Just curious what key tasks i should keep my eyes out for using ranged or magic for instead of melee? Im still pretty new so ive mostly just used melee so far (65/67/60 stats) but i need to do more ranged and magic training soon.
+---
+He could had been where sparc Mac or boaty is today but instead decided to go for the short term gain by scamming his viewers, now look at him..
+---
+He turned out to become a adult man trying all day long to steal from others on a video game this is his career..
+---
+Just imagine his kids telling their school mates what daddy does for work..
+---
+eww gross animation smoothing
+---
+Don’t try explaining it to him, he can’t read and that would be rude
+---
+Same after i got zulrah pet lol
+---
+Just go ahead and complete the whole completion log already...
+---
+Customer at a restaurant: "this steak is burnt"
+---
+You: "hey are you a chef?"
+---
+200iq move
+---
+No
+---
+ **Your grandma took a little spill sledding at Trollweiss Mountain today, broke her coccyx.**
+---
+You want to make one of the longest grinds in the game more inconvenient for no reason
+---
+I like the art updates. They have done a great job of creating beautiful designs while keeping it in the old school style. It is not that same as it was in 2007, but tbh I don't care to keep it like it was just out of principle. The new art looks better, we shouldn't reject it just because it is a change. I did vote to change the skin color though, as I feel all elves should match.
+---
+you can technically do it at lvl 1mage it would just take you a while i would recommend doing witches potion for some starting lvls though
+---
+Definitely think the same on this one.
+---
+True.
+---
+8 hours for 2m lmao you're doing something wrong
+---
+Thanks boys that worked, would think it would auto follow when you get it or telly, wonder how long ive had a invisible follower lol.
+---
+Hehe heheh hahahaha
+---
+The only way you can believe this is because goodness has incubated you in soft, warm, well-fed, safe chambers in first world nations and left you to ponder, "Hm, maybe there's no meaning, maybe good and evil aren't real metaphysical things and are just what we call certain emotions to regulate social behavior" etc. etc.  
+---
+The thing is, if you're ever faced with *actual* evil, its existence is self-evident.  There is no question of the objective wrongness of rape, if you're a victim, or of the evils of the holocaust or the communist gulags, for example, if you're any of potentially over 100 million combined victims of the two from just this past century.  When you're in hell on Earth, then soft people saying "eh maybe nothing matters" on their internet gaming forum is just...what would you say...asinine?  Inexperienced?  It's like going up to a parent of new parents and their precious newborn and trying to convince them, "nothing matters anyways!"  It's like, if you're IN that position, there is *no question* that there's meaning to life.  It's 100% self-evident.
+---
+So, the nihilistic "nothing matters, nothing is right or wrong" belief isn't self-sustainable.  It has to be predicated on being pampered by goodness to the point of questioning goodness' existence.
+---
+Or else, if you turn "nihilistic" from experiencing great evil, you never start thinking, "eh I guess what's being done to my and my family and newborns and innocent children isn't objectively wrong!"  Nihilists in these circumstance are moreso trying to exercise revenge against the state of being itself.  Like they know evil is wrong, and they don't understand why they're subject to it, so they become evil themselves to 'punish the state of being' for being so corrupt as it is.
+---
+In short, nihilism is, almost always, just a pampered feeling from never having been confronted by true meaning, or else, a nice label to give to what is really a desire for revenge against humanity for letting you be faced with evil.  Neither is actually predicated on having faced good/meaning or evil and then decided neither is true.  You would never suffer a rape and then say there's no meaning to anything anyway, just particles like pool balls rearranging.  You KNOW, if you're a victim to evil, that it exists.
+---
+&amp;#x200B;
+---
+Lastly, I'd say...
+---
+Objective scientific pursuits were predicated, defined, from the very start on the decision to only research the things we could reduce to plain, physical, observable truths.  Not to reach into the domain of truths that our brains can perceive like metaphysical right-and-wrong.
+---
+It's only in recent times that people started saying, "You know what, the objective sciences - designed to be separate from observation of things like value, meaning, etc. - don't observe physical evidence of value, meaning etc. so it must not exist.  We're just deterministic pool ball particle interactions."  
+---
+It's too reductive to the point it's basically narcissistic.  Willing to dispense with all truths of values, all metaphysical meaning, all purpose to existence just because our physical observation processes haven't physically observed those things (meaning, values, etc.) yet.  It's a narcissistic desire to say, "Y'know what?  Our limited domain has actually already solved everything.  We can dispense with every other kind of truth, like the truth of values.  Nothing matters but the physical."  It's just too limited in scope.
+---
+I'd say; there's a truth of values to the universe parallel to the physical, observable truths of sciences.  And our brains mediate between, and can observe and experience, both.  And science tells you how the world works, not how to live in it.  And values tell you how to live in the world, but not how it objectively, necessarily works.  They both have to work together.  And, again; no one who's ever been faced with true malevolence (or has witnessed true, breathtaking good, like a father's sacrifice for his son) has the luxury to armchair ponder the supposed inexistence of meaning in the universe.  It's like being born in a city and then stating, triumphantly, that "grass does not exist."  This feeling only comes from a limited scope and a limited experience.  Experiencing true meaning removes the question of whether meaning exists or not.
+---
+I want to put this on the wall in my house
+---
+Pwople these days...
+---
+not really unless youre an ironman. bushes are decent if youre low lvl and if youre looking for pet you could do seaweed after bone voyage quest
+---
+Would much rather a couple vissy. And yea I know I’m lucky but i legit never have pets out.
+---
+Ok you're probably part of the scrubs who gets cleaned then complain on Reddit... Sad.
+---
+Yes that will work, but like runeking said it might better to get like firestrike or something first.
+---
+if you pray range it will also help. a quarter of your magic defence comes from your regular defence level.
+---
+You forgot to blur your name out before you died. Rip tho
+---
+I’m saying they need to be caught and banned before they profit enough to break even. Their only expense would be the bond to supply them membership if the free trial were to end.   
+---
+If Jagex doesn’t catch and remove the bots before they earn 3.5-4.5 mil, they’ll never go away. If they’re currently earning 50m per like you say, Jagex is doing a terrible job at controlling them (duh) and players are way dumber than I thought
+---
+while having higher stats will definitely make a huge difference in gp/hr dont forget to finish the falador hard diary because having the shield in your inventory notes the mole hide/claws making your trips way longer and thats gunna help up your gp/hr
+---
+At 2:00 pm.
+---
+Doesn't want to? I've asked them what IP I'm using and it's okay to keep the app up if I removed them. Since they never responded I just removed what I thought was the culprit but I'm not a lawyer so...
+---
+i want to ask if youre collecting downvotes but seeing how you spend your time on t_d you might genuinely ill
+---
+Well nowadays we can AFK OSRS while leveling ;)
+---
+I don't think you need a slayer helm or black mask for the fight caves bonus, I think it's just invisible. Almost positive I got the damage boost on 1def.
+---
+Get plastic surgery to reduce finger girth
+---
+Nice.
+---
+oblivionpvm
+---
+That's really bizzare to me. I've been playing old school for 9 months now. 
+---
+Do pretty much nothing but bossing and Slayer, haven't been raged at once.
+---
+Man, I basically sold my account after not playing for 7 years and it was alright
+---
+You definitely need it. IIRC the black mask doesn't have a def requirement.
+---
+Lol, just like me.
+---
+These posts really hit me down deep. It seems that whoever created us always takes the best people first :( you will always live on through your friends, family, and members of the runescape community who've you touched so deeply. May we one day shake hands and rejoice in the after life my friend. I dont know you. But i wish you the absolute best :)
+---
+My IGN is Vespolar1 if you want to add me :)
+---
+Ill check it out. I got into a run on the we raid discord but there were like 10 people and I did not grasp a lot of it.
+---
+Canifis gloves.
+---
+Maybe black warhammers? I'm not sure on that one.
+---
+Lmao
+---
+Okay, this is pretty cool.  I'm not an Ironman - I don't even play the game, actually - but I almost want an Ironman pin just so that people who are can recognize it and strike up a conversation.
+---
+That's the joke
+---
+Damn sorry dude hope you get those manacles one day
+---
+He mentioned that he was recently cleaned at the sand casino and that he "even disassembled Slayer helm to sell black mask". 
+---
+At this point he was narrowing into his grand pitch.
+---
+To be honest I do have a well paying job, well out of high school, just don’t know if I want to put the money into this game that will naturally lead to an unhealthy amount of playing time. Figured if I stayed F2P I’d get bored and worn out faster. Thanks man.
+---
+The outfit and longer hair definitely says Tifa to me
+---
+Keeping your bf subservient is the best way to go. Train them young, I say.
+---
+I also have a “Nice” pin that I wear on my hat a lot and people stop me all the time!
+---
+Watch you get another one sub 1000 kc.... calling it 😂
+---
+IGN-snelley
+---
+Rot then.
+---
+You new or something? Theres been a 30 bots at the wheel every minute since 2004.
+---
+You do know those ads show you things related to your search history, right?
+---
+"smh my hobby is ruined all my hard work gone unfairly wow"
+---
+"why dont you just remove the copyrighted lady gaga music in the background?"
+---
+"yeah but the app wont sound good without stealing copyrighted music"
+---
+No one gonna mention Maiden looking HOTT? I'd stick my proboscis down that flower.
+---
+Posted the same thing on /r/wow didn't we?
+---
+Well, the black mask most definitely has a defense requirement so IDK what you're smoking.
+---
+No, just get friends and tell them yourself. Nobody else really cares that some random person got 99 in a skill.
+---
+The only way to hurt gambling is to go after the side of the equation that isn’t used to constant bans.
+---
+Tell me about it lol. When he told me what he was doing I didn't think he would make it
+---
+look at mister tractor expert over here, must be wicked smaht
+---
+&gt;right now your entire raid gets fucked if someone starts a room early. For those of you who are not aware, in TOB everyone must be in the room before you begin the room or else that person will be kicked from the raid. 
+---
+Before anyone starts a room there is a warning that says something like "Are you sure everyone is ready to start the room?" It also indicates at the top of your screen if someone is not in the room with their name orb being in bright yellow.
+---
+If someone is not checking the orbs and is ignoring the warning message ToB might not be for them.
+---
+Lmao I'm not trying to be too hard on you but how the fuck did you do that twice
+---
+I smell a new meme
+---
+Nope. I've gotten drops like this before. It's a giant slap in the dick after being 70 chests dry
+---
+Okay, and there are people who haven’t heard of Kim Kardashian. There is such a thing as the uncultured.
+---
+Even stupider question. What’s an ely.
+---
+[deleted]
+---
+cuz who gives a fuck
+---
+I have no doubt that I used to know how to solve that back in high school/early undergrad, but not any more haha
+---
+My pb at 500kc is 1:22 with bp on mobile. I think yours is insanely good. You even hit a 0?
+---
+That ain't no three minute mage.
+---
+That was my first thought when I saw it lol
+---
+We're talking about a company that left a t-bow next to the farming guild though.
+---
+Man, I gave up after getting 8 chests at 50k each. I’m glad I did before I got a dud like this. Barrows is a waste of time.
+---
+sparc mac is no different from returnofwilderness tho, both are hated in the rs community.
+---
+IIRC, at your wc level, as long as you're using a steel axe or higher, you'll be getting the max amount of logs.
+---
+I thought it was a (Laughs in hidden) meme
+---
+If I was rich enough to spend hundreds of dollars on wealth in a game, I’d probably be taking the safer and acceptable way to obtain said gold.
+---
+It would help for the defense rolls with ranged and melee attacks. I think the rest roll off magic.
+---
+TIL a Nissan Sentra (US) is called a Pulsar in the UK.
+---
+It's super easy to reclaim stolen accounts. I don't really play RuneScape more than around 30 minutes every couple of months but I had an account stolen for green dhide botting and it ended up getting banned. Took like 2 hours of waiting for jagex to reclaim for me. Got a free strength cape at least lol
+---
+Can we get an offhand whiskey glass with Jack and coke please jamflex?
+---
+😂😂😂😂
+---
+HAHAHAHAHA you obviously dont know about how well run gold sites are... most of them run bots to give you the gold so you wont get scammed because then their business fails....
+---
+Nah a few players can out-damage one.
+---
+Please don't
+---
+It's good to see Bubbs finally got off the heroin! Gz man!
+---
+I'm really glad you didn't have a swamp man&gt;!meh\_ !&lt;cameo. I hope you keep distancing yourself from him. Early on I felt you were trying to dickride him too hard to get fame by proxy.
+---
+How about no
+---
+Dds spec
+---
+Lol, i often ask: how do I unlock banks?
+---
+Just to troll
+---
+had a dick off desk job when mobile dropped, On my week trip to 70att I cannot tell you how many times a day this would happen at fossil crabs. tears me up when someone would come buy and ask me to hop, or when i’d walk to reset and come back only to see i’ve been jacked by some rune scimmy.
+---
+Okay... well it’s still not 100% guarantee since you’re breaking rules. 
+---
+I was just saying if “I” was rich and wanted to piss money into Runescape, I’m sure the extra $400 wouldn’t matter.
+---
+&gt;if the drop rate is 1/300 then the expected number of kills is simply 300. 
+---
+It is? I thought we just discovered that 300 kills only gets you a 63% chance of getting one
+---
+I love Swampman.
+---
+/r/funnyandsad
+---
+It’s not even Ardy music though. It plays at the Varrock palace.
+---
+maybe he got lured
+---
+Skillers rise up
+---
+I've been doing it for xp on my alt and with the 7 allotment patches I'm gaining roughly 30k xp per run. The seeds themselves are a bit expensive but it's still cheaper than doing tree runs. The herbs should also even out the cost, if not profitable.
+---
+Got polled, was fairly overpowered when you had to earn them before Catacombs of Kourend was added.
+---
+He was level 117.
+---
+Gz on the Back to back to back to back to back to back to back to back to back to back 99s
+---
+She is still very successful with the new movies...
+---
+Talent at planking :)
+---
+right? not using ublock origin in 2019 5head
+---
+I was hoping for the grand finally 99 rc lol
+---
+When I was going for Western provinces hard diary, I did Tithe Farm, took me like 2 days doing tree runs in the morning and evening. Got a few mil selling the grape seeds after
+---
+I'd love to see the concept as a minigame
+---
+Same!!
+---
+New art is fine, if consistent with the old school universe. Change of old art is not.
+---
+Like, the proposed change of inventory logoes for a selection of boots, including dragon, what the hell was that? Some mods on here really shat the bed on that one.
+---
+Nice make sure you sell one for go 👍
+---
+Nice knowing you
+---
+I really can not complain about it, just wish it was doing raids instead! I wish you good luck hope you get what you need soon, if you've unlocked it though Vorkaths better for cash if you're not an ironman or after cosmetics.
+---
+Share the wealth !
+---
+I go for exp efficiency not graceful outfit 😂 can’t stand agility as it is
+---
+Assumeing you have completed the western hard diary, you can get it by speaking to the elf that sells it or make it yourself with a crystal weapon seed and crystal shards.
+---
+Is it?
+---
+the suicide watch was a success, they got to watch him commit suicide.
+---
+To some of us, yes! Name checks out, btw.
+---
+Lmfao fr, I actually did that a few weeks ago (don't ask) and then died laughing
+---
+You got lucky. Just cause you got that many doesn’t mean the average player is going to get that many.
+---
+Swamp man good
+---
+Jagex could implement a 1 hour trade ban or something of the sort.
+---
+Considering they failed to teach you to recognize irony, I would have to agree.
+---
+Reminds me of back in the day when I trained for ages on experiments with a dragon longsword to get to 70 attack for a whip to then learn that you need similar lvl strength for it to be any good.
+---
+I know this is the meme but I’m honestly surprised how many people I’ve talked to have never heard of deagonfruit. It’s soooo tasty
+---
+I thought the same thing. So drawn out. But at the same time it was probably just to bask in the success and accomplishment feeling. Wanted to enjoy each 99 for a second or two
+---
+You'll get it at 1,286.  Calling it now
+---
+A guy can dream. Used all my rng though :(
+---
+I'm sorry. I saw this in the Apex Legends sub. I never saw it on /r/2007scape and I spend most of my time in this sub. Just thought it was funny to make up a title and post it here.
+---
+Ima need half
+---
+grats! hope you are having fun. 😁
+---
+Its so awesomeeee, what material its made of? If its posible i would like to buy a jad when i have the moneyz, im from chile, can you ship them? :0 and awesome job i love it
+---
+Have you ever done pc on the veteran boat? The portals get nuked, spinners or not
+---
+Holy shit that’s satisfying af.
+---
+ It took me 6 hours to get one for the diary task on my Ironman.
+---
+If they were more common they would t be such a high price because they would be traded more often. I think it’s time to put the tinfoil hat away
+---
+this kid clicks so slow lol
+---
+Just pj someone
+---
+Which server? Grinding inferno rn and would love to do jade and Zulu first try
+---
+4 hours is a pretty good sample size beyond just being lucky, getting 2/hr back in the year 2007 is what I remember.
+---
+No kidding wtf
+---
+This is such a shame. I remember being a noob  around 2010, and buying flax to spin for a profit. These bots are interfering with the fun to be had as a noob.
+---
+I started playing osrs while waiting for classic. Actually having such a good time I’ve been putting in 6 hour plus days lol. Game is so much better than in 07 and runelite makes the game amazing to play. 
+---
+Probably gonna stick with it for a while
+---
+Julian drinks rum
+---
+Probably autoclicked alch to 99. Fail
+---
+First step is to learn proper internet safety then do whatever you want with it as an iron or main
+---
+Gary's Hood Autoclicker much?
+---
+He miscalculated the thieving 99. He started with 0 pouches and ended with 2. That's an OOF from me dawg.
+---
+97 combat getting into konar slayer as I enjoy the site specific tasks. Seen more of the map than ever before, but starting to see catacomb tasks now. I’m using prolly with wrench. Is SGS or ancient mace spec better for extended tasks?
+---
+could have gotten construction as well with the master hole
+---
+B0aty used to make private server bridding videos weekly. Ofc JaGeX know about private servers, runelocus has been up for... well, idk how long, but I used it like 10 years ago.
+---
+They do shutdown some servers from time to time, like 2006Scape, but for the most part, the owners shut them down themselves then they aren't making enough money anymore and then reboot them from scratch or slightly modified, so people donate for items again.
+---
+I'm not sure exactly why they don't shut them down more often, aside from some of them being hosted in countries that don't care about a UK company being pissed, but best guess is that it's just not worth it, since most Servers have a short lifespan on their own.
+---
+that helped thank you
+---
+There’s an entire community of people who make and trade pins - Jagex knows about it and thinks it’s cool.
+---
+I was honestly ready to order but then i saw the price dude. Dont wanna be rude but 9€ for one pin is too big of a number for kost people to go through with the purchase.
+---
+Price aside, fucking dope shop and extremely cool pins man! Literally like all of em
+---
+He wouldn't last a lick in Jersey.
+---
+Thanks
+---
+Yeah I maybe will get it one day, I just can afford as many stamina’s as I need so I guess I never seriously need graceful. I don’t have much time to play per week so I’d rather spend it doing stuff I like ya know
+---
+The other way around, but it's not like after maxing you wouldn't be allowed to account share. It just concerns the high level community going for 200m xp, so that the most efficient way to get 200m all wouldn't be account sharing in shifts to get 24/7 gains
+---
+Why are you arguing the same point with me on two posts?
+---
+Thanks for letting me know you dont like my analogy twice.
+---
+No kids actually play this game, it's an adult playerbase
+---
+&gt; They are just as guilty as the bots.
+---
+Exactly, just like the guy buying shoes at the store is just as guilty as the people running sweatshops in China
+---
+The way he "speaks" reminds me of a chad Tanner back from highschool (if u know what I mean :D)...
+---
+And sure he was just talking smack to try to get me mad, thats the whole point of trash talking, dw I've pked enough to know that.
+---
+Np
+---
+Appreciate the feedback - you can deff catch sales from time to time, but that’s a pretty standard price for a pin ($9-$15 USD) I get it though, almost anyone who isn’t into pin collecting will see that number and not understand it. If you are outside the US I’m glad you didn’t make it to the shipping costs because then you would have been really pissed 😛
+---
+God shut the fuck up
+---
+I wish I could 140k average. I have shit luck
+---
+I couldn't bring myself to upvote you even though I wanted to I'm sorry
+---
+Wow cool XDXD
+---
+Those are at that new restaurant, Blue Slobster
+---
+I just want to double check, if I’m on slayer task 19 and then I go to a new slayer master that’s higher than my old one for task 20 I’ll still keep my streak and get more points correct?
+---
+Sounds like my ex fiancé
+---
+Aight, appreciate the nice and warm comment m8 &lt;3
+---
+Tzok-K'ril
+---
+Oh I was more remarking on the lack of feedback you could expect on a post like this on reddit. Trust me, when I pick something to do I go HARD.
+---
+The best comparison I can make is imagine starting Runescape for the first time as a OSRS ironman.  That's roughly what WoW Classic will be like for you.  
+---
+Every little thing is going to be tedious.  You won't be able to do everything like you can in RS, you will be dependent on other players.  Imagine RS without teleports, as its going to take a very long time for you to unlock rapid travel.
+---
+You can download a starter edition for the current version and play up to level 20, which will give you an idea of what its like.  Classic will be more of that, but slower.
+---
+Please forgive me brother for I have sinned
+---
+And let’s keep it that way! Ban all the children and new players that don’t have a decade of experience with these scams!!
+---
+Usually I'm really lazy and just do log base 299/300 of 0.5, but that's the same thing overall.
+---
+The regular thieving level up sound is the mission impossible intro:
+---
+https://oldschool.runescape.wiki/w/Thieving
+---
+https://youtu.be/XAYhNHhxN0A
+---
+How long is a piece of string?
+---
+Pretty obvious yeah..
+---
+With the addition of marks of grace on rooftop agility courses, agility became a skill that can make you a bit of side money, and also allows you to save for an outfit that improves your run regeneration times (Graceful). The side money is made by trading marks for amylase crystals, which are used to make stamina potions. These potions restore your run, and then subsequently you'll use a lot less energy whilst under the potions effect. 
+---
+If resting were to be implemented as it was, this would destroy the value of marks of grace, and also kill off the need for the graceful outfit.
+---
+I think it's safe to say these two factors somewhat revived agility as a skill, so resting would only contribute to its decline by devaluing them.
+---
+Thanks for the suggestion, I actually did that when I grinded Sara boss and Arma boss at GWD but I got frequent full on black bar disconnections. I don't think it'll be that viable.
+---
+WoW Classic is gonna cause some regrettable exp waste, but I'll be back on the crack again before long.
+---
+Excellent
+---
+Notorious? That's a bit ironic since the community is notorious for throwing shitstorms any time newly designed models are released. It makes sense after 6 years of this for Jagex to just rewrite models instead of make new ones that are good but hated.
+---
+Moss Giants &gt; Goblins
+---
+Dat jiggly butt
+---
+unfortunately i dont have the money, nor do i have my mums credit card LOL ill try to manage
+---
+burnt pempe
+---
+what do u mean?  itry to look up money makers but by the time ive found them theyve been run into the dirt with thousands of people doing them.
+---
+what kinda dood is sick nerd?
+---
+Also, it wasnt perfect. He literally had to plan for this over many months. You would think that he would pickpocket the guard a few times before he started recording so that he would get the 99 in 1 go instead of having to split the clip.
+---
+Would work if your first special is acid
+---
+Nice, I got the jad pet, hopefully it comes in the next two weeks, so hyped.
+---
+Considering how annoying it is to gather them, I wouldn't mind voting for it.
+---
+Hva' fanden siger du?
+---
+Yeah its just vork I have crap luck at anyways. I just want my blue dragon. Yet I can hit supreme pet on 28 kc (think that was more karma for helping my ironman buddy), skotos on 8 and kraken on 218. So I hardly should be complaining.
+---
+Thank you!
+---
+that was hard to read
+---
+From my experience in the veteran boat it was pretty easy to out dps the spinners, the portals would go down in like 2-4 hits regardless
+---
+You won't make 2m an hour without being semi good at it
+---
+When people argue why runecrafting is bad they argue the process is infuriating or unvaried
+---
+Lol did you read the post? He's asking how they perform at rune dragons LMFAO not Slayer gwd or bossing. I find the zerker ring to be better at rune drags, but suffering works well and cuts down on a bit of food
+---
+Thank you! Cooking’s at 98, so I’ll knock that out in an afternoon. I’d love to get Fishing, Fletching,  and Crafting soon, too. :D
+---
+Nieve kinda sucks, I'd keep using Konar until you can use Duradel. 
+---
+For either one I'd block metal dragons and hellhounds (until 91 slayer so you can kill Cerb)
+---
+.. he wants them to review reports of chat related offences.. that's exactly what I commented on.
+---
+Spoofing email is laughably easy, you can just hover over the link in the email to see its a fake. If you’re ever in doubt like others have said, just go to the runescape website yourself and log in to check.
+---
+If the fluff is at least funny and interesting ways of asking to subscribe and all that I'd probably watch an episode or two to see the creativity.
+---
+Sounds good! And I started collecting pins from universal studios and those are pricey af!
+---
+LMAO? you think the ricelord that hacked his account didnt taken his items? these are dirty 3rd worlders were talking about here
+---
+In a lot of places an hour's pay of minimum wage isn't enough to get membership, so he might even have to work 2+ hours a month to afford it!
+---
+Prims zerker (I) and blowpipe
+---
+I always thought when items were imbued they weren’t lost on death. I also didn’t expect to die either I’ve done it before on another account with no issue
+---
+So talented 😍
+---
+scythe is so expensive to use and is very situational... the place where you use it the most is at TOB compared to tbow because you can do a lot of high level pvm with it like inferno
+---
+Account is a HCIM, yet the name is for a RWT website. Nice.
+---
+Yes you can sell the top. It’s totally useless with Varrock elite.
+---
+Lmao just get them
+---
+Against Devient Spectres BTW.
+---
+Scythe is BiS in a lot of places. The problem is not by much, and it costs way more to use over time versus 2nd biS.
+---
+50/50
+---
+Over 100kc on barrows, need to work towards regicide for zulrah
+---
+that is just straight up wrong, this game is plagued with kids
+---
+Recently I smoked weed for the first time in a while and I did barrows for like 10 trips with wind blast instead of Ibans blast
+---
+So for example you'd do 1 KBD kill saying how it's the only place you go for dragon bones or something, maybe have footage of you with a really unethical setup in footage right before/as you get the kill? I'd watch it.
+---
+I used a word filter through chrome to change "MTX" into "SERIOUSLY IM INBRED" so that I can immediately chuckle at some of the more overzealous tinfoil mtx posts.
+---
+Arent torture and anguish worth more than a blowpipe?
+---
+And those count toward your "kept on death" because they can be converted to a tradable form. I had the same issue with a dragon pickaxe (or) that caused me to lose a fury to Kruk. I thought the D Pick wouldn't count because untradable but I was wrong
+---
+&gt;Also whenever he does corp with stream and someone drops an item, he instantly runs for the 100k instead of letting a fan pick it up.
+---
+What do you mean by running for the 100k?
+---
+SLOPPY JOB MOSSAD
+---
+Doesn't stack, salve ammy bonus wins but Slayer helm is still better because you can use STR bonus in amulet slot
+---
+Need top to store in poh, its not completely useless.
+---
+It was actually a 1 in 100 Million mate 😉😎
+---
+I don't recall saying it negatively affected me
+---
+Yeah exactly. Even fully charged the blowpipe isn’t worth as much as 1 of the Zenyte jewellery. 
+---
+You live and you learn I guess!
+---
+Nope, still useless. Bank space isn’t an issue unless you’re a hoarder.
+---
+Only good for pet dust, regular solos are more efficient for gp/hr.
+---
+100%
+---
+I know this might be against the rules but theres a private server called novea that has a practice option for fight caves. It's just like the jad fight in osrs.
+---
+Gl on barrows gloves
+---
+Complete opposite for me, I was only playing rs while most of my friends were on WOW.
+---
+That changed when everyone got an xbox 360 for halo 3 and mw2
+---
+literally skip a meal or two and you got a months worth of quality membership.
+---
+Best bosses for xp are arrgh, dad, ice troll king, moss giant, and a weak boss like sand snake or count draynor. If you want to farm points do dream mentor, one of the bosses there is like 1m points/hr
+---
+*misclicks lamp on crafting*
+---
+Just how 73 in base 10 is 111 in base 8.
+---
+As a player of both, I highly recommend trying it out. There's a stress test going on right now for classic servers I believe, though this is only available for people with sub time. If you're really thinking about it you can try it out for a while and see what you think.
+---
+well back in the day you couldn't afk because of dangerous random events
+---
+&gt; back then it felt like years.
+---
+Well, we were shit at the game and young. At the exp rates I was getting, it probably would've taken more than years to get a 99 when I first started playing in 04.
+---
+When you're 10, a year is 10% of your life. The older you get, the less it becomes.
+---
+An idiot who doesn't know what an UIM is?
+---
+https://www.reddit.com/r/2007scape/comments/ciuapu/my_face_when_gauntlets_hunleff_hits_20s_thru/?utm_medium=android_app&amp;utm_source=share
+---
+&gt; drugs
+---
+OSRS + vodka and Marlboro Red's for me.
+---
+I care little about bring confrontative. Previous poster does
+---
+I mean they did the same thing for salve ammies after ToB release, which wasn't really a bad thing.
+---
+Yeah
+---
+Ds2 was harder looking at boss fight. Sote was just long.
+---
+Or you buy gold for staking
+---
+this guy here is the epitome of reddit
+---
+read titles &amp; repeat hearsay as facts. lovely
+---
+r/oddlysatisfying
+---
+fake nice try tho
+---
+The church on the way to canifis from varrok
+---
+Good bot
+---
+Salve ammies were already good b4 ToB came out its not the same thing
+---
+Different joke tho..
+---
+If my post is a repost of that, then every single meme is a repost
+---
+very professional, thank you
+---
+Thanks I hate it.
+---
+Deiron and rwt it back.
+---
+Wholesome as hell.
+---
+There's OSRS ironmen shirts online if you wanna go full **BTW** irl. Alternatively, a tattoo would be meta-BTW.
+---

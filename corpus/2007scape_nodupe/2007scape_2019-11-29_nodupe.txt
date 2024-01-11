@@ -1,0 +1,2800 @@
+Blowpipe is 75 range so that's interesting
+---
+---
+---
+&gt; 94 combat 
+---
+
+---
+&gt; maxed
+---
+Pick one
+---
+&amp;nbsp;
+---
+^(Jk this is a very reasonable idea. Also congrats on 99 slayer on a zerk, that's mad impressive!)
+---
+As far as I know, you don't tick manipulate to cancel animations, so this would not work. It would yield the same result as simply walking away from the rock you're mining.
+---
+Tick manipulation works by queueing an action and then changing the type of action before completion. So for instance you queue the three tick action of mixing herb tar and a timer starts. But while the timer runs, nothing is keeping track of what action the timer relates to. So when the timer ends, it simply finishes the action you're currently executing, rather than finishing a specific action. Meaning that if you change the action you're executing while the timer runs, you change what action is completed.
+---
+That being said, there is no way to tick manipulate with single tick actions, as they are completed before you get a chance to change what action you're executing. Tick manipulation with herb tar doesn't work if you finish mixing the tar, so tick manipulation with karambwans would not work if you finished cooking it, which is done instantly. You'd need a two tick action you can start on one tick, then switch your action to mining in that same tick, making that the action that will be completed the next tick.
+---
+What do you all do for fun? Got 60-75 combat skills.
+---
+I mean it was illegal there too, they just still did it
+---
+Mad RWTer is mad
+---
+Yeah just emphasizing the laughability of the entire conversation surrounding this new staff by pointing out a level 60 weapon worth 20k can hit harder
+---
+I understand preferring runelite, I do too. The game is not unplayable without it though lol
+---
+Say thanks to botters...
+---
+[removed]
+---
+There’s a federal law about talking about wages being legal. Being fired from your job is dependent on state. That’s why I said as well, they don’t need a reason and can say something else but if you can prove it was due to that you’ll win the case easily.
+---
+Yeah I don't think anyone believes he saved RuneScape economy lol. He was roping up a good story for views and it worked, I saw the vid on #30 trending yesterday.
+---
+Unless you get really lucky, no. But you’ll knock out the task pretty fast.
+---
+Gambling addiction, “just one more”, if-I-win-I’m-out, “bro I can pay you back with interest” gang rise up.
+---
+huuuuuge drama  
+---
+also nice /u/
+---
+I can't say whether or not he knew it would dupe items, but neither can it be inferred from the posted message.
+---
+Wait wat the heck are these
+---
+"I can only train/use skills when doing a clue"
+---
+Why didnt you continue with the chins? You could have used them later for when you go bossing, like at arma. Which you need the helmet from. Like, it's a bit slower than the black salamanders, but at least chins are useful.
+---
+F
+---
+Whether you would actually get banned is hard to predict. But it would definitely be a banable offence.
+---
+I could picture someone that made 2000 osrs bot accounts also making fake reddit accounts for vote manipulation. 
+---
+Think about how pissed you would be if your ultimate get rich quick scheme was made public. 110 billion = 50 grand USD right?
+---
+You really shouldn't have that level of confidence.
+---
+Surely you remember the rat pits exploit, right?
+---
+you smell like a racist lava rc'er
+---
+THAT WAS NEVER PROVEN IN COURT.
+---
+Shut up grandpa, I survived a real war
+---
+The main thing with that is that like the phoenix debate, that would take dev time while the red panda is already modeled in-game at the prif red chin area.
+---
+In case you didn't know it, Infernal cape requires a lot of skill and some time. Max cape only requires a lot of time and no skill at all.
+---
+Both capes are obtained in a totally different way
+---
+I'm not sure it's even possible but it's sorta moot.
+---
+3t4g is restricted by movement time, you can mine instantly but it'll still take 3 ticks for each rock.
+---
+you'd have to mine at a spot that doesn't have depleting ores which makes it irrvelant cause it won't be good ehp anyways.
+---
+Well said. His video gave good information and him attempting to get Jagex notified of what was happening was the right thing to do. End it at that. His video is dramatic and self loving because he's using it as his career to make money. He isn't a hero. He isn't a villain. He's a dude who did the right thing and then made a long dramatic video to get something for himself out of it.
+---
+Indeed. It's just for the novelty of having a heavy ballista at that low cmb. You can also have rune gloves. Just a novelty build.
+---
+Next time, please make you chat box opaque. Reddit prefers yellow text on a black background, but that is the second best option.
+---
+I think you’re being facetious but it’s absolutely comparable.  It’s an exchange where prices are affected by supply and demand, how in the hell is that not comparable?
+---
+Why not just make it an item that never needs refilling ?
+---
+So what do they make?
+---
+We arnt employees so we can discuss it!
+---
+I know I was just saying that’s crazy
+---
+ur fault
+---
+True, but if he has runes for fire strike he has runes for air strike
+---
+let's hope so, imagine if it wasn't an act
+---
+WoAh! is me - Crash Bandicoot
+---
+I died taking this xD 
+---
+https://imgur.com/9Y1qBFv
+---
+The most unintentional and intentional RNG ever captured on video
+---
+You can currently get stacked out for FAR higher than that, with current items in the game.
+---
+Protect from melee
+---
+Okay I get it now
+---
+Yeh I would have thought a flail would be the best option. 
+---
+Therefore mage = tall staff with mage hat.
+---
+Range = curved bow shape.
+---
+Melee = shield, big helmet, hanging flail weapon.
+---
+3 different shapes on orientation of hat and weapon
+---
+Who’s the slimey little communist shit twinkle toed cocksucker down here who just signed his own death warrant!?
+---
+Try dying to a poison tick or dart on a pvp world?
+---
+That's why I never make friends in Runescape. Scammers everywhere. Had one "friend" who kept begging to play on my main. Told him to fuck off.
+---
+Read Jagex replies
+---
+Mage also has trimmings on his legs, warrior has a coloured hat. I think whichever jmod did it did a really good job, though a spear might not have been the best weapon.
+---
+theyre a hard skip for me. i save the block slot for steel dragons since iron tend to be pretty rare from my experience
+---
+Underated barrage of words
+---
+Yeah I've done vorkath, raids, Hydra, Arma and zulrah on mobile, but let's be honest, it's not ideal lol.
+---
+The concept is comparable, yes. But the mentality, and simply the scale of it all, very different
+---
+I think that if roads were white, the speed and effects of climate change would be lessened.
+---
+Either I don't notice it, or I have no issue running the game at 50fps.
+---
+It makes me really curious to know what kind of CPU people are using that makes the game have a poor framerate.
+---
+What does it mean to be drinking claws? Or am I missing something? 
+---
+I realize they aren't scales, but what else rhymes with "laws" if not "claws"?
+---
+Iron and steel have the same rarity
+---
+We're getting very close to a moral dilema here... Can you use a robotic arm to play for you? Probably not, it's automation just like a bot... Can someone with a bionic limb use it to play the game? Makes sense I guess, but what if it's a bionic arm that runs software in it that can be used to automate certain activities? What if you have an A.I. robot, can he play runescape? The wonders of the future... This world is getting too advanced for me :/
+---
+&gt;he passive aggressively tried to clown kemp is suprising
+---
+What's this?
+---
+&gt; No one should be celebrated for "having the courage to not exploit a bug" - this should be standard practice. 
+---
+A lot of people on this planet would prioritize thousands of real dollars over a video game's economy. Doing the 'right thing' would be the exception, not the norm. It might not even be the right thing to tell Jagex depending on what else you could use that money for.
+---
+to get ready for inferno, you simply need to respec 700x for infinite prayer
+---
+Alch com
+---
+The guy who got ligma
+---
+Oh lol. Then it was 75 ranged :@. Im 78 now and did it 2 weeks ago so ah well
+---
+Stacked out and hits actually registering on the same tick are different. Even in ftp, you can *stack* two arrows by managing projectile and movement mechanics - the hits don’t occur on the same tick and can be eating through. Stacks that aren’t on the same tick are FAR less effective. Prime example being the dark bow, where two hits stack on consecutive ticks and can be eaten between. 
+---
+THAT is where this weapon becomes incredibly strong. Because you can stack an 81-41 with a 2 way switch regardless to if you have pid or not. That’s like spec’ing with an ags and then getting pid swap on your gmaul every time.
+---
+DHCB is so accurate that its not worth the switchs to bring a bgs, void helm, etc
+---
+Great point considering a 47-47 has only been hit once! You're dumb bro
+---
+There should be a 1 tick delay between hits when double mauling as well, but it's not there because this game is broken.
+---
+harmonised staff is only 5% better dps, and you lose the ability to be on other spellbook which comes down being better for most high end pvm. So no, staff as it is now is pretty bad since it was ment to be powercreep comparable with tbow/scythe.
+---
+And due to max hit scaling with mage lvl, sangui staff has higher dps(cuz of higher accuracy) in chambers and same max hit as nightmare.
+---
+"I wanna try and make it under 50bil debt today"
+---
+God damn.  Lol.
+---
+How fitting! :')
+---
+Runescape real world trading politics is more shady than US politics. Bet we are going to see a post of rendi conveniently killing himself in jail mere seconds before explain ing the entire situation.
+---
+He left Jagex in March 2018.
+---
+How in the world was he a popular content creator yet he openly sells capes? I honestly couldn’t believe what I was reading when I checked that site
+---
+Yeah this would be dope, just make PVM points higher to balance it so it’s high risk high reward
+---
+The court should have just told them that their ruling system is always correct and therefore there's no reason to allow them to even try to appeal
+---
+THANK YOU
+---
+But small PP.
+---
+That's the stuff from priest in peril, right?
+---
+Every time you die your account is reset.
+---
+I tried to learn it after the plug in was removed, honestly could not tel the difference between the ghosts at all. Didn’t help that every cerb guide told you to use the plugin and not pay attention to the ghosts. 
+---
+I’ll actually try and get some kills next task now I can tell the difference. Got 1kc last task, grinded 5 agility levels for the blue drag shortcut realized I couldn’t be bothered to burn thru supplies and die constantly and just did normal hell hounds.
+---
+It's intended behaviour. You got it the exact tick the spot moved. You get the same effect if you level up and the spot moved before you click space-bar to dismiss the level up message. When the message is gone, your character will attempt to start fishing again, so they move to the same fishing spot wherever it is now.
+---
+Damn that’s a rookie mistake
+---
+I’m sure I speak for a large portion of the player base when I say that I’d rather people buy gold from Jagex than from gold farmers that bot and crash the OSRS economy.
+---
+I'm out of the loop, what's the issue with sirpugger? Is he known/rumored to be involved with botters or rmt or something else?
+---
+Are you using VPNs? Also it's pretty much impossible to get any support or get in contact through their official website. Best bet is honestly (and it's stupid that it's like this.) make a post and hope for the best or try twitter. Don't mention anything about what you need help with on Twitter just @ someone saying something like "Hey I need to get in contact with Support or a Mod can I get some help please?" at everyone you can and again hope for the best. I believe if they ban you for botting you don't get a chance to appeal because their system is "flawless" logic, but I believe in human error and humans make the system so there is error in everything. 
+---
+(Unless you are some AI Bot who has grown sentient and is now trying to find purpose?)
+---
+Time was of the essence, yes. The difference is this is a game breaking exploit and an ongoing issue even now.
+---
+If Jagex actually communicated immediately, there would be a mass panic on one side of the community and an army of bug abusers crashing the servers on the other. Jagex's silence was the competent course of action and they most certainly value the game's security more than your sense of entitlement.
+---
+There is literally nothing you can do to help in this type of situation but there are a million ways you can make it worse. Who in their right mind would tell you about it immediately?
+---
+I used a back heater and put it on my head before my mom checked on me
+---
+Same and it doesn't seem to be getting any better :\
+---
+I mean , I met two venezuelans who came directly because of what is going on there at work. They came with a work visa and said they literally came because if not their family would starve because there wasnt enough food in the cities.
+---
+I just cite mainstream media because while they may be bias they are still givingnit exposure.
+---
+Todt it stops giving more speed after steel - but the dragon axe's spec can temporarily raise your WC level so it actually does benefit you where the others plain can't.
+---
+While I can accept legitimate concerns such as scalings. I just find it hard to accept that people cannot live without clue solution (an example)
+---
+Old mate has anger management issues lmao
+---
+Yeah! Reaplced them off the stands.
+---
+This is all assuming people are using the same mechanic to crash the server. Considering the dupe still exists, just not the world crash method, I'd say there are lots of people trying different things to crash the servers. Whether that has anything to do with Aus worlds rn, who knows
+---
+&gt; They are showing some action to keep duel arena while they are investigated for gambling 
+---
+To be fair I don't think in-game gold from the duel arena, or bonds are the reason they are being investigated for gambling
+---
+I have the running and triple drop from gathering skills. Only to base 15 on melee stats. Forgot about all about Wintertodt when I was training.
+---
+Imagine having an animation of filling a gold pot of flour at the mill.
+---
+Lmfao I thought the same thing
+---
+Yeah I love the “just got f2p how do I make money” posts where people say slayer
+---
+Nah.  Slayer is fun because it helps you level up combat and that makes your progression seem better than it is.  It doesn’t help you make money until at least 55 (black mask) and not reliably until 75 (gargoyles) but neither are really good tasks anyways.
+---
+Well for starters there are 13 more skills you can train. There are better, faster, and more fun ways to train skills. There are a bunch of minigames you can play, like pest control. The amount of areas on map you unlock are like 20x the size of f2p. There are an additional like 50 quests you can do. There are quest capes. better teleports around the game Better PVP. Bosses, raids, slayer, clue scrolls. Money is much easier to make, which makes the game free each month if you just keep paying your membership with in game gold. Infinite reasons of why p2p is better and more fun than f2p.
+---
+snipers take the shot
+---
+Wow nice, how many attempts at the final boss? I have 89 range/87 def/93 hp and just did ds2 this week. I died 8 times on the boss, whereas vorki only took me one death :(. Impressive kill!
+---
+My smithing alt just went back to f2p yesterday. I wish I had something cosmetic to use as a hammer but no such item exists. Equippable gilded hammer from clues pls jagex?
+---
+Stop being poor
+---
+best stats 99 range mage hp prayer
+---
+This is the information age.  You're never going to hide information without govt involvement.  That excuse is no longer acceptable in 2019, ie this exact event.
+---
+They have said they are waiting on engine work to be done so they can change it to a green ironman symbol for all future league, they want it before this one ends but realistically they probably won't get it until for the next league.
+---
+Thank you. Updated now. 
+---
+Currently working on Thieving on my mobile and Tithe Farm when at home.
+---
+After I get 80 Farm and Thieving I hope I will have the 3rd relic for double Artisan exp for Wintertodt.
+---
+Been trying to explain this to people all day. Thank you
+---
+&gt; When Song of the Elves came out I argued that either Zalcano or The Gauntlet should have their drop table slightly buffed because the money from them wasn't great
+---
+Gauntlet being buffed makes sense since Saeldor wouldn't hold its value but Zalcano buffs lol
+---
+Being that baller in f2p with gilded hammer at varrock anvil.
+---
+Yes. I believe I saw a video on YouTube talking about convenient tips. Forget the name of the guy I’ll look it up later.
+---
+Yet in the end it's the same functionality
+---
+You missed the rune symbols in the fire
+---
+A big swordfish, a big shark and a heron walks into a bar ...
+---
+Fairy Rings, I can't tell you how much they help. I never unlocked in them back in the old days but when I did about a month ago they get me around everywhere I need to go.
+---
+Aside from that Teleport Jewelry is great my personal favorite being Ring of Dueling as it gets you to Clan Wars so when you go through the portal and step back out you get your stats (HP and Prayer included) restored. 
+---
+Teletabs are awesome too, if you have high enough construction you can actually get all your teleports in your house so the only teleport you would really need in the end game would be a house tele. A little tip, if you plan on doing something that doesn't require low world population you can just set your house at Rimmington and use the Gilded Altar world and use someone elses maxed house.
+---
+That's not mine. No, I got no items just 100 some pages
+---
+if its ur first time no less than 75 range for blowpipe
+---
+Assuming you don't know the mechanics well I'd go for a minimum of 75 range to use a blowpipe. 60+ prayer would help a lot, a moderate defense level.
+---
+What kind of budget do you have for gear?
+---
+Wish there was a thanksgiving event but that's ok I'm thankfully for Runescpae
+---
+Right click slayer cape to give yourself your own task lmao.
+---
+Now you can wake Sire up with a Shadow spell, and you can re-stun Sire before the previous stun had worn off
+---
+I guess you can say that you’re a master-baiter I suppose
+---
+Reasonably active? I feel like I join a lot of these ccs then leave in a few days because nobody is saying anything.
+---
+i had the same problem, ran out of scales on wave 61, did not think of just using darts LOL. just let them kill me, fuck my life.
+---
+I’m doing my part
+---
+I can't imagine he'd get it, since he left jagex, right?
+---
+Yeah imagine being a neckbeard turbo virgin
+---
+The new memes have arrived
+---
+How long does a solo game take and how many points?
+---
+I think it's fine it's only a spec. We got weapons which deal the same or more don't we
+---
+WOW!
+---
+i mean, honestly there has to be some sorta workers comp thing set up here for him, right? im not familiar with UK laws, but like seems a bit much
+---
+That's exactly my point. You get more of all kinds of herbs if you're 99 than if you were a lower level, but that's not he's asking. He's asking if you get more ranarrs at 75 than snapdragons at 75. And the answer is no.
+---
+There are slow times but id say 75% of the time chats active and if its not all it takes is one person to say something and afew will chime in, if its not for you you can always move on, im in the same boat as you where ive moved through a good number of ccs due to idiots or inactive members, so far ive been happy with them so far
+---
+Awesome I'll give them a shot.
+---
+Gz
+---
+I mean other specs on other styles can hit out as hard.
+---
+I thought people would be more concerned with the one that lets you attack a fuck faster.
+---
+This thread is like one of those memes where muscled our chads are typing on laptops.
+---
+Can you please turn dark mode on
+---
+\*Laughs in never having staked in my life\*
+---
+Time for me to start up my 2000 army of bots to crash the servers gg lads
+---
+Cool, im not on my self but i will be in 2ish hours, theyre all friendly though so feel free to pop in whenever. My rsn is sr330
+---
+I'm thinking either between 1 or 2 are most plausible, but I agree with the 3rd one being a possibility too. We'll have to wait and see what kind of backed info comes out of this
+---
+Hence why the guards were calling me a noob ;)
+---
+I bet there will be a tanking phase to the boss
+---
+I was there. You can see me in the videos. However I no longer play.
+---
+&gt; as originally proposed
+---
+YOUSE LESS
+---
+Might not be on this ingane world selecter but it coule be on the login screen world select, the worlds should be blue. Ill send you my discord tomorrow and we do some testing this weekend
+---
+The autocast 1 tick faster one will be by far the highest mage dps in the entire game.
+---
+Why would you ever need motivation to get a totally pointless item
+---
+God forbid ppl die actually die in deep wild.
+---
+Ok but is this not the same speed as dclaws / dds who both max similar or higher? And that's not even mentioning combinations of weapons / stacks
+---
+You thought this was bouta blow up from gilding yourself didn't you lmao
+---
+It would still revolve likely around high playercount to overload a server. As far as I know there's been no evidence or circumstances of server crashes being caused by players themselves in small quantities. The one reported on recently was replicating what Ice Poseidon accidentally did while streaming, just in an organised way.
+---
+https://www.reddit.com/r/2007scape/comments/e2bmu0/you_thought_it_was_just_a_lag/f8v1dc9?utm_medium=android_app&amp;utm_source=share
+---
+Think hes referencing this
+---
+15*
+---
+There's been like three other economy threatening bugs in osrs alone and you're caught up on if he's making up if it even exist?
+---
+What kinda, “ heron” you got?
+---
+This
+---
+Does the spider trick still work with mining Volcanic sulphur in twisted league? I cant get it to work with standing on the south west tile of the deposit to the west with the spider on the north tile. The sulphur will still pass through me and damage me. Was this patched?
+---
+This should have more upvotes tbh. Such a great qol update for those of us with colour issues.
+---
+Sure
+---
+A man should be humble in victory and gracious in defeat. Rendi has been a dick in victory (he shit on KempQ passive-aggressively for no reason) and an entitled shithead in defeat (he put in more effort so he deserves to winnnn!!!!).
+---
+A 93 on task? Because I didn’t think the number was that high at all.
+---
+Yeah tbh the downtime after the birth waiting to go home checking your phone is far from sad I remember being sat bored for hours waiting to go home
+---
+It is getting late
+---
+Do 1 boss a day! That’s how I tackled mm2. Just did it in segments so I wouldn’t lose my mind lol
+---
+Currently in KC. Not seeing any dragon warhammers.
+---
+Nice 50% battery, your account is mine
+---
+Ehh I thought it was pretty funny I've seen steaming piles of shit get gold before.
+---
+So he had someone else buy it for him
+---
+Thanksgiving best holiday.
+---
+I ran into this guy! He flamed for 5 minutes then left.
+---
+Staff hits 74s at 39 cb with 1 spec btw. It will break pvp if it passes without an adjustment in pvp situations, that will 1 hit accounts up to around 62 cb.
+---
+I doubt that this set will really stabilize close to 1B. When it first comes out? Sure. People pay crazy for everything the day it first comes out. 
+---
+A few weeks in for gear that’s useless for the majority of content in game? Going to be around bandos in price at that point.
+---
+Just playing devils advocate, but wasn't Rendi's video almost entirely centered around the method used to crash the worlds? The fact that Micheal made the video about the potential of a crash dupe seems somewhat irrelevant.
+---
+You did not.
+---
+maybe no one cares?
+---
+I genuinely thought it was satirical at first
+---
+Meanwhile I have 1:10 pb on Vorkath mobile, haven't come within 20 seconds of that on PC. There's not much holding mobile back time-wise. It's just as fast to tap the prayer tab and tap prayers as it is to press an F key and click the prayers. Main thing holding mobile back is accuracy. But as I said in a previous comment, it's probably because I have more experience with mobile. Buy it's not something you can compare apples to apples I don't think. Some people will naturally be better on mobile than on PC. Look at Nickmercs in Fortnite, he competes with the best kb/m players while using controller. Would he be better than he currently is if he had as much practice using kb/m as he does controller? Maybe. But I definitely believe there are people who would be better with controller than they ever could be with kb/m. Same situation here.
+---
+I dont quitte understand what's going on? Could someome ELI5?
+---
+Yeah I only bruma torch in first 130. Then in the next 40, I got tome and full pyro.
+---
+ill try but i think my rng luck is dead after this
+---
+Lol stay mad kid. I just made an hcim and dont care about wildy or pking. All I know is that you are so salty you had to go check through my history (oh no!).
+---
+   
+---
+Maybe you need a break from the internet, is everything okay in real life?
+---
+q
+---
+Shut up
+---
+You built your account with restrictions in mind, so you have restrictions. I see no problem here.
+---
+It’s a 1 handed melee weapon with no stats but with a 3 tick attack speed. It’s currently BiS (alongside the swift blade from LMS) for the Nylocas room in the Theatre of Blood for people with max gear since you only have to hit 8-10 damage on most of the mobs you’re attacking, there’s a lot of them, and so you want a quick attack speed.
+---
+That’d be hella interesting
+---
+Time to train your little one to Scape for you, further minimizing xp waste
+---
+Or raise them like a normal child it’s your choice either is a fine option
+---
+Unless your bank looks like a hoarders house, it shouldn't be that difficult to find and destroy them
+---
+Little Scaper for sure
+---
+Fraser is the same guy that got caught botting and couldn’t admit it, so I would be cautious trusting anything he says
+---
+You can wield the staff at 39 cb and hit 74s with it. It will kill any type of edge pking, and will make focusing in teams too easy. It will make singles teams stronger because the focus will now have 2 weapons to deal insane damage instead of just claws. This should not pass without serious adjustments for pvp
+---
+OP, the great thing about RS is that everything can be considered an accomplishment to whomever. People who say "don't care blah blah blab" are just sweaty fucks who have lost touch with human interaction. Good job OP. How was galvek? Took me 3 tries:/
+---
+Very true, but i believe that would also count as overloading the server. Just with entities and not players.  
+---
+Surely many other ways outside of 'overloading' to make a containerised piece of software crash though.
+---
+They said on the q and a that a lockpick locking out the diaries was a big part of why they did it. There's no other grind like that so I think you're fine there.
+---
+Salió bonita la raid #RCH
+---
+Ngl he do be looking good doe 😳😳😳
+---
+*drops your elite void* nothin personal, bipedal
+---
+Well my brother got a new phone yesterday. Has played RuneScape in both his old phone and his computer but then he tried to play on the new phone and it said his account was disabled. Then he tried on the computer and it is saying an error for it. It’s confused us both and we have no idea why this has happened. Tried to appeal it but instantly he got a denied email. 
+---
+He has never done anything wrong on his account. He only plays when I make him, which is rare and he doesn’t bot or do anything bad when he played. It’s frustrating and confusing because the past week he was finally back into playing and we were getting him leveled up and then this happens. He’s so upset because he doesn’t want to have to make a new account.
+---
+I sent a message and a tweet like 6 hours ago
+---
+He's playing in the future when there are 1000+ servers each for DeviousMUD versions 1.0, 1.1.5, 2.0, 2.2, and 5.6.9, Runescape Classic (pre RS2 Classic, Oldschool Classic, Newschool Classic), RS2 (c. 2003, 2004, 2005, 2006, 2007, 2008), Pre EoC, RS3 'Classic mode servers', OSRS v1 v2 and v3, OSOSRS, and of course RS4, RS5, and RS6. Jagex is only gaming franchise in the future.
+---
+I think Classic 60535 is the server for the 2019 version of OSRS, which has Twisted Leagues enabled.
+---
+It looks worse than a hoarders house. I don't mind doing it manually, I was just curious if there was an easy QOL feature like this in-game to save a bit of time.
+---
+Cringy
+---
+Rendi making a huge stink about not being included in Jagex's operations pissed him off, so he decided to dramatize what was happening and turn it into a big nothing-burger.
+---
+Mine is this and a bank of placeholders for 2.7b worth of gear.
+---
+China white by the looks
+---
+It's absolutely broken. It will make singles teams much stronger, it can be wielded at 39 cb and deal 74 damage, far exceeding the hp levels of builds at that level, and it *can* stack with ags for higher damage than barrage ags gmaul stack. I literally just played around with it for 3 hours stacking people out with staff to ags. It's busted dude. Gmaul is inaccurate and I only hit 2 zeroes with the staff spec in *3 hours*!
+---
+If they don't get him for that, I think this could count as botting.
+---
+Jomflox get em.
+---
+The correct way to say it would be “thrice” not “twice”.
+---
+I'm not sure what you mean.
+---
+The only one that carries over (that I know of) is the amount of charges an imbued skull sceptre holds. Possibly useful for body rc but idk about f2p metas
+---
+Both the d hammer and dfs are 100 points (as is 80 smithing along the path to the dfs), but your point stands.
+---
+No
+---
+We get it, you veep
+---
+I need one
+---
+likely minumum 30% of total player base are bots so lets bump that 5% to a healthy 10% ur lookin at bout maybe 8,000 daily players maybe 25,000 pk accounts
+---
+Don’t be a dick
+---
+What he say  after 👀👀
+---
+This design is exponentially uglier lmfao are you serious? That’s fucking terrible
+---
+Got em! xD
+---
+Get stronger
+---
+I'd prefer a half-cooked still-alive shark to randomly become a pet when you try to cook it.
+---
+U wanna tussle nerd?
+---
+Nice
+---
+You can loot at rev caves or kill revs. That’s probably best. It really depends on your stats
+---
+It could be fun, but essentially anything just replaces coins. Rune arrows or runes or any other plentiful but useful stackable commodity. The only way this works even close to how you're imagining is if you remove all stackable items from the game lol. Actually that is silly; you would have to remove stackable items from being able to be traded, or traded more than one at a time.
+---
+Not really that impressive, the HCIM was still super fresh.
+---
+There won't be a next Twisted league. There will be a next **League**.
+---
+I'm not sure how people keep thinking that all leagues are going to be called twisted league.
+---
+You wanna spade chad?
+---
+Shows how unbelievably dumb some of these people are. They conspired to exploit a game bug on a massive scale, then cut someone out of the conspiracy halfway through. Did they not realize he was going to do exactly as he did and out all of them and play the hero? Straight up stupidity.
+---
+It would also enable sub 100 combat builds to complete karamja elite which would be pretty cool :)
+---
+\*While not in a PvP world. ???
+---
+Oh... I definitely thought that was a female dragon for the longest time...
+---
+Exactly. Rank21fishYY doing Dark crabs to hold off French-Canadian Born Natural Superstar Dumbfounded Rank24fishHH u get me
+---
+u just need 53 fishermen to be banned and ull appear on the frontpage too, dw
+---
+Isn't promoting virtual gambling a bit different from abusing an exploit that could literally cause irrevocable damage to the game? I feel like those two are not quite the same.
+---
+Ill get there.
+---
+Yea nah mate all good
+---
+Blast furnace Runite Bars, Smith Mithril Dart Tips, smelt Cannonballs.
+---
+Craft molten glass with giant seaweed.
+---
+Turn flax into bow strings.
+---
+Check out this link:
+---
+https://oldschool.runescape.wiki/w/Money_making_guide
+---
+I surrender bro im sorry cheif wont happen again sorry
+---
+Rendi is the exactly what you'd expect a person with 50,000+ hours on point and click game to be like.  
+---
+He's unintelligent, uneducated, unemployed - no real world prospects to think of - ugly, with a shit personality.  He also has full-blown Aspbergers.
+---
+I got through about 1 minute of his video before getting too depressed to continue.  
+---
+In short, he's a loser.  Really no better word.  Watching some egomaniac loser rant about not being catered too is not worth anyone's time.
+---
+First thing first, train your slayer to 95 and by then you’ll have great combat stats and starting cash for high level bossing
+---
+Bonds are a fucking amazing gold sink. You should be happy about this
+---
+i have high hopes of that happening
+---
+He (allegedly) was leveraging the duplication method as a means to acquire the support from black hat users with the means to crash servers. He may not have wanted money from the duplication, but he was essentially selling runescape &amp; it's economy down the river, which is quite contrary to the intentions he portrayed in his video (I'm a hero, I saved runescape etc etc).
+---
+A Friend was banned for less. Jagex goes easier on content creators now.
+---
+No, all of the monsters in fight cave has pretty much no defense. Sgs would be much better for the sustain, or d claws for the dps.
+---
+Never fucking put Ali-A in a thumbnail again. From the thumbnail alone I ended up with stage 3 cancer.
+---
+Needs to be dragon or baby dragon bones.
+---
+Classic
+---
+FOR HOPE BEYOND THE HORIZON
+---
+Indeed
+---
+Just make it untradeable
+---
+His name Steven by chance? Lmao
+---
+It depends on how you wanna play, doing "consistent" money makers such as herbs is decent quick money. If you dont mind slower xp/hr alot of skills have decent ways to profit, power mining iron in mining guild is close to a bank and that's a decent chunk of gp/hr, banking teaks on fossil, basically any ores in bf. Another thing that's rarely said but I see it happen all the time is dont buy and resell gear, if you're in a cc you trust alot of people are willing to do collats. Also dont be afraid to experiment with the wiki guides, bis armor might be 30m item but why is it bis is it for dmg or for tank barrows armor would be 1m and be pretty tanky or torso would be "free" and same dmg.
+---
+they wont buy and they wont sell since the drop from monster is zenyte shard and not gem
+---
+who would go out of their way to craft the zenyte, then put it up for sale
+---
+nah
+---
+That could be fun, definitely sounds interesting. 
+---
+Wouldn’t mind if they introduced those BH hot zones to regular wildy and turned off PvP for rest of the wild in that world and for PvM. Would kind of act like BH craters back in the day - without the point system/targets/kill penalties but would give a conglomerate of people to fight.
+---
+4 things? 6 things? how many things?
+---
+Tbh idk why I even look at this sub, pvp is dead anyways. And that was the only reason I played.
+---
+Who gives a shit how long it was, that wasn't even the point. Literally just saying he's been following the dudes work.
+---
+I was at revs and lost an ags. Fees bad
+---
+U r telling me u r related to a goblin a drawf and a fucking ogre?
+---
+Would be awesome imo. Ive been thinking so much recently that we need some truly rare drops. Or even single item events where only one acc ever gets the reward. I know that sounds ridiculous and could hardly be argued in terms of dev priority. But we could have a staggeringly rare drop table that grants extreme powers, almost like a permanent player buff
+---
+Winter 2025
+---
+How did this get sliver
+---
+I’ll gladly buy a tbow off you for alch price if that’s the case then
+---
+i just spent some time on your twitter and all i can say is wtf lmao, you guys really are on some different shit than us redditors lol. hope you get unbammed though if you really didn’t do anything to deserve it
+---
+Should be a easy rhino3d file or an autocad file for lazer cutting
+---
+5% is a significant difference
+---
+You're counting the vast numbers of people that leave RL open as part of it.
+---
+I remember growing up faking being sick all the time. When my dad was home he’d just chill and play Mario kart with me on the N64
+---
+What a sad angry man you are
+---
+Because the inferno cape is inherently a status symbol because you can't buy it in game. Most other items you can just grind away at some boss like Zulrah or other easy money maker, and eventually buy it.
+---
+There's no "legal" way to buy the cape. Yeah you can buy bonds to get shit like bandos, but you can't use bonds for a cape. It's like a skill, you can't buy 99 rune crafting. Ya you could pay someone to train it for you but thars against the rules, like buying a cape.
+---
+I tele on doublers
+---
+he DID say it twice fucking liar he's the type of guys to tell u his main is zezima
+---
+Ahhh, that makes sense. Thanks for the response :)
+---
+Idk about OP but that’s how I feel about a lot of my family members, outside my immediate family. I’m not close with any of my aunts/uncles/cousins
+---
+You can't even deny that making money while getting 100k xp/hr is decent. Regardless of how much work it is. Your argument is that it's bad because you can do other methods that are faster and cost more money, which is counter-intuitive to the whole point of not needing to spend money at a loss
+---
+doubling money 2147m left
+---
+Yeah they pmed me ty anyway
+---
+I mean, without telling us your stats its kinda hard to recommend shit. 
+---
+Are you willing to put in work for the money e.g bossing, or do you want to do afk shit like gargoyles?
+---
+Making an alt is an option if you're willing to make the investment. So you're playing a second account to make money on while also playing your main. Usually the alt account will do something fairly afk so you can focus on your main, but if you're maxing on the main and doing something less click intensive, you could also do bosses on the alt. 
+---
+I personally dont play my main anymore and exclusively play ironman. I use my main account as a rune dragon alt for bonds, makes about 1.5m per hour give or take, while being fairly low attention required.
+---
+Lastly the part : "I want to do bosses and all guides need the gear I mentioned earlier" is most likely something you've misunderstood. What is mentioned is the best in slot or recommended gear for the content, that does not mean you can not do the boss with less, it simply means you will make less profit per hour without that gear. For example if we say zulrah is 3m per hour in max gear and efficiency, you could probably make 1,5m per hour in mystic robes and trident. It would still be worth doing the boss, and you can upgrade your gear as you go. Twisted league currently is a great example of this, as people are doing raids with magic shortbows and terrible gear overall.
+---
+You can't get rune or addy? Are you some type of BTW?
+---
+They already confirmed the gem stall is in the wrong bracket for points, Tithe farm however could of been tuned down, but all in all it’s still a first league and they’re getting plenty of data they need for the next one.
+---
+Nope, not to my knowledge.
+---
+Runelite does this. Most keyboards or mice that are modern would have software with profiles. You could just set a profile to default while using rs. But that will impact typing as well 
+---
+Best to use RuneLite plugin and enter to chat. So doesn't impact anything.
+---
+Some guy crashed me at shamans yesterday. I told him to hop, and right as he said “u hop fag” two shamans landed on him and combo’d him out. Seeing him come back, pick up his cannon and tear out was honestly the most satisfying thing that’s ever happened to me in rs.
+---
+Good on ya! That's some crazy good RNG luck ya got there.
+---
+"Have you tried turning it off and then on again"
+---
+Oh my god Rendi was *that guy*?
+---
+good friend
+---
+In every sense of the term yes
+---
+You sound like you're trying to say 55k+ kills is fast
+---
+It's probably because Twisted League has brought in a bunch of new-med level players that have no idea how the word 'Twisted' represents Zeah.
+---
+Imagine believing 110b introduced to the game wouldn’t hurt the economy ‘that much’
+---
+wait really? where do I see the stats on that?
+---
+In before you then go on to run your own chain of bot dicers because you perm muted the competition.
+---
+I'm red and green color blind which is the most common type particularly in men. This is perfect. Theres more distinction due to more color on the sprites so it solves the problem.
+---
+Same here bro I was like what the fuck OPI!?
+---
+Am I missing something here or would the tome of fire make this even stronger?
+---
+That is the hope, got a good chunk to go and the majority are locked behind the boring skills but it will happen eventually.
+---
+Gtfo
+---
+Can I tell you what you will find fun to play and that you should make? No not really.
+---
+They did threaten to ruin his channel. That’s pretty good way to do it.
+---
+Well second to wintertodt but I don’t count that as an actual boss.
+---
+Can you tell me what you would pick if you were me?
+---
+I’m working on the fairy rings by the quest has some requirements I gotta work towards. The house idea is very smart I gotta work towards a house now.
+---
+Green, blue, red, and black dragons have different color variants. Look at the 3 green drags in the west wildy spot
+---
+It wasn't "super" hard, I'd recommend either watching guides on the fights first or taking pretty bare minimum gear for Vorkath and Galvek so you can learn their mechanics without wasting too many resources. In the end the bosses are almost entirely mechanic based and high healing foods.
+---
+Yeah I got RC pet this weekend at 82, thanks for asking :)
+---
+No it’s hovering. In retrospect the camera angle could have been better. If it’s sat on top of the grave
+---
+That is some nice tableware
+---
+Idc what anyone says, the drop rates are buffed
+---
+He’s posting proof and helping Jmods know who did it.
+---
+The fight itself went pretty well for me, I think I nailed it first try. The big problem for me was the metal dragons before Galvek, I'd never killed them before so their damage and abilities really surprised me and I kept forgetting to dodge the fireballs.
+---
+"was expecting runelite to give me a Warming" and this is why you suck.
+---
+Downvotes Begin.
+---
+Someone said big tuna 8 hours ago and no office references? That's shocking..
+---
+taking a break and maybe training up some skills afk never hurt anyone. eventually u will think of jad as an easy boss
+---
+Hive mind.
+---
+Guy with a huge who who posts "lower is better" videos on YouTube of him doing quests / firecapes with very low levels. Threw a tantrum when he didn't win a golden gnome at runefest.
+---
+Past drama: he "exposed" a bug that basically duped items by logging in thousands of accounts to crash the server and force it to rollback, but if you traded a bunch of gold to another account before crashing both accounts would keep the gold.
+---
+Current drama: A bunch of people exposed the fact that he pretty much figured the bug out (with a lot of help)… but was not sure if it worked so he contacted some people he knew who had enough bots to crash the server. 
+---
+He did this to help him make a lower is better video, since it would allow him to get barrows gloves at a level that should not be possible. The reward for the botters to help him was that they could dupe gp at the same time. 
+---
+The botters decided to just force those server rollbacks by themselves, cutting rendi out of the deal completely.
+---
+Rendi got pissed, told Jagex about the bug and released the video, calling himself the hero who saved osrs economy from the evil dupers.
+---
+Then basically discord logs got leaked that show he basically created the bug and only wanted to use it for himself until he got top 10 anime betrayed.
+---
+I could be wrong on some points but that's the gist
+---
+I'd have to say crude chair, rope, and a death rune.
+---
+I mean they are the only ones that would be legitimately upset about the video.
+---
+Bwana *
+---
+Vorkath was much harder for me than Galvek, I think it had to do a lot with my WoW raiding background so his actual mechanics were pretty easy.
+---
+Vorkath on the other hand really surprised me with his abilities, I think I was at like 1 prayer and an empty inventory when I finally killed him.
+---
+Stick to lurking
+---
+I love turning it into a game...and winning
+---
+Cause they don’t want their current BiS gear to be devalued
+---
+These look way better. Why no official mention of it anywhere? Good job to whichever artist updated them.
+---
+I had been asking questions related to this issue on the q&amp;a for over a year. It wasn't until a few weeks ago after they forced runelite to remove the cerberus plugin that they finally gave a definitive answer to my question which had over 300 upvotes in that week's thread.
+---
+It definitely isn't a recent development. The first time they addressed it on a q&amp;a was at least 8 months ago.
+---
+A great example for the community to follow!
+---
+I just suicided several times on first day for that free teleport to kourend castle. High iq tactics &gt; imaginary hc status
+---
+https://www.reddit.com/r/2007scape/comments/e38sdj/z/f91sh8z
+---
+Except it's ridiculously accurate since it rolls off of mage def. Which has mage level component at 80%, and if you're using brews like a smartie pants you'll have a low mage level. It will rarely roll a miss. You're also forgetting that they'll have claws too, so you'll have to gamble your protection prays every 4 ticks on whether or not they'll claw or staff spec. Also a possibility of getting hit with a dbow in the fall-in, which will likely be a guaranteed off pray hit since you'll be too focused on praying mage or melee. 
+---
+It's not a healthy weapon for pvp in the slightest, there's nothing about this specific weapon variant that is a positive addition to the game.
+---
+Oda was at 100b debt last week. He’s knocked 50b off in a weeks time, which is pretty impressive.
+---
+There are no words to describe how 12 you sound right now.
+---
+always need more slayer content. :)
+---
+Nope
+---
+King*
+---
+Vetion has low defence
+---
+the spawn is just gonna be a bunch of bald headed green pants men punching and fire striking each other
+---
+feelsgood giving me hope ty bro
+---
+I honestly highly doubt anyone is going to want to do this..
+---
+Why are you on a throw away
+---
+Anyone have tips on how not to take so much damage? I time my prayers right when the ghosts come out and cerb’s first attack comes, but i still take so much damage over the course of one kill. Maxed atk str and def. what am i doing wrong? I move when she growls too, should i protect from something other than magic the whole fight?
+---
+"are you winning son?" "yes dad" "alright, son" as he left through the front door and never came back
+---
+How are bonds a gold sink?
+---
+r/oddlyspecific
+---
+My understanding what’s that they were going to be reworking how mage defence works in pvp?
+---
+Anytime, my dude.
+---
+You win this round, weedwizard69.
+---
+go eat a fly stinky
+---
+I got scammed the last time I did this
+---
+Holy shit this was such a good summary. Bravo
+---
+I mean this is cool and all, but it would take like 1-2 hours to do if you have a laser cutter, wood and illustrator. It looks a lot harder than it is.
+---
+Awesome, thanks!! :)
+---
+Not on a throw away just started using reddit. Not trying to scam anyone I'm a legit normal person.
+---
+Have fun with your map, compass, and sextant.
+---
+Not to mention hot or cold clues.
+---
+If you can do those in at most 10x the amount of time as with outside resources I’ll bond you
+---
+Thanks mate!
+---
+We got a new manager at the place I work and called a meeting with everyone his first day. We started talking about pay and he said "You should not be sharing your wage with anyone." 
+---
+Everyone vocally agreed that does not benefit us in any way and just prevents us from being paid a fair wage. He does not like us anymore.
+---
+Not sure what worlds you jump on, mine is usually someone in rags that buggers off when they kill me for my bones
+---
+when you have people completing clues at 20-30x the rate of normal, you would expect to see 20-30x the 3a drops
+---
+This should have been the accumulator years ago tbh
+---
+you mispelled fuck, 12year old you
+---
+I wish general stores weren't dead content
+---
+?
+---
+I think it looks amazing. Really good work. A very nostalgic image.
+---
+Um, pantyhose m8y. Don't want anyone peeping on his Bolt Racks.
+---
+Me going fir Basilisk jaw soon
+---
+It's pretty difficult, but Ive done a couple of my friends firecapes for them, I'm not sure if you feel like trusting a random Redditor to get it for you, but if you feel like giving up i'll gladly get it for ya.
+---
+Your bringing scamming up quite a bit even though no-one brought it up, you tried twitch prime?
+---
+Solid BIS items. GL on 3a bow/wand
+---
+Only reason this store is even still in business is because phials is running an underground bone smuggling operation out the back door.
+---
+You know you cant just tell people how to use their upvotes,right?
+---
+Afk train Ranged on Kurasks. Ez 350k+/hr.
+---
+Gettin sick of waiting no telling my squads even gonna be here in another year :(
+---
+“How many corpses have you t-bagged today?”
+---
+Jesus
+---
+I'd totally log in and out of this
+---
+First of all I wouldn’t compare myself to other players like that. You never know how those players got that gp, they could be an alt account, they could have bought bonds, rwt’d, or just got insanely lucky and got a tbow drop while getting dragged through raids by higher level friends. The thing with a game like this is you’ll never know and comparing yourself to them and wondering why you don’t have as much is just gonna discourage you. In my personal opinion the best thing you could do to make money is to stop worrying about it and worry more about getting your account progressed and remember sometimes you gotta spend money to make money. Also regarding the bossing best in slot gear is basically never necessary it is however always beneficial but as long as you have a “welfare gear” substitute you’ll be fine, you just won’t make as much gp/hr. A good example of this would be the ring of suffering it’s always recommended for zulrah but you can get by with plain old rings of recoil just fine.
+---
+Yes, you can post it to imgur and link it here
+---
+Hate? Do you know what hate means :D
+---
+Hey man, I died to him once or twice before my friend gave me some advice, and first try afterwards with it I killed him. You could already be doing this for all I know, but assuming you have reasonable enough stats/gear to make it to him, there's a way you can make the pray swapping easier. The ranged attack has a much faster animation and a shorter audio clip than the magic one, and the magic attack also has a much more obvious and noticeable sound. So if you just treat protect from range as your go-to prayer swap before/after every attack, all you need to focus on is watching/listening for the specific magic attack animation and sound, in which case you will swap to protect mage for that one attack only, immediately swapping back to protect range. For whatever reason, this strategy clicked so much easier in my head, and killing him is simple once the fight just becomes waiting for a magic attack. Same goes for the healers, don't worry about killing them super quickly, just keep focusing on the prayer swap. The healers respawned like three times on my kill, and i didn't even care because i knew there was no way i was going to die to him, so you have unlimited shots at them assuming you're not completely out of supplies. Hope this possibly helps at all and good luck man.
+---
+You know there's this thing called karma which some people are very invested in
+---
+Great technical runescape player who's famous for doing PvM challenges at very low combat levels. Up-and-coming youtuber. Leaked the massive duping bug that Jamflex tried to keep under wraps. Makes KempQ boys *extremely* angry (see other comments :^)). Did retarded shit on twitter once after not winning a golden gnome, a fact KempQ boys must remind everybody of at every possible opportunity.
+---
+Which other teleports?
+---
+My only stat below 40 is RC. I looked up and saw it was gonna take like 1100 Library books to get to 77. Wasn’t down. 
+---
+Then I got curious and looked up the hiscores and saw your xp. Thought maybe this might be the most xp anyone has ever led in a skill before lol.
+---
+You do bloods all the way? Or souls?
+---
+They won't spend money on real programmers
+---
+Same, I saw he did like 20m XP/day and I just said fuck it and went back to point farming.
+---
+Dude sounds like an edgy 14 year old, I’m not gonna humour that!
+---
+You, sir, are a fucking King.
+---
+you can 1 item the zamorak wizard easily
+---
+It’s not hearsay if the people talking about it were the people involved
+---
+**Straw poll**
+---
+* Do you like the new Acolyte Armour changes: [Link](https://strawpoll.com/5bfsggfz)
+---
+* Do you like the Cape of Faith(t): [Link](https://strawpoll.com/x81k4f81)
+---
+* Do you like the Cape of Faith(s):[Link](https://strawpoll.com/7sxcbph9)
+---
+Or rather there were a lot of people calling Rendi out but because of the circle jerk in the heat of the moment they were downvoted. 
+---
+So after people have calmed down and actually thought about it their opinions of the events because less sure, then this post comes out criticizing Rendi and now people are circle jerking that he is actually a bit of a tosser. 
+---
+There will be very little overlap in people who were frothing at the mouth supporting him when the first video dropped, who are now calling him out here.
+---
+All of them.
+---
+Is that the name of a cc?
+---
+???
+---
+EGG
+---
+Dude try the jad simulator online it helped me so much. Honestly hope that you get it in the next couple of days
+---
+its not hard retard just kill it
+---
+The guy asking in his pm's whats the video about?
+---
+Errrrr its hard to explain..
+---
+Nice! Gl
+---
+Fair point. And if you're shooting for 500 contract, you can get 82 from tithe pretty quickly.
+---
+Just hard code it in for those worlds like everything else is.
+---
+How could it help him get Barrows Gloves at a lower level?
+---
+This needs more attention. Husky is doing God's work
+---
+Knowing this makes me a bit happier. Thank you, stranger.
+---
+Damn dude that's a lot of xp waste.
+---
+How is this not the top comment I am fucking dying dude holy
+---
+you cant really solo olm with it because it has 10 attack range so youd have to go to the back of the room to do it like how people do it on twisted leagues with fire staffs meaning 4:0 wouldnt be possible
+---
+If you pked. You would be laughing youre ass off.
+---
+raiding is a ton more fun
+---
+It took me about 10 years to work out this icon was an arm, not a scorpion
+---
+my mom used to work at a bar that also had slots and sometimes i'd stop by to keep my mom company on less busy nights. one time this dude who reeked of alcohol kept pumping money into the slot machine and whenever he lost everything he'd go and beg his girlfriend for more money promising he'd "win big" all sad puppy eye'd.
+---
+in the end he did win and cashed out, but he made back less money than he threw at the machine. legitimately was depressing to see it play out.
+---
+meh, it's all situational. I'm close to my mother and her siblings - that's it. Only child, one cousin. I basically hate all of my extended family that's left.
+---
+Which irons will likely end up doing anyways for boots/pages/etc
+---
+&gt; 70 magic pkers hitting 75+ on you
+---
+so they save week or 2 weeks of splashing 
+---
+If there is problem then it is how combat level is calculated. 
+---
+- minimum combat for 75 magic is 39
+---
+- minimum combat for 99 magic is 50
+---
+First he said it once, but then he said that he will not say it twice and only said it once after that so technically he didn't lie :D
+---
+d mace to gmaul meta incoming
+---
+2
+---
+I just dont see people pking in this unless theyre unskullers
+---
+For me it's "are you still killing those monkeys with wings?" after an 8 hour session in the crash site caverns
+---
+tried a raid. vangs and 2x thiev room, everything was 25 fps at best and there was an endless abyss around me. what an embarrassment lmfao. jagex should be ashamed telling people to download that garbage. it's an offense to garbage actually
+---
+So basically bandos
+---
+Psh maybe you would
+---
+I'd hope its challenging enough to where you dont just click it and wait for it to die while occasionally eating food
+---
+Make these robes a clue scroll reward !!!
+---
+https://www.reddit.com/r/2007scape/comments/e33k48/rendis_post_removed_or_deleted/f90xbqh
+---
+Why remove this post? 100% you won't respond. Spineless
+---
+There is a lil membership discount called 'Premier Club', available via runescape.com
+---
+Not even yourself
+---
+I’m my own worst enemy
+---
+You suck.
+---
+Amerifats in a nutshell :) thinking their failed country is more important than it is.
+---
+I actually really like it. Maybe the solution to the new skill problem is that it's not a gathering skill.
+---
+Cookery? That level must be low IRL.
+---
+Am I high as or is this awesome as? Both actually.
+---
+He doesn't work or go to school, he lives off of YouTube/streaming revenue and selling inferno capes
+---
+What you lookin at?
+---
+If we have to compete for resources I will always hop on my own accord, if you try to big dick me telling me to hop I will literally be petty af and make it the worst time possible for you.
+---
+Weird, I don't remember asking that question but thank you so much! Absolutely insightful.
+---
+Adding "THIS?!?!?!" or "Haha take my heckin' up-arrow champ :P" posts add nothing but cancer. Don't add them to your screenshots.
+---
+Hopefully the next agility course has a noose-zipline so I can hang myself because of agility training
+---
+11$ on you being the guy that says sit to clue hunters that don't fight back. Also, your*
+---
+Im not your buddy, pal
+---
+what the fuck is wrong with your brain that allows you to do this
+---
+Ok NEET.
+---
+Wholesome
+---
+Sure, just like there are 10hp ironman pure accounts. And 75 def pure accounts. And 99 prayer pure accounts. All those accounts are around 20-35 combat. No one gives a shit about that bracket lmao
+---
+This is a wonderful idea.
+---
+Happy Cakeday!
+---
+After I get 65/65 or 60 / 70 should I get def up to 60 as well right after?  Then get base 70s in all?
+---
+Oof
+---
+Tik tok, the Rendi clock is running out. Your own house of cards made of lies is collapsing.
+---
+Good. That means it'll be out by 2023 and youtube guys will actually have to make content between then and now.
+---
+Oddly relatable.
+---
+Ziet er goed uit peepee. Ga zo door :)
+---
+~Melee
+---
+This but use the resources on literally anything but Kill Monster Good-skill.
+---
+Yes. That is the point of having levels behind an item. To work up to a level bracket, get weaponry from it, and then work up to another.
+---
+I don't think everyone goes and works for gp to get ranger boots the moment they get 40 ranged. But a lot would go and grind a blowpipe at 75, instead of just continuing to use an MSB. 
+---
+It also wouldn't make much sense if a whip was 60 attack would it? Why would you ever use dragon weapons? Sure which is 10-20x the cost of it.. but so what, its worth getting much more.
+---
+Google. It's literally that simple. It saves everyone's time. Google "Rendi OSRS" and do the research yourself. Don't waste people's time. Don't be an asshole.
+---
+Not with that garbage defence. You're definitely not doing any high level PvM with what amounts to strength proselyte. 
+---
+With negative offensive stats for everything that's not crush and half the defence of Bandos, I can't imagine any use for mains for this. Maybe, MAYBE possibly some people who do COX might use the helm.
+---
+Op, have you ever actually pked?
+---
+&gt;The max hit with the staff in pvp is 82 with the new Siren's Tome and current max mage.
+---
+Please tell me someone spiked your beer with something for this idea to even exist
+---
+&gt;ballista
+---
+&gt;Wearing spirit shield
+---
+Lol I wouldn't hold much hope for it Jagex never releases big updates early (they are delayed if anything)
+---
+Well no I mean the literal wilderness would be half of the map so you don’t spawn there and wouldn’t have to engage in any pvp if you don’t want to, would just be a fun short term gamemode where permadeath is a thing
+---
+It is almost funny how wrong you are when ever you talk about pvp. I should start reporting your shitposting as spam.
+---
+He fucking boomed me
+---
+Tackle the main quests:
+---
+Waterfall
+---
+Tree gnome 
+---
+Gnome stronghold
+---
+Fight arena
+---
+Tourist trap
+---
+Then probably focus on money making, you’ve opened up a lot better money makers now.
+---
+I never understood that
+---
+Well, considering P2P is literally just F2P + more, there's no way F2P can be considered better.
+---
+Your going to report me as spam for having a differing opinion to you?
+---
+Your going to go far in life.
+---
+The thing about suggestions is that you don't use Reddit voting as if you're voting in game. You vote on the **potential**, so a good idea is seen by other people. If Jagex likes it too then they can adjust mechanics, polish it, change things up from the original rough draft which is all this is.
+---
+Why do you have your phd in your reddit flair on the osrs sub LOL
+---
+Seriously... What the fuck is that?
+---
+He’s like 19 how else would you expect a child who’s never worked or had to struggle besides whining on a video about a game he plays for a few racks a video via views or an add to act. Entitlement at its finest.
+---
+There is also infinite run in TL which increases the xp/hour of every method.
+---
+It’s a joke, dude. PhD in farming?
+---
+well if he still has contact to leak him bugs then probs he will.
+---
+Lol no, anything that is your opinion is fine but when you go around stating shit like it is 100% fact when you couldnt be more wrong. That is damaging to the pvp comunity because other people that dont actually know will believe you. Further spreading missinformation. Hence me saying i will report those types of comments as damaging spam. Only of pvp related though and if i see it naturally. I aint gonna stalk you or care about any other topics.
+---
+is this in the game now? when did they get changed?
+---
+The context from the thread isn't really needed, the "he" thing is really well known so would just clutter the image to attach it
+---
+The max hit with the spec at 1 Str on a pure is 3, sounds like a very strong build.
+---
+I dunno dude, you seem to really care if someone has a different opinion to you, your post history confirms that..
+---
+Because bad gear low levels and bad food?
+---
+WOW! Amazing!
+---
+Ya... I’m not gonna try to play LMS on my phone, but if I’m sitting on the couch and I see a few totems in the bank I’ll kill Skotizo a few times. It’ll be pretty much the same as on my computer except for a few more misclicks on the alters and a few 20s because I fucked up a mage/melee flick.
+---
+My phone does run the game at a high frame rate. YMMV
+---
+Oda racked up 110B in debt at one point. For him to be near 50B debt is impressive as hell. Most of time it’s his loaners banking on him winning the chuck.
+---
+I like how looking at this close up I can tell you they are at seers bank. 
+---
+Out of all the banks in RuneScape, not sure if proud or sweaty
+---
+Is your main maxed tho
+---
+If you’d have more fun playing a hcim then yeah try again. But judging on your situation, I think you might get more enjoyment from the regular Ironman
+---
+Farming toadflax herbs is good passive money on top of any other money makers
+---
+This is fishing not agility
+---
+He’s using a closed bank booth too. What a fool
+---
+Slayer at a higher level is profitable though...
+---
+What’s funny
+---
+Congrats! Have you thought about using dust runes so you can save that space of house tabs? Dust = air + earth :D
+---
+You taking the piss out of the do slayer meme??
+---
+Idk why but I'm so lucky at staking, which may sound good but has ruined the game for me.  
+---
+Last night I turned 100m to 2.2b in about 3-4 hours. I used to do CoX before staking and now it's just boring to do CoX for a 100-1000m drop which you can make in minutes.  
+---
+Don't get me wrong, I've been from 800m to 50m in 10 minutes but it's such a terrible addiction.
+---
+Imagine the infernal and fire capes with RTX enabled
+---
+Well they did try to poll summoning familiars and huge game changing AOE effects into Warding so it was definitely a reward centric pitch.
+---
+As an ironman, how do I get hold of loads of Manta Rays?
+---
+It's worth it, I had a similar struggle, keep at it! The main reason to get it is so that ppl don't make fun of ur obby cape
+---
+At least 120m+ xp 
+---
+-Shepsaice, some fellow in the comments
+---
+we don't need more melee prayer stuff.
+---
+if enything we need some magic and range gear with prayerbonus.
+---
+more than the +1 you get from god dhide
+---
+The slash defence sucks which makes it questionable for pvp. Even proselyte is better.
+---
+Can't it just be a runelite plugin checking there's no g.e. use/trading outside of parters etc? 
+---
+Prob they can do it in a week
+---
+Omg I didn’t even think about that. Just tried it now, thanks 😊
+---
+Gonna do this when my aoi comes now
+---
+Those bots are probably accounts they stolen when foolish people fell for the "click on the link and win 300m"
+---
+Nahh I cba with that
+---
+i think you are right. that cycle seems to be very common whenever someone creates content for a community and they hit a certain level of recognition
+---
+Thats the worst and the reason i dont even bother talking to anyone exept 1 Person in my Family
+---
+Magic is naturally suppose to beat melee
+---
+&gt;The thing about suggestions is that you don't use Reddit voting as if you're voting in game.  
+---
+although i agree that it shouldn't be like that, a lot of people do vote like that and it hinders discussion.
+---
+&gt;not seeing any dragon warhammers
+---
+Step foot out of Johnson County for a bit, they’re out here
+---
+Yeah i was talking about konar specifically though
+---
+I had subscription through the Google play store. Just a few days after buying it I got a a message from jagex that said my membership was susscefully canceled but i never canceled it and the money still came out of my account.
+---
+Sorry, out of the loop, what's it called?
+---
+I completely agree, the new staff would be laughably broken in PvP. Magic is already strong enough, people often forget the utility value of the normal/ancient spellbook. You could literally hit a 77 in void/tome/occult, that's insanely broken.
+---
+There’s a runelite plugin that allows this. I forgot the name i think it’s called customizable keys or something I’m sure you’ll find it eventually but it basically just lets you customize your keys so instead of f1 for invent you could have like R for invent etc.
+---
+The plays
+---
+you realize how dumb this sounds? This logic is so bad. "he spent his game time doing something I wouldn't personally do. LOL loser there's no point!" If you play the game at all in any capacity you can't say shit about wasting time and have it carry any weight.
+---
+Just buy them
+---
+I’d just continue playing your current Ironman sure you could restart and possibly get further but you will die eventually no matter what. And with a little newborn that could possibly need you at any second the amount of time you’ll wind up afk pretty much guarantees a death. Ofc you might have fun with just seeing how far you can get before a death and if that’s the case then start a new one.
+---
+Who cares btw.
+---
+Its almost 100% sure that nobody that will give you an answer actually knows or will know in the future.
+---
+At least he left on a high note.
+---
+It pretty much works for everything. Patience is a virtue.
+---
+Yeah made another acc the other day and it was f2p and now every time I log in where it makes you hit continue there is a picture advertising membership.
+---
+as soon as I hit 77 I went bloods then when I got 90 I did souls for the rest
+---
+Look up an optimal quest guide and grind them out that should get you some solid base stats all around and open up some decent money makers.
+---
+All this speculation with no proof being posted, bs about how it's because they cut him out, by saying nothing and this becoming a issue it could of been community would of been pissed, he exposes it community is still pissed. Weird ass community if you ask me
+---
+80 range, 70 def, 70 prayer
+---
+Disagree with everything you said about artisan rather than rewards. It would be more varied than slayer because there would be so many more skills attached to it than just the three combat styles.
+---
+Also because of so many skills you should be hitting 99 artisan waaaay before the skills themselves so no need to only train artisan.
+---
+as soon as I got 77 I did bloods then when I got 90 I did souls all the way
+---
+So anyone can just decide to go ahead and kill vorkath then? It's not a highly restricted access quest or anything
+---
+&gt;" **The Sarachnis update that has been promised since release** "
+---
+that's a lie
+---
+People treat woox like he’s a god too. Rendi saved the game show him some respect.
+---
+I mean, OSRS won't be around forever, either. That max cape you're grinding for will one day go the way of this "'achievement'" as you call it. At least they're not in denial about the permanence of an online video game.
+---
+Because crabs are basically free and this is not. Do you really think that guy is wrong?
+---
+Nah any type of dragon bones work
+---
+Magic in pvp vs magic in pvm is completely different. Unless you have pked you really don't know how magic works in a pvp scenario. Mystics is the best magic gear for it's price when it comes to pking at a price of over 100k for the set. No one would bring ahrims because that's not a smart risk for the low potential reward from usual pks so im sticking with mystics. The probability of landing a successful cast of a magic spell on a player in dhides is too low to make magic worth using apart from the occasional freeze. The buff pkers want is to balance magic so that it becomes a viable dps option, not looking for a ko potential with a max hit comparable to melee or range.
+---
+This is so clean. What are those pens/markers called? I love the look of it and would love to get some for myself.
+---
+Wyvern visage is a super rare drop at 1/12000 and I got it after killing only 300ish. Worth ~18mil
+---
+Y
+---
+Rebuilding after buying a Dragon Hunter Lance, what's better AFK gp, Rune Dragons or Brutal Black Dragons?
+---
+While active I've been using it for Vorkath and CoX, but it'd be nice to have something semi-AFK I can do while studying and doin other shit.
+---
+Congrats! I'm 96 at the moment and praying I get it before 99 :(
+---
+I cant be arsed to continue farming after the fact but it's my fave pet by far!
+---
+Pray for me! Haha
+---
+So what? That's 2 manta rays you didn't have before and you get to light some colorful fires, seems like a pretty handy clue reward to me.
+---
+Cool thank you I found them. Stews are 20gp each.
+---
+I did that a little bit, it was sadly just my own dumb fuckup that messed up the run
+---
+If you’d add a third to the trio it’d be ‘Sit Kid’
+---
+Yeah that is a bit annoying but i just struggle cause I have like a youtube guide playing on the corner of my screen haha
+---
+The argument was cleaning herbs for 99 herb. 
+---
+But I guess 99 herb isn't that high of a level or anything.
+---
+Exactly
+---
+"Grease wizard" is pretty great.
+---
+I learned to type on runescape. No joke.
+---
+Dat is toch het zelfde? :^)
+---
+How long does an account recovery appeal usually take? I signed in today and acc got locked for suspected hijack, havent received the email yet so i submitted a recovery instead ;-;
+---
+The devblog was wrong intially when it said the 58 base included the staffs 15% damage boost. If you test the staff in the tourney worlds you'll find that staff alone hits 66, with occult 73 and in max with sirens tome 82.
+---
+Man, I used to love watching Pawn Stars. Great show.
+---
+I hope only 5% of those guys even knows what Runescape is and the other 95% are just real bros.
+---
+Fuck rendi
+---
+*^(W I N T E R 2 0 2 0)*
+---
+Lol what was that sound with the mouth
+---
+Yea legit never heard any of our executives referred to as veep lmao
+---
+shut
+---
+This is why NNN exists. Cleanse your mind, sicko!
+---
+Please can you add an animation to the new mage special attack? Much like the dark bow one :) at the moment it's only a lame fire bolt
+---
+Nice, that's why it felt so familiar for me. But can't tell which army it is. I'm in Viru rn btw
+---
+Mfw I get 99 cooking. Gz buddy 😁 https://i.imgur.com/xLCWjiN.jpg
+---
+Been there
+---
+Cannonballs
+---
+Yup your right, no way I could get 40 levels in a single task.
+---
+WAAAHHHHHHHH WAAAAAAAAAAAAAAHHHHHHHHHHHH SITTING AT A TABLE WITH PEOPLE I DONT PARTICULARLY MIND SOUNDS LIKE PERSONAL HELL WAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH WAH WAH I HAVE ANXIETY WAH WAH WAH IT'S HARD TO SIT DOWN AND MIND MY OWN BUSINESS FOR 2 HOURS WAH WAH WAH THAT'S HELL ON EARTH WAH WAH I'M WASTING EXP WAH WAH!!!!!!!!!!!!!!
+---
+Just because someone doesn’t know who he is doesnt mean he’s not well known. If I said idk who Selena Gomez was, that doesn’t mean she’s not well known, just that idk who she is.
+---
+Classic reddit overreaction.
+---
+Ruby bolts (e) are the answer
+---
+you sound like a pussy ass bitch
+---
+gl!  I was in the same spot starting to lose hope and this happened lmao.  highlight of my week
+---
+NeW StAfF isNT OP
+---
+Let him do his thang, he got 8 leg
+---
+Any source on the leak parts? Haven’t heard that he found the bug ect
+---
+Cause everyone who owns a 39 combat account will have a 2b+ item on it yup
+---
+all you need is base 75 range/mage maybe 80+ att/str/def. 78 herb too but you can just farm/scav while others make pots. it's not that necessary.
+---
+&gt; only I'm able to hit 73s
+---
+This wasn't an accident.
+---
+Take a look at d hide chaps, there's already a quiver on the outer side :^)
+---
+b
+---
+Appreciate your time but I hate it. Seems like a nuisance added to the game
+---
+wo0aty
+---
+If your goal is speed then you shouldn't spend any time at MLM. It's slow xp, getting nuggets takes ages, and if you get the coal bag you're planning to use it to get *slower* smithing xp.
+---
+Powermining iron and blast furnace gold will get you there really quick. The gold is really not that expensive either, getting to 70 is only 2-3m. I've never tried superheating while mining, but if you don't mind the level of click intensiveness then go for it.
+---
+Yeah that’s always been there yet people hardly notice
+---
+People left some really good feedback in this thread, I hope you guys seriously read and consider it.
+---
+Gotta cater to those influencers :)
+---
+Yes.
+---
+Idk I got 99 HP few weeks ago and no party was thrown for me :/
+---
+Underpromise and overdeliver.
+---
+Your pattern looks strikingly similar to my Canadian equipment. Bravo Zulu, brother!
+---
+No it's your choice
+---
+Did you get one?
+---
+Youre absolutely wrong, levels are only a threshold when the exp reaches a certain stage, level 43 is 50339 exp so times that by 5 would make 251,695 which is level 59.
+---
+2 months vs 5-10 years
+---
+I'm more worried for you than him. My concerns for his ability to live life to the fullest (which maybe for him, he is doing already are minimal, but your lack of ability to understand people value things differently and lack of ability to see things from a different perspective is terribly alarming.
+---
+No, but enough tools who can make a level 39 alt in a day with a 2B main can and will run a train over the lower combat brackets.
+---
+But he **did** say it twice when he said he wasn't going to say it twice. That's the point. It defeats the entire purpose of the phrase if you say it again.
+---
+You keep having this weird perception that the phrase means, "**After I am saying this,** I won't say it twice." That's not what the phrase means, that's not what it's used for, that isn't how it works. Otherwise it'd be, "I'm not going to say it twice after this."
+---
+The "I won't kick you in the head" isn't even the same situation. That sentence states "from here on out (since won't is will not, i.e. future tense,) my foot will not make contact with your head," which if you didn't kick me again, would be true. So that isn't even the same situation grammatically.
+---
+I think you need to work out tenses in the English language before we have this discussion. How you're interpreting all of these situations is flat-out wrong, and it's kind of goofy. "Finally you get it," I got it from the get-go, you came in as though you were correcting something by misinterpreting a phrase. Again, the intention of that phrase is to **not say it twice** because it puts emphasis on the original command. Not "I'm not going to say it twice *after making this statement.*" You'd look like a buffoon, much like the guy in the picture did.
+---
+Im always mining on W357 top section of mlm so pop on by and say hello! RSN: UnpaidLawyer
+---
+Fucking, yes.
+---
+/r/theymissedthejoke
+---
+I dont get why this subreddit is so obsessed with the idea of having a mage ko weapon in the game when literally everyone who actively pks can tell them its a dumb idea. It literally doesnt effect them at all, ko weapons arent going to be used in PvM anyways.
+---
+But hey lets post theoretical max hits in max gear (and atleast ~100cmb) and pretend that its the same as being able to hit 70s with a magic special attack. Typical reddit anti pvp circle jerk.
+---
+No... Didn't get that pet yet
+---
+They don’t have the exact same loot. They have their own table of uniques.
+---
+golf zulu
+---
+in what world does 43*5 = 59 lmao
+---
+Who cares about a specific combat bracket for pking.  An extremely end game drop should not be balanced based on how some level 39 can use it to kill other level 39s for 15k loot
+---
+People hear about the hell that is war and wonder how people not only re up, but miss it.... you can pretty much show them this.  Next level comraderie
+---
+just 1 or 2 item switch. It's much more relaxing. I can go for as long as the pray pots let me when I'm there. 5 way switching is a good way to an early death for your hand
+---
+I’m fairly certain they both garner more views than rendi lol. Not to mention Woox works full time, so streaming is just extra money and for fun.
+---
+Eh, already been doing Rune Dragons with it and runelite notifications typically let me know if I need to eat or something while doing flashcards. It's not *that* AFK, but it's AFK enough. Did Brutal Blacks for a slayer task recently and actually made a really good amount of money in just 12 kills, better than Rune Dragons had been which is what made me ask, but I think I just got particularly lucky.
+---
+You all are awesome, so much support and humor. Dispute the occasional drama, this is a great community. And to clarify, it's been on/off play for all that time and a large break in the middle. Currently only play mobile so that scared me away for a long time. Thank you all!
+---
+I mean if this is at all a surprise to anyone then I'm glad they said it, was pretty obvious it wasn't to be expected until at LEAST late 2020, if anything this is good news.
+---
+Why the downvotes? The guy’s right, a forum dedicated to a video game is not the place where you should ask questions about it, duhhh
+---
+Wedoraids recommends 80/90/80/90/90 stats if you wanna do raids often with ranged being most important (which I train at Vorkath and use the money to chin)
+---
+Actually you literally can. That’s how they’re meant to be used according to the admins of reddit itself.
+---
+It's sad but I would highly recommend not giving it back because that would make you complicit in their gold selling.
+---
+Wouldn't this person be risking 1bil+ (if smited)? I hope it would be powerful.. but yeah this might be alittle "undefendable"
+---
+Just joking buddy
+---
+But that doesn't make sense. Dragon and wizard boots are cheap in comparison, and they're all very expensive to upgrade except the Pegasian crystal since the boot price is so high.
+---
+I don't understand why the boots are expensive when manacles aren't.
+---
+The vanilla client is embarrassing, they should just delete it and buy runelite
+---
+Yeah! Sorry for being unclear. I have all the reqs and the spot for sharks already exists. Upon attempting the task, it says a harpoon is required despite TL supposedly having 'barbarian training learned' (as you can see with classic barb fishing)
+---
+Yea but it’s comically small. It doesn’t scale very well to your character and gear.
+---
+Thats frustrating, cheers tho
+---
+Spicy drama from the spicy cape man
+---
+Name checks our
+---
+I try to keep it high, usually every other day
+---
+I'm guessing Runescape is a well known game there. I know it's pretty popular in East European/Scandinavian countries
+---
+No it wouldn't. It would completely kill TBers because anyone can land a freeze and walk under the TBer for a guaranteed logout. Tons of people still PK in small two or three man groups of friends in singles, and this would completely ruin what has been a staple of deep wild PvP for well over a decade.
+---
+best advice i've seen in a long time
+---
+Pet hunters could revive dead content if they implemented pets for things like this too
+---
+As I just hit 22.5m you’re in for a ride ;)
+---
+We pay we gay
+---
+He leaches off his girlfriend
+---
+This same argument could have been said about slayer on release. "I don't like it man. Seems like a weird mix of combat. Would rather see new skills put into the game".
+---
+This IS a suggestion for a new skill. Just because it has similarities to other gathering skills does not mean it's not new.
+---
+Yes I've looked at the wiki not doing Olaf's or Holy Grail at this point obviously, guess I'll just train the last bit
+---
+Yeah I did A Soul's Bane and Between a Rock for that reason over Holy Grail
+---
+No walkas... duh
+---
+Love it, more of this stuff on the subreddit please haha :D
+---
+No wakkas shibly... duh
+---
+“Love the game, just hate that it misses things that make it easier”
+---
+Lmao
+---
+?????? Why are you comparing Jagex to a democratic government organisation lmao. They're a privately owned company, not a publicly elected legislative body. They literally have no obligation to disclose anything about their back-end of products.
+---
+if he's not in-combat he'd just be xlogged, not much of a prank
+---
+"Just go in there, do a few hits, use a few potions, and kill the boss. Don't be nervous, man!"
+---
+Basically he's saying it's pretty easy and you'll be fine most likely. But idk your stats are a tad low. Maybe you can go with 55-60 Defence and it'll be fine? He hits kind of hard with that melee attack. Make sure you keep bind/snaring Obor every now and then so that you can avoid him coming into melee range of you. And hold down Protect from Missiles the whole time (get your Prayer level up to 43+ basically).
+---
+IRL 99 party
+---
+Your first sensible post. Yes, surge/barrage or ballista(no spec) to gmaul can be stacked in one tick. 
+---
+The difference? Surge/Barrage/Ballista(no spec) don’t hit 80+ and double gmaul is INCREDIBLY immaculate to the point of being nearly unreliable outside of 1def or high risk (wearing no armor / relying on maul rng for the stack) situations. 
+---
+Surge/Barrage/Ballista - double maul is the only comparable situation to the staff-maul in that the damage calcs happen in the same tick. However, due to the nature of the initial max hit of the weapons + the inaccuracy of the gmaul (let alone for two consecutive specs) makes it WORLDS less viable than staff-maul in its current state. 
+---
+Staff either needs a 60% spec or they need to have it function similar to a mele attack where there is no projectile delay (I’m sure there’s room in the code to have it be a magic-based mele attack, although they’d probably have to mess around with the protection prayer functions against it).
+---
+Oh interesting, maybe it brings *too much* value rather than not enough.
+---
+Do you pk?
+---
+crush def since its chain and slash acc since it's barbarian and they like slashing and/or stabbing things. +1 prayer because sapphires or something
+---
+I think that's exactly what's being said here. Rendi only wanted to use the dupe so he could get Barrows gloves on a low level account, but in doing so he purposefully leaked the duplication method to others so he would have the resources to perform it. If you recall in the video, worlds have to be full and the server has to crash for the dupe to work. Sounds like Rendi leaked the dupe to them, then for whatever reason he couldn't make his low level Barrows gloves account, so he made a video that transferred all the blame to the people he leaked the dupe bug to. If that's really what happened, that's a big yikes from me.
+---
+Giving you the benefit of the doubt and assuming your pictures are real: can you explain or verify whether [this video of your guys discord chat](https://www.reddit.com/r/2007scape/comments/e376lj/video_proof_of_bea5_answering_questions_in_rendis/)? You probably won't reply per your last statement... but by the sound of things you're kind of sus right now
+---
+I thought adding /s was unnecessary
+---
+I think your submissions are my favorite on this sub. So clean and nice to look at
+---
+Your link has been removed because it is not whitelisted. If you are posting an image, please use [imgur.com](http://imgur.com/) to upload images.
+---
+/r/2007scape only allows certain links to be posted due to a high amount of phishing links, if you feel your link should be whitelisted please [message the moderators of 2007scape](/message/compose?to=%2Fr%2F2007scape).
+---
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/2007scape) if you have any questions or concerns.*
+---
+I mean the full angler part is irrelevant
+---
+*do you want me to preheat the oven for some chicken tendies*  -mom probably
+---
+It's time to prayer pot and afk Slayer task then
+---
+Not this, elemental talismans are like 1/20 drops and so that grind is basically negligible. It’s because it seemed like adding more junk items to an already junky rewards table.
+---
+You’re trying so hard to minimize my argument it’s laughable. You said they didn’t exist, so I corrected you. When’s the last time you saw someone using blood barrage to heal in legitimate pvp scenerios? Also the blowpipe is the same speed as an MSB with a higher max hit + venom, idk where you got this idea where’s it’s an unviable weapon from.
+---
+I mean defence stats are like completely negligible at 1def. Acc bonus might be neat.
+---
+haha
+---
+79 runecrafting then?
+---
+Then I dont get your confusion.... Since rangers are required for BIS, they face the same economic demand as if they were the BIS themselves...........
+---
+Do the ardy and lumbridge easy diary, unlock fairy rings, unlock fossil island and start doing bird house runs, train farming and learn how to do herb runs, buy items to alch for profit, do rooftop agility, follow the “optimal” quest guide
+---
+adding dead content isn't exactly something people strive for
+---
+Wear melee tank gear mostly and use ibans blast if under 75 mage. Trident of the seas if 75+ mage.
+---
+You will be maging all 4 melee brothers and karils in this set up. Range ahrims. Magic short bow (i) with amethyst or rune arrows is fine. Could also use rcb with emerald (e) bolts, but i think the msb setup is better dps. 
+---
+You also didn't post your current set up to get advice on.
+---
+Well when pvpers stop being assholes i will too, deal?  Deal.  
+---
+Now stop killing me over a god damn spade.
+---
+There was literally no other source after that video came out until people started getting banned and leaking info though
+---
+Got my first pet at the beginning of the Twisted League at wc 68, welcome to the Beaver group
+---
+Do you have a link to said discord logs? This sounds interesting
+---
+atthegeneralstore
+---
+He's a content creator literally famous for using bugs in his videos to do crazy shit as seen on his "Lower the better" series. He probably has the means to take advantage of it, but he most likely won't get away with it. If the anti-cheating team can't shut him down, the legal team probably can.
+---
+Ironman btw
+---
+DWH KC: 631
+---
+4 Zenyte KC: 550
+---
+Boosted Whip KC: 94 (Also got abby demon head 1 in 6k)
+---
+Boosted Dragon boots KC: 4
+---
+ROFL XD XD
+---
+It’s a suggestion for a new skill, but it’s not different enough from other skills. Slayer **is** combat nowdays. Slayer specific monsters and bosses give people incentive to level their combats. This skill gives players incentive to level this skill. 
+---
+That’s why slayer is so popular. It’s the only real mode of combat training that gives you incentive to train outside of NMZ.
+---
+No, it's truly instanced
+---
+RIP your items :(
+---
+I can't blame him, I didn't give enough hints :D
+---
+Obviously I’d be attacking him as soon as he alt-f4s...
+---
+https://youtu.be/YTgkpNBbl-o?t=6
+---
+You’re not supposed to enunciate the “h” in “herbs” lol.
+---
+I was smiling the whole time reading this, take my upvote here and again hopefully when it goes to polls~
+---
+Just poll this already so I can see people crying when it doesn't pass
+---
+True LOL
+---
+This title makes you look more like a marine.
+---
+\&gt;first task after the update is Abyssal Demons
+---
+Thank you Daddy Jagex for blessing me.
+---
+Other one is in step 4 and the other is step 2
+---
+Crazy that it's only like 90 or so doing Blood/souls on the regular servers
+---
+Err, it may no be the wiser advice but try Twisted League, I am a new player in osrs and probably got way more skill level in TL than in the main game but this is really great.
+---
+And before that, I mainly rushed as many quests as possible because they will provide a lot of QoL (fairy rings and other teleports, access to locked zones like morytania and bone island, ...)
+---
+Edit: 990 total level in main game and almost 1500 in Twisted League, and am continuing until the end probably!
+---
+Precisely.
+---
+Tbh, those are valid concerns. And no, me owning some stocks of the General Store™® chain isn't the reason why I'm defending them.
+---
+Appears to be library the whole way. At 20x exp you'd only get around 120m exp for 130 hours at souls
+---
+Yo bro HEY BRO LISTEN UP im gonna explain something to you and that is that i have anxiety and depression mental health content anxiety content
+---
+how are people still falling for this lmao
+---
+Lol that's great.
+---
+I can see j1mmy or 25buttholes doing a parody of this. A good parody.
+---
+Alching is zero effort, you can just use mouse keys and press 5 without paying attention to the screen. You can watch your movies and alch lmao. It's not even bannable if you do it like this -- Jagex has said many times that native mousekeys are completely acceptable, since all actions are 1:1.
+---
+Don't go through all that effort of making an arm if all you need it for is alching.
+---
+"I was drunk, I didn't mean (to say) it"
+---
+If you do a cox mass it will be the biggest shit show ever. That being said, it will probably be fun so gl
+---
+Hmm idk then
+---
+You literally can't have a good competitive game mode with trading on. There will be clans funneling items and selling gp on day 1
+---
+But but but.... he said it twice?
+---
+Did you hit the ge limit?
+---
+Are you in the canyon?
+---
+I'm gonna weigh in and say you don't seem to know anything about pking. Not taking part in the previous discussion, but more of this claim:    
+---
+&gt;Blowpipe is used mostly in risk fights because it costs too much to use.    
+---
+Go to high risk worlds and count the blowpipes you see. There is maybe one in 100 fights, because it puts you at a massive disadvantage compared to say msb and zerk ring which is significantly less costly too.     
+---
+&gt; When’s the last time you saw someone using blood barrage to heal in legitimate pvp scenerios? Also the blowpipe is the same speed as an MSB with a higher max hit + venom, idk where you got this idea that it’s an unviable weapon from.    
+---
+Anti-venom exists and is often times brought, especially if you know your enemy has blowpipe or toxic staff. Blowpipe is absolutely unviable in pvp. You can see this yourself by literally going to pvp. Or is everyone somehow missing this information or refusing to use blowpipe for some other reason?
+---
+Oh and the clues stack in scrollboxes with the relic, not as individual clues
+---
+I voted no for the same reason I voted no for the prize for completing a thousand of them. They currently can actually be decent money for newer players thanks to the uniques. The more people have a reason to grind them, the more the uniques will fall in price and the less worthwhile they will become. They were suggested as a casual thing for newer players, and in my opinion shouldn't become part of a meta either.
+---
+"Did you apply for that job?"
+---
+I am the guy that got that 99 cooking and i approve this message
+---
+priestman mode
+---
+Sounds like this has your jimmys overly rustled
+---
+Well? It's been three hours, why isn't this guy macro banned yet
+---
+its lithuanian. You should say tere
+---
+I'm saying when you have over the 416 f2p bank spaces withdrawing anything removes that bank slot.
+---
+4x
+---
+Here, Vilnius now
+---
+If y'all think these guys are wearing anything but full camo with rune crossbows you're out of your mind
+---
+It's really not confusing at all...
+---
+Splinter... yes please
+---
+I'd bully you but you're obviously like 12 so I'll leave you alone. Nice collection. Wrong sub though
+---
+We need mining rework so any mining that isn't mlm or Blast mine isn't shit
+---
+8Rznqh5 is the discord invite link for the runner discord, however you dont meet reqs for that yet, but if you plan to run it's definitely the place to do it
+---
+Solo games for 13.5k points a game.
+---
+One of the reasons I wanted to do this was because of the 15x rate for pet at 200m which seemed like a decent backup plan if I got shit rng the rest of the league when skilling. I'll most likely do post 200m near end of league to try and get pet. Imo rare drops like that shouldn't award as many points or the rate should at least be increased on a 2 month gamemode, especially at 200m which I'd prefer something huuuuge like 100x or just guarenteed pet though I know some people don't agree with guaranteed which is fair enough
+---
+this guy chops
+---
+Gratz on your bulwmlet
+---
+but your whole argument is that they’re a new thing and they’re responsible for the wilderness being dead these days.
+---
+Wat
+---
+Same place, roughly the same time:
+---
+https://gfycat.com/abandonedhandybat
+---
+Oh yeah this definitely makes me want to join your social discord
+---
+Which "multiple" bosses? names please.
+---
+If you were using it for that you'd be far better off using either of the other two staff specs. Stop trying to justify your moronic opinion.
+---
+You mad lad
+---
+REALLY!?
+---
+the 20 man ancestral team will be the ones that can use this, because if this staff gets into the game you will NEED someone to pj if your enemy is specing you and has this staff + ags
+---
+What are the requirements?
+---
+https://i.redd.it/ccle328l1iq21.jpg
+---
+What MOS gives you that free time? If you don’t mind me asking.
+---
+OP: "make inactive names get whiped!"
+---
+Hoarders: makes script to keep accounts active
+---
+Yes really 917 kills
+---
+75 rc 67 magic with lunars for both astrals and lavas
+---
+You literally said in your original post that you know the people at the forefront of the bug lol.
+---
+Lol
+---
+What on earth makes you think it will cost 2b lmao
+---
+I mean, thats not even twice over drop rate, could be way worse.
+---
+right good logic. 
+---
+landlord tenant situation *duscussing* things in a contract is the exact same thing as threatning someone with legal recourse due to an NDA clause that was never signed nor enforced, through a third party Chatting program. totally. you totally know more than me. you got me.
+---
+It seems like a combination of hunter+agility. 
+---
+From my understanding, there'd be large forageable areas in the game (possibly Lumbridge swamp as one region?). That region might house 10 events, but only 1-2 active at a time. This'd require you to move around the area randomly to do some gathering of items, where the items you gather are based on the event (excavating artifacts vs flushing insects gives different items). You might get 5-10 items per minute as you say. These events would require a certain foraging level to do that corresponds to the overall 'difficulty' of the region (Lumbridge swamp could be a low level region) but rare occurrences might spawn a high level event in a low level region.
+---
+Sound about right?
+---
+BNet account name system
+---
+That was literally never the case in deep wild pking hotspots
+---
+This skill seems like a combination of hunter+agility. 
+---
+Prob would not want someone like urself in there if you think a prayer pure is a fun way to play the game lol.
+---
+"Adopted son, today I will let you meet your biological father while I kill him".
+---
+The op hasn’t ever pked
+---
+And all the dragons
+---
+Honestly it's what the game needs. A little variety
+---
+Don't be a fucking du'mas. Opening a Google tab and typing in "item osrs wiki" is way more effort than pulling up a Reddit tab, creating a post, typing your question, and waiting for response.
+---
+Nothing is around forever using that logic. Obviously, though, some thing will be around longer than others
+---
+&gt; What if I want to quit for 5+ years and then come back, should I be forced to lose my name?
+---
+Possibly, but not *necessarily*. Copied from another comment:
+---
+&gt; Adding several thresholds is possible. Something like this could be done before an account is considered 'inactive' and has their name stripped:
+---
+&gt; 1. An initial minimum amount of time since last activity;
+---
+2. A minimum XP or QP threshold for your login to be considered real activity;
+---
+3. Someone in game manually requesting/checking if your name is available;
+---
+4. A second timer starting only once someone has checked/requested your name;
+---
+5. Increased time until inactive if total XP and/or total level are above certain thresholds.
+---
+&gt; Right away, this makes 90% of people immune to seeing their name being hijacked, since no one is going to be looking for "pepeboye278", for example. Secondly, people who have played for a long time and are a high level can also take longer breaks without worrying. If they want, they can also login occasionally and remain safe. Finally, the point isn't to create a flawless system, because that's impossible. The point is to deter hoarders while not significantly penalizing legitimate players.
+---
+It's only in beta it will get a nerf or requirements.
+---
+There’s already a spell that reduces defense. It’s on the normal spell book.
+---
+Still rebuilding at revs
+---
+Yeah..not sure what the big deal is rofl. My first time at abby demons took me over 3k kc (prob 15 tasks or so) to get a whip drop. Granted not a btw so didnt really need it but yeah, still took 3k. 
+---
+Complaining about not even 2x the rate, lul. Calm down bud. Much worse rates are a thing, and youre just doing Abby demons..yeah not that big of a deal rofl. Now getting first hydra claw at 2630+ kc? That hurts. Esp when you get 3 jars in that time.
+---
+Except their entire livelihood...hmm. 
+---
+The customer is the boss, even more so in osrs where we literally get to vote.
+---
+Ignoring the community turned out real well in the past with EOC.
+---
+You seriously think Jagex is just going around banning all his friends without proper proof? Lmao come on
+---
+ok but why
+---
+Hah.  Yeah.  Could you imagine spending an average ov 9.12 hours a day playing Runescape?  Sure am glad that's not something I do, yes siree bob.  Good thing I have a life.
+---
+Why? Public things like that are not good. How many reversals have there been, where they smacked, banned player attacked, they backtracked, then resmacked?
+---
+You sound like you got banned too. Maybe don't bug abuse and it won't be a problem in the future?
+---
+They have.
+---
+Better than being put in a concentration camp because you follow any of the gods
+---
+I wish they released the crystal quiver instead of the silly new crystal armor
+---
+.006% chance to max a 25 3 times in a row, compared to a &gt;1% chance to max a 73
+---
+No I understand exactly what you mean.
+---
+You chose to be a pure —&gt; you chose to limit your account.
+---
+You understood that being a pure meant you can’t complete monkey madness 1. 
+---
+Why should we change the game because you chose to limit yourself?
+---
+I'll be honest, I can't understand a single thing you just said.
+---
+\&gt; cherry picked 
+---
+&amp;#x200B;
+---
+Second screenshot I found:
+---
+https://imgur.com/bk8XWg7 
+---
+Third:
+---
+[https://i.imgur.com/K0887OL.png](https://i.imgur.com/K0887OL.png) 
+---
+Fourth:
+---
+ https://imgur.com/HlIsC6B 
+---
+Maybe it's time for you to admit that you're wrong?
+---
+Imagine
+---
+Maybe this can be the dragonstone armor?
+---
+Show me proof that they don't have proof
+---
+Jagex were aware of it already, what exactly were they going to report?
+---
+That someone was actually DOING the dupe is report worthy, which Rendi did, yes?
+---
+I think bryo staff has a 30 atk requirement because it’s made with a battle staff
+---
+Seems balanced ish but damn that crush attack bonus is gunna make maul pking way more consistent
+---
+Obviously fake. No one was proposing.
+---
+Where is your proof?
+---
+You really think jagex can't figure out how 110b was traded and duped around when they fixed the god damn thing 15 hours after Rendi made them aware?
+---
+Any useful shortcut is also locked behind a diary, further deterring casual players from bothering with the skill.
+---
+Oh hey. The reposted meme we've seen a few million times now. Holy shit, it's so funny!
+---
+Sorry, I completely misinterpreted your title. I didn't know the pricing structure of tabs and thought it was saying it went from 4 to 6 points per tab.
+---
+So someone known for exploiting game mechanics and member of the bug abuse community that rendi spoke of? Ok..
+---
+Omg someone else on the internet knows how to write "piqued" what is this
+---
+Lol, this isn't PvMscape bro
+---
+Ah, that's fair.  Still silly, since it's a skilling staff that no one uses in combat.  But because it's not used in combat, pure catering doesn't apply so no one cares that it's 30 atk (myself included).
+---
+YES just like that
+---
+K let me just get 5k upvotes on reddit, only way I'll get a proper response on this. wana help? :) only 4998 to go.
+---
+Proof it happened? Or just speculation I saw video but he didn't show shit
+---
+Wierd because the 3rd and 4th one prove exactly what i said. Those guys are level 50ish retard
+---
+&gt; But in reality it's an avenue to gate new monsters behind training the ability to slay them.
+---
+And why can't artisan be an avenue to gate making skilling good again (see: profitable, interesting, varied) behind?
+---
+dude, not cool
+---
+If the screen shots we are seeing is real, then I’m even more confused why Bea5 would rat his friend out like that lol. There’s a lot of inconsistencies with Rendi and everyone involved
+---
+You're some kind of next level ignorant if you think that ease of use isn't important in software, whether it's gaming or productivity.  If it were extremely difficult to use the Adobe suite of products, professionals would complain about the functionality of the software or use something else even if it didn't provide the same amount of utility.  Games are no different.  If the UI is a mess and isn't enjoyable to use, people are going to be less likely to put up with it, even if the gameplay of the game is excellent.  They're two different systems in the game.  One can be great while the other can be shit.  I just want the one that's pretty terrible to be improved upon.
+---
+Hopefully justice is served and  [u/JagexOsborne](https://www.reddit.com/u/JagexOsborne/) is fired, and Jagex gets cleaned.
+---
+https://www.reddit.com/r/2007scape/comments/7txtr7/how_to_build_a_sotd_pure/
+---
+I’d like to see some more player competitions like they had for the mythical cape
+---
+Aaaaaaand we're playing a complete cookie clicker now. Dammit. All it took was one round of /u/C0ncept8 being in charge
+---
+Because bea5 was the guy with 2000 bots right? Did you even watch the video bro?
+---
+That literally has 0 effect on the price of the items.
+---
+I blame leadership. I'm so happy to finally be in a unit with common sense leadership.
+---
+I personally don't see the problem. Melee and range both have KO weapons, why not mage too? 
+---
+Would your solution to fixing it be adding a tick delay so it's more like ags gmaul?
+---
+Hey just hijacking this top comment to say we are going to make it 50hp requirement and have a scaling magic attack based on your magic level early next week I believe.
+---
+But thanks for making the video! Feedback like this is very appreciated!
+---
+Ah, fair.
+---
+&gt; bea5
+---
+The guy that got his pmod removed not even 24 hours after he had it?
+---
+The guy with a level 3 combat chaos elemental pet?
+---
+This guy knows stuff about runescape so detailed we don't, so in all honestly it won't surprise me if he got caught doing shit he wasnt supposed to do.
+---
+My brother :D
+---
+Need more than that now
+---
+The video isn't game logs bro.
+---
+\&gt;the best screenshot you could find
+---
+\&gt;still not even 1 attack
+---
+Are we ready to admit that I'm right?  Clueless
+---
+its jamflex the fuck did you guys expected......
+---
+Just when you thought you peeked in your last 2007scape thread
+---
+And if they respond and say he did actually break rules would you actually accept that?
+---
+It does. The original comment in this current chain is that Rendi is a self righteous grease wizard. Any comments made in response within the chain are linked to that statement.
+---
+You're telling people to fact check in this comment chain. I have listed the facts behind Rendi's dickheadedness.
+---
+An ancient point and click game that some people have made millions of dollars off and that thousands of people currently make a living from.
+---
+Budget gear? youd be risking the ags
+---
+&gt; it doesnt matter, facts are facts
+---
+and the fact is the dds is balanced to be less likely to hit that?
+---
+How many of them actually know what runescape is?
+---
+Disagree. I think the community at this point has too much say in what goes on honestly.  How can we be expected to make decisions on workflow when we lack the necessary knowledge regarding.. Well being a RuneScape Dev lol
+---
+The game is massive and could have been in any of the dozens and dozens of locations. He managed to get to them before the world crashed (which apparently wasn't hard to do) so that tells me that he knew exactly where they were.
+---
+Everyone bridding uses blood blitz
+---
+The original topic in this comment chain was, quite literally, that Rendi is a self righteous grease wizard. If you're going to winge about people going off topic, then winge in a mirror or winge to each other, but don't passive aggressively take the moral high ground when we're all trudging through the same mountain of shit.
+---
+i'll also add that i've subbed with this account on 3 different occasion and have decent members stats, so all of my progress on quests and money spent is gone because of botched macro detection system
+---
+Medium clues are a good source.
+---
+RIP
+---
+Something something you are too weak dont tell them the plague is a hoax
+---
+A case sensitive password is as secure as a password with 2-3 extra characters. Just make your password slightly longer. Also, nobody is guessing your password by brute force anyway. It's irrelevant exactly what your password's theoretical entropy is if you have unsafe habits, like password reuse.
+---
+Entity hider
+---
+Clan wars is the third teleport on your POH jewelry set, if I was looking for crowds I’d definitely POH tele and try all possible teles to major spots just to check. This isn’t the most outrageous and unbelievable part of the story is all I’m saying
+---
+I e-mailed them!  Thank you so much for letting me know about the re-stock :)
+---
+Yes guy I understand what you're saying. My point is Rendi would have shown the PROCESS of finding them. But he didn't. He just randomly pops up while they're at it.
+---
+Thanks for the recommendations, I will definitely consider most of them and do some that are inside of my capabilities
+---
+Drills are people too
+---
+Is it confirmed Hiscores are getting wiped? I feel the support for permanent past league hiscores would be quite high.
+---
+pretty sure falador has concentration camps right on the border of their territory involving specifically only members of the marimbo / desert gods faith whose only crime is trying to seek asylum from zamorakians
+---
+The free armour trimming is funny.
+---
+After my bud got 99 smithing, he went to f2p and offered free armour trimming in 1 trade.
+---
+After he gave them the trimmed and they gave him the untrimmed, he'd do the emote and repeat. 
+---
+He gave out like 30 sets just for fun
+---
+Yea, I probably had a glory or something instead then. Anyways, point is they suck ass.
+---
+A few are useful for Slayer with no diaries.
+---
+I hope jagex ignores the clueless community on this one. Magic has been weaker for a long time in pvp.
+---
+People cry and freak out over the new tome giving 10 percent.  Meanwhile occult gives 10 percent for less than 700k and its barely ever risked in pvp. 
+---
+Learn to switch your prayers and defend yourself instead of writing off pvp balance changes
+---
+Sure it is. Incredibly unlikely, but possible.
+---
+I honestly don't think there is. If you don't have it as much in PvM its likely that you, like many people who form this biased opinion of the wilderness, just don't communicate with anyone outside your guild during your normal play.
+---
+I haven't been Konar boosting so I should start doing that thanks
+---
+Aye, but it's based on a *real* treasure casket
+---
+I did the same in regular scape with 2 hard clues a few months back, never been able to redo it, but both were completed within 5 steps total (4 on the first, 1 on the second).
+---
+Ezgame 5head
+---
+I current do fruit trees, cactus, mushrooms, belladonna, giant seaweed and spirit trees. I'm sure my motivation will be gone soon lol
+---
+They usually connect in a thematic sense. Not sure what you mean by what the "point" is though. It's art. The point is creative expression, whatever form that may take. People like the blending of references and style.
+---
+Adults being children. Call it what it is.
+---
+Triple my Main Game bank btw. 
+---
+Press F
+---
+So rip off a smaller company to give 2 of the biggest in the world even more money,nice
+---
+Maxed melee and ely, must have been really challenging
+---
+Hahahahaha I am so dumb. Sorry for wasting your time by making you read these.
+---
+He’s gonna throw a tantrum and get drunk again.
+---
+go forth in your raiment of gold and to the people you shall declare "btw;" and there will be much disbelief before you
+---
+It is sad.
+---
+This is important. I hate people that walk around with pets. Put them in POH and forget about them. They're obnoxious.
+---
+Shit I still use like 5 or 6 brews on olm, still getting it down though only @ 30ish kc.
+---
+I don't think that's how it works
+---
+literally.... youre so dense, what is your argument, getting everyone NDA'd is a Legal binding with recourse if breached, the same as *threatening* someone with a restraining order. 
+---
+the whole point is that its not supposed to be confidential information, its talking about duping/cheating and making all the content creators sign an NDA so they dont disclose information around what is said in the discord is considered a threat, how you dont see that is beyond me, you are getting no more replies from me. stop comparing leases and other actual contracts.
+---
+It's left click if they are a higher level
+---
+this clue is literally the same as getting double wizard boots instead of double ranger boots, but with 3rd age instead of ranger boots.
+---
+He said he's F2P, so he can't use those rings.
+---
+Not quite how drop tables work
+---
+Then you should reply to above comments not the person next in the comment chain. I commented asking why someone was being downvoted for asking people to check their facts? I don’t see how you spewing your agenda about hating an Internet personality for having an ego is in anyway related to anything I said.
+---
+&gt; High level agility needs a little bit of a buff, there is right now no real point to skill it past 85 (90 without pies), because there is absolutely nothing from lvl 90 to 99. 
+---
+Yes there is. Higher run energy recharge rate. Crazy how it takes 21 comments before this is pointed out to you. If u dont need this because ure abusing overpowered stamina pots, then you dont have a problem.
+---
+BAservices. Long wait though, and it'll cost you like 28m.
+---
+The scent of a gamer approaches.
+---
+Fun fact, if you're up to date on IOS 13 you can hook up a blue tooth mouse for a more conventional play experience.
+---
+&gt;I think jagex is a shitty company but I'm too addicted to their product to stand up for myself and put my foot down
+---
+thanks man ur a champ
+---
+Its not abput being rich, a 10hp pker is not practical. You would get a combat level every couple fights, and would be risking enough that if one person gets a hit on you, you're going down and losing a ton of money
+---
+https://support.runescape.com/hc/en-gb/articles/115002238729?utm_source=twitter&amp;utm_medium=support-cm&amp;utm_campaign=support-helpers&amp;utm_content=account%20bans
+---
+I main a 13 def pure so I'm pretty much better than all of you
+---
+Don’t lockpicks break?  I’m not understanding the big benefit of getting one
+---
+whaT tHe FuCK!
+---
+Yeah they said so in the most recent Q&amp;A.
+---
+thats a pmod and he's literally not allowed to do that
+---
+Hydra shortcut isn't even worth. Running is almost faster
+---
+Bug abusers view their findings as work/effort and want credit for the most impressive discoveries
+---
+We'd better start asking them for it then
+---
+But in turn they can be hit in 1 hit by their opponent, and theres plenty of people in that bracket with a decent mage defense, so if you splash, ur skulled risking bils, with no defenses, and 10hp. No ones going to pk like this except a few content creators for like a video or two
+---
+You make some good points, im still slightly skeptical tho. If happen chance someone was hoarding a name, would they be banned or just obligated to change names right then and there when they log in after a long time?
+---
+You taking an sgs? That might help a little,if you take the slow and easy method.
+---
+Yeah i don't want to just have stamina restores you have to use. I like the idea of it counting as more graceful pieces. I wonder if it would be possible for them to make it give you a higher max stamina, like 110 or 125.
+---
+The boss is compared to corp, could easily be a 1/5k drop, and bis for many things
+---
+that's literally all you took from it? It's not even gonna change the PVP account build meta at all. You have no clue what you're saying lol
+---
+Discord
+---
+If you're in clan wars and you have "expose what game im playing etc" discord will show that you're at clan wars.
+---
+[This comment right here pretty much sums up my tinfoil hat about this entire sitation too](https://www.reddit.com/r/2007scape/comments/e3ij2s/jagex_at_it_again_guess_they_hated_him_for/f93djj2/)
+---
+There's a game for that, it's runescape 3 omegalul
+---
+That's heartbreaking. 💔
+---
+&gt;I ain't gonna say it twice
+---
+*says it a second time*
+---
+I’ll have to rewatch the video that explains the spawns and safe spots again now that I have a better idea of what to expect in the cave
+---
+You tell me. They apparently hate him, so why don't they ban him?
+---
+They don't ban for all bugs. That would take forever. They punish the major ones. Bea5 has in the past exploited a major enough bug to get personal intervention on his account to remove his shit. I don't know why everyone is taking his side because he got banned for "major" bug abuse, when it makes perfect sense for someone like him to be banned for that. He could have exploited a major bug and isn't saying it to spite Jagex. Assuming that Jagex banned him for being friends with Rendi is a massive assumption with no proof.
+---
+How much did you pay for that cape?
+---
+Can you explain this further? I'm coming up on a few 99s and I've never had a cape before. What's the process to get both trimmed and not trimmed?
+---
+I do have sgs. I’m not sure which monster is best to use sgs on and what’s the slow method just waiting until you have one monster left who’s trapped and wait for the spec?
+---
+You hate people that have pets? In an MMO? They’re obnoxious for having cosmetics in an MMO? Lmao.
+---
+Yeah okay, that is weird. I would be going through the RuneScape website and submitting it through there because you probably won’t get an answer here. I’d double check aswell that under your google play subscriptions it’s still listed as active and hasn’t been cancelled at your end somehow.
+---
+Yeah I trust them with decisions on how to handle labor. But I don't agree with we have too much to say. Jagex had plans and knows what content they want to make and release, and they run that by us.
+---
+Any suggestions we make get put on the back burner for hype late game quests, and twitch streamer content, because that's who the game is made for. The advertisers who supported the game from the start, all the big Bois on twitch putting in time.  
+---
+We can suggest things sure but a lot of the time it just ends up being repetitive pestering rather then a suggestion, because jagex already knows what they want in the game.
+---
+The only real say we have in something is to say no we don't want that. I feel like to many people look at that as a bad thing, but I see it as a beautiful thing. It can be devicsive when people don't get the polls they want but, so far it's worked pretty decently. We've gotten some beautiful content with it too.
+---
+Is that suitcase tradable?  Where can i obtain one?
+---
+The tweet says that it’s a Jagex employee’s personal account. While the account is technically a pmod, the owner is a jmod
+---
+TL = twisted league
+---
+Kq helm is ugly as hell. So is the other one too
+---
+It barely gives zerks a Max hit on only a few spec weapons.
+---
+I like how he also says "making a LTB video showing the world's crashing" would be a bad idea when he explicitly said in his video that he initially found this by trying to figure out ways to make a LTB that's only possible by intentionally crashing the servers for bug abuse...
+---
+How much more is he going to contradict himself? What a clown.
+---
+I would suggest having the "meta" move around like the penguin hunt in rs2. It should be more often though (like every hour). That would force people to explore different areas for maximum gain. 
+---
+How useful are the gathered items? I don't mind the majority of them being trash. I could see the world littered in random low level resources.  Hopefully they don't disrupt the training. 
+---
+How close would Foraging be to hunting herbiboar? 
+---
+How does the skill integrate with other skills, beyond combat? I could see the trainers unlocking training methods, as long as they aren't too much easier or too much more xp. The trainers should give advice on lower level ways to train, but leaving the higher level and more complex caches to be discovered. 
+---
+How interactive would the skill be between players? Can other players steal your spot? Is it competive? You hinted that others would indeed see your spots. Is it better to be in an empty area than a populated (playervise)? 
+---
+Strange fruits could be a common loot, as they provide run energy. What about a rare loot (not an item), which when found would give unlimited run for 15 min? Could be useful for other activities too. Another stationary loot could be an imp box, letting you bank some of your loot. 
+---
+Dwelving more into rewards territory. There is a need for a weaker ballista that could be unlocked by a level ~30 trainer. 
+---
+Another unnecessary idea is having so called bosses. Like the [Moonfly](osrs.wiki/Lutwidge_and_the_moonfly). These would be more like complicated puzzles than traditional bosses.
+---
+If they got to a decent value it would make fishing and banking feel like less of a waste of time
+---
+That is SICK to have on your ironman. Big flex when you're skilling
+---
+Was just out flexing to a friend forgot to change, but I would say like $11 for the bond and $11 for the time i played that cost in internet usage to get it.
+---
+Yeah basically since you won't need much supplies
+---
+It's a rogue jmod! Who woulda thought that Jagex hired toxic people!
+---
+Yes, the autism levels of this subreddit are quite high, the /s is all powerful.
+---
+He was absolutely doing it all intentionally too. The entire point of that video was to frame Jagex as the bad guys, while simultaneously framing himself as some hero. 
+---
+But he continues to deny it and uses the, “these baseless conspiracy  theorists” tactic to try and devalue any narrative against his. 
+---
+Never seen any of his other content, and after this fiasco I never will. Byeeeeeee
+---
+Hey dude come join my cc "theoslounge". Lots of players of all types and skill levels. We pretty much just help each other, boss together, hold clan events, and joke around. Pretty tight knit group, and no drama. We will accept you and help you out whatever you need.
+---
+&gt; we'll see a return of the addy daddy pking pure.
+---
+Highly doubt it
+---
+im 18.
+---
+Depends on the discord log imo. If it's screenshots then I agree, if it's an actual official server log I say it's evidence.
+---
+Inb4 “not how RNG works” 
+---
+Gz man
+---
+&gt;Agility is one of the most annoying to train at high levels
+---
+Agility is by far one of the most calming skills to train at high levels. Agility is also really good for run energy restoration.
+---
+Cookery?
+---
+I don't see any reason why they wouldn't keep them.  Could just add a drop-down on leagues to select which leaves hiscors you want
+---
+Disagree, increases the value of my 99 agility... Wait
+---
+let me go through it
+---
+- shield/book - similar to corp, another group boss
+---
+- mace - similar to drygores, old rs3 t75 weapon
+---
+- armour - worse than bandos only put on for accuracy with dwh/crush
+---
+- **staff** - this one is powerful and maybe too much i guess, but its like claws can maybe hit that much with their spec too so i mean idk
+---
+I can't really answer that because I don't know. I have very little visibility on the situation, but I want to say that it depends on the offence. Hoarding names can't be illegal because hoarding names just means having a bunch of different accounts. However, selling/buying names could be made illegal. Depending on the severity of the offence, I'd go from a temp ban (minor offence) all the way to a permanent ban of all accounts concerned (major).
+---
+Thanks for the information! I have downloaded it, I’ve been experiencing much less heat
+---
+Wouldn’t know never played it
+---
+Idk about you mate but I sense they made have had a bit of sarcasm in their post with that "duhhh" at the end
+---
+Runecrafting gives -20% depression when the prayer is activated
+---
+bandos is bis defensive gear at the same time though. def requirement only matters to a very small subset of accounts.
+---
+The initial concept was to use a Thursday server reset to revoke quest xp but maintaining the quest completion. Is this not the case? In other words, did he explicitly say world CRASH or the aforementioned scheduled server reset. 
+---
+Thanks!
+---
+What’s that?
+---
+I'm right there with you man. I haven't cheated playing this game once, so you're not alone.
+---
+I think their usual stance is that crashing is allowed (but a little discourteous), but something like repeatedly hopping to crash and harass someone is griefing.
+---
+Maybe the screenshot is missing some context, but it's also just an hour mute. Ngl kinda confused by the back and forth. They both manage to type something after he says they're muted. I assume the working together stuff is sarcasm.
+---
+K
+---
+Whoever clicks on their target first should hit a 999 damage spec on the target regardless of their weapon &amp; get a bank key.
+---
+Only if you’re black bro. Add a small chance for the officer to incorrectly identify your white character as non white and oneshot, too.
+---
+Because Bandos gives much higher defensive bonuses than the Inquisitor Armor? The new set is essentially glass cannon gear.
+---
+You are a 200iq cwars player
+---
+Yes that is a good point, I figure most people camp prayer though unless they’re doing a bum slayer task or something? Is that wrong?
+---
+Riot!!!! RIOT!!! TAKE HIS JERB!!
+---
+Clearly not the full story but hey it's only been 24 hours since some drama this sub needs its fix. 
+---
+Sounds like Trainer Bad was attempting to take (or keep) all the dust devils to himself, and whenever Husky attacked a Dust Devil he would purposefully keep tagging it so he got no drop, which is griefing. Husky is well within his right to slay there, as the twitter post itself agrees, everyone has to share. Clearly only one entitled asshole here.
+---
+Early game they're ass, but mid/late there not too bad (assuming you have konars not treasure seeker).  Super afk, superior gives a 40k XP drop, drops herbs to help offset the pots you use.
+---
+You’re twisting the truth here and aren’t comparing apples to apples.
+---
+You say it’s better than Bandos, yet you’re comparing helm, plate and legs vs only plate and legs. 
+---
+If you do a fair comparison, you would see that the plate and legs have the same str bonus as Bandos plate and tassets.
+---
+If you want to do a full set vs max str, then you would notice that Bandos + nezzy faceguard is +12 str vs +10 str for the new armor set.
+---
+Plus the new armor set has negative slash and stab attack bonuses. It’s a niche armor set, with the same str bonus as bandos, worse def bonuses and can only be used with a crush weapon.
+---
+WildMudkip! My favorite runescape youtuber. He has a hcim series that he maxed early this year I believe. And then an ultimate iron man that he’s doing now. (Twisted leagues vids currently). The hc has like 200 episodes, so lots of content if you’re interested in that lol.
+---
+/r/hydrohomies
+---
+I can confirm that still works in the main game (just used it myself a couple of hours ago). It’s likely that either you or the spider are standing on the incorrect tile.
+---
+You should be mining the furthest West deposit. You should be mining on the South side of the deposit, on the first tile to the West, while the spider is on the adjacent tile on the East side.
+---
+... you see another. I shouldnt, you say to yourself, but then again. Maybe just a little pique
+---
+lmao this is a good one
+---
+Its dying/already dead.
+---
+Solo wildy pking is impossible, any other PKer you run into has a 5-man PJing team log in as soon as you start fighting. BH is alive, but gets boring quickly as its all about who specs higher, or at low levels who has a more prodded account. 
+---
+Sure, there is a skill cap, but it's not that high. Once you hit the ceiling this game is all about RNG specs, which can be a huge turn off. As a hardcore PKer back in the day, it pains me to say that in 2019, PKing sucks.
+---
+i’m currently on my fourth attempt of recovering my account (my fault for losing it email wasn’t 2fa) using literally the very first paypal transaction ID of its membership- still every time it’s being declined there’s literally no new information i could give them for the account
+---
+.
+---
+I haven't been following so I didn't know how rare it would be
+---
+Chair Force.
+---
+nah just bot you won't get banned jagex is awful at bot detection lol
+---
+Those are less dps than left clicking brews. 
+---
+Even if fire surge maxes 50. Thats average damage of 25 per hit. Thats every 5 ticks. So 5 damage/tick assuming 100% accuracy. Brews heal 16 over 3 ticks. Or 5.333/tick. Yeah, you could hit a 50 50 50 29 or some combination of that damage, the chance to do that is in the hundreds of thousands assuming 100% accuracy, but ofc thats never the case. That is not realistic. If i bring some combo food, the chance is zero. 
+---
+Oh, and if i bring ely, just lmao. 
+---
+Those arent laughing.
+---
+haha thanks, i have learned a lot by watching the pros and the guys that have 400iq
+---
+I don't know how Rendi hasn't been banned for Infernal Cape selling yet. Dude literally advertises his channel on the selling page and even uses Rendimento as his name on the site - with branding that also includes it. Like seriously, I love Lower The Better, but how has he been getting away with it?
+---
+No it isn't because that is regular mining?
+---
+I have 9 pets
+---
+The answer to your last question is because nobody here actually believes in anything lol. The circlejerk here shifts in the blink of an eye. Always been that way
+---
+I think the only real way to handle this is to continue playing as your currently doing and if(once) you get banned (lmao jogflex) you can appeal it with describing your current situation. 
+---
+Don't think there's currently any way to notify them of your situation other than messaging the right JMod(Mod Weath?) to put "a note" on your account.
+---
+To answer the question thou, it's not in their best interest to tell people how their anti-cheating system operates.
+---
+lol on my main i have 1200+ Hydra kills no pet no rare, nothing
+---
+cuz jagex r gay lel lol
+---
+Jmods hacking players for billions of gold and selling it - check
+---
+Jmods creating botting clients before they work at Jagex and then sharing in-side info regarding the bot detection with cheat clients after they leave - check
+---
+Jmods and their clans merching based on insider info regarding updates and making billions and RWTing it - check
+---
+Jmods sneaking in bugs they plan to abuse - check
+---
+Jmods giving in-game friends exclusive early access to valuable names worth hundreds to thousands of dollars during the name cleanup two years ago - check 
+---
+Jagex firing a poor sap and ruining his reputation because someone in management left a document containing salary details in a printer - check
+---
+Jmods leaking the final locations and IPs of renowned enemies to their in-game clan during multiple $20k tournaments and thus giving them a massive advantage - check
+---
+Jmods abusing their mod privileges when someone takes their spot, which is not against the rules - check
+---
+What a lovely game and what a lovely company.
+---
+Agility gives you extra energy regen at higher levels though
+---
+Diminishing returns yes, but you can't scoff at something that is actively ALWAYS buffing your energy regen speed
+---
+You’re right, they might as well delete all content besides tob because nothing comes close to its gp/hr
+---
+I swear I’m not trolling. SWEAR. 
+---
+People really go dry on ANY pet for that long? I’ve been grinding my ass off for 1800 total and my boss kd is probably light years behind this guy. Yet I have 3 pets. RNG really fucks people that hard? It seems like after 2k total your odds would be near 100% and after thousands of bosses it seems almost impossible.
+---
+3a is rarer than gilded
+---
+NightmareRH would be proud
+---
+Intentionally crashing a server is 100% inconveniencing and hurting other players. You can't crash an entire server and pretend it isn't grievous to others. HCIMs loose their Hardcore status all the time for shit like this.
+---
+Rendi doesn't need a heinous attitude or reason to be considered a dick for stuff like that. It's also Bug Abuse, which is a bannable offense. 
+---
+As far as the "censorship" goes...there's practical reasons that the mods wouldn't want people discussing a very exploitable duplication glitch, which I assume would be pretty obvious. But the mods have already addressed that non-issue thoroughly, which you can still read in the original post. 
+---
+What it comes down to is Rendi is doing his damnest to turn nothing into a drama-filled shit show because he got caught doing some shady shit that goes against this game's rules. In all honesty, it wouldn't surprise me in the least if the allegations of him spearheading this dupe to RWT the money actually turned out to be true.
+---
+I think he means he boosted his slayer level with a wild pie to kill those monsters before he got the level requirement.
+---
+You just killed someone’s holiday
+---
+Marks of grace are money... sell the amylase crystals u can buy with them...
+---
+That amount of money and dont know how worlds work? Suspicious.
+---
+I found the reddit normie
+---
+2 noobs enter the wild.. do two noobs come out?
+---
+Lange rich joined the world and tagged all my dust devils, this prompted me to tag all of his too. Husky logged in and just got caught in it and instantly muted me for it.
+---
+Pmods have certain power and a guideline on how to use it. Idc about the punishment of the mute this is just not professional. 
+---
+Also fuck off he was meleeing and joined the world later, according to your perfect world he joined after me so he was the 2nd one to arrive and first one to grief.
+---
+I chucked my bank today, I was burnt out and was going to take a break from OSRS anyway. A doubled bank later and I have all the motivation in the world to keep playing. I’m not returning ever, I beat the system 1-0, I’ll take my extra bonus and give the sand casino my middle finger.
+---
+Yeah but unless you're an ironman, you hit somebody in PvP once and you're no longer 10HP. PK for a few hours and your HP probably isnt even low anymore. Account has a short expiration date from the minute it's finished.
+---
+DC'd several time on UK worlds gonna try german
+---
+Every player that gets a bloodhound adds 1 week for Kacy's antidepressants.
+---
+Did he crash the server? Or did he know that others were crashing the server and try to take advantage of it?
+---
+I doubt he would report it if he was running it.
+---
+Ginger kid is absolutely 3rd gen inbred.
+---
+Thanks bud.
+---
+The classic excuse... not like their are quests, miniquests, slayer tasks, clues, among other things in the wilderness...  but yeah sure i just wont go into the wilderness, not like i ABSOLUTELY HAVE TO if i want my mage cape right?
+---
+Just go farm chaos ele with craws bow or tbow should be ezpz
+---
+Yes but with that def requirements thats litcherallly why it exists. Toxic pvp mongos piping up
+---
+Are people even reading my whole post? Your cannon stays on the world you were on xD I went back and everything was legit gone.
+---
+those clips arent exactly useful. things like attacking  corp one time, or an irons monster one time strictly to deny loot has been something people have gotten banned for.
+---
+thats a lot different than fighting over a spot between normie accounts or competing for resources. attacking an irons monster that is already dmgd by him does nothing for you except grief him
+---
+You're fun at parties I bet
+---
+this is not the case. You can [read about it here](https://en.wikipedia.org/wiki/Gambler%27s_fallacy)
+---
+&gt;Marks of grace are money... sell the amylase crystals u can buy with them...
+---
+Dude Marks of Grace are not post-90 content.
+---
+Thats like me saying "Oh Cleaning Grimy Ranars are 90+ Herblore content" just becaue it makes money.  You are missing the point.
+---
+lmfao
+---
+You're thinking mid level players are raiding? LOL
+---
+You mean 6 months ago?
+---
+Gambling is terrible straight up. It’s fine to do a cheeky bet once every blue moon with a couple mates. But the people who take gambling seriously, and claim that their “skill” can make them money - they have a problem.
+---
+Tweet @jagexweath.
+---
+always better to just burn logs.
+---
+Obvious exaggeration is obvious. You are a monkey.
+---
+i dont think that’s exactly what’s at play here. i don’t think i have the ability to put it into words so i’m not gonna argue with you here and i also may be wrong but i feel like that example is a little different
+---
+Hey thank you! I’ll be sure to check this out after work
+---
+I’m sure you’ll be okay. If you aren’t doing any bot-like activity in-game and your mouse actions are otherwise natural and fluid, I can’t imagine you will get banned.
+---
+I use MouseKeys to fletch which looks very macro’d and I’ve worried about it getting caught in some detection but I’m pretty sure it’s fine because my gameplay otherwise is normal.
+---
+I mean obviously you shouldn’t put me, or anyone in this sub (sans Woox) in charge of the game. I have my opinions, I voice them in polls, if you don’t like it then vote differently. If you want to lose money on a boss for 511 kills in a row, go kill cerb. I’m not a fan of that approach
+---
+The mods must be removing them because there was a ton of posts about it yesterday.
+---
+maybe dont be a bitch and you wont get smacked down?
+---
+What color goblin mail though?
+---
+Reminder that Fraser is so stupid he got permabanned for botting after his last ban expired, because he thought 'expired' means his offenses reset.
+---
+But they are content that is available and *actively encouraged* past 90
+---
+Husky is well within his right to slay there, and the other guy is within his right to make the spot undesirable to slay in so he has less competition. This kind of tactic has always been common and encouraged in competitive game modes. It is literally efficient to do this, so it fundamentally can not be griefing because there's a practical benefit.
+---
+while the odds of hitting successfully doesn't go up every time you roll, the odds of not yet having rolled successfully does go down every time you roll.
+---
+6 months ago is many days
+---
+I made my most money ever from staking. I guess I knew when to quit.
+---
+If you’re only looking for fastest xp and not crates then only do logs. Personally I shoot for 500 minimum so I’ll do a full inv of logs, then only fletch what I need to hit that 500 mark. But that’s only cause I can’t justify doing wt w/o some benefit other that FM xp.
+---
+Sometimes I’ll get lucky with the brazier and I’m between relighting/repairing my points will come close to 750 anyways.
+---
+He reported it because the guys he orchestrated the crashing with cut him out of the deal once they knew how to duplicate items with the crashes.
+---
+He got mad and reported to JMODs and released his video ousting a bunch of the people he worked with. They ended up getting banned for the crashes and are now colossally pissed with Rendi.
+---
+2-3 times. I’ve done it like 1 time where I killed all 4 in one stun but it’s so rare. Blowpipe with rune/addy darts is more consistent. Crystal bow is just a lot cheaper lol
+---
+And if you’re the type of person who doesn’t have the self discipline to do these - stay the fuck away from gambling. The whole industry is built around sucking these people in.
+---
+3a is 10x rarer so.... no it couldn't have been third age
+---
+Buying gf 35k
+---
+Great, thanks.
+---
+Trimmed smithing cape or infernal and he can fuck my wife
+---
+Holy hell, your ability to craft a strawman is uncanny.
+---
+Technically yes that would be efficient in putting yourself ahead relative to other players. 
+---
+That would be hyper obnoxious and not worth the effort, and if it became a persistent issue then Jagex could officially disallow it in competitive gamemodes.
+---
+The point of crashing every npc in a single spot so you can slay there without competition still stands, and it makes no sense to disallow that.
+---
+they do? never used it the past 3 years.
+---
+Beautiful. No drops for everyone :)
+---
+Grats mate. My second ever clue gave me a team cape zero last week!
+---
+I’d be down for a new gathering skill, we don’t need anymore bankstanding skills
+---
+Haha that’s hilarious! Hatching ain’t a bad idea 🤔🤔
+---
+I don't remember exactly but it was just someone going into their house with a shit ton of friends specing, leaving refilling spec some how then coming back to do it again.
+---
+main btw should have an ancient staff. He already has a green hat.
+---
+Thanks for the vote of confidence, even if you have second guesses about how closely it relates to other skills. I can try to clear that up for you though. You know how building the Shades of Morton temple gives crafting XP instead of construction? Well skills give experience in the closest thing available at the time. There's bits of archaeology in here, which is different enough from Mining to get it's own skill in RS3. As a "survivalist" skill, you wouldn't know which plants are poisonous or not just by learning how to plant seeds in farming. Herblore is a very old skill from classic, it wouldn't do to change that from a bankstanding skill to a radically different gathering skill. And anyway I've designed this skill from the ground up to be methodologically unique, you can't train it like other skills which I think makes it different enough to be considered its own thing.
+---
+Encouraged high level cone t is a long shot when you can clean ranarr at level 25, prayer pots at 38 and marks of grace at the first rooftop
+---
+Fuc off
+---
+If proselyte has the def of adamant, acolyte needs rune def bonus to justify the 40 def requirement.
+---
+Keep the pray bonus, give it rune stats. the requirement would be 40 def + 30 prayer.
+---
+Thanks. It tiok me solid 5 minutes to make this, atleast he came up with a new title for the post.
+---
+[Man assassinated by fremennik guard for speaking the truth.](https://i.imgur.com/HxZrFr8.png)
+---
+I think I removed it because it triggered me so much.
+---
+Sounds like a non issue to me. You get no gp/drop from this activity. Now the D2h is trash.
+---
+Jeffrey Epstein didn't kill himself!
+---
+Main game : incredibly lucky
+---
+Twisted League : rngg m8
+---
+As the other dude said, if it’s a flex then it will annoy you later on down the track. And you may want to consider starting again. And about the runes, are you on now?
+---
+So tantalizing on the floor there
+---
+Right? Everyone was shocked lol.
+---
+It was insanely broken for xp.
+---
+This.
+---
+Zalcano is a bad comparision, alchables/resources are the main incentives, at corp &gt;60% of profit comes from sigils, 1/3 from 1/4'1k drop
+---
+For jagex not to fuck up this boss droptable: 
+---
+1. Uniques &gt; 70% of the net income (main incentive), similar to gwd, not to vorkath/zulrah. Alchables/resources just pay the trip's cost.
+---
+2. Mace drop rate adjusted to rapier time cost (25hx3 players of raids? at 2kc/h) 
+---
+so if it is 10kc/h, then x10 the rarity per roll of the rapier, to be equal at least, or rarer
+---
+Really though. Its annoying the Central Middle floor only connects to the Central Top Floor.
+---
+LMAO you and I play games for two very different reasons apparently.
+---
+I don't play games to impress random strangers. I have a few pets, and I couldn't give a single fuck if you can see it or not. I see it, I know it's there, and that's enough for me. I dont need other people to validate my acomplishments.
+---
+Cant wait for hatching to replace RC, and of course : communism.
+---
+As usual, Reddit considers anything and everything to be "griefing".
+---
+Crashing (even though it's LITERALLY impossible to train without crashing someone) =/= Griefing.
+---
+PKing =/= Griefing.
+---
+You're upset =/= Automatically griefing.
+---
+This isn't fucking rocket science. *If the other player has something to gain from their actions*, they aren't griefing. Competition for a spawn or a boss is not griefing. Killing someone for potential loot is not griefing. 
+---
+Following a streamer from world to world while they're doing 3t teaks and killing their birds so they can't train efficiently gains you *nothing*- you are doing it just to piss them off. This is griefing. Learn the difference.
+---
+Well I'm sorry you weren't there so you are left only to speculate.
+---
+Yeah I got the gilded chainbody. Looks so terrible
+---
+Try some defence too, people at similar levels will hit less often.
+---
+Accounts don’t get “hacked”. People put their login info on the wrong sites. Take it as a lesson and move on.
+---
+What the fuck did you just fucking say about me, you little bitch? I'll have you know I graduated top of my class in the Gnomie Seals, and I've been involved in numerous secret raids on Al-Kharid, and I have over 300 confirmed kills. I am trained in gorilla warfare and I'm the top PK'er in the entire Gnome armed forces. You are nothing to me but just another target. I will wipe you the fuck out with precision the likes of which has never been seen before on this Earth, mark my fucking words. You think you can get away with saying that shit to me over the Internet? Think again, fucker. As we speak I am contacting my secret network of spies across Misthalin and your IP is being traced right now so you better prepare for the storm, maggot. The storm that wipes out the pathetic little thing you call your life. You're fucking dead, kid. I can be anywhere, anytime, and I can kill you in over seven hundred ways, and that's just with my bare hands. Not only am I extensively trained in Gnome-glider combat, but I have access to the entire arsenal of the Armoured Tortoise Regiment and I will use it to its full extent to wipe your miserable ass off the face of the continent, you little shit. If only you could have known what unholy retribution your little "clever" comment was about to bring down upon you, maybe you would have held your fucking tongue. But you couldn't, you didn't, and now you're paying the price, you goddamn idiot. I will shit fury all over you and you will drown in it. You're fucking dead, kiddo.
+---
+Pro tip just drop your easily replaceable stuff to save your clue.
+---
+Library wouldn't even come close to souls/bloods. I'd say even without harvester. As it's far more sustainable over a far longer time.
+---
+Well, 1, 5 and 7 are Jed.
+---
+I get your point though. Tbf, i personally think this screenshot is missing a ton of context.
+---
+don't do barb fishing.
+---
+Do drift net fishing, you get 99 hunter then finish 99 fishing with barb.
+---
+You get 75k fishing 100k hunter at normal rates, higher if you are proactive.
+---
+Oh wow that’s insane. I really did get lucky then. It’s wild you picked those two as your example, as those are 2/3 pets I happen to have, haha!
+---
+Have you seen defense pures?  The reason it’s not a thing is that you get the maximum strength level allowed for your bracket and the then train attack. 
+---
+The xp rates aren’t even that bad if you’re adding in cannoning organized crime in zeah.
+---
+This is a jmods personal account
+---
+&gt; Jmods and their clans merching based on insider info regarding updates and making billions and RWTing it - check
+---
+When did this happen and which Jmod did this?
+---
+Doesn't really affect bloods or souls as you can do that in main game never running out of energy provided your agility is like.. 75+ or something lowmlike that.
+---
+They’re trying to pick it up aren’t they?
+---
+You should be waaaaay past the need of a rune scim if you’re using Konar.
+---
+It's absolutely people trying the glitch, it's an open secret at this point. Everyone can find out how it works easily now, all a malicious person has to do is find a different way to crash the servers than what was just patched. I wouldn't be surprised if they went back to old-fashioned ddosing the worlds.
+---
+If I could sit in a business semi afk for a 150 hours in 2 weeks and be paid for it I would. Thing is that isn't how anything works.
+---
+Not worth it imo. Tried it the other day and it does take a while to set up (anywhere from 5 to even 15 minutes if you're unlucky) but that wouldn't be a real issue, if it wasn't for the fact that 1 single newb could (and WILL) come in at any time and mess up the synchronisation you set up so well. With all the time lost to setting stuff back up again and again, you could have long been gaining tons of xp had you been doing another method.
+---
+That's the most hooah shit I've seen in a while.
+---
+nope.avi
+---
+Library is 70k xp/hr on regular servers. It's still the highest xp you can get, but harvester would probably change that.
+---
+Still useful for fairy ring and getting to wildy from GE.
+---
+Eh they've mentioned having historical data and I really don't see how they couldn't keep the top 1000 in every skill, points, clues and total level. It's not exactly a huge amount of data and if they want any sort of longevity in these leagues they're gonna wanna offer something better than an ugly ass trophy.
+---
+What did he mean by this
+---
+This function would be great for RS3 with how many obnoxious pets it has.
+---
+Second
+---
+I wholeheartedly agree.
+---
+Yeh the first picture didn't load properly on mobile in the album until I clicked thru to it. Noticed that after.
+---
+Yeh couldn't see first pic at first. Seen now, Ty :)
+---
+This is 100% the reason. I trained up to 56(?) for regicide and haven’t touched it since. I personally don’t like Graceful so I didn’t feel the need to collect tokens for that (just sold all the ones I collected for the crystals or whatever for money). Except for the quest req I’ve found no reason for me to train it.
+---
+I am a bit confused about what point you are trying to make. Drop rates for pets are fixed percentages.
+---
+Now do it 5 more times. Jk good job man lol
+---
+I usually try to do that! Literally all i did was alt tab to paste it into paint. I do that so that in case i prnt screen something else accidentally i don't lose it. I was really quick too. Like 5 seconds tops. I alt tabbed right back and watched my dying animation. He must've logged in milliseconds before i switched lol. Unlucky but oh well :)
+---
+Where did European bh world go? It's wayy to hard to play on american ping.
+---
+Your luck sounds almost exactly like my brother's haha. But to be fair I'd only call the kq pet a boss pet. I have a handful of skilling pets that I got pretty lucky on. Farming I worked hard for doing pet patches only and got it at 42m XP. That was a happy moment
+---
+So October 2021?
+---
+Nice, what item is that even?
+---
+Nothing I said has anything to do with Alts?
+---
+I see you aren't willing to accept any opinion but your own, so I'll leave you to your pride.
+---
+I don't want to be that guy but the idea just wouldn't work in any meaningful way that adds progression to the game.  
+---
+Let's be honest,
+---
+This is nothing more than adding a search function to every object in the game and giving us xp in the process for doing so.  
+---
+  
+---
+here is what would happen with this skill;  
+---
+1. Skill releases, everyone is walking around for a day or two searching everything (or 'foraging').
+---
+2. Most people get bored because walking around randomly clicking on things.
+---
+3. People find the best xp training methods and the entire skill revolves around standing in a bank clicking an item in your inventory or standing in front of an object, clicking it. Next thing you know, it's not uncommon for people to just be groping trees, fences, bushes and shit.
+---
+4. Runescape will legit look stupid with random characters everywhere just fondling inanimate objects
+---
+We should have a skill but this isn't even a skill suggestion, it's a "let's add another option to the right click menu for no reason but to give rewards and xp for it because mobile gaming practices are exactly what we need".
+---
+If you have 84 slayer I’d recommend training on it but not waking it up if that makes sense
+---
+should be an ultimate
+---
+Chance of hitting a max hit is 1/max hit. He is not taking accuracy into account, defence doesn't affect how often you get a max hit only how often you hit.
+---
+Man, this is so wholesome.
+---
+"how rare is this"
+---

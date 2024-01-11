@@ -1,0 +1,2426 @@
+Arguably the most famous ranger in other fantasy worlds:
+---
+
+---
+[https://medias.spotern.com/spots/w640/63/63377-1532336916.jpg](https://medias.spotern.com/spots/w640/63/63377-1532336916.jpg)
+---
+---
+---
+I still say what they need to do is rework the system as follows.  Each character will get a new inventory separate from their normal inventory called the armoury.  Gear templates can freely pull from anything in the armoury when assigning gear.  Buying a new gear template slot will be fairly cheap, like 100-200 gems.  However, the main thing you'll want to buy to have more gear variety is more armoury slots.
+---
+Main difference here is that the current system each new gear template tab you buy has the "potential" to hold an entirely new set of gear.  So to "optimally" use it, you'll be wanting to put gear in gear template slot 2 that's completely different from gear template slot 1.  You CAN have your armour that's in slot 1 be the same armour that's in slot 2, but I guarantee you they're pricing these things assuming that you're storing entirely different gear sets.
+---
+&gt; I have more than 6 stacks of runes
+---
+Don't worry in few months we will hear from anet about listening to our "feedback" and how they are adding rune template slots, for 600 gems a piece.
+---
+Yes, before the post made by Anet today, delta was instructed not to continue supporting the plugin. Now that Anet has kinda backed off limitations of community tools to pretty much be "no cheating/botting," arcdps template plugins don't seem to conflict with their clarified stance.
+---
+Would explain why the newer mounts aren't included.
+---
+This should be made _for those who have multiple builds_
+---
+Comments like this are the problem.  Enough people start acting like there's even a hint of approval for add-ons, eventually they'll just have to implement a no-exceptions rule and everyone will suffer.  Just be happy with "use at your own risk" and use your own judgement as to whether you think it's likely to get a report.
+---
+So I just (finally) started the PoF storyline, I'm still on Act 1. I was wondering if you get the other mounts naturally through the storyline, or if the storyline at least takes you to the general area where you get them. I like to do things chronologically so I don't want to just go and explore all the areas to get the mounts ahead of the story if I'll get them through the story anyways. 
+---
+I got a really cool looking skin for the jackal mount from a blc a few weeks ago so I want to unlock jackal asap but curious how long it will take from Act I of the story.
+---
+I was on vacation during the original announcement, so I missed a lot of the initial conversation and dialogue. Looking at this announcement: 
+---
+- Character build templates. I'm a bit of an outlier in that I have 21 characters (20 level 80s and 1 keyrunner). Three slots is probably fine for about 98% of my use cases, since I tend to split activities amongst the characters (human power reaper for dungeons, asura epidemic scourge for open world tagging). Still, it's a little strange to see an artificial limit on something that's supposed to be easy to use and share. If I can just paste build codes for each encounter into chat and (hypothetically) right click to equip them, why would I pay for more slots? Why have that limit at all? Is there some concern about people who put up thousands of builds and slow down the query system?
+---
+- Character equipment templates. Awesome. I wasn't really expecting free bag space. Also, simplified legendary switching sounds nice, since most of my legendaries are currently treated as single-stat ascended with a nice skin. Most of my characters have two sets of gear (one equipped and one in an invisible bag), but I may get more of these for the ones that have three (condi, power, WvW). 
+---
+- Account build storage. I have multiples of every class and I don't get what this is supposed to be. Why would I want a place where my engy can see my daredevil build? Unless it's just supposed to be "well, there might be some people that need more than three builds on a couple of characters, so we'll just give them common space to dump those builds". In that case, I get it but it seems overengineered. This would've been better as an "advanced" tab, where you could store all the builds you want locally in a searchable text file. That'd also solve the "raider who switches builds every encounter" issue.
+---
+Overall: as someone who barely used Arc Build Templates, this is a significant QoL improvement. As a casual PvEer (and a bit of an altaholic), I won't run into the limits at the moment, but I can see where the seams may burst if I start raiding or something.
+---
+That’s someone’s potential reaction after seeing the ad. That’s all. Is it the end of the world, no. But it’s the direction that Anet is going that’s just leaving a meh feeling overall.
+---
+Imagine paying 400 gems to store a text string... Mental.
+---
+Cunningham's Law.
+---
+**^(Takes off Kitten Gloves  .  .  .  throws them in the trash  .  .  .)** FUCK YOUR SELF WITH ROCK DILDOS! You primitive assholes... I don't hate any developer . . . but you Higher Ups are damned brown-nosed corporate shills... FFFFFF---FuuU-ck yooou....
+---
+&amp;#x200B;
+---
+I cannot imagine myself quitting after 7+ years of Guild Wars, overall. Ugh . . . I need to think...
+---
+Yeah, this is literally what they showed on stream. Nothing whatsoever has been changed from what they showed in the slightest.
+---
+Yeah... I don't know. The swap gimmick feels really limiting and I'm not sure I want to invest into the +4 on every character just to have those niche swaps. Not to mention the live saving builds and all that.
+---
+Hopefully the radial mount menu will include a menu for this too? he did say he was adding support to let you add whatever you wanted for keybinds in the future
+---
+I don't think that complain is allowed on the forums.
+---
+It's because Jeremy Soule's music is pretty same-y
+---
+I'm just looking at this from the perspective of myself and my friends and guildies; I really only play on my thief, used arcdps for build templates for raiding, and really never had more than 5 templates per type at best. And even then, only 2 or 3 or those are really being used. Looking at my felllow guildies, I know one that used the templates as well to switch between Power Dragonhunter, Condi Firebrand and Heal Firebrand, and all the rest of the people I raid with simply don't use them, or have alternatives like just having a bunch of different characters to spread out builds over instead.
+---
+I have never met anyone ingame who uses the ridiculous amount of builds that some people are claiming to use here on just one character, so I am convinced that 6 builds at max is going to be plenty for 95% of the playerbase and those 5% that's left is going to grumble about it for a bit and then just dust off the the additional characters they had lying around for it anyways because thats what they used before arc implemented this thing
+---
+And [The Frog](https://wiki.guildwars.com/wiki/The_Frog) isn't allowed on streams :(
+---
+To be fair, with the massive changes coming with this patch, arc build templates would probably be completely and utterly broken if you used the new first party system at all (eg, unable to access the new gear storage). It seems reasonable for them to ask the developer to set a kill switch so the game isn't possibly crashing for the hardcore players that use arc build templates on release and they can have control over the user experience they want to set for the new feature.
+---
+Also think about what a new third party build template system would look like with this new patch. I think it would basically use the new storage functionality and on the fly change first party build templates or use the first party build templates to swap gear out of storage (if for example there was a limitation to how they designed it eg you call swap(set 1) and not swap(helm, shoulders, chest, etc)) then change stats on legendaries once swapped, falling back to bag storage for gear. Not a great UX.
+---
+yes, [lunatic armor](https://wiki.guildwars2.com/wiki/Lunatic_armor)
+---
+[removed]
+---
+While they can ban you for any reason at any time, it would not make business sense to ban a large portion of their active user base with no forewarning. This is why the "banwave with no warning for using ArcDPS" thing never made sense to me.
+---
+Whether or not you agree with the monetization aspect of it, I'm not sure they could have made the whole system anymore complicated/confusing. I've been pLaying on and off since launch and I had to read their summary multiple times and I still don't fully get it.
+---
+It's hilarious how this is being monetized in 3 ways.  
+---
+The equipment storage I can understand (even if players never asked for this, but rather a way to switch equipment in their inventory).  
+---
+But build templates and build storage? Something which is a string of text that could be stored locally on the players computer?
+---
+Has this always been like that? 
+---
+And where do you get the recipes? The TP?
+---
+oh, i guess it could be worse, then....
+---
+Wow he's still out there doing this? I have a mail from him from like four or five years ago.
+---
+Die die die! Die die die! Die die!
+---
+After 7 years I finally will have my weapon swap out of combat for ele. People made fun of me for asking for it years ago. Who's laughing now?!?! 
+---
+^^Me
+---
+Templates certainly could have been more attractive.
+---
+ Right now I'm not sure I'll use them much and don't see buying any for now. I play wvw and pve. In wvw I tend to play either a support or dps spec on a class. I also tend to use primers. So switching specs on the same toon and having the wrong food up, while not the most expensive thing in the world isn't all that useful to me. I can more easily switch toons.
+---
+Sure this helps with wvw queues so I might use it for one or two characters but in general not interesting to me. And most of the time when I want to switch in wvw it is to a different class so templates wouldn't help anyway.
+---
+Kind of relieved actually. Now I don't have to retire a bunch of toons.
+---
+Btw are the three builds per toon the three we already have (one per game mode)? Or can we use all three in one mode? Earlier it was one per mode. Did I miss a reference to that in the latest?
+---
+PS this is also FashionWars. Wasn't looking forward to hair clashing with an equipment set on swap. Might force me to more neutral hairstyles and that's no fun 😋
+---
+&gt; Legendary gear used to be useful for the ability to stat swap, but since that is now covered by templates, it's basically just a really expensive skin now. And since many players like myself transmute their legendary armour anyway, there was really no point in investing in it.
+---
+I think it's only fair at this point that legendary gear is given an unlimited amount of free transmutations.
+---
+Well, I think they should change that. At least for legendary items. Because otherwise there is no reason to exist for those objects. Before there were no templates, with a legendary object you could change statistics, it had value. Now with the new system you can store 2 or 3 identical objects with different statistics and it is much cheaper than creating something legendary.
+---
+It is a good fight! 
+---
+Now for some unsolicited advice: as someone who once swore they'd never do greens, my advice is to learn to do them and practice a lot. It's more than possible to learn to do them consistently, and you become a lot more desirable as a raider.
+---
+What's worse is that people defend Anet for this.
+---
+Lookingforward to it! 
+---
+Now, about those condi thieves, condi mesmers and power holos still running rampart around......
+---
+actually it was planned for release, but eventually got dropped before the game came out
+---
+They asked for feedback. They never said they would use it.
+---
+There were some people stating one thing and others another thing. Whoever you choose to believe might be stating the truth, or maybe not.
+---
+There was no official info and therefore any kind of assumption could have spread as truth.
+---
+It doesn't matter what the truth was, it doesn't matter who you believed. The thing is, that bad situation and unfounded criticism Anet received could have been avoided if they said something right away. That's my point since the beginning.
+---
+The short answer is: script rewrites.
+---
+The long answer: devs explained that originally Aurene wasn't meant to speak until after her ascension (they even had an "adult" voice in mind for her but cut it late in the rewrite process; we'll likely hear Aurene's adult voice once she reappears in a speaking role in The Icebrood Saga), thus the necessity to use Caithe as her mouthpiece for a time. Caithe's corruption also allowed devs to use her to confirm that Aurene had truly died and wasn't just unconscious; Caithe, being intimately linked to her dragon master, would've noticed if life still remained within Aurene, and thus her announcement and the petals fading served to further emphasize the shock ending of Ep5.
+---
+However, the writing of Ep6 seemed to struggle a bit by all indication during development. If we take Jessica Price and a few other (former and current) devs' word as gospel and piece their statements together, the budget cuts during Season 4 forced the team to cut corners and speed things along as they only had one more episode to wrap up the story. As such, we had the rather unceremonious Joko lich magic "reveal" without a longer quest to make the revival more impactful, and the devs realized they could use this revival as an excuse to make Aurene speak, too.
+---
+The devs had realized early on that they wanted that Kralk flight segment no matter what for the spectacle (since budget didn't allow them to use Kralk's full body for the Battle of Thunderhead Keep), but the segment would be tricky to pull off in the narrative without a speaking Aurene to explain what was going on as Aurene could only carry one person, the Commander, and Caithe the interpreter would thus have to stay behind. So they decided to make Aurene speak to get rid of that problematic aspect even though it'd lessen Caithe's Branding decision in the narrative (the budget cut reasoning might likely explain the lack of Glint on Dragonfall as they wouldn't have the budget to model her for GW2 and write the script to support her even though her appearance would've made sense).
+---
+It remains to be seen what the future holds for Caithe. However, she is the first being physically "corrupted" by Aurene, so devs can use her as a herald for Aurene when devs don't want to have Aurene make an appearance in person (although they could just use the S3 mental link between Commander and Aurene so Commander can simply hear Aurene's voice in their head). Another use for Caithe is to show the changing mental state of Aurene as she's the dragon's minion. If Aurene ever falls to the temptation of consuming more magic and starts acting more aggressively, Caithe should be the first being to foreshadow this change as Aurene's "corruption" would affect her due to her intimate link with her dragon master.
+---
+It'll be interesting to see if Caithe continues her association with the Order of the Crystal Bloom. She and Zaeim had nice banter about how one becomes a good leader during the events of Dragonfall, and Caithe was forced to step out of the shadows to take a prominent leadership role for the greater good, thus boosting her confidence. I'd love to find out how her fellow Firstborn and other sylvari, and the Pale Tree, react to her crystallization and her newfound role as a herald of Aurene; it could also be a nice tie-in to a future Malyck plot if the current team decides to revisit Matthew Medina's finished pitch for how to reintegrate Malyck into the story. With tensions rising about Aurene's Elder Dragon role and the Inquest looking for ways to wield her power (as suggested by Researcher Dwidd's ambient dialogue in Grothmar Valley), Aurene and Caithe's fates seem to be tied together for good or ill. :)
+---
+&gt;the staff they have hired are unskilled and should have been replaced by better people long ago.
+---
+Or the game is 7 years old and the technical limitations of the engine mean it's more complicated than you're making it out to be, you self-righteous, ignorant, jizz mascara-wearing, half-baked baboon.
+---
+I get being upset at the limitations and the monetization of build templates. Given what I'm reading, I think the cost for the templates is ludicrously too high. Inventory bag slot prices is reasonable for the equipment slots, but that's the fucking HIGH END. Don't go using a fucking bank tab as a benchmark for it, these aren't giving nearly the QoL to deserve that. That's a whole discussion, obviously. But don't come in here talking a bunch of horseshit about how technical limitations are bullshit. YOU'RE bullshit. You haven't touched a line of code in your life if you think that these things can't be limited by "spaghetti code". Someone who has been around here longer than I have can give better examples, but I remember being told that Mesmers (and only mesmers) were briefly unable to load into LA as it was being rebuilt. But I'm sure that was an ANet conspiracy to reduce the number of mesmers in the game.
+---
+And I would absolutely HATE to be one of the devs who worked on this, lost nights of sleep over this, bored myself to tears writing code for this, then get to go on reddit and see some nobody say with a straight face that the hard limits I ran into are some imaginary bullshit concocted for some idiotic, illogical conspiracy theory to somehow get more money.
+---
+I had a whole other pargraph written about how stupid the conspiracy theory is, how it doesn't make sense when you put literally a second of thought into it (like most conspiracy theories) but I'm not going to go into it because 1. I don't want to waste more bandwidth on this and 2. the stupidity of the conspiracy is beside the point. My point is you're a fucking idiotic piece of shit for calling the devs unskilled because they can't figure out a 7 year-old game engine.
+---
+That developer response came way too late when everything had already blown out of proportion. What I'm saying is Anet should have addressed the situation before it got to that point.
+---
+Jormag and Primordus, while being cocooned and healing from their wounds like Kralk was during War Eternal, would inevitably rise as they have tens if not hundreds of thousands of minions and hundreds of champions to gather magic to help them rise unlike the beginning of the latest dragonrise when they initially only had a handful of herald champions to start raising an army. The Pact should be aware that the solution from Flashpoint was only a temporary one, and Almorra seemed to agree given that she had sent Vigil (likely including Jhavi Jorasdottir) to monitor the Jormag situation and the Icebrood movements in the Far Shiverpeaks.
+---
+You might be getting downvotes for equating dungeons to PvE as a whole: they aren't, and they're obsolete content. PvE content in this game tends to be counted as Open World, Fractals, and Raids. Open World has the most laid-back crowd. Fractals, you'll want to do the same as for dungeons, or better yet find a guild to do them with where they can train you. Raids, join a training guild for the same.  
+---
+As some folks have suggested, starting a group with 'New Player, want to try &lt;x dungeon&gt;!' Or 'training run for x dungeon!' and that'll attract a different player than the silent speed clear type.
+---
+It's always around this time of year where so many people come together for a fun farm time in the labrytnth which is why I dedicate my Inktober piece for today on the Mad King himself.
+---
+Lunatic court armor, or something to that effect. the recipes are on the candy corn vendors in LA.
+---
+Thank you. At least one person understands what I mean.
+---
+In the same way a lightbringer and a ascalonian sword are "basically the same thing" because they have metal bits, sure.
+---
+But I'm doing the story mode, which requires level 30,I'm not supposed to do that until level 80?
+---
+I think the only thing there is about Arc, like they half-ass clarified that they wont just straight up ban people for using it but also won't say it's ok to do so because they don't want to monitor it.
+---
+Everything else they basically didn't indicate they listened to at all. Like, at the very lease explain why there's a cap and if there's any effort to increase it in the future? And why should be pay for storing codes we can copy and paste?
+---
+dealiebobbers
+---
+I know. I'm just reinforcing my point that anet never seemed to be in trouble and has plenty of revenue streams. They didn't have to monetize this, and if they are in trouble, it just adds to their history of management
+---
+I don't see many people defending them for the storage thing here. It's pretty in-your-face dumb to monetize a text-string you can copy paste.
+---
+Just let arc templates be, the casuals would use the new system anyway coz they don't bother to dwl and cfg an addon
+---
+Let Delta update arc and pray that they are still willing to
+---
+Sure ... screw up less often and maybe hire an actual community manager instead of just relying on marketing to pull double duty.
+---
+I think it should be a feature enabled in squad groups for raids/fractals but I see minimal need for it in open world. For general PvE it would be nice to have a wardrobe check option though.
+---
+Nah. Arenanet are a bunch of talentless buddies collecting easy pay checks. No evolution or ingenuity required. Anyone that doesn't leave can't find a better job and/or are happy with complacency and easy days.
+---
+Lmao 2 years of planning build templates and this is what they came up with. If they didn't have a history of monetising everything maybe I'd agree with you. This was designed specifically to maximise profit. Not only do we need to keep alts to have enough builds, we need to buy slots for each!!! 
+---
+And lol, cry more Mr High Heartrate.
+---
+I'm sorry, but "never listening to the community" would be the complete opposite of Arenanet's track record (for the worst). They did a complete 180 shift with their game between Heart of Thorns and Path of Fire directly *because* of community feedback. Just not when it comes to money and the gemstore, where they are right cunts. Of course I'm biased in that I hate all microtransaction shit shops.
+---
+The above user is suggesting using a code-based system, like the build templates, to store many different stat combinations of legendary items without needing to pay the (semi-understandable) storage space tax for loadout slots (that also have a hard cap of 6).
+---
+I'm pumped.  Season 18 was great.  Sounds like the devs ganked a cheater too, so let the good times roll.
+---
+Said a toxic asshole itself. How ironic. Being too afraid of downvotes to speak the truth? Being unable to tell anything but pitiful lies for karma farming? Don't worry. I can read your mind easily.
+---
+Clearly someone there does care about the story thanks to all the subtle and not so subtle references to past storylines and novels in Grothmar Valley dialogue and the fact how some of the dialogue changes depending on if you approach said NPCs as a charr or as a member of another race. Most of this stuff wasn't really needed in such detail but was added anyway, which shows dedication to their established lore.
+---
+We shall see how well they handle the narrative as we move onward with Episodes 1 and 2, but so far the plot seems to be headed in an intriguing direction with nice references and exploration of past lore.
+---
+we're comparing mostly power builds since OP asked for mainly fractals..the numbers were from the person i replied to and they hardly matter in order to illustrate my point
+---
+and we should assume ramp up is reached, otherwise we can just compare 5-10s bursts and disregard every non-dh/slb/wea but that's neither here nor there
+---
+they said that it **doesn't matter** whether it's 30k or 40k dps! and it's not about ramp ups and shit and you know it..it's just generic feel good crap every build has a place bla bla
+---
+let's use some real numbers! a reaper that only does 50% of its bench damage on skovald will have 15.5k, while a weaver would get almost 18k
+---
+my comment was mostly for people claiming that just because you don't reach benchmark numbers in real fights anything goes..which is extremely misleading
+---
+that's exactly what the person above said too! play whatever as long as you're good..isn't that lovely? let's just go full special pleading and have the reaper be a master of their rotation while the weaver can barely juggle 2 attunements to really drive the point home
+---
+because if we assume equal skill, which we should, then the gap remains pretty reflective of benchmark numbers
+---
+I help a lot of people learn/get into the game. If you're on a US server hit me up on Vayne.8563.
+---
+Crashes come with third party programs and updates... basically always. And we are lucky enough to have delta who updates what needs to be and rereleases it to the public. This is absolutely not a "crashing" issue.
+---
+If we're being fair, they do also add rng insurance like tokens sometimes.
+---
+The level of incompetence shown in build templates is truly astonishing.
+---
+First, they managed to designed a completely overbloated and confusing system that doens't fix the issue build templates should fix. They decided to tie it to bag slots and make that the main feature for some reason even though what people have been asking for and using in arcDPS has nothing to do with bag space
+---
+Then they go ahead and announce this will be a monetized feature when the community morale is at an all time low right after their lackluster living story stream, even though it was a feature in the original game and has been one of the most request features since gw2 release.
+---
+But turns out that even if you want to ignore the disgusting monetization attempt, you are limited to 6 builds for some reason.
+---
+They also forget that legendary armor exists, with this system there is literally no reason to get legendary armor, it's actually much better to just have 6 ascended sets because you can also have unique skins. Also if you were already playing PvP and WvW you are not getting any new templates at release.
+---
+And now they had a chance to atleast try to make something right and price this at 100 gems or so but yet they go for bag slot price. Also when everyone is shifting to a state of "let's wait and see" they decide to make a blog post reitirating their stupidity with basically no new information.
+---
+This is truly fucking amazing work, i think couldn't have gone about this any worse if i tried.
+---
+wher you found the prices?
+---
+The link of OP doesn't tell.
+---
+Perhaps that was not Holo-Kralkatorrik but the Spirit of Dragon paying a visit to the Spirit-revering Hoelbrak? Wouldn't that be a hoot? (RIP Owl) ;)
+---
+&gt; The norn believe in personal strength, individual victory, and an earthy spirituality that is both primal and complex. They revere the spirits of nature, embodied in animals that are both guardians and the essence of the world. **It can be said that there are probably as many Spirits of the Wild as there are basic types of animals—one Spirit of Wolf to embody all wolves, one Spirit of Dolyak to teach the lessons of strength and perseverance, and so forth.** Unlike the human gods, these Spirits of the Wild do not represent high-minded concepts like "War" or "Nature," but instead embody all the complex virtues and vices of the animals they represent.  
+---
+On a more serious note, the lore above from [A Spirit of Legend](https://wiki.guildwars2.com/wiki/A_Spirit_of_Legend) would suggest that there is (or was) a Spirit of Dragon. This Spirit most likely embodies (embodied?) various draconic creatures such as lesser dragons (drakes, hydras, rockhides, wyverns, maybe moss dragons and saltsprays). Makes one wonder if Jormag or some other Elder Dragon devoured the Spirit of Dragon in the distant past, or if that Spirit still exists somewhere out there and might provide us with some crucial information about the Elder Dragons.
+---
+Intriguingly the death of a Spirit affects the creatures associated with it. For example, we've heard [stories](https://wiki.guildwars2.com/wiki/Skuld) that all owls became weaker and more confused when the Spirit of Owl was devoured by Jormag. If the Spirit of Dragon was killed or devoured, how would this have hypothetically affected lesser dragons and Elder Dragons? If the Spirit of Dragon has somehow survived to the present day, is it one of Jormag's prime targets? That's something fun to think about. :)
+---
+I have two of them chilling in my bank. They're quite happy in there :) Set Polla freeee! :D
+---
+Hi again sorry for bothering you guys, but since you're helpful here, might as well haha, i can't really find a good build for using 2 axes, I'm using discipline tree atm and it's mostly about weapon swapping and banners and i don't like either, but I'm trying to get the Axe Mastery training and it seems to be a big waste just to get one good passive which is that mastery, is there better tree skills to get for the Axe?
+---
+So this!
+---
+"A single piece of legendary equipment can be customized with different attributes in separate Equipment Templates"
+---
+I mean, i'll take it.
+---
+yea i get it, it bothers me too that people rarely talk in dungeons
+---
+but..i call bullshit! you're leaving out some important details probably and i doubt you spent 3h in an endless cycle of being kicked
+---
+not to mention your insane ego and entitled attitude in some of the replies here..my best bet you have that leecher mindset and randomly join people expecting a carry(the gw2 community loves doing that so you'll fit in fine)
+---
+especially since you said you advertised your group but then joined a group of 3? you probably merged yourself with some people looking for a fast run
+---
+pro tip: it's incredibly frustrating to advertise my lfg and see 2 random new players merge up and start watching cutscenes and act all clueless when my lfg said "be experienced"
+---
+**tl;dr** lying ain't cool man
+---
+Verdant Brink is not an apples to oranges comparison.  VB has a fixed timer for when nighttime/the actual meta comes.  It comes regardless of participation/progress.
+---
+From what I understand of this proposal, 9 ships need to be escorted, so the time necessary for completion is a product of how many people are participating, and not a fixed timer, like Silverwastes 2.0.  I would rather see a fixed timer so that we can hop from one meta to the next. 
+---
+What story did you have in mind to take us to this map?  It does not seem to fit the current Charr/Norn storyline.
+---
+Did Anet talked about arcDPS BUILD TEMPLATE or just arcDPS?
+---
+&gt; thanks for collecting our feedback 
+---
+**ArenaNet**  
+---
+You're welcome! We're so thankful to you, our fans. We couldn't have had such a hugely successful and popular build templates system without you! We did it for you! &lt;3
+---
+Up to a MASSIVE six tabs!!!
+---
+yeah right okay anet
+---
+I agree, but BDO is an extreme example, where if you don't spend money you basically play demo. On contrary gw2 allows you comfortably play game without buying anything from gemstore, maybe with an exception of bank tabs, which i would agree you probably need more than 1. I just honestly see nothing in the gemstore that can make my gameplay more comfortable really (maybe endless tools? )
+---
+Thanks a lot for all of your tips, that swap weapons trick is  much appreciated xD
+---
+Farm bags, open bags for candy corn, convert to cobs, buy from vendor.
+---
+I will not pay a dime for this. I would rather make an autohotkey script for all my builds.
+---
+i don't roam because it's such a meme(it involves people as skilled as OP, enough said) so let's assume this is in pvp 
+---
+what you want is to land your condis outside of their evade frames, like at the end of the sword #3 skill
+---
+DO NOT panic, which is what you probably do, frantically trying to pile conditions on them..you wanna land some then literally just wait and stop attacking at all
+---
+you are at a disadvantage anyway and you'll have to make them burn both shadowstep and agility signet
+---
+because only shadowstep stunbreaks you might want to get a nice fear opener so they are forced to "waste it" for that..and that's half the battle already won
+---
+edit: a lot of their evades have aftercasts where they are basically "stuck" and any hit will connect on them, learn and abuse that
+---
+Building an awesome oven, of course!
+---
+&gt; This is not the place for it.
+---
+Yeah but it didn't used to be that way and it's pretty god damned sad that the subreddit isn't a place for decent logical dialogue.  It's why a lot of players have stopped coming here.  I don't even come to this sub as much as I used to because of the incessant and irrational negativity. Bullshit like the circlejerk that bitched about being banned for 3rd party apps, something that never happened, takes away actual legit criticism as well.
+---
+his facepaint is more matching the overall mad king theme. his facepaint looks like the pumpkin head.
+---
+also the spectral nature and bat wings don't match with the the bloody prince. 
+---
+For his set i would expect a lot of straps/belts and spikes with makeup on the heads that can be dyed
+---
+Plus 1 extra for the inscription
+---
+Not. A. Single. Word. About. Auto-update. Templates.  
+---
+Nice try to hide mistakes.
+---
+When 80% of the stuff released is on the gem store, it's really shit when there's nothing you can really work towards other than legendaries, collections or some vanity skins.
+---
+Pretty much everything that's added is in the gem store.
+---
+* Character slot
+---
+* Bag slots (per character)
+---
+* Now the build and gear templates
+---
+* Many many skins
+---
+* Mount skins
+---
+* Glider skins
+---
+* Stash upgrade (I think this one is the worst of the lot)
+---
+* Collection increase
+---
+* Character slot increase
+---
+* Loot boxes
+---
+* etc.
+---
+I don't mind convenience items as much (salvage-o-matic, teleport, etc.) or outfits being in the gem store, but when it's 90% of the skins that are in the loot boxes or gem store, it really suck for people like me who play casually. It is locking important features out of the game unless you pay for each possible things every damn time... I didn't mind it as much in the early days, but after checking my statements, I've decided I would not put any more money in the game. I'm tired of having to spend more and more money every darn time just to get the things that I think should be in-game.
+---
+I'll never buy the upgrades for gear/build templates. They lost my money on that one. I am seriously tempted to just give up the game and uninstall.
+---
+I think my biggest issue with it is that it might sound great if your builds are entire different sets of gear, but for a lot of people a build change could mean a few items here and there, or just swapping stats on their legendaries, so this system doesn't really save them much inventory space that they didn't already spend money on before.
+---
+Because time after time after time after time AFTER TIME, every time a ban wave happens, a loud minority start spreading BS on the forums and on here and how they were banned unfairly and how they're victims and every single time the dev goes into more detail to explain the situation and why they were banned and then those voices disappear. Happens with many games. Those people swearing up and down that they were banned all of a sudden go quiet once the dev speaks up. It's like groundhog day.
+---
+Seems like no new information was actually provided, it was just more concise and bulletpointed rather than hidden in paragraphs.
+---
+The only new thing seems to be at the bottom, which is just assurances that they won't ban players for using the ArcDPS templates just because they're making an official version. In other words, the entire post wasn't written for the sake of the confusion or complaints over the templates. It was written because of the exaggeration and lies and circlejerking done over the weekend in regards to the ban wave. 
+---
+&gt;Every account will start with one Build Storage Expansion with a set of 3  spaces, and can purchase up to 8 Build Storage Expansion with a total  of 24 Spaces in the the Black Lion Trading Company Store
+---
+This is the thing I don't get, and I don't like. I can understand a limit on the equipment templates, and I can even understand a limit on the quick-swap build templates.
+---
+What I don't understand is the limitation on build template storage, or why this is being monetized (other than greediness, that is). This is what GW1 had, in technicality, and it was effectively limitless. All it is, is a string for skills and traits (in GW1, a string for skills and attributes), so why is there a limit? It cannot be a technical limitation unless the way this was built was shoddy as fuck. And GW2 code is *supposedly* better than GW1 code.
+---
+So the only reasoning I can fathom is that it was it is intentionally hamstringed solely for the sake of monetization and getting more money out of whales. In other words, exploitation of customers.
+---
+Which is a shitty thing.
+---
+Is linking an equipment template to skill template possible? And it would be cool to make build switches quicker via an optional ui bar maybe?
+---
+Are you talking about Heavy Armor in both Cases? All Lvl 80 Exotic Light-armored Chestpieces have a Defense of 314, while all Heavy-armored Chestpieces have a Defense of 363.
+---
+This blog post is pretty much what they did for the last few blog posts regarding the alliance for wvw, nothing new and just tell the same thing again and again in hopes that people will just give up on their complaints and just accept it. " tell us what you think. " we've already done that but they don't talk about ANY changes about it since they got a ton of feedback saying it's never going to be enough.
+---
+You hit the nail on the head. The GW2 codebase is a direct fork of the GW1 code, meaning that Anet removed the build template code that was previously there. 
+---
+I'm not going to be buying a single damn template. They've already taught me to get used to playing the game without them.
+---
+Something I've been saying for the last 5 years:
+---
+- Ascended should be Exotic-tier stats + infusion slots
+---
+- You should be able to unlock new stat combos, sigils, and runes for your Ascended gear and swap freely between them once unlocked.
+---
+- Legendary should get free skin swapping to compensate
+---
+Then everyone would only need one set of Ascended gear per character, and build/equipment templates could be unified. I'd be totally OK paying 400 gems/template slot under that system.
+---
+&gt; I might be missing something, but by those rules I don't see how Taco is allowed, and I don't see how gear checking (which if I understand correctly just does calculations based on combat logs) is disallowed.
+---
+My understanding is that Taco skirts the line by not being an actual addon, but rather another app you just happen to have which draws over the GW2 window. It's a strenuous distinction, yes. The real reason is probably that it's also essentially unenforceable to ban something like Taco because it only uses approved APIs and can't easily be detected without scanning the OS for running processes (and Taco could easily be renamed).
+---
+'they' don't put anything on the wiki, players do.
+---
+I'm basically referencing the reddit ban "outrage" that occurred when some guy and his girlfriend both got suspended after the girlfriend's ex broke in to her account.  Because multiple people were able to provide info "proving" ownership of the account, both were banned since they had no way of identifying who was the true account owner.  And because the current fiance/boyfriend/whatever ALSO shared accounts with her he got banned as well, for the same reason.  Basically if multiple people potentially have claim to an account, then none do.
+---
+True, but you need to unlock specialisation with Hero Points again. Unlock Waypoints if you plan to use this character in Open World. And during Raid clear you didnt have down time when swapping build.
+---
+I will definitly unlock some equipment slots for my main Character without legendary gears (Guardian with 6 ascended gears).
+---
+Just a note that servers don't matter for PvE, it's all a big megaserver now.
+---
+No idea.
+---
+They didn't use GDPR to get the account back directly, they used GDPR to get the data on their ban and then that combined with technical knowledge to prove to ANet that it was a false positive. To their credit, ANet admitted that they screwed up when presented with the evidence.
+---
+Same, would rather continue to pay the sub than be saddled with features designed for maximum milking. I'll miss the combat and mounts, but this shit isn't worth it anymore.
+---
+I mean. . . I'm not outraged about it because it actually is a good feature and the 3 available will be more than enough to just have a notepad of all the ones I need. I just think it's stupid on Arenanet's part, that's all. I don't think they'll benefit much from monetizing build templates, meanwhile gear templates are actually a good feature that saves inventory space and I'm ok with spending money on, but I can purchase at most 6. It's kinda' laughable.
+---
+I'll break it down.  
+---
+Some players just want to run the dungeon quickly and do not want to play with you if you do not know what you are doing. Many of these players put requirements in the LFG such as 80s, or exp (experienced), fast, quick etc. These are all parties you should not join if you do not know what you are doing. They are generally just for rushing through without cutscene for the reward.  
+---
+Maybe they didn't have that in LFG, and are just like that, that's just unfortunate then. Regardless, the best thing to do for a new player would be to create your own party saying, "new player, help explain please" or something along those lines rather than join a party that may or may not be expected a fast run only to ask "please give advice".   
+---
+One thing to note is, people don't read/respond a lot of the time. You sometimes wonder if they are a human or a monkey. Hence, make your own LFG, you're more likely to get what you need and probably won't get "yelled" at.
+---
+Anet previously asked Deltaconnected not to continue work on the arc plugin.
+---
+Apparently, people thought their "fixed" arc plugin was getting them banned: https://redd.it/dk7qkx
+---
+But now Anet has said people were NOT banned for these plugins: https://www.reddit.com/r/Guildwars2/comments/dka7hc/megathread_october_2019_ban_wave/f4lgjva/
+---
+Anet is unlikely to explicitly greenlight the "fixed" plugin but will continue to say "at your own risk." At this point, I'd happily use the "fixed" arc plugin at the risk of being banned if I can also get access to the source code.
+---
+Anyone got a link? :)
+---
+I didnt realize those voices were all the same person!
+---
+Neat!
+---
+Og teen titans raven was always my favorite.
+---
+is it me or is this new information?  
+---
+ `A single piece of legendary equipment can be customized with different attributes in separate Equipment Templates` 
+---
+I remember people complaining that now their legendary has less value, but seems like it doesn't.  
+---
+tho in reality what would be really awesome was that, if you had full legendary set then you could have inf builds. now that would be really nice, even tho I don't have any legendary T.T it would give me little bit more motivation to get one
+---
+wat
+---
+that was awesome.
+---
+If you don't say you're a new player, people will wonder why you're watching the cinematic. Almost no experienced player wants to sit and wait while someone watches a cinematic they've seen several times or have no interest in seeing. I've had the same thing in FF XIV as I only started it recently, but I don't pay those people any mind (helps they're speaking Japanese).
+---
+The first instance you mentioned was just people being idiots - no one should kick you for being new to dungeons, they're not even difficult content, all they have to do is a brief explanation when the mechanics are harder than "kill everything". At worse they should have just left the group since it was your group.
+---
+The second instance was people being quite rude - but I understand why they were frustrated. Most players expect other players to do some research before attempting content unless they ask for help. No one explained strats because no one knew you were new.
+---
+Dungeons on the whole are a bit of a joke now because they're abandoned content, but you're using absolute hyperbole when you say PvE is "objectively unplayable". That's probably why you're getting downvoted. Dungeons don't *need* communication with most groups because when you've done them a few times they're very simple.
+---
+Phalanx heavy leggings have the same issue, it appears. All leggings have different places weapons "attach" when stowed, but the Corsair and Phalanx are especially bad about it. Viewed from behind, the left-hand weapon cuts into the character's leg because of how low and close to the body it is; something very visible with axes.
+---
+That becomes soulbound on use though I think?
+---
+According to op even after equipping this Halloween one it remains account bound, so you can move it around if you want I guess.
+---
+I've never had a single issue with dungeons.
+---
+I want to do story, I advertise story, I watch the cutscene.
+---
+I want to do an explorable, I advertise explorable, someone watches the cutscene? No big deal, especially if they say they were new before we started. Never actually seen anyone get angry about it.
+---
+The karma farm is well deserved in this case. It highlights exactly the issues with this subreddit and a continuing hatred of Anet that leads to all sorts of nonsense being promoted.
+---
+from what i understand, account bound gear cannot be shared with an alt once its gone into a character bound gear template slot until you remove it from that template back into your inventory
+---
+you cannot have a wardrobe template so that your toon can look the same no matter what you equip from your template unless you make every setup look the same (i guess that isnt a big deal as you arent sharing account bound gear with other toons anymore anyway)
+---
+not enough templates or slots for veterans
+---
+my opinion.... this is fucking trash from a trash programer
+---
+you are bad and you should feel bad.
+---
+also... it seems to me that if the templates patch doesnt break the hacked arcdps templates, you can still use it. 
+---
+they havent explicitly said that you cannot and must not ever touch it ever again or your going to the same hell as masturbators. so i might actually start looking for it
+---
+Whining about dowvotes, classic bitch move.
+---
+This statement clearly says how much Anet values your feedback.
+---
+Id pay for an alternate holster style for weapons. 
+---
+Shields on the arm permanently. 
+---
+Pistols on the leg vertically rather than on the hip. 
+---
+Dual weps on the back. 
+---
+Etc.
+---
+Join us on a stream to celebrate this amazing quality of life upgrade!
+---
+What is it?
+---
+ANet has been like this for years, what are you even talking about?
+---
+The truth is all you need is a soundbite title and a reasonable op/ed.
+---
+This helps a lot for making a set of gear for a map completion character that I can delete and repeat.
+---
+&gt;No new expansion probably ever, no new raids, no new anything exciting to look forward to
+---
+But we have a third set of Halloween mount skins!
+---
+Ah if we can copy paste to notepad my cheap ass is slightly relieved.
+---
+Quit a while back, used to play a chrono power dps. Is the class/build still viable as a dps? If not, what other classes and builds are recommended as a dps? Mainly interested in progressing fractals as well as raids eventually.
+---
+Not that useful for key toons any more. Since you need to be level 10 any way you can equip crafted blue copper trinkets.
+---
+Still no gem prices. They must have really gone full EA on this one.
+---
+If they want to monetise it so badly, how about a progressive pricing structure that complements good customers. It would also encourage to buy more than you need.
+---
+Slot 1-3 - Free
+---
+Slot 4 - 600 Gems
+---
+Slot 5 - 400 Gems
+---
+Slot 6 - 200 Gems
+---
+Slot 7-10 - 100 Gems
+---
+Slot 11-50 - 50 Gems
+---
+Same for Gear Templates and Account Templates
+---
+Rather than GW3 announcement, it was a reflection on the two projects. We don't know what they were, beyond a GW mobile game and "something else", and current indication seems to be that the "something else" team is what Manaworks is now per [this comment by Isaiah](https://www.reddit.com/r/ManaWorks/comments/dl34e6/what_games_have_the_members_of_manaworks_been/f4n52oe/), which may imply it was a new IP entirely.
+---
+When you make a gear template, you can use any gear that's in your inventory or in one of that character's gear templates.
+---
+So Anet is aware that we are not happy with it, yet they state it's a matter of misunderstanding. 
+---
+So it's not about constructive criticism, that they fail to read, it's about being loud.
+---
+&gt;Had S4 gone as planned, that means Logan and Rytlock would be effectively the only members left. Garm is a member in title, but he is still a ranger pet and has never been a character with agency.
+---
+Had S4 gone as originally planned, Zojja would have been brought back for Episode 2 and have been rescued by Dragon's Watch and probably a returning member instead of the brothers.
+---
+How so? Just in general, not asking for an essay. :) It’s worked better than any of my attempts at FB.
+---
+Using the swords instead of the [mechanical wings](https://wiki.guildwars2.com/wiki/Watchwork_Wings_Backpack)? Shame.
+---
+Yeah. The level of knowledge of the game in my opinion is directly linked to the number of hours you have played, not the day you started.
+---
+For the legendary, actually as a casual you might be in a better situation that you think. If you saved all the materials you got and deposited them you might be sitting on a small fortune. That happened to me when I crafted my first leggy, Meteorlogicus. I didn't know that it was worth selling materials when I started so I had something like 500+ gold in materials, some I needed to craft it and others I just sold. So check on GW2efficiency :) The fact that it's a gen 1 leggy makes it even better cause they are pretty fair priced.
+---
+The problem here are the equipment templates. They don't seem to be for import or export and I'm sure this would not work because you have to move items for that.
+---
+&gt; Id pay for
+---
+inb4 arenanet does that and everyone complains how they could do that and how anti consumer they are...
+---
+opening the bags and selling the weapon skin coffer gives more money
+---
+This mount pack is so bad, that the 400 Gem price only raised by 2g. haha.
+---
+This is barely an Accomplishment. This boss(especially in Normal Mode) is so free to lowman. Id actually say that 6man is still too many people for it to be a challenge
+---
+https://metabattle.com/wiki/Guide:What_Profession_Should_I_Play - this is quite good for getting a feel of the professions and what you can expect at end game. 
+---
+Necro, ranger and warrior are generally considered beginner friendly, although I would say that necro and ranger both play *very* differently in end-game content than your standard open world build. 
+---
+None are particularly better or worse than others, it has to be said. The builds are diverse enough that everyone is pretty much competitive in PvE.
+---
+Autoclick macros are actually okay now. They have a more nuanced policy in regards to things like that now
+---
+ngl a tingle went up my spine rn
+---
+talk dirty to me more
+---
+but you cant afford more
+---
+This just shows how much times have changed. Being charged for everything now is pretty much the norm. Many people accept these things and actively defend it.
+---
+"hey look we don't want your weapons to clip through your body, so let's put a 90° angle between your legs and the weapons LOL", no sometimes cliping is better than no cliping
+---
+Redditors who need a different gear template for every day of the week actually think people outside of this subreddit agrees with them.
+---
+Enjoy living in your circlejerk guys, keep aggressively downvoting every opinion that disagrees with your own, and upvote everything that is whining about Anet.
+---
+You monster.
+---
+I have her in my inventory, and she has been with me since the beginning. I even had her in a shared slot for the longest time!
+---
+No.. check the feet for example. And preview the armor if you like -- you'll see it's no trick of the camera.
+---
+Heh, heaven forbid you'd besmirch your hallowed wardrobe with some random skin.
+---
+&gt;EAnet
+---
+Well they haven't locked slots behind surprise mechanics yet... 
+---
+Imagine paying 300 gems for a chance to unlock a random build, equipment or storage slot! And if you've already reached the limit for that particular template you get a trophy item worth a whopping 1g!
+---
+&gt; if I can also get access to the source code.
+---
+if you mean the source code for arcdps, i think Anet asked delta never to make it open source.
+---
+In this case not only are the weapons misaligned, but one of them also clips terribly depending on the skin. If you equip an axe in the main hand (stowed on left side) it clips a good deal.
+---
+That's horrifying.
+---
+Most ppl said they’d pay for templates. But not more then for a ducking expansion.
+---
+&gt; So long as you don't break the ToS
+---
+arent the arc templates just a (bit more complicated) clicking macro that takes over finding and double-clicking the right gear, traits and skills? 
+---
+In that case, it would break their ToS
+---
+They shouldn't be selling entire equipment templates. They should be instead selling armoury slots.  The armoury slots are the actual extra storage, just selling the entire template means that you're paying full price to just stat swap a set of legendary gear or even paying full price to just change only a few items of your build. I don't know what their code base looks like but this could even solve the no sharing issue for equipment templates. Either way, it would make more sense and be fairer for the player to actually be purchasing storage if it's priced as storage, and it stops legendaries from losing an effective monetary value.
+---
+We can call it "Fashion Warrior"
+---
+I agree with /u/MorbidEel 
+---
+It's not that GW2 subreddit hungers for outrage. If you try to look around, it seems like every single game-related subreddit only looks for something to get angry about. I guess we live in a strange times, when people can no longer enjoy games, because their only entertainment is finding new sources of outrage at game creators.
+---
+Which still feeds anet's pocket.  Player 1 spends gold to buy gems, priices of gems go up. Whale sees a good price, and goes crazy spending thousands on gems to gold conversion to get some ez gold.
+---
+Everything in the game is designed to milk the playerbase, gold to gem conversion is the first line.
+---
+Nah. But I will take a spec that lets me weapon swap and have more skills for less attunements.
+---
+That'd be cool too
+---
+i don't like the non reaper playstyle of that class so i'd consider it a last choice tho
+---
+That sure sounds like "play a different class"
+---
+So, you plan to go mid-fight: "Stop a minute, I have to change my outfit!" :)
+---
+Also on a sidenote! What is a good WvW solo roamer?
+---
+banwaves are fine for people who didnt get reported. this is not the case, GM should have reviewed the reports and ban instantly
+---
+I remember spending hours with a couple friends on my assassin just making fun things. Goin A/Rt or A/N to summon a ton of minions was a blast. Compared to that this game just feels kinda...Bland?
+---
+Ah, this is one love for me for pve! 
+---
+But when I do a big b0$$ run I use rifle against axe.
+---
+10k hours in and someone in my guild told me I can do the auto cast ctrl click on ANY skill. I only thought it was specific ones.
+---
+why would you expect anything less with anet? lol
+---
+If you are building a power FB you only really need to hit 45% crit chance without boons.
+---
+You get an extra 20% from fury, 25% from retaliation, and 10% against burning foes.
+---
+I personally run zerker weapons, armour, back, and accessories with diviner amulet, rings, and firework runes for easier up time of my boons.
+---
+You mean he'll never find a group? Because that's what it usually means
+---
+Yes, but there seems to be a "fixed" version of the template plugin running around which is not from Delta and apparently still working even after Delta disabled his version.
+---
+if you have something to share which can stand on its own, please create a new thread for your topic as it pertains to guild wars 2. off-topic and/or derailing posts are not allowed. thanks for your understanding
+---
+I'm a veteran player myself (6 years, ~7k hours) and it does the very same thing to me. I noticed that this subreddit started sapping my enjoyment of the game. So I decided to reduce my time here. It was a good call, but it creates a bit weird situation when people who regularly play the game come here less and less, and people who didn't play the game for years keep being active here.
+---
+Skimmer would almost certainly be the most effective way to traverse the map. u/TeraphasHere also suggested bounce pads and mobile waypoints as possible solutions.
+---
+White for frozen water, red for clay earth, blue for the air in the sky, green for copper fire.
+---
+&gt;There will always be limits on anything stored server side. Any request for unlimited server side storage for free isn't going to go anywhere.
+---
+What a load of bullshit. You know how long the chat codes are. We're talking low two-digit bytes per build. Sure, *technically* you could store few billions of those and cause server storage issues. In practice it's never gonna happen. Even without any limit whatsoever the average storage space taken per player account would hardly even reach 1 kb.
+---
+You don't want to know how my DPS dropped once I noticed you could swap minis while in fight.
+---
+I do not. I spent money on max bag/bank slots. I spent time and gold crafting max size bags to hold my equipment. 
+---
+You are telling other people what they *NEED* because you choose store drops, equipment, mats, boxes, crafting items and all kinds of misc. stuff on your toon rather than vendor/tp items or store them in your bank.
+---
+So why should they tell him to disable his version and not develop it further and let everybody else keep using a copy of it that gets adjusted by other programmers to run with each new build of arc?
+---
+That wouldnt make sense.
+---
+To me it seems Anet only stated its ok, if you keep on using a saved version of the templates plug in, as long as it keeps working after delta disabled it (the 29th at the latest).
+---
+Once someone else starts editing that saved version of the templates plug in to work with future arc builds, it would break the ToS.
+---
+Or wait another 7 years until we finally get the wardrobe templates. Create 4 "outfits", keybind them on you element swap, profit.
+---
+Stupid fact of the day: Polla is slang for penis in Spanish, if you play the game in Spanish this doll is named Polly.
+---
+Yeah, except I keep hearing "I don't play a chrono anymore since we no longer have arc templates". It's convenience alright, but taking out existing convenience and requiring a payment for its partial return isn't the same as offering convenience. One I can get behind and consider it fair market practice. The other I think is more accurately described by the word "extortion".
+---
+Glad you enjoy the game :) I hope you will have a lot more fun :)
+---
+more like revenants to me .
+---
+I think Anet can ignore "times like these" without significant impact on their revenue.
+---
+Which is completely pointless since you can't switch runes without taking out the entire set. Congratulations you have changed your power gear to condi gear, and now your runes are fucked.
+---
+then take it slower this time :D
+---
+24 slots divided between 9 classes is 2.6.....
+---
+So if you play all classes, you get to have 2 builds per class and some of them get 3....
+---
+Once, as with all exotic sets.
+---
+I feel like gear slot should start at 3. the "trinity" in this game is condi / damage / Support, excluding game modes you should have at least 3 options by default.
+---
+Then I'd be okay with paying 400 gems if it is indeed unlocked account wide ulike bag slots are...so I bet it won't be :(
+---
+They aren't immune to feedback but feedback does not mean they need to do anything with it.
+---
+And new items.
+---
+Why are you booing me? I'm right.
+---
+so, like power ranger ?  
+---
+XD
+---
+Lunatic insignia are about 6g in the trading post, but crafting them costs less than 4g.
+---
+Bladed armors from Verdant brink are much cheaper, but they take a bit longer to gather the currency and are soulbound. The chest also requires completing the meta-event with 100% participation.
+---
+That makes lunatic armor a faster and account bound alternative, but more expensive.
+---
+ΑΝΕΤ: We listened but we decided to ignore you because you didn't say anything that we liked. Kthnxbbgibmoniplz.
+---
+I still have no idea what Stronghold is and wtf these PvP heros are you can unlock.
+---
+I don't think there's a "perfect" rotation for rampage (in PvP). Mostly because you have to adjust your behaviour to many variables. Instead of giving a rotation I can offer some hints to help decide what's smartest to do.
+---
+A good "mini" combo is kick (2) into dash (3). Without stunbreaking the CC your opponent will get hit by the dash. They both also share the same CD, thus it's a nice combo, you can basically do 2 times in one rampage.
+---
+I like to wait with skill 5 in 1v1 situations, because you can use it only once in one rampage. In teamfight however I often use it as engage tool into the enemy pit.
+---
+I only use skill 4 (throw rock), if I got kited well and it is the only skill I can land for the moment. If it connects, you can combo it into a dash (3).
+---
+The last hit of the autoattack chain is a CC skill, that can hit up to 3 enemies. Because it's a "Daze", it can also immobilize your target if you play with the "no escape" traitline of the spellbreaker. (Ps: I highly recommand this trait over the other 2 options!)
+---
+Don't waste skills into enemy defenses (blind, block, invul, evade, ect.), rather bait them out with auto attacks (stripping aegis / blind from yourself) or just wait until their invuln frames end.
+---
+\------------------
+---
+Also important to note is, when you should use rampage in the first place. For example, if you fight an other warrior, try to use rampage after he used his shield block. Also try to land a burst skill beforehand in order to proc magebane tether (if you're a spellbreaker). This is the perfect setup, because he aint no more 3s block, he can't run, because he'll get pulled in again and he can only dodge so much.
+---
+Similar things can go for other classes as well. General speaking: Use rampage AFTER they used one of their "long duration defense skills". Extra points, if you can land a tether on them beforehand as well.
+---
+Someone actually farming 4silvers worth bags this way? Dudes, your electricity worth more than this.
+---
+They used to have just the core crafted stats: apothecary, assassin, berserker, carrion, cleric, crusader, knight, marauder, rampager, valkyrie.
+---
+They got the full list of stats when stat-selectable gear was updated to have all the stats your account has unlocked.
+---
+None of this is new, is it?
+---
+save this instead
+---
+https://imgur.com/iebryBU
+---
+after 11.521 hrs I am still in love with this game, awesome community and great game
+---
+there is still a lot of to explore for you now :D
+---
+With leggie armor and 6 rune sets you could play burn, minstrel heal, harrier heal FB and zerk DH on guard. You could swap in more or less dmg, heal or boons as needed. I.e. renegade runes vs firebrand runes. 
+---
+Now this diversity is not possible with templates as theres a lack of space for various gear sets. In fact, the amount of space is so limited ascended is always cheaper, if you use templates.
+---
+Manually swapping leggie gear and full build takes as long as the boss itself...
+---
+https://old.reddit.com/r/Guildwars2/comments/dc99gc/i_feel_a_lot_of_the_build_template_issues_can_be/f274f2q/
+---
+They have a lot of weird pricing decisions.
+---
+Look at some of the gemstore items. If they cut the price by a lot people would 'snack' on them more. As it is, they take one look, go FUCK NO, and I bet they never sell much.
+---
+I'd like a ship battle map. I was thinking about such map for season 5 - drakkars / ice breakers with hazzards like blizzard, fog etc.
+---
+Your project takes it two steps further because it allows for underwater (both "normal" and submarines) and aerial combat as well. By aerial I mean something more interesting than Zhaithan fight of course.
+---
+It would be nice if each profession had some unique interaction (like  in Cad's mansion in s03e04) on the ships.
+---
+Perhaps if/once they release transmutation templates.
+---
+This is my only wish for your addon. Thanks for your hard work!
+---
+You know what does it for me? That fan made HoT-trailer. So much hype and still gives me chills. 
+---
+ [https://www.youtube.com/watch?v=yY8oGyOKQD0](https://www.youtube.com/watch?v=yY8oGyOKQD0)
+---
+&gt; but what do you guys need so many templates for? I can't imagine to ever need more than 3.
+---
+If I'm looking at the bare minimum for my Guardian:
+---
+For PvP alone I need a minimum of 3. A support FB, a hybrid FB if we have a support but the team is squishy as hell, and a burst guard if we need to spike. 
+---
+Then if I want to do some WvW I need one build for just tagging along with a commander and I need another one for roaming.
+---
+General PvE, I need one to do the story with and I need one to tag stuff in open world metas.
+---
+Sometimes I'm in the mood for endgame PvE, that's at least a minimum of one build for Fractals and probably more if I'd still be raiding.
+---
+That's **8** already and it doesn't even cover every area of the game, or multiple roels for any gamemode other than PvP, letalone build diversity within a single role. If templates were free and unlimited I could see myself having 20+ build for guardian, now not so much..
+---
+If only that was extreme example. I know about the game where it will take you 700-900$ just not to be kicked from parties, because without cash shop items monsters will be one-shotting you.   
+---
+From most of the games I know only about GW2 and TESO that don't have supergreedy monetization. 99% of all other titles are sucking your money as good as a vacuum cleaner.
+---
+3 game modes and PvE has multiple types of content. Its at least 2 per mode.
+---
+Its literally just the account slots i have an issie with. Equipment, fine. Build slots ehh ok. Account slots. Wutanet? It directly brings down the whole system of. Sharing builds in game ect. While being completely bypassable. So its just unreasonable to be paid. Along with the starting slots are almost non existant.
+---
+Yeah, doing all sorts of activities. Events, masteries and ap's along the way ^^
+---
+very nice, enjoy game :D
+---
+Tonedeaf message, they didn't address anything.
+---
+This is an interesting point, Anet may be in a sticky situation legally not just because arcdps doesn't appear to be against that clause but its compounded by them letting players use arcdps.
+---
+Crafting in this game is super easy compared to other games. You just have to understand the basics on how it work and that discovering recipes is a thing and wiki is good to have around if you get stuck.
+---
+When that is done crafting is very straight forward.
+---
+&gt;Once, as with all exotic sets.
+---
+i see basically worthless to me.
+---
+I have no problem with equipment templates. Free bag space for a lot of my charaters. I understand the monetization here. Its the rest especially account slots i have issues with.
+---
+Thanks ^^ I will!
+---
+Yeah untill they make it reality. Never learn.
+---
+Also pails can't be used in the recipes to upgrade to 24+ slots bags.
+---
+That's the thing, they did add kill walls with this patch in one of the places. The mad king says  a voice line and you get one shot for trying to go up the hill south east. 
+---
+But you can walk around the kill wall by jumping up on the walls and get in anyway. So there was an attempt to fix the problems.. it was just utterly useless and laughable
+---
+Good catch, I was looking at two different weight classes. Edited original comment.
+---
+Considering how many raid bosses/pre events there are each one can be done with different setups for easy of completion. Add to that a full clear can take 1.5 to 3hrs. Now factor in 10 people swapping gear and builds manually for each run. You can add up to another hour to your run time. So yeah it’s a big deal. Small time savers add up over longer periods.
+---
+It is enough though?
+---
+I don't blame them, this community is dogshit and listening to it would serve no purpose
+---
+The mistake was to present them during a live event that was announcened to take 45 minutes but ended up to be 36 minutes and out of those 36 minutes the last 5-7 minutes was all about merchandise and Tidal, a music streaming service many people didn't even know existed.
+---
+Quality of life things have always been monetized though? Not to mention there were a shit ton of people here saying they'd pay for features like this, seems strange to act so weird about it now
+---
+Ooh yes!! Or at least your dyes!
+---
+prepare to be disappointed newfrog
+---
+Yas!.... Sorry can't help it
+---
+Bye
+---
+It only takes what, 30 seconds to manually swap gear and change your build? I don’t understand how anyone wouldn’t already have this memorized if you play a profession consistently.
+---
+I have like, 4 of them? In my bank, I'll never chuck them.
+---
+Listening to the community is an incredibly stupid move, why do you think its such a rare thing in the industry?
+---
+You should purchase it right now dont you want to get in on this "amazing content"  [https://store.na.square-enix-games.com/en\_US/product/527395/final-fantasy-xiv-shadowbringers-standard-edition-pc-download](https://store.na.square-enix-games.com/en_US/product/527395/final-fantasy-xiv-shadowbringers-standard-edition-pc-download)
+---
+That's not very competitive. The weapon is way too slow with the current power creep. The only place where it's even close to competitive is in WvW zergs. However, it has fallen off even there. If you want be good as an ele you will use sword almost everywhere with the current state of the game. It's mainly a melee class at this point.
+---
+To shreds you say?
+---
+&gt; Is it normal to not understand every aspect of the game? 
+---
+Having knowledge about every system implemented in the game takes time, a lot of time.
+---
+Mostly pre launch veterans have this kind of knowledge, and sometimes we take it for granted.
+---
+Why do u say that
+---
+Well, there is the reason why they called it "Weaver".
+---
+Huh, there's pvp in this game?
+---
+But you only get two per character and can buy one more for 600 gems.
+---
+Can we throw him into the pot too?
+---
+Sc/W Tempest is quite viable. Though even it plays in melee due to somewhat short range of overloads.
+---
+Well, switch *colour* based on attunement wouldbe nice and less game-breaking.
+---
+https://youtu.be/v-fee1rP48I
+---
+They are totally going to do this. Limit availability. Increase demand. Once demand is high enough *bam* they increase availability. I get the feeling this isn't Arenanet, but NCSoft making these decisions now.
+---
+Alright, it seems you are fully aware that using the plugin you consider to develop does break the ToS and will most likely result in a ban at some point in the future, you just dont care too much about it.
+---
+Fair enough, I am not here to judge you. Just wanted to point it out for others because I think it would be naive to think that Anet would be somehow ok with or not actively punish anybody who will use it just because no one got banned yet for using similar plug-ins who seem to have existed last week. 
+---
+After all it makes sense, not to ban everybody right away and allow the users an adjustment period to remove all the files.
+---
+The skin is unlocked but it's not about the skin is it?
+---
+As briefly as I can: 
+---
+I understand the justification for running power over condi, but condi firebrand is soo strong and it even has decent burst. For fights lasting &lt;8s power is better, sure. But I care way less about killing a trash mob in 5 seconds instead of 6 than I do about killing champions or elites as quickly as possible.
+---
+Given that we are running power, it's madness to reject greatsword out of hand. Not only is it the strongest power weapon that guardian has access to, it provides good retaliation uptime (which WP classifies as "not good" despite it being ~40% uptime just from the greatsword symbol with his setup).
+---
+Due to the low retal uptime of his build, he then deliberately overcaps on critchance to account for it which is simply mad - I can't think of any reason to ever overcap on crit. Especially as you will have high retal uptime (and thus 100% critchance) during your burst, which is what matters most.
+---
+Similarly, he arbitrartily rejects quickness and instead chooses two pretty mediocre traits from firebrand. Quickness is SO STRONG that there's no reason not to just take as much of it as you can really. 
+---
+There are a few other issues but you said you didn't want an essay :-P
+---
+Yup. But what intrigue me more is that malfunctionning gate in the south where no travalers want to go through. But also the one at fort Vandal, broken and apparently without any destination set.
+---
+I'd settle for them not being paper in fights first.
+---
+Cool, let me know when they start taking the environment seriously and don't let pvp fester for another few months
+---
+Yeah, but without the abject fear of water.
+---
+I cry everytime
+---
+Reaper shroud is night and day compared to death shroud in terms of feel, IMO, so it's still worth a try.  You can play it very differently compared to a core necro.
+---
+https://www.reddit.com/r/Guildwars2/comments/dbpzx4/is_legendary_equipement_losing_some_of_its_qol
+---
+Gotta get those sear marks.
+---
+Make one step further and write a program that also press contol+v in game (+ enter if we will need that)  
+---
+or another step further a program which can detect the fields by image comparison and also click on those fields.  
+---
+this would be probably against the ToS tho, cause 1 button press is more than 1 input
+---
+Thank you for all suggestions!
+---
+That [Gw2efficiency.com](https://Gw2efficiency.com) looks very neat!!!
+---
+What do you mean by non-reaper playstyle. You just have to get to 80 which you can do in one day during halloween.
+---
+Talking about templates about a month and it not even released yet. It's only me tired of all this useless posts?
+---
+I’ve wanted dynamic dye setups for a while.  Sure eles could use it for attunement, but I’d love to have it to swap automatically to PVP/WVW team color.
+---
+No no, you see, it will work like a bag slot expander. First you have to buy "Cap Increase" for gems... And then you buy the additional slots as well - for gems :)
+---
+&gt; I think it's only fair at this point that legendary gear is given an unlimited amount of free transmutations.
+---
+Holy Hannah, that would get me working towards legendary armor alright.
+---
+Most players made legendary armour to free up slots on inventory while having several different builds. With build templates you get armour slots to store each template so there is no point in having legendary armour (only the skin).
+---
+I first misunderstood what you were saying. It's literally one cob to buy each recipe, so 7 for one full set or 21 for all three weight classes. So each piece costs about 4g for the recipe and then another 7ish gold to actually craft the armor. 
+---
+The insignia itself doesn't require any candy corn to craft, but it *does* require other Halloween materials (skulls / fangs / nougat). Surprisingly, the cost of the insignia seems fairly stable throughout most of the year. It usually spikes just before the end of October, but quickly settles back down.
+---
+11 gold for an account-bound exotic with ANY stat combination is pretty nice.
+---
+Never actually said i spent 3 hours being kicked but rather with horrible people. Yes, I merged with other people but no one ever put anything specific in the group description and your accusations of being a leecher are...what. stupid? Getting carried in what? In a 10 years old game where gear porgression is irrelevant? In a dungeon level 50 with useless rewards? 
+---
+Stop being a salty boy, no one is attacking your favourite game dude.
+---
+Chill and get back to school kiddo
+---
+If we dont speak up now anet will chance nothing and more game play affecting changes will be put behind a aggressive paywall, while many of those features will be only an inferior/limiting version from what we already had to the point its practically unusable
+---
+Guild Wars: Final Fantasy X-2
+---
+personally i hope for something like pawned2 but for gw2
+---
+Still salty rev didn't become the 1 weapon class it was supposed to be.
+---
+I guess I'm just used to it, so don't feel to bothered by it. Besides, I'm an altoholic, and like finding reasons with all of the characters I made.
+---
+Regardless, I completely understand where your coming from, and do wish build templates were handled differently.
+---
+I'm holding onto the hope that I can just keep using the altered .dll .-.
+---
+https://old.reddit.com/r/Guildwars2/comments/dlo68g/about_guild_wars_2_templates/f4tz9re/
+---
+This guy sees no problem in paying for copy paste.
+---
+&gt; and more game play affecting changes will be put behind a aggressive paywall
+---
+No "game play affecting changes" have been put behind a paywall. Stop with the FUD bullshit.
+---
+Common among players who play more than one game mode with one character.
+---
+While that's a nice and resourceful guide, it's boring.  
+---
+A typical PC gamer has no patience to sit and watch a video that long, just before starting to play.
+---
+The most success I had was when I didn't tell anything about the game unless they ask something particularly. Just don't point something, even if it's painful for you, telling them makes them disheartened and the burden of knowledge is better handled when they don't know the total weight.
+---
+imho: OP, don't listen to that.
+---
+It's not true, it's not _free_ for the majority of people. (Source: experience.)
+---
+I general I don't think it's a good idea to discourage people from getting deeper into the hardcore scene (or what is left of it). This is a process with a desirable end result for everyone and the game in general but only if nothing (or better: _noone_) kills their motivation. The same comment could've been made in a constructive and motivating way but for some reason decided to be all sour about it. 
+---
+These people may be the ones doing 5 man, 4 man, ... next time, gaining insight that allows them to write the guides you are following.
+---
+Raven best childhood waifu.
+---
+Shame what they do with teen titans nowadays.
+---
+It's only bad if you crafted legendary armor for the stat-swapping capabilities and not for the skins..
+---
+I will always love GW2 for their beautiful outfits. So much better than any mmo I've ever played.
+---
+From some fanart I've seen online, I can say that 3 asuras fit into 1 kasmeer
+---
+. -.
+---
+How are build templates not affecting game play?
+---
+What?
+---
+Stop white knighting for ncsoft greed
+---
+dude acts like anet is our friend
+---
+Where everyone heavily breaths into their mic, stream after stream.
+---
+&gt; Why are build templates bad for people with legendary armor?
+---
+They're not. People with legendary armor lose nothing. They're just pissed off that you're getting the ability have multiple stored builds, each with a different armor set, without needing to waste inventory space on all that armor. 
+---
+My guardian has 6 different armor/weapon sets (don't ask). The whiners who have legendary armor are angry that the 5 sets I'm not currently wearing will no longer take up 35+ slots in my inventory.
+---
+Boo-hoo.
+---
+I've burnt out on gw2 at least six times. It's always fun again after a 6-month break.
+---
+90 % got legendary  armor and trinkets for the stat swap and less so for the skins.
+---
+I see one one real issue here:
+---
+&gt;A single piece of legendary equipment can be customized with different attributes in separate Equipment Templates
+---
+Doesn't this basically remove a very important advantage of legendary gear. Literally what is the point of legendary gear in this case besides the looks?
+---
+who the hell equips anything else than level up rewards on key toons anyway
+---
+isnt your cousins sister also your cousin?
+---
+10k gems and it can happen.
+---
+1:...so what if gear is hard to get... Guild wars = a grind
+---
+2:..."just fine"... you want a build that is just fine?
+---
+3:... " by the authority of thousands of hours over 5+ years I say my builds are more universal goals, then suggestions..&gt;
+---
+these builds are T4 Fractal tested/approved, and with carry ability when things get squirrelly. They can wander PvE with no fear.
+---
+I would wager any player new/old who got use to the rotations and the pure impunity by which you can travel tyria and engage what ever when ever, that I'd win them over.
+---
+Actually I know its not something very hardcore. Im not delusional about it :P But as Red_Kiwi said: we have to start from something. And after all imo its still better to do this boss 6 man (and search for some challenge) than do another boring 10man kill. Also imo this 6 man was harder than CM. 
+---
+We decided to do 6 man at the beginning because we were able to hide behind 3 pillars and destroy them w/o any problems. But who knows, maybe we will try 5 man in the future. Or even 4 man. Imo its possible for us (especially that our tank was doing it as dps). We just need more characters. For example none of us had condi reve. While this class would be great here. Actually we're mainly pvp'ers so we don't have a lot of geared pve alts atm. Btw - we started with 6 man vg in the past and we ended on 4 man.
+---
+No.
+---
+WvW and PvP legendary armor doesn't even have a unique skin.
+---
+Raids are not the entire game. Sword is the primary weapon that is used in PvP and in WvW roaming as well. Elementalist is melee everywhere.
+---
+That event has as big of a priority as all the bugs that still exists in dungeons, so zero.
+---
+Big Green Threads!
+---
+Hahaha nice joke.
+---
+Also credit to my guild mate coming up the joke. XD
+---
+Sadpuppyeyes.jpeg
+---
+Was a long shot 😂
+---
+personally....yeah. I love my depoloyable buttcape. I have enough ascended weapons &amp; armor that the only reason I made a legendary anything is because I want the skin.
+---
+https://wiki.guildwars2.com/wiki/Unknown_item_(Heart_of_Thorns_beta)
+---
+So yeah, they didn't address anything. 
+---
+They just wrote some things we already knew, added their prices to it and presented it as them ''communicating'' with us.
+---
+&gt;Perfect for making expensive gear for WvW builds (like minstrels)
+---
+Completing a reward track is certainly cheaper....
+---
+That said, that these exotic pieces are Account Bound vs. soulbound allows you to try out different builds across professions that use the same stats.
+---
+Eg. Swap your Viper set from your Mirage to a Weaver.
+---
+Outrage at open world pve players? Where did I say that? I main necro and have 3 raid builds, 2 wvw builds and 3 open world builds. Even if I would pay I still wouldn't be happy.
+---
+*And in this corner we have an exhibit of a person, who completely misunderstood everyone's concerns, but has been conditioned to believe that everyone who dares to express concern and/or dissatisfaction is toxic, enough to not realize their own toxicity.*
+---
+Gifts of exploration to sell  for a large amount of goldm
+---
+Some ppl apparently need 60+ builds just to roam in LA:-P
+---
+Tbh I downvoted because you used "objectively" incorrectly. 
+---
+Dont claim to view something objectively following up by using anecdotal evidence with a really small sample size.
+---
+Halfway happy isn’t good enough for a fantasy world we go to for joy.
+---
+I bet she was just as thrilled about this as you were.  At least in the modern age people who contribute their talents (voice, acting, etc) to video games are getting the recognition they deserve, whereas before only those who did radio/tv/movies were famous.
+---
+Yes you can. But you only get 2 slots free per char. 
+---
+So technically I can only have 2 options saved from the multiple choices in the armour
+---
+Can someone clarify if the copying / importing of builds will equip stuff from your inventory directly? Or will it be limited to what you have in one of your equipment template slots?
+---
+I'm already carrying all the gear I need in my bags, and arcdps templates were just swapping them directly from there.
+---
+If I have a text file I can just alt-tab to that contains the build codes,  can I just keep going with holding everything in my inventory? (AKA just replacing the arcdps template clicking with pasting codes from my text file?)
+---
+I have plenty of ascended armours that can be changed to any stat (not future proof, if there is any future really... xD). I like using stat infusions so I use WvW which are cheaper. I already have permanent extractor. Maxing out gear templates requires 600 gems each thats ends up adding being quite a lot. 
+---
+So yes, if I could change most of my legendary armours (some of them are even duplicates) for 10k gold (2k each armour) I would due to the new templates. I do like a few of skins only available from legendary armours but its a few. 90% of the leg armour I have was done to free up slots on inventory.
+---
+I heard they're bringing it back
+---
+Why are you pushing your anti-rng agenda on me? All I said was that if we are being fair, they do both. Don't pretend they always go toward ultra rare rng. They do rng, achievement, and rng-insured rewards all the time. The goal is to appeal to different types of players with different rewards. But that has fuck-all to do with what I said.
+---
+To be fair, I think part of that being a problem is because chrono as a whole is incredibly needlessly complex and also far too 'required' in most areas, but that may just be personal opinion.
+---
+I also don't really think that's a fair characterization. Add-ons are already a gray area for Anet. It makes perfect sense for them to ask a third party program creator to remove a feature that cuts into their bottom line. Of course, I don't think it's fair to ban anyone for using any fair mod regardless of version number or features used as long as it doesn't actively violate the TOS. I don't think that will happen, either, it seems like a lot more effort than it's worth. 
+---
+I'm the end, though? This game is free. The cases for requiring a shitton of slots are there, but they're outliers. A big portion of the user base won't need many. If you play the game enough to need a ton, I think it shouldn't be so arduous to buy a couple slots. I know this is an unpopular opinion and it never feels good to buy something you used to get for free. But to me, it really feels more like I was getting a nice bonus before, rather than it being the status quo and now I'm being punished.
+---
+Nope, I never had a need to. I always used multiple characters for different builds long before arc templates were a thing.
+---
+My fav item!
+---
+&gt; I'm the end, though? This game is free. The cases for requiring a shitton of slots are there, but they're outliers. A big portion of the user base won't need many. If you play the game enough to need a ton, I think it shouldn't be so arduous to buy a couple slots. I know this is an unpopular opinion and it never feels good to buy something you used to get for free. But to me, it really feels more like I was getting a nice bonus before, rather than it being the status quo and now I'm being punished.
+---
+I think players in general are aware of all this. The reaction is caused by several issues all compounding the players' unhappiness. If it were just the monetization, it'd be just a minor outcry.
+---
+But then there are the hard limits, which affect some players. Granted, they might be a minority, but they're an active one, and because of that, a vocal one.
+---
+And then there's the issue with the legendary gear, which is simply worthless in this new system.
+---
+And then there's the issue with the utter, complete ignoring of all the feedback they asked for themselves.
+---
+It is only normal that the players are pissed off and this results in overreactions and severe backlash. It's the only logical thing that could happen, really.
+---
+This is Fashion Wars!
+---
+It was a personal interpretation actually. Real lightning is often more white than purple. This screenshot is also really old and I did end up shifting it more purple later.
+---
+Though I totally have an Avatar state outfit of celestial from back when it was meta for pvp
+---
+They really should give more equipment slots to people wit legendary gear, maybe even make it so the achievements grant you the extra slot gemstore item. That would fix the issue.
+---
+I'm going to level with you, pick the weapon whose skin you like the most. Or, if you don't like them just sell the royal flame box for the 55 gold it's worth in the auction house and buy gear that you do like/need. 
+---
+Exotic gear at level 80 is super easy and relatively cheap to come across just by playing the game and/or crafting it out. You can get a full set of exotic armor/weapons in about a week of playing the game and it isn't really hard to acquire.
+---
+Shoot, ill get back in gw2 just for this. My Sylvari ele will go full-on Captain Planet with all 4 elements powering his lvl 30 ass
+---
+ [https://imgur.com/a/tlD5W79](https://imgur.com/a/tlD5W79)
+---
+Dont think it will live for 2 more years.
+---
+I'd compare it to core game and hot becoming free. 
+---
+People bought those and paid for a chance to play those for couple of years. 
+---
+With legendary items, you "pay" for:
+---
+* Prestige of owning them
+---
+* Skin
+---
+* To have them as kill proof when it comes to raid armour
+---
+* For couple of years of having saved bag slots
+---
+Also, you know this ahead of time to stop crafting legendary items if the only reason for you is to save bag slots. That's ridiculous imo. It's cheaper to get bag slot than to craft full legendary set.
+---
+Personally I'm still going to work on my legendaries because I just want to have them. I'm drowning in ascended and I really don't need more of them. The only "wealth sink" for me are leges.
+---
+"Voting with wallet" did, does, and forever will fail. Do you know why?
+---
+People can only whine and hope the issues are addressed. Most people don't have the backbone to vote with their wallets and stick to it - they all crumble and give in.
+---
+The thing that does more damage than "voting with wallet" is a uniform agreement within community (which we don't actually have at the moment in this matter), causing a serious threat to the company's reputation and name - like the RNG mount pack fiasco.
+---
+Its the little things.
+---
+Ya know, I didn't have any templates before this change. Not sure if I will have any after. I usually just manually a just my traits if needed.
+---
+[Final Fantasy X-2 had dressspheres](https://www.youtube.com/watch?v=E-x-IcK-fMo), that's close-ish to what we'd need, right?
+---
+love it &gt;:-D not sure why i cant post more pictures.  i cant figure it out
+---
+Your own tastes don t apply to everyone
+---
+[At least it's not legendary.](https://i.imgur.com/31Ka2mT.jpg)
+---
+Did you know that your [feedback](https://i.imgur.com/H1LH9CD.jpg) [matters](https://i.imgur.com/AYgzotN.jpg) [to](https://i.imgur.com/t2pyqRK.jpg) [ANet](https://i.imgur.com/31Ka2mT.jpg)?
+---
+Eh, I like him better than the chef in Amnoon. Fuck that guy!
+---
+That's why they use the gear templates?
+---
+That’s a good idea, I’d be down with that
+---
+I kinda think it is a implementation issue not a monetary one. Basically with this why would anyone buy slots instead of a new character slots. This is a bad way to implement this and remove a good amount of values for legionaries. Problematic for end game goals.
+---
+Scepter/W Tempest feels like a caster imo still though. I might be biased though cause I really like the thought of a melee based magic user like the Weaver.
+---
+I hope it's obvious to you that it's not theft if given willingly, and that Anet are making exceptional effort to rationalize and defend this entirely business-minded decision to a customer base largely comprised of children or other people who typically are not familiar with the scheming (good word choice, very apt) going on here.
+---
+Patch notes: Increased price of character slots to 3000 gems to bring it in line with other available gemstore options.
+---
+Yes! There were several good HoT combat tracks, but this one always gets me the most pumped to escort some Pact and kill some breachers.
+---
+&gt; and presented it as them ''communicating'' with us.
+---
+huh? where did they specifically present this as communication?
+---
+You can unlock all the specialisation instantly with Testimony of Heroics, and you can reach any area in pve in mere minutes with mounts, scrolls, TP to a friend, portals (Mystlock Sanctuary, pvp lobby, guild halls, etc) ..
+---
+There's like 4 total voice actors in the world. Legit ... don't question it ... don't look up counter proof ... just accept it.
+---
+Reskinning leggie armour is like a rite of passage. Everybody does it eventually. Or instantly, if you're medium class...
+---
+sorry then lol. yeah, i get annoyed when i see people falling for the same shit each and every time
+---
+Maybe someone can also clarify something about that.  
+---
+So, if the legendary armor now goes to that special "armory bag" does that mean it can be used by all my toons, that can wear the same weight?
+---
+Again thank you.  
+---
+I had understood that it would be a common armory for the account, and thus, the legendary armor could have more usage in that way. Guess not...shame.
+---
+I mean, we have fucking evidence to contradict you. This is how it worked in GW1 and it was perfectly fine. We disagree because you are wrong and refuse to accept it.
+---
+Me too. No reflexes. No spatial awareness.
+---
+No sarcasm.
+---
+My first character was a warrior. I used Ace/mace because the mace skill 4 does 10 vulnerability stacks and a very important tip I learned was to stop canceling my axe auto attack. Most of the damage is from the third auto attack skill chain.
+---
+It's the same motive behind offering bag slots at price while pushing more non-wallet items into the game that add negligible value to game play and require players to take time from enjoying the game to slog through.
+---
+Show me your evidence that it didn't cause support tickets or increase player churn in GW1.
+---
+I'm not sure I follow. Can you connect those dots for me?
+---
+Dumbest thing I've heard. Hold on. Let me get changed.
+---
+I crafted heavy for the skin, the other 2 I crafted for the AP.  Didn't craft any of it for stat swap.
+---
+I haven't been keeping up with this, but if I had let's say a legendary armor but it's my only set, would this help me switch the stats with the click of a button?
+---
+No. Most players don't know how to dodge, let alone learn how to use gear templates when they launch. All aspects of an elite spec must be extremely accessible to as many players as possible. Plus, this extra feature will just make other elite specs feel lackluster in comparison. Cute idea though, just not practical.
+---
+&gt; So you're saying voting with your wallet fails if you don't do it . Damn sherlock.
+---
+Reading comprehension...you lack it.
+---
+Show me your evidence that it did. See, That bullshit works both ways. This system worked in GW1, I don't know why you can't fucking accept that. Arguing with you about it is an absolute waste of time considering I can't get through your blindfold on this and you refuse to stop covering your ears. Feel free to blissfully bask in your ignorance, but I'm not wasting any more time on you. Good luck.
+---
+Yes
+---
+Feel free to add me, ninjazzy.3024. I’m also NA. 
+---
+I run a super casual teaching guild and we would be happy to show you the ropes! If you have Discord find me at ninjazzy#5029 and I can get you added. There are a lot of friendly vets there that can help.
+---
+Yes you do, and you can connect them yourself with the mind you've been using to defend Anet's decisions. Go ahead and try. There are many who believe in your ability to think for yourself.
+---
+Because old world events and dungeon bugs has been reported since the launch of the game and has not been fixed, there is no point making yet another thread or report it in game since Anet won't fix it. Wouldn't surprise me if they don't even have the knowledge on how to fix it anymore.
+---
+Neither of us have actual evidence, which is why I said we just have different opinions and I accept your opinion as a valid alternative to mine. Why are you insisting that you are right and I am wrong and then telling me I can't see through my own opinion?
+---
+I mean, I enjoyed going towards Legendaries bit by bit, but I'm seriously getting burned of getting only story episodes with grindy achievements... I haven't even played much of the new episode because I didn't feel like doing events to progress the bar... But yeah, they are devaluing Legendaries with this move of only allowing 2 "gear" builds...
+---
+Omg having to do more fashion wars! Yaaaasss!
+---
+This instance is suppose to happened years before even the first Dragon Bash in Old Lion's Arch. That thing has no business in Hoaklbrak whatsoever.
+---
+They ussually get me as fast as that on my ranger even using signet of stone and sic them but that's because i ussually just go with my berserker pve build to do the easy dailies. When i actually set up my wvw build for roaming i can usually stand my ground against most 1v1 encounters, i obviously don't always win but many times the enemy has to give up trying to kill me. But if i'm just besides the gate of one of my towers/keep the first and obvious thing i do is roll into the gate.
+---
+What gear were you using OP?
+---
+Not sure where it occurs in Norn Story, but as a Human I was last in it for HoT so it was well after the first dragon bash.
+---
+Your situation may not be unique to you but not everyone who has/wants legendary armour is in your situation. The extractor cost 1575g buy order or 2000g to get it sell order and the shared slot is 700gems or 250g so I doubt everyone has that, many people do fractals and legendary armour would benefit them for the agony 
+---
+And what I meant with if you max out all your gear templates, is the ones you own whether it is 2 or 6 you still have the same benefit if the number of builds you want are higher than the number of gear slots you own and apparently 6 gear slots isn't enough so legendary armour would still free up slots.
+---
+What solution do propose for legendary gear with build templates?
+---
+This outlook on gear templates reminds of peoples outlooks on the roller beetle, the skyscale and ascended food (I think the same was even said about the griffon). Before each was released people said they were worthless after some time of them being in game people used them and less people complained except the most stubborn (I don't know what the current community opinion on ascended food is currently but from looking at costs of recipes power food was the most worth it and healing last I checked was kinda, it cost more but had greater benefit and condi was overpriced).
+---
+"Oh, btw I need it cut"   
+---
+Srsly!? D:
+---
+Troy Baker, Tara strong, Nolan North, ... And Dave Fennoy?
+---
+One of the biggest changes I think a lot of players don't know was the Sylvari model, the original one was more human-ish or fairy-like.
+---
+my bank is also full, with max bank tabs, and I also have maxed out material storage. Anything that's stored in my inventory is because I DO NOT HAVE room for it in my bank or material storage.
+---
+Mesmers at least are able to have different looking clones, at least when switching from normal armor to outfits or between outfits.
+---
+However, I wonder why they did not introduce wardrobe slots with the build template, or at least build a switch in the equipment template tab if this is a equipment change or a wardrobe change. The latter could even solve the problem that Legendary armor uses the same items, but only stats are changeable (not skins).
+---
+Wow!
+---
+I'm already happy that i will use more my engi because i'll be able to swap between ranged\melee mode in a more efficent way offcombat.
+---
+Seriously, that's the only reason engi isnt my main class for open, i love it, but going rifle, and having to fight enemies with projectile reflection, having to stay permanently on kit [if i bring one], or going sword and having to spam with grenades or mortar kit even on skill #1 if i can't stay melee is frustrating.
+---
+I'll do the same with my ele, equipping a staff in the 2nd gear template on every alt.
+---
+**Basic Feature** in every MMo [highly monetized version] **HYPE!**
+---
+Well, I now have the full devona set, got some ppv on my trinkets , but still in the HoT maps and missions I die almost instantly every time. I know I have to improve my dodging skills but its nearly impossible for me to do this since I get killed without any chance of defending myself. I do not havbe enough heals to sustain the damage in fights, im overwhelmed with buttons to press and its no fun. 
+---
+I've done World Bosses in groups, that was fine and fun. Dungeons are good as well, Fractals I enjoy the most cause the progression is very linear and the Bossfights are so much fun. Dodging here is easy, the fights are readable and rewarding. But I dont understand why I struggle so much with HoT content.
+---
+[BLOG] [The Guild Wars 2 Team posted on October 23, 2019](https://www.guildwars2.com/en/news/updates-from-the-systems-team/):
+---
+ 
+---
+&gt;
+---
+&gt;    [[https://d3b4yo2b5lbfy.cloudfront.net/wp-content/uploads/2019/08/0ac13PvP_AuricSpan-590x332.png](https://d3b4yo2b5lbfy.cloudfront.net/wp-content/uploads/2019/08/0ac13PvP_AuricSpan-590x332.png)](https://d3b4yo2b5lbfy.cloudfront.net/wp-content/uploads/2019/08/0ac13PvP_AuricSpan.png)
+---
+&gt;Hi, everyone,
+---
+&gt;Today we want to talk to everyone about some team changes and our plans for balance going forward, as well as setting up some goals and expectations for the coming year. Let’s get started!
+---
+&gt;#### Systems Team Updates
+---
+&gt;Let’s welcome Cal “cmc” Cohen as the new Systems Team competitive designer. Some of you know him from his work on competitive content in QA, or even as a competitive PvP player. Cal has displayed great aptitude for competitive balance and systems, making him a great new addition to the overall team.
+---
+&gt;Ben Phongluangtham will transition to a new role as Design Manager for *Guild Wars 2*. We’ll always think of him as part of our team, but we look forward to seeing his continued success in his new role!
+---
+&gt;#### Skills and Balance
+---
+&gt;Balance is important to the entire game. In the past, we’ve split skill changes between the three core game modes: PvP, PvE, and WvW. Previously, skills designers oversaw all balance changes with sign-off from designers working on competitive content. PvE balance will remain in the hands of skills designers, but PvP and WvW balance will now be handled by competitive designers. This will give our competitive-focused team members a bit more control over how players interact with their content, and it will allow the skills designers to focus on PvE balance and other Systems work.
+---
+&gt;#### Communication
+---
+&gt;Balance changes for the different game modes are a type of content we feel comfortable discussing with the community before release. As a team, we want to increase our presence on the forums and be more open about upcoming changes to get feedback early. In the future, we’ll also begin calling out specific times when some of us will be present on the forums to collect feedback through targeted threads.
+---
+&gt;Ultimately, we want to be more open and available to the community, and we ask that, in return, you help provide constructive feedback and respectful discussion.
+---
+&gt;So, let’s recap:
+---
+&gt;* There are some changes to the Systems Team as people move into new roles.
+---
+&gt;* Skills designers will continue to own balance changes for PvE skills.
+---
+&gt;* Competitive designers will now own balance changes for PvP and WvW.
+---
+&gt;* The Systems Team plans to be more active on the forums.
+---
+&gt;We’ll talk to you soon!
+---
+&gt;–The GW2 Systems Team
+---
+&gt; 
+---
+^(Beep boop bleep. I'm a bot. Message me or /u/Xyooz if you have any questions, suggestions or concerns.) [^Source ^Code](https://gitlab.com/networkjanitor/docker-polarbytebot-gw2-submission-transcriber)
+---
+probably because no one would have wanted to play a diashow so they only used them in trailers.
+---
+Guess I'll think about that after next week's patch, too. If there is a .dll that works then, of course. At the moment, I'm not sure whether I care about the (remote?) prospect of a ban for using third-party templates - I just know that I will not throw gems after that greedy bunch.
+---
+&gt; As a team, we want to increase our presence on the forums and be more open about upcoming changes to get feedback early. In the future, we’ll also begin calling out specific times when some of us will be present on the forums to collect feedback through targeted threads.
+---
+&gt; Ultimately, we want to be more open and available to the community, and we ask that, in return, you help provide constructive feedback and respectful discussion.
+---
+Thats great an all that you want to collect feedback, but could you actually use it also?
+---
+Must be a guild wars 2 only thing, anet encourage cheating in gw1 and refuses to ban the people who have won several tournaments in a row doing it. Sad panda.
+---
+Not a chance.
+---
+see, this kind of shit basically
+---
+yea getting carried since you said you wiped a bunch of times
+---
+exactly cuz it's 10 year old content(7 actually) that can be casually completed by 1-2 decent people..but you had an entire group that couldn't!
+---
+this isn't about my favorite game or whatever either! it's about trying to form a dungeon group and low level randoms join and turn a 3-5min run into a 30min run basically
+---
+now if lfg didn't ask for experience then it's their fault really but again..given your retarded insults and behavior here on reddit, i'm not buying it
+---
+&gt; I used to love making and dressing up alts so much that I ended up giving them their own builds for the sake of at least making my play sessions with them a different experience.
+---
+Guilty as charged. Even with build templates coming, I'll probably keep the more drastically different builds apart (for gear reasons, mostly), and use the allotted templates for tweaks.
+---
+It's worth mentioning that the longbow is king in open world content due to piercing arrows and 1500+ range. This makes it great for world bosses and farming content where you can easily tag stuff while moving. 
+---
+It won't do as good of damage as getting up close and personal with a sword, but it's easy, convenient, and safe.
+---
+want something weird? female charr had breasts during some stages of concept art :D
+---
+Nice job Sherlock you cracked the case.
+---
+&gt; Ben Phongluangtham will transition to a new role as Design Manager for Guild Wars 2
+---
+The prophecy might come true. BenP will save the game.
+---
+ok,ive seen this one before.
+---
+http://dulfy.net/2018/08/21/gw2-introducing-the-new-systems-developer-team/
+---
+They are different teams, quit your whining. The existing (or now old) balance team did listen to community feedback on the last several balance patches. However the community is also not that skilled at balancing all the time so they aren't going to listen to every request. That isn't how development works at all.
+---
+A massive congratulations to Ben, of course, he has put in such immense work - both in terms of the updates that have come out (which in all honesty have been great) and just keeping in touch with the community. 
+---
+I remember over a year ago when he first popped up in my chat and was like 'hey!' I thought to myself 'wow! an actual anet dev communicating?', but now hes been such a standard in pretty much all of the pvp streamers' chats (and others too), and honestly will always be a part of our community &lt;3
+---
+Cmc is a great guy too - and fully deserves that designer role. Many of you will not know him, but for those of us who have interacted with him he's been always been great, and very communicative - he's also pretty good at pvp too which I know will please some people.
+---
+I've read some concerns about whether this statement of intent about communication is just talk and not actually walking the walk. It's pretty real. I rarely sing praises, especially for ArenaNet, but this is the real deal, and I'm confident we will see stuff changing pretty soon.
+---
+There's hope yet :)
+---
+But have yet to get it right, so try try again!
+---
+I wish i could recapture that August/September 2012 feeling :(
+---
+I think it is better than becoming Risen.
+---
+For a build, go to youtube. Most people list their builds and even those who don't often give it when asked. And you get to see it in action.
+---
+It was bad across the board. Killed scourge in pvp and made scourge even stronger im wvw.
+---
+If I want to use my legendary gear between my guardian and my warrior (because they both have a lot of different builds), moving the gear breaks every template on the character that had the gear, making it pointless.
+---
+On the forums? Does anyone even go there? It's regulated like North Korea
+---
+*Meanwhile in perpetual downstate*   Nah, everything is balanced.
+---
+Mad King Thorn: [NANI ?!]https://i.imgur.com/ZHGTunJ.jpg
+---
+Mad King Thorn: WRYYYYYYYYY
+---
+I'm certainly unhappy with Anet and how they handeld templates, expac and co but still I upvoted this since it's a good thing in theory. If they keep their promise in practise is another topic.
+---
+Third time's the charm?
+---
+That's why this screams "PR" more than anything else. They have yet to put their money where their mouths are.
+---
+&gt; but could you actually use it also?
+---
+The thing with feedback is that players are usually good at identifying balance problems but shit at giving solutions to them. If the balance team took every suggestion at face value and implemented them, it would utterly destroy any semblance of balance in the game.
+---
+Plus, a lot of the suggestions are just impossible to implement from a coding stand point.
+---
+Absolutely nobody wanted the scourge changes. Yet they railroaded it in anyway.
+---
+People want two-way communication. ANET ignoring the community's feedback on the templates showed us that what they really mean is one-way communication.
+---
+Now you get your white knight sword and shove it up where the sun doesn't shine.
+---
+I would have wanted shaders over having to use gem/sweetfx-type overlay programs to Instagram filter my game enough to look current.
+---
+ [https://www.youtube.com/watch?v=Mc-RY3Es5NQ](https://www.youtube.com/watch?v=Mc-RY3Es5NQ)
+---
+I still say we should get a strike missions back to Clorr Island, to defeat a charr "Risen Annoying NPC".
+---
+I liked Forgal, I loved Sieran...but Tybalt? Ugh, can I just trade him for a pocket raptor that gnaws on my ankle through every Order of Whispers mission?
+---
+Certainly explains early GW1...
+---
+I am not happy either. I agree that templates should be monetized. Many players are ok with it, issue is the price. Also issue is that it is still limited. It would be much better in my opinion to sell few slots for lets say 200-400gems and have option to buy limitless with quite high price. 
+---
+But downvoting stuff which is possitive doesn't make any sense.
+---
+The equipment templates are per character only, even with legendary armor. As much as the Reddit community send to hate it, there are "legacy" technical limitations that prevent account equipment templates. 
+---
+Doesn't mean they can't, or won't, make account templates at some point, but I the work would be great enough that it was decided that either they don't want to hold up the feature waiting for account equipment templates OR the cost of the change is greater than any business benefit it would bring.
+---
+Reminds me of the joke among the pirates in Lornar's Pass.
+---
+"How many quaggans does it take to light a lamp?"
+---
+"How many?"
+---
+"Depends how much blubber you need!"
+---
+Remember to buy gems, so we all can have more of this great innovation!
+---
+I believe you, but you're often too smart for your own good in other comments so it seems it's an accident in this case. You can make the connections here if you can make them elsewhere. The brain is capable of some incredible things!
+---
+&gt;  PvE balance will remain in the hands of skills designers, but PvP and WvW balance will now be handled by competitive designers.
+---
+So now we have team A designing the specs and taking care of PvE balance, and team B balancing PvP/WvW. Doesn't this effectively remove the competitive guys from the class design procedure?
+---
+Since Anet doesn't like skillsplitting other than adjusting values, does this means that going forward everything will be designed around PvE and the PvP guys just do damage control?
+---
+Ah. I was searching for a correlation to Guild Wars.
+---
+Guess it's just an angry water drop with a sword then :D
+---
+same.  An update I've wanted for years, and now I wish I could reverse time a few weeks, and never have it happen.
+---
+I'm excited for the free ones I'll receive. Sad that I won't be getting anymore than that, probably. $5 for the trait half of a build and $5 more for the equipment is just too much.
+---
+Congrats to Ben and Cal.
+---
+This is good news, a good chance to turn the situation around in PvP and WvW. Hope these changes are felt soon.
+---
+Goddamnit, Stewie.
+---
+Competitive players doing competitive balance is actually an amazing idea, at least on paper.
+---
+I think they should do the same with PvE balance too though. Feels like for  some classes, necro and engi are the prime examples, the design choices are disconnected from the class itself.
+---
+Yessss! I would love this. I themed my ele around earth, green hair, brown skin, green gear....even though I run a fresh air spec. I often thought how neat it would be able to change everything around on the fly to match the element I am wielding at the moment.
+---
+So, do you not know the connection, or are you just being a dick at this point? I can be intelligent and still be ignorant of other perspectives. Are you really refusing to share what you think and have determined?
+---
+Neither, those are the actual genitals.
+---
+Rimmer : Lister, where's my revision timetable?
+---
+Rimmer : Look, I've got my engineering re-sit on Monday, I don't know anything. Where's my revision timetable?
+---
+Lister : Wait, is this the thing in all different colours, with all the subjects divided into study periods and rest periods and self-testing time?
+---
+Rimmer : It took me seven weeks to make it. I've got to cram my whole revision into one night.
+---
+Reality imitates art?
+---
+Sounds like you're in the bargaining stage there.  Just give it up.  If you think Anet is going to abide a free, and arguably superior, alternative to their new cash-cow, you're just deluding yourself.  Anet can and will drop the ban-hammer on everyone using the hacked templates because it will cost them **money** if they don't.  
+---
+There is **zero** ambiguity in the phrase "use at your own risk".  You are, of course, free to do as you like, but stop trying to drag others down with you please.
+---
+Agree to agree :)
+---
+Then the game would die cause it would only cater to hardcore nolifers who grind for gold to buy gems.
+---
+With BenP there is now one of us in the role of Design Manager. Let's hope he has as much deciding power as possible.
+---
+Coincidence and bad luck; this is just a correlation as far as the data is concerned. You need to control for more variables and consider any confounding factors before jumping to a logical cause.
+---
+Another way that it loses value is that if you were using the arc templates you have as many "sets" of armor as there are stat combos in the game but the builtin templates will be limited to 6?9?(whatever the limit is, I already forgot).
+---
+You mean the majority?
+---
+Bro, this is like 7 or 8 years past relevance.
+---
+Sexual dimorphism in MMOs is always some bullshit like:
+---
+Man: HUGE BUFF HORNED GREEN MONSTER RAAAAAA
+---
+Woman: Literally just a human girl but green with huge tits
+---
+So I'm glad they omitted the tits
+---
+Wait until they begin to scan computers to see if you have NotePad open and ban any players found to be in violation of using "third-party applications that affect their gem store".
+---
+I wanted the scourge changes, the bloated class designs need to be tackled finally. Only problem is that there is so much left to nerf designwise
+---
+Variables I control
+---
+1. I usually tag up and command group so it’s at a reasonable pace and I control route
+---
+2. Magic find is always 612%
+---
+3. Same build and setup
+---
+4. Same practice of tagging adds
+---
+5. Keeping check that we are actually killing adds
+---
+I am making the assumption after 24 hours of farming split over 5 days and seeing very consistent results hour over hour and the trend it follows. 
+---
+I am not saying there might be variables/luck I can’t account for, but I am at a loss for what they could be
+---
+&gt;I am always towards the front and tagging everything for around 500-1000 dmg.
+---
+rude
+---
+Awesome, thank you! Some games have an "easier" way of doing things, I'm glad that GW2 seems to be pretty fair for all styles of play.
+---
+Fractal Ben works on Minecraft nowadays, he volunteered during the layoffs. This is BenP, a pvp dev that is commonly known because he is fairly active in Twitch chat of popular streams
+---
+Nailed it
+---
+Anet makes more team structure changes than content patches this year.
+---
+Ah, good. Hopefully with all these changes there's better communication about stuff now, because AnEt DoEsNt CoMmUnIcAtE meme needs to die.
+---
+Yes usually 100% gpu usage would be considered good but i've been playing for over 1 year and the game pretty much NEVER hits 100% gpu usage, simply cause it's not that heavy on the GPU (at 1080p at least).
+---
+Even 640x480 lowest graphics capped on 30 FPS is putting GPU at 99-100%, it's literally stuck at it and my performance dropped from 100 FPS to 20-30 on Amnoon for example, it only happens on Guild Wars 2.
+---
+Pretty sure a RX 570 should run GW2 with better graphics and resolution than 640x480 lowest settings at capped 30 FPS, even my old HD 6870 was running the game at roughly the same settings with no problems at all.
+---
+The operative phrase is "we don't have any desire to take punitive action".
+---
+?
+---
+&gt;Communication
+---
+Balance changes for the different game modes are a type of content we feel comfortable discussing with the community before release.
+---
+This should have been a thing since launch. Look Anet, We don't expect you to know every single problem when it comes to balancing, It's not feasible for a dev team who likely play very casually. 
+---
+Communication should have been there from the start, though I don't doubt there will be trolls, if we ignore them this will be beneficial for both sides.
+---
+Use CPU-Z to see if the PCI-E slot is being addressed with width x16 and not less. Changing your cooler might have misplaced the card and it's not getting all the lanes. I had that happen years ago and putting it back in correctly gave my all my FPS back.
+---
+Mobs might be spawning at different rates/locations after they are killed the first time? Maybe more/less dps in the group? I know it is time consuming, but data about how many mobs are killed per hour might help (by looking at how many mobs received damage in the combat log? Might not be accurate though.)
+---
+idk farmed 8 hours first day and had no significant variation with mirage
+---
+To be fair to OP. That statement was made on Halloween just after HoT release.
+---
+I don't remember it being requoted recently. So there no guarantee the lab has or hasnt been tweaked
+---
+Wow, thanks for the in-depth reply. I'll get the standard edition on friday. I don't think I'll need the extra gems etc. at this point. Is it possible to upgrade later on?
+---
+&gt; Because it’s possible to attach things to other things, a couple of boss monsters can now grab players, spiders can swarm on to faces, and players could finally sit on chairs.
+---
+Wow, it literally took mounts for them to be able to add sitting.
+---
+Good article, though it's kind of odd that they talked about the roller beetle as if it was part of base PoF, but didn't mention the skyscale.
+---
+I really don’t understand having to pay for more BUILD templates. Gear templates makes sense since it saves you bag space. But build templates are just short codes you could store anywhere else. This is just gonna lead to people using a shitty word document or something to store their builds. And we still don’t know pricing. If it’s like 100-200 gems for 3 slots then maybe it’s ok, but it’s really not even a great convenience buy.
+---
+I would return to play gw2 if that ever happen and obviously pay for it 😮
+---
+“Vote with your wallet” is a phrase that gets thrown around a lot in gaming. Scaring off potential customers is just another form of financial protest.
+---
+in my opinion this vid is very good!
+---
+3 and a half years twice :)
+---
+FeelsGoodMan
+---
+Love you Tpot and updooted but I'm gonna reiterate what I said in the discussion post yesterday 
+---
+&gt;As much as I want it to be true, I would not get my hopes up too much about this meaning the return of build template functions like arc. They pretty recently made it clear that arc needed to be disabled upon the introduction of official templates given that it disappeared last week. I do have doubts that their views on this will have changed this significantly in the past week without any prior communication. Fuck do I want this to mean the return of 3rd party templates but I'm not going to bank on it yet.
+---
+dear god i hope you're right :(
+---
+yep, it's written in lore that sylvari dont have gender or genitals and they just take on male and female forms to interact with the other races easier.
+---
+Also human because or ronan supposedly.
+---
+Upvote simply for effort. Than you.
+---
+I could see that being done for PvE, but not for PvP due to visual clarity arguments.
+---
+Fix scourge shade in pvp then
+---
+They don't need to take the suggestions, they need to address the problems that are identified. Mirage dps has been so dominant in PvE on certain fights (e.g. Largos, Cairn, SH, etc.) that it makes playing any other build actually throwing, and it's been like that for a year and a half now. Nobody thinks Mirage is in an ok spot compared to other builds and yet it stays dominant, patch after patch.
+---
+Same thing for dps builds that bring quickness; there are literally only 3 bosses right now where the meta comp is not either stacking guardians or stacking mesmers. And sure you could say not everybody runs meta comps, but if you nerf the quickness gen of dps builds it doesn't affect people who weren't stacking for quickness anyway. This has been a problem since when, February? But anet hasn't even acknowledged it's an issue, maybe their intention is for the same 2 classes to be taken everywhere.
+---
+yea whats the graphics settings for in game cuz i'm sure some post processing settings are off, my textures have a little more grain in mine.  then add reshade with some vibrant shades and more grain and some blurriness and you can really make those textures pop.
+---
+so things like erotic addons that swap skins for nude skins should be allowed?
+---
+Are build templates live?
+---
+I mean that makes sense.  At the software company I work at it is the same way.  we are SQL based so some clients think they can bypass out business logic and write directly to the database.  We can't guarantee it will work but we also can't stop them so if it fucks things up it is on them.
+---
+Fuck condi thief to the ground.
+---
+My guess is that this is balance, not skill creation, so those numerical differences will be exactly what they will be looking at.
+---
+New feature incoming
+---
+"Fix old bugged content for a cheap, cheap 800 gems"
+---
+GOD BLESS YOU
+---
+That was it, it was running at x4 width even though i had re-seated it and heard it snap/click in, funny how it didn't affect any other game performance though, will update support with the info. Thank you.
+---
+I'm not the OP you were replying to before, but this is the context of this thread:
+---
+&gt;The thing with feedback is that players are usually good at identifying balance problems but shit at giving solutions to them. If the balance team took every suggestion at face value and implemented them, it would utterly destroy any semblance of balance in the game.
+---
+Never!
+---
+I have a Junkrat too! I'm yet to post him.
+---
+Pretty nice job actually \^\^
+---
+You can get there as a ghost. I have played a lot of lunatic inquisition this year and I don't want Anet to nerf all the fun exploits and spots. It is so fun to go convert these villagers who think they are safe from the inquisition.
+---
+no need more that. the free templates are enough for me.  i am not one of this crazy hardcore players with 50 builds :P
+---
+in any other subreddit we also wouldn't have this passive-aggressive bullying.
+---
+let's bully him for not being good at the game! This is something that definitely doesn't make me look like a socially inept shut-in!
+---
+IDK about PvP, but Arc definitely remains active in WvW. You use it to see dps, cleanses and boon strips.
+---
+okay i searched and found at least this:
+---
+&gt;It had the back leg joint articulation of the charr, but stood much more upright, had a human neck, slender arms and almost hand-like paws—and, yes, breasts. 
+---
+https://wiki.guildwars2.com/wiki/The_Artistic_Origin_of_the_Charr#Q:_Kristen.2C_can_you_talk_a_little_about_the_different_approaches_you_tried_out_for_the_female_charr_before_settling_on_the_final_design.3F
+---
+&gt; No, he's not even going to know about it nor care. Balance doesn't matter at all for those kinds of players so why would anyone waste time balancing for them?
+---
+Obviously, if Timmy doesn't care about balance at all then he won't have stuff balanced around him.
+---
+But if Timmy logs into the forum to give feedback about balance, then he cares enough about something related to balance enough to actually comment on it. Maybe the big bad PvP Mesmer keeps shitting in his cornflakes and Timmy no longer wants to do PvP. Maybe he liked playing healer druid and wants it back to its former glory. Maybe he just wants a raid to have better signage. 
+---
+He might not be as good as you. He might not be as emotionally invested in the game as you. He might actually be special-ed. The fact that Timmy wants his voice to be heard should be enough of a reason to acknowledge his voice. Even if the answer is no.
+---
+I feel like wvw players are nicer than hardcore pve players
+---
+I've never had to pick up the bounty from the board for daily credit but you won't get credit for stuff if you get to it with only a little bit of health left.
+---
+if the sand got everywhere, it'd make scourge skills work better, tho.
+---
+Not **that** invisible
+---
+They never promised new specs.
+---
+Not going to lie, I may not like the Mordremoth fight because it feels like a rando midboss instead of taking out an elder dragon, but the real reason I truly despise it is that weedy asshole throwing Tybalt in my face, again.
+---
+It was there at the start I think. They used to have high level testers that got fired in 2013, and they used to do balance preview streams before HoT.
+---
+I agree that it missed the mark for WvW, but I'm glad it's gone from pvp. The mAT since then was much more enjoyable to watch because the oppressive firebrand scourge combo was finally broken
+---
+They failed, badly.
+---
+Yep. 
+---
+They have ensured the feedback they get will be useless, like Bad Med's.
+---
+Maybe, i was excluding the hardcore pvers when I said my comment
+---
+&gt;This is obviously a bait comment 
+---
+As a graduate of the College of Synergetics, I can confirm this is completely false.   It is the best theme in the game and all others are inferior.
+---
+It's science, bookahs.
+---
+That's a good question, and I'm not sure of the answer. We're fairly decentralized on the wiki; while we do have a core team of regular users who keep an eye on the wiki as a whole and make sure everything is running smoothly, we don't specifically assign anyone the task of vetting the data submitted to research pages, though there's usually a user or two who takes it upon themselves to keep an eye on it. The trouble is that this sort of data is hard to audit unless you have huge datasets to compare, as is the case with these reddit posts, and unfortunately we sometimes just don't get enough data submitted to the wiki.
+---
+That said, we do tend to keep an eye on reddit for posts exactly like this one and the one I linked in my above comment, which help clue us in to potential issues. We also encourage users to alert us if they see any problems -- you can leave a message by clicking the "leave article feedback" button at the top of an article, or you can drop into [our discord](https://discord.gg/C4RMwPN) for a more immediate response.
+---
+10 hours in different groups - getting the same 800-900/hr.  Plus that was split over 3 days. I didn’t have any issue getting the same returns depending on the group.  
+---
+Then it started to drop, but was still consistent regardless of the group.  Hour over hour in different instances and groups I got the same lower rate.
+---
+&gt; What we have to say carries little weight. Whatever I have to say about 'x' will be rebutted by those who main 'x', often with an invitation to 'git gud', as well as a comparison to 'y' as evidence that 'x' is fine.
+---
+&gt; So how about ANET decides what the TTK (Time to Kill) should be in WvW, under various situations, and start from there? Once you folks agree on a picture of what that looks like, you'll know right off what needs fixing.
+---
+&gt; Otherwise you'll just be tossing out -25% to this or +15% to that and hope it works - which is what I've observed to be the case over the past 20 months I've spent in WvW, and which I'm sure many more seasoned players will confirm has been the case since at least PoF or even HoT.
+---
+Turkeyspit with the only real answer that matters there. With professional forum trolls like Bad Med over there, they should literally ignore most everyone. 
+---
+100% boon uptime in competitive needs to die though, same with Condi uptime.
+---
+Erotic role play
+---
+Buffs to Tempest would be great. One of the most fun elite specs that can do everything well, but nothing great. 
+---
+Squishiest class so if you want the extra healing, you have to loose all your DPS. In PvE this is okay because auramancer and heal tempest are fun builds for casuals like me.
+---
+Same. I'll believe it if it happens, but I'm not going to hold my breath. At this point, Anet, you need to prove that you are the company I want to continue to support, but nothing I've seen in the last three months tells me that.
+---
+reddit
+---
+Couldn't this post have been a live announcement event?
+---
+Engi with FT can tag things and deal 300ish damage even if you're running Marauder gear. You get credit and you don't do so much damage that you screw everyone else over. It's like the old Guardian Staff 1, which dealt very little damage but ensured kills with everyone getting credit when you had a full squad of Guardians waving their staves around.
+---
+They let go over 100 people. Of course they need to restructure... The best managed team in the world would need to restructure after layoffs like that.
+---
+i wish there were account bound gear slots for account bound gear, thus being able to share my ascended and legendary gear across all toons that can equip them.
+---
+Ain\`t that the new festival teleporter items that haven\`t been introduced yet?
+---
+Exactly. hence the existence of this post.
+---
+Apparently some weapons of the same type will stow at different angles as well. When dual wielding 2 Bolts on my Revenant they matched up when stowed, later when I transmuted one into a Scion's Claw they became misaligned.
+---
+nice
+---
+And I'm glad they actually found a way to distinguish the male and female Charr apart. Really well done.
+---
+That's the problem with roles and balancing in this game. Anet has no vision or plan on what roles should be so players end up creating them.
+---
+In one way this allows for more "creativity" for new builds and setups but balancing becomes a reactionary and slow thing. And every time they balance one thing another might appear which is broken or unbalanced. Just look at how new elite spec worked in the beginning and how they work now. For example Druids and Chronos were incredible broken in PvE during HoT if you look back, just think of how often they nerfed (and changed) them up to this day.
+---
+Also this results in an ever changing "meta" which is very unfriendly for more casual players that pug or do not keep up with everything that changes.
+---
+new competitive team, just remember that skills that were implemented to use against mobs that have waaaaaaaaay more hps than players, shouldnt stay the same in pvp modes.
+---
+i'd say to just half the damage and tune down bunkers and defensive stuff, then balance at your will the outcome..
+---
+Seriously, i stopped playing spvp after the first months of heart of thorns, it's not funny when fights are decided in a matter of seconds if you don't use a bunker.
+---
+No, both are overlays that work "above" game client. Nude mod would modify game files which is against ToS.
+---
+Or.. how about a legendary armor for each class. Elementalist one would change it's look depending on your attunement. If you're fire, small fires are all on the outline of your armor, some fire dances around your shoulders&amp;head you swap to water there is a quick and cool animation of smoke when water fills the outline instead of fire. Cool moving water takes place etc. 
+---
+Something similar for Revenants when you have some normal but cool looking heavy armor, but when you have lets say Shiro as a legend, a green magic makes you look like a samurai. With Glint you get some light-blue magic that makes your armor look more scaly, with some dragon head etc.
+---
+What do you mean by new LS mount masteries?
+---
+Thanks for the response.
+---
+For what it's worth, I can personally confirm that the numbers for [Unstable Metal Chunks](https://wiki.guildwars2.com/wiki/Unstable_Metal_Chunk/Drop_rate) are accurate. I never update the wiki but I have tracked the results of salvaging 10k and the numbers match up almost exactly with what's there.
+---
+I don't get your comment. They literally did take template feedback seriously, they dropped the whole "arc can no longer exist" agreement for starters, as well as clarifying a lot of the details in written form. 
+---
+Like, that's the problem with this sub in particular, everyone expects feedback to be like some immediate change that immediately happens as soon as this sub gets bitchy about something. Well, guess it's also Anets fault for pretty much catering to every little whine as well, from character slots to JP. What a mess of a community.
+---
+I understand that part, but there sure is an awful lot of people also complaining about the trait part.
+---
+There's also a range indicator on the cursor when you switch to action camera
+---
+I will bathe in the downvotes of my enemies!
+---
+&gt;Is it hard to find groups for them, and is there hardcore eliteism?
+---
+Just be clear with your intentions. If you say that you're a new/returning player and just want a chill group, be sure to say exactly that. It's easy for people to get misunderstood.
+---
+Post is so recent and it's already filled with the stupidest shit I can imagine minus one post made by Vagrant.
+---
+If you are gonna comment can you please stay away from the "nerf this, buff this, i wont give reasons lolol" format and provide reasons as to what things should change and what the proposed changes could be?
+---
+**TL; DR: make this something productive, cut the shit.**
+---
+Didnt Anet give the OK to change music files some time ago?
+---
+Got my hopes up for a second that it would be Arena.net talking about a GW2 road map for the future, but instead it's just waffle about team changes and secondary stuff like ongoing balancing and wanting to communicate with the player base.
+---
+If you want me to be constructive, do tell something of substance we can give you constructive feedback on, not just an article about team changes that changes nothing about the game at the moment.
+---
+Taco doesn't change anything, it's an overlay. Tape a nude image to a piece of transparency and tape that to your monitor and you have the same affect.
+---
+Fashion and Alts and more Fashion
+---
+[deleted]
+---
+The meter is now represented as you specified and the notation is space separated.
+---
+You could call literally anything they say "PR talk" no matter what it is. When does it stop being PR to you? Perhaps what you're trying to say is "I don't believe that they'll be able to accomplish this"?
+---
+Deathmatch in those games is pretty unbalanced as well, in fact, that's one of its major points of why it's fun and why it works.
+---
+Classic deathmatch shooters are the opposite of balance, the key to victory is strategy, positioning, knowing who to fight, and when. Death is a constant, and it's not fair, you just have to brave the storm and survive. That's why you don't see snipers and that kind of cheese.
+---
+what i'm trying to say is that I don't believe they care enough to want to legitimately communicate with the community. given the recent 'update' with build templates, asking for 'feedback' (which has been given in great measure) as if they are actually going to listen to it and not ignore it like they already have.
+---
+I love build templates and ArenaNet, where do I apply for Partner?
+---
+Here to defend TPs honor!
+---
+When is wvw alliances/restructuring/rework/whatever you call it these days?
+---
+***When?***
+---
+New Raids or CM Fractals. I can only get so excited for new specs when there's no fun new content to play them in.
+---
+You put waaaaay more effort into a comment than I've ever put into a post lmao
+---
+Wasn't scourge just super busted?
+---
+No... it shouldn't. Blizzard talks about this with Overwatch. The game needs to be balanced at high and low levels of play. Heroes need to be fun and balanced whether it's a new players or a pro-gamer. Game balance is always in a state of flux, especially when new things are being introduced (elite specs, skill rewards etc).
+---
+It's possible to balance for both high and low skill. A hero like Tracer, when played by a high skilled player, can totally wreck people, but when played by low skilled players she is fragile, will often blink into walls and generally be much easier to deal with. She is balanced in a way where her kit has a lot of potential, but at lower levels of play that potential is rarely oppressive because lower skilled players can't tap into it, while high skilled players dominate.
+---
+There still needs to be lower skill heroes, or different skill heroes (like Torb, Symmetra or Mercy) so everyone can participate and play well together with different styles.
+---
+Almost everyone cares about game balance.
+---
+Please also read this comment  [https://en-forum.guildwars2.com/discussion/comment/1079701/#Comment\_1079701](https://en-forum.guildwars2.com/discussion/comment/1079701/#Comment_1079701)  
+---
+&gt;This is really the crux of a lot of things we want to address. Boons vs corrupts, damage vs healing, stability vs cc, among so many other things. These are all in the state of being extremely powerful as a way to counter the other side being extremely powerful, and are all things that we want to address moving forward. It's important to keep these balanced against each other, but we want the power level to come down.
+---
+CMC we're in your hands.
+---
+When a brothel is not profitable, you change whores, not shuffle drapes.
+---
+Builds:
+---
+- I see no problem with them monetizing this. You can still copy that string to your own notebook and just alt+tab every time you want to change builds. Those who want to pay for the extra slots and have the convenience of having it in-game can then do that. It doesn’t affect you in any way other than your game is earning more money to keep the content coming. 
+---
+Equipment: 
+---
+- There’s very few players who will have more than the three tabs. If they do it will probably only be for one character. I’m gonna buy more for my main, but I’m gonna be more than happy with the three on all my alts.
+---
+They didn't banish them from the building. It's possible for two different teams to collaborate together when it makes sense.
+---
+You and the other six people who play female charr. Meanwhile female pandaren...
+---
+Nah its pretty normal these days for trailers to show in-engine tech that doesn't make it into the release version. Anthem was the last game I can recall that got a serious tech "downgrade" but Witcher III also experienced something similar.
+---
+I still think the 2012/2019 screenshot looks better, even though its lacking the occlusion in the 2009 version. The art direction is just better and the bloom isn't overdone for the wow effect. It looks ok in a trailer but when you play the game it just burns your eyeballs after a few minutes.
+---
+OK, this side needs to be 2 asuras long by 2 kasmeers.
+---
+Well, before HoT we didn't even have boon duration as a stat.
+---
+points were made you just chose to ignore them
+---
+just waiting for you to address them
+---
+When you don't get credit, it's because while you thought you participated, you actually didn't. This is usually caused by dealing zero or near-zero damage to the enemy.
+---
+You see, bounties have randomized extra abilities that change the fight and their behavior, called Unstable Magic Abilities. Some of them make the bounty completely immune to damage unless you specifically cooperate with the Unstable Magic Ability mechanic in question. 
+---
+**It is vitally important that when facing a bounty, you hover your mouse over their blue buffs on their health bar and read the specific Unstable Magic Abilities they have, so that you can tailor for playstyle accordingly.**
+---
+Specifically, it was probably one of these three:
+---
+* Exploiter - the bounty is completely immune to all damage unless you step inside of a large white bubble surrounding it
+---
+* Phase-Shifted - the bounty frequently marks areas of the ground in blue, either close to the bounty or far away from it, and players who do not stand in the area cannot deal damage to it
+---
+* Signaler - the bounty frequently displays a red or green circle above its head, corresponding to "stand still" or "move around" and cannot be hit by players who do not follow this command
+---
+Further reading and more information can be found at: https://wiki.guildwars2.com/wiki/Bounty#Unstable_Magic_Abilities
+---
+Furthermore, you can reach any topic about which you're curious from in-game by using the "/wiki" command. It's syntax is: "/wiki keyword" except you'd replace keyword with whatever you're interested in, like: "/wiki bounty"
+---
+Hey, don't be rude. They listen.
+---
+They just ignore all of it. Buy those skins, you paypiggy.
+---
+I have a feeling some of the choices made (specifically with scrapper) are made with the intent of having future elite specs better fill roles that players are currently using scrapper in. For example, I feel scrapper is being pushed more to tank/bruiser because I expect the next elite spec to be more fully a support/healer. 
+---
+But that's just a feeling I, Mr. Playing-this-game-casually-since-beta-but-still-a-casual, have
+---
+Go to the tip of the platform, and you can just jump over it.
+---
+Bah. It uses the pre-PoF Sohothin model. Best replace the whole sword. ;)
+---
+I'm not sure how to do 3d print stuff so sadly I can't help. Hope you can repair that guy though.
+---
+Course you can always opt for a real flame too. ;)
+---
+For one thing, they could actually acknowledge the feedback that they've been getting and ignoring for months.
+---
+&gt; When it's done.
+---
+This is an excellent comment that explains the context of GW2 PvE and why the dungeon environment is the way that is.
+---
+&gt;Often times in beginner dungeon runs the builds that newer players bring are worth like .25 or .50 of a level 80 player.
+---
+Indeed. I've joined groups with 4 inexperienced people and easily done 50% of the group DPS despite being boon-limited and/or in down-state for half the fight.
+---
+&gt;push all the time 
+---
+Username checks out
+---
+&gt; With that said, we’re not going to nerf just for the sake of nerfing.
+---
+*cheers hopefully in necro*
+---
+Yeah, let's not talk about the warclaw..
+---
+Time. Waiting for restart kills any incentive after several attempts.
+---
+Honestly on WvW I have no idea what is going on then the entire ground is filled with aoe bombs and I am blow up instantly and have to respawn.
+---
+You liked Sieran?....That says everything, you nutjob
+---
+That was one of my biggest complaints about gw2 from day1. There is no build variety. They made it a little better when they changed the skill system, but it's nothing compared to gw1. Wanna change builds? Switch to a greatsword and you're done. I miss being able to multiclass and having another 140 skills to pick from. Gw1 actually needed templates. Gw2 doesn't. It takes 5 seconds to completely change your shit.
+---
+Stop comparing to GW1. A different game with different architecture. The game's design allowed for the Build Templates you're talking about AND they were stored locally. The build system was simpler (on the backend anyway) and allowed for that. GW2 has a lot of constraints that GW1 didn't that doesn't allow for the local storage of build and equipment templates. GW2's design (on the backend) is far more complicated and doesn't allow for this, specifically in relation to how equipment is handled on the backend (they said as much in the stream).
+---
+As for limits, shipping with lower limits is a smarter thing to do so they can monitor DB, server, and client performance with the new feature. You don't want to release something and have it take down the game due to load. Since ANet also seems to be heavy into cloud infrastructure, they also don't want to over-provision and be paying a ton of money for unused resources.
+---
+And before complaining about how much money you *think* Anet makes on the game, think about this: It takes 2 purchases of GW2 PoF to pay for ONE hour of ONE dev's work (based on average Game Dev pay in the US). I work in the tech industry and it'd take THREE purchases to equal one hour of my time..... and I'm not even a senior dev...... AND I live in the midwest where the cost of living is lower than in ANet's neck of the woods.
+---
+This isn't an issue with GW2, where all content can be done by just autoing with any build. Casual players are already accounted for by the game design.
+---
+You also don't get fashion swapping unless you purchase additional ascended sets anyway, negating one of the main purposes of legendary armor if you want to get feature complete equipment templates.
+---
+&gt; same with Condi uptime
+---
+Would you prefer to be killed on application instead? Because that's what condis are: a second chance. The idea is not to wait until you have some applied and then clean, but not to get them applied in the first place.
+---
+I mean, that's great and all, but if they're not going to account for player feedback on early balance changes, they shouldn't waste their time posting them on the forums in the first place. This last set of balance changes had tons of extremely good feedback, but all of it was ignored and the balance patch was pretty much exactly the same as the early notes were. What's the point of asking for feedback if they're not going to look at it?
+---
+https://i.imgur.com/PwStDa0.png
+---
+It's one of the things I really liked about GW2 when I started over WoW where all female models have boobs and look like some furry erotic fantasy shit.
+---
+Ok fine, we can _draw an educated conclusion based on past behavior_
+---
+Every random's opinion matters??? I am an average skilled guy but i would want top ranked players to share their opinions with the devs, half the stuff i read was seemingly low skilled individuals complaining about easily counterable cheese builds.
+---
+I made a post regarding this.
+---
+https://www.reddit.com/r/Guildwars2/comments/dd5m88/equipment_templates_offer_less_for_those_that/?utm_medium=android_app&amp;utm_source=share
+---
+Apologies for the direct URL, on mobile. I hope that helps explain the situation a bit more.
+---
+Aren't they significantly smaller and slighter too? I feel like the beefiest female charr is still dwarfed by the weediest male.
+---
+Comments such as "THIEF IS OP, NERF THAT SHIT ALREADY!"
+---
+Those comments can be practically disregarded.
+---
+Power level wise I think it may be an idea to reduce the duration of boons accross the board in pvp. I am not sure what the meta should look like from a power level perspective, but I think the HOT era was a good level for classes.  I do agree with the idea that the power level should go down, rather than buffing classes to the meta classes.
+---
+I think in general cooldowns may be too short, especially for the POF classes. I like it when skills have to be used at the right time, and when you ahve to watch for what skills opponents have used. 
+---
+spvp wise:
+---
+Nerf list:
+---
+Condi drd - mostly poison application which I think I saw a psot that it was going to be addressed.
+---
+Holo - does too much, great healing, dps, mobility. I thin a lot of people want to nerf holo auto attacks, and add longer cd on holo leap. Personally I would increase passive heat generation as I think holos can stay in forge too long.
+---
+Warrior - I would lower dps on rampage by like 20%
+---
+There is a firebrand build that is super good, but I don't play much guard so don't really understand how it works.
+---
+Buff:
+---
+Renegade shortbow, mostly how it works, skills are hard to hit with in pvp and don't really reward well enough for how hard it is to use.
+---
+Core Necro - I would like to see dhumfire buffed. Core necro doesn't have much dps in shroud, it would reward scourge for placing shades more, and condi reaper isn't really a thing at the moment. Not too much maybe add a sec in duration.
+---
+Death magic , the rework is underwhelming. Maybe the prot could proc at 20 stacks. All necros in pvp have trouble staying alive and I think death magic needs some work to make it competitive.
+---
+I think the life steal on the offhands rework could be buffed a bit.
+---
+Reaper. Dps is great and doesn't need buffs, but whichever way you build a reaper it is a different flavour of glass cannon. I would like to see some traits that are competitive with dps options. I think the numbers on blighters boon could be higher, right now reapers onslaught is a no brainer.
+---
+Dragonhunter could do with being looked at to be more competitive.
+---
+It's really bad, but take some solace in that they expect this. GW2 forums are filled with the dumbest of GW2 players, and has been since the game launched. Devs know the type of stupidity they will get and are actually relatively decent at going through the shit to get to proper posts, as far as I have found.
+---
+But still, the sad thing is how much stupidity the Devs have to read to find it.
+---
+Yeah, forever unimpressed that they put tits on salad.
+---
+The balance is buying a server transfer from the gemstore.
+---
+I hate everything about my Necromancer except for Reaper and it's my second most played class. Trust me if you have a Reaper and you enjoy it which you probably will, as I also enjoy great sword axe axe, you'll love the fact that you'll never die and you can chew through anyone you bump into
+---
+WvW is easy pickings with everyone in the lab. Raided with my guild for 3 hours yesterday and saw 1 blob and maybe half a dozen solo roamers.
+---
+It's magic, we ain't gotta explain shit!
+---
+What if they made it so you could continually place shades, but only have 3 on the field at a time, with the oldest one being replaced when you tried to put down a fourth?
+---
+Doesn't griffonrook have a timer?  Or does everyone just not do that one?
+---
+And what exactly is the problem? If you have a giant imbalance at off-times this happens. On the reverse the imbalance will generally mean blues going to get their teeth kicked in when the main force comes online.
+---
+It definitely did exist, and was attainable since consoles could do it.
+---
+Here's [two](https://megagames.com/sites/default/files/game-content-images/uncharted%202%20-%2015.jpg) examples of [games](http://i.neoseeker.com/gg/uploads/news/9-2009/news_img_25555_0.jpg)  that came out in 2009
+---
+The models on the overlay, yeah. No one is stopping someone from making a porn overlay for GW2 ( you could even call it Taco) but I don't think there's a very high demand for that kind of thing.
+---
+It's a pretty massive indictment of their desire to bring back players who have quit that instead of marketing this as the feature that players have been begging for, it's just another excuse to line their pockets. They don't want you back, so enjoy FF.
+---
+I think they mean at 1:38 when you say based on that built templates would be legal "because it doesnt..." you dont mention automates game actions.   
+---
+Technically this form of program would fall under that, anets stance on macros is 1 click = 1 action, auto clickers are 1 click repeats 1 action, however anet has not been super clear on all of that from what i understand. they say things are ok as long as they dont give you a competetive advantage or allow you to basically afk farm. However I could never get a clear answer on things like mystic forge macros.  
+---
+That said I feel like since they were ok with letting us use arc dps build templates while they worked on their own.. it must not fall under the wrong side of that, and at this point they are just not willing to "support" his by keeping track of it when it basically competes with their own product now.
+---
+4.) It does nothing for people who were using arc to load ledgendary gear from thier inventory on multiple characters.
+---
+They aren't.
+---
+Yes and no, if you do with bomb which you need for the chest (legat way) then yes
+---
+You can get the achievement for griffonrook by just getting to the chest without a bomb. Doing it with the timer is only needed to get your 2 blues and a green.
+---
+I honestly dont think this will change anything, we've seen these sort of posts before, where they claim X is doing this, and Y is doing that, and we still end up with crazy changes that completely gut some classes and leave others seriously overpowered, given the current history of the balance patches i dont foresee this changing, that statement is just lip service from Anet.
+---
+I can't say much about WvW, but PvP is mostly the same it's been for the past few years. Conquest itself isn't so bad, but the class balance is extremely poor. That said, there was a recent blog from ANet that announced wvw and pvp getting their own dedicated balance teams, so I'm looking forward to developments on that front. The leads mentioned in the post are well known by dedicated pvpers for being active in communication so I'm pretty optimistic.
+---
+As for PvE, the main complaint seems to be lack of content rather than quality. I'm not a very dedicated player but I do enjoy fractals and casual raiding. I would say PvE has greatly improved since launch, so it's worth a shot imo.
+---
+[The Systems Team preparing to enter r/Guildwars2](https://i.imgur.com/EGtlx8B.jpg)
+---
+&gt; when the main force comes online. 
+---
+*if* the main force comes online
+---
+Aurora Glade is paired with Jade Sea (fr) and we have no force. Aurora Glade only speaks English because we're ignorant Englishmen, and the French Jade Sea players know English but refuse to speak it because they're ignorant Frenchmen.
+---
+It's kinda funny but still, WvW sucks for all of us right now.
+---
+She's my favourite, too ^^
+---
+How the hell do you have so much magic find I've played since launch and only have 113%
+---
+Guild Wars
+---
+ Can you change the stats after picking them once? Or just a one time pick?
+---
+And it is, as an idea.  Are you looking at it from a perspective that it has to fit within the already decided upon structure (where all that can be done is adjusting numbers)?
+---
+I think a perfect way to revitalize PvP and WvW would be to tie it together in an expansion.  Like in Guild Wars factions, you could have small teams (sPvP) fighting for an objective.  You could have the WvW maps continue to be a push/pull, but with effects on the other game modes.
+---
+Custom faction armor and weapons would be awesome.
+---
+If that is completely off the table for even imagining, then I think one of the better methods might be to lock down PvP "builds".  Make "heroes" that you can play as.  Guild Wars 2 is nothing like Guild Wars 1 in regard to skills and "traits".  It's time to consider a PvP mode that works for GW2 and not trying to replicate (as much as possible) GW1.  If they have such a problem with exploitation of certain "choices" then it's time to lock down the choices.  Otherwise nothing will change and this will continue to happen.
+---
+[Here's an example of what AC2 _actually_ looked like](https://i.imgur.com/rJn6pit.png)
+---
+I hate that stupid jumping puzzle. I have had Guild Wars 2 for years, and I still haven't beaten it. Then again I hate platforming and non platforming games
+---
+I believe that was an ANet trailer showcasing dodge/block vs the drake. It made it look like block was something you could cast on the fly, not on cooldown. Alas..
+---
+I mean I'm not complaining but let's not stand on pretense here, these are people with planty parts. Aka, [dryads.](http://78.media.tumblr.com/462d8ed1daa0fdc2627cbd3a387ab111/tumblr_p21mkeQrAW1t9x55so1_1280.jpg)
+---
+I kinda like the Original more, is that weird?
+---
+Yes, but that barely help you if you don't have a male and a female close enough to compare ^^
+---
+&gt;**Please do not**
+---
+&gt; - Post image macros or no context images
+---
+&gt; - Post to stir up drama
+---
+&gt; - Post low-effort/-value posts
+---
+What the hell is with all these posts lately, and why do none of them ever get removed?
+---
+&gt; you've priced slots too low
+---
+Don't you mean too high?
+---
+I agree that proper zerging requires some skill, But I however was speaking purely in a 1v1 scenario, so in this case wvw zerging is completely different and not the fighting style i was referring to. 
+---
+Being in group fights for too long hinders your ability to properly take on 1v1’s as you aren’t reading into an individual enemy’s skills/rotations. You also don’t predict enemy skills such as thief steal or mesmer invuln, which is essential in successful 1v1’s. 
+---
+It’s worth noting that I also said “usually”. Some high level players that zerg well can also duel well, but they aren’t very common.
+---
+https://account.arena.net/applications
+---
+basically holds a lot of your account info (like bank contents, achievements, unlocks, etc) for use by other sites
+---
+When you go to make one, check all the boxes - that key is what you plug into the GW2E site here https://gw2efficiency.com/user/api-keys
+---
+then you can check the crafting link
+---
+Sadly, I think the only way legendary armor stands out (and lets be honest - the cash shop has better looking armor by far with far better texture) is if they added legendary stats into the game, above ascended stats
+---
+At the same time it is the definition of a "strictly convenience" feature, as it is 100% just a matter of being ever so slightly less convenient to copy paste.  And convenience features are exactly what people have been saying for ages are the only things they should be monetizing.  I honestly have no issue with this.  I am more concerned about how much the gear templates cost... simply because they are per character rather than account wide.  I'd have no problem buying gear templates per character at, say, 150 gems.  At the more likely 400-600 gems... well... I have 21 characters.  I get most of my gems via gold exchange but that's a bit much.
+---
+After playing so many mmo's since about 2007, GW2 has be far the best mount system. Mounts are unique but most important of all, they are useful. It makes navigation easy, but doesn't downright ruin exploration.
+---
+You can switch weapons mid combat in UT/Quake. You can't switch from ranger to thief if you go from ranged to melee combat.
+---
+Skill adjustment needed: removal of stealth. removal of ranged damage. Removal of traps. Removal of condition damage. Maybe even force players to be locked in place if they want to use a skill, otherwise you could chill enemies and kite them in circles. That's the kind of adjustments you thought of?
+---
+If you just want an unbalanced, just for fun modus: GW2 already has a teamdeathmatch map. It's shit. Because GW2s combat system is not suited for deathmatch.
+---
+Yeah, it’s not pretty, and that affects everyone, and other people can’t see the changes to you — It’s not at all what I want.
+---
+I want certain parts of my armor to actually use different dyes depending on my current team.
+---
+Please show us your fix when you're done.
+---
+Well their whole zerg engaged in inner T1 smc fight against our other havoc they had no time to react to save their T3 keep they get staled in Lord Room smc fight. So they lost their keep &amp; failed at capping smc.
+---
+Outplay 101
+---
+With all stupid evades u prolly can do it now too.
+---
+So could we maybe get the old Shades back on Necro Scourge for PvE and keep what it is now in PvP and WvW?
+---
+&gt; I really enjoy how subtle the sexual dimorphism is on charr 
+---
+Wut? They are so obviously different it hurts. In fact they look like completely different species lol
+---
+For anyone confused, this was a solo pull record.
+---
+What you posted were glamour shots that were not representative of actual gameplay, which is what I said is what the GW2 screenshot was.
+---
+Positioning is going to be the biggest thing to learn for anyone unfamiliar.  Basically any time you are within 1200 range of a zerg, know that you can die instantly if you get spiked by revenant Phase Smashes and CoR.  A little closer than that at 900 range, that's when a zerg can shade bomb you, which will most likely corrupt your stab and leave you with quite a few conditions.  These are the flashing red AoEs which is what you most likely see most often.  If you get caught in a shade bomb you are probably going to die without proper support.  
+---
+The more you play, the better you can recognize when groups are going to go for these damage spikes, and ideally kite away and bait their cooldowns or dodge them.  If you join a group with proper support classes, they can help you survive if you do happen to get caught in one of these.  The #1 defense is always going to be dodging though.  
+---
+Also enable free camera and don't backpedal.  That's probably the #1 mistake I see new players make.  They hold S and move at cripple-speed instead of turning their camera and W-keying away.  You generally want to be running forward in a direction or maybe strafing.  Very rarely do you want to backpedal.
+---
+t never will be. Hopefully enough honest people actually engage and the team gets enough actually useful feedback that they continue with this approach.
+---
+They can't have differences that fundamental between the modes.
+---
+This is my first thought as well, we've seen communication like this before. The proof is in the pudding. I like the changes to the systems team but we need to see results, actual changes being made. As others note we get asked  for feedback all the time and almost none of it is acted on, the latest example being build templates.
+---
+It's not supposed to be informative, he's looking for feedback.
+---
+why do you prefer the anet version over arc templates?
+---
+most arcdps users seem to prefer those over anets proposed implementation, thats why i am asking.
+---
+It is because all that got mentioned in this text was in the livestream from October 1st.
+---
+Wow...so impressive.
+---
+Teach me how.
+---
+Alright, this is my one suggestion for engineer changes, only 45% "/s"
+---
+New elite gadget "the nuke"
+---
+10 second cast time, 1500 range, travel speed the same and same style as rocket turret toolbelt skill
+---
+Applies (base duration) 40 seconds of burning, poison, and confusion, 50 stacks apiece
+---
+600 second cooldown, skill only exists in pve
+---
+Instantly downs the caster if within 1000 range of, er, ground zero
+---
+It may not be 100% fixable, but being aware of the issue can minimize it and prevent bad design that'd make it worse.
+---
+ It's not that big a problem in gw2 to be honest, every time I go back to WoW and come across a Tauren on a Mammoth mount blocking an npc, I miss Gw2. And WoW doesn't even have the equivalent of the "F" to interact key.
+---
+The thing about tanking in raids is that it's more about outputting boons for your teammates than it is about being tanky. It helps to have things like aegis and distortion to avoid attacks/mechanics but that's not the main consideration
+---
+Eh odd numbered patches usually run dry after 1-2 months (unless you're doing ultimate), so hopefully the actual first chapter of this living-story-but-not-really is out by then.
+---
+&gt; One of the biggest things in WvW is anticipating where the damage will be dropped
+---
+Or just play spellbreaker. 4Head
+---
+Does TacO actually interact with the game or is it just an overlay?
+---
+This a long, hard, and expensive road, Weaponsmithing 500 is merely a very small fraction of it.
+---
+So if engie can output boons then they can tank?
+---
+I dunno about stat storage happening, just because that stuff tends to be where their cost and dev time lies (infrastructure and backend storage).
+---
+I'd even love just the ability to bulk change a bunch of legendary pieces at once.
+---
+What happens is it runs once after being reset and stalls at the same point.
+---
+Just wait until you have 3 way fights in WvW and the servers shit themselves from the load they have to handle. But hey, the technology isn't there yet
+---
+Don't give me hopes and take them away... again...
+---
+typical BG. theyre happy to pve
+---
+That has nothing to do with what I said , I was correcting a little bit of misinformation. And your first point has been true about legendary armour since it was added, build templates haven’t changed that.
+---
+this is whats wrong with WvW. people think this is fun instead of going and fighting another zerg.
+---
+thx for the answers. personally i think the arc templates will break the tos because i see it as automating actions within the game but i only have 2nd hand info of them as i never used them, so i dont really care if the ban wave actually comes tiding.
+---
+just out of curiosity: how does wow classic handle build templates? integrated in game? free or monetized? 3rd party apps?
+---
+Kinda in the same spot as you playing alone, except I did buy the expansions on a whim few weeks back. Would love to have a friend to do content with. I'm NA as well, add me at madgenius.9708.
+---
+HoT open world is for sure a jump up in difficulty. You have to learn what to block and avoid and really not get hit by things which is hard starting out. Have you tried swapping out some skills/traits? Are you still running axe/axe warrior? Have you unlocked berserker? I could hop in game and give some tips and help too if you wanted.
+---
+IMO the biggest hurdle is the emphasis on Conquest. This was and is still a mistake. It prioritizes certain builds above others.
+---
+SPvP was healthiest when playing Stronghold. The objectives are more diverse and more roles are useful in it. But ArenaNet dropped the mode like a hot potato when it didn't light the world on fire. What a shame.
+---
+It uses the API. As I understand it, it's like a stream of information that Anet made available for tool/website developers, that contains all sort of data that you can sort through and read to inject it in your tools. Everything uses it, gw2efficiency, build sites, trading post tracking sites, TacO...
+---
+So it's not modifying or reading files that it shouldn't.
+---
+I was playing condi Staff/Staff and Condi Axe/Axe.
+---
+For the Halloween Labyrinth Farm I made myself a precision+Power based Greatsword farmer and just used it in open world because I helped a new-ish player with a portal in the desolation to get him to HP while also farming awakened for the Halloween achievement.
+---
+I would apply some changes to it, for general open world play, but I have to say, I was positively impressed.
+---
+Basically this:
+---
+https://metabattle.com/wiki/Build:Mirage_-_Greatsword_Farmer#Skill_Variants
+---
+But without the mantra of pain, swapping it out to various skills based on what I need to do right now.
+---
+Like Portal Entre (obviously), Mirror Images (More Clones + Stunbreak), Signet of Illusions (more clones!!! + lazy) or "Sand through Glass"+Self Deception instead of renewing oasis for... even more clones?
+---
+If you generate enough clones without needing the ones from dodging, you can take Superiority Complex instead of Deceptive Evasion in Dueling and make use of that high precision.
+---
+Basically, if you feel like constantly needing to shatter clones, so you don't waste them, because you need to dodge for the mirrage cloak, then you don't need Deceptive Evasion. 
+---
+A disadvantage of Deceptive Evasion is, that newly created clones from deceptive evasion don't use the ambush skill right after getting summoned. So, by removing and re-summoning a clone every time you dodge I feel like wasting 1/4 of the possible ambush skills.
+---
+I'm not entirely sure bout that. Can anyone confirm?
+---
+Also, while I use the Sigil of fire recommended by the build in the Labyrinth, I would probably prefer Sigil of Stamina and Sigil of Energy on both greatswords in general open world.
+---
+Also the rune of Vampirism is good for the Labyrinth, but I currently run Lyssa, for more precision and frequent condi cleaning (and because it was cheap).
+---
+If Clones count as 'companion' the Rune of Ranger would be awesome, but I don't think so.
+---
+In general, any thought through build using the Infinite Horizon mechanic is probably playable.
+---
+It is thanks to this type of thinking like yours that such companies develop.
+---
+Your logic: "If something does not suit you, then shut your mouth!" Thank you, but I do not want to live this life as a slave. I have one life. It would be nine, like a cat, I might think. But you can continue to accept the "rules of the game" and swallow any pasture that feeds you.
+---
+Main Havoc1 (dps) arrives at 1min15
+---
+Havoc2 (sustain) stale YB zerg inside smc fight in lord room
+---
+Timer :
+---
+canon 20sec
+---
+oil pot 40sec
+---
+gate 60sec
+---
+lord 30sec (20 people havoc, lord hp scale low)
+---
+In fact it was T3 keep cap in 2min30
+---
+from when havoc arrived to the ring cap
+---
+In the first 3minutes you have usually a scout that shows up
+---
+there was 2 that arrives right after the cap
+---
+Storm Cap a T3 keep under 3minutes
+---
+That was just my point, anet nerfed walls and gates so much you can storm T3 stuff under 5minutes.
+---
+(unless you have dedicated perma scout per building that use sieges disabler &amp; tactics to delay)
+---
+It's BG. Their idea of compelling gameplay is 16 people sitting in fire keep for 4 hours.
+---
+Not template-based, but you'll be able to change stats on 1 legendary armor to change them all at the same time.
+---
+There’s stuff I can’t talk about.
+---
+They should have lost it long before that. That was FAR from the first fucked up ban wave. The reason that one was such an issue was only because reddit didn't solve it for them like it did the others.
+---
+You don't even have to move them, to my knowledge. If you have 10 stacks of 250 Treat Bags and right click &gt; Use all on one of them, it will open all of them, not just that stack.
+---
+Nope, only works on the current stack.
+---
+When you start writing a balance proposition post but Anet announces a restructuring and renewed focus centred around competitive modes and you don't wanna throw your hard work away
+---
+WoW classic has pretty extreme modding support, maybe even too much lol. All sorts of stuff is legal in WoW classic &amp; retail!
+---
+One of the reasons why I like solo kill videos is they are a good showcase of fight mechanics and what players can/should be doing play around mechanics.
+---
+That's not true, each gear template remembers each gear customization load out seperately. So if you start a new template, the changes on the new template dont affect the stats on your first template.
+---
+Atleast that's what they said in the live stream
+---
+But ESO's optional sub isn't optional if what you wanted was regular content updates.
+---
+I think there's a few factors:
+---
+First, the time limit - this makes people stress, especially when they're held back by platforms not appearing yet.
+---
+Second, all the waiting. It's annoying enough on it's own, but if you're unlucky you can load into a map where it's impossible to actually get a run before it closes.
+---
+Third, if you're too slow it can look like a dead end around halfway through. That can be discouraging.
+---
+Fourth, some people suffer from the end point and the animation for it de-syncing, making the final jump a gamble. Not sure how many people this affects, though - I've never experienced it myself.
+---
+Personally, I think if the excessive waiting was removed people would be fine with the JP as they could just keep trying till they get it right. Instead, they're punished each time they fail with a boring waiting room.
+---
+wouldn't hitting "compact" also work for topping off the stack that is currently opening to 250 and you wouldn't have to deal with small stacks manually?
+---
+Do you mean priced the template slots too *high*? :o
+---
+I will definitely save the gear I have! I worked for that :)
+---
+I think I will keep your offer in mind, though I am playing in EU and I dont know how servers and all that work nowadays
+---
+I am way faster clicking than using keybinds. It has been like that for years. My muscles aren't what they used to, but my reflexes are.  
+---
+  
+---
+Edit: 7:30 - that was great bomb/balls timing.
+---
+Springer is still my favourite. I love how it moves and jumps.
+---
+Top players already have a direct method to communicate with devs through discord.
+---
+Tried a mouse with customable side buttons? Don't need to have everything on the keyboard when you have everything on 1 finger
+---

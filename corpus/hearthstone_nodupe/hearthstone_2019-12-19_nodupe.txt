@@ -1,0 +1,1918 @@
+Hey there,
+---
+
+---
+Unfortunately, your post was automatically removed because you failed to assign it a flair within 5 minutes.  If you assign it a flair, your post will be automatically re-approved shortly after.
+---
+To assign a flair to your post, click the button titled "Click here to edit your flair" underneath the post. If you are on mobile or have CSS turned off, the button is just titled "Flair"
+---
+[Example With CSS](https://i.imgur.com/9TTfq91.png) | [Example Without CSS](https://i.imgur.com/3V6ugiq.png)
+---
+If you're having difficulty finding the flair button keep in mind:
+---
+You -can't- flair your posts if you're:
+---
+* Submitting via reddit mobile on a browser.
+---
+You -can- flair your posts if you're:
+---
+* Submitting via the reddit mobile app, and a variety of other reddit apps.
+---
+* Submitting via a desktop version of the reddit site on your mobile browser. You can force this view from the menu options.
+---
+You can choose either of the options above to flair a submitted post.
+---
+---
+---
+^(Have a question or think a mistake was made?) **[^(Message the moderators because I am a bot.)](http://www.reddit.com/message/compose?to=%2Fr%2Fhearthstone)**
+---
+No dragons in any of them either!
+---
+Delay it again because those patch notes where fucking pathetic
+---
+i hope u're right
+---
+Lmao, such weak nerfs.
+---
+Worst part is not that Shaman will still be strong but that Face Hunter will continue to get more popular. Jesus Christ, way to ruin an expansion only one week into it.
+---
+I liked the way that amalgam gave a chance to weaker builds. Having 1-2 amalgams minions in your demon build helps a lot. Interesting to see how it will play out
+---
+Pretty sure it's still an auto include except for control
+---
+The funny thing is that with no minion on board to battlecry, it's still not really too terrible in a pinch.
+---
+&gt;No necrium nerfs
+---
+Buckle up bois, are you ready for the newest hottest cancer? Knew the hacks at team 5 wouldn't touch it
+---
+You're not missing out on much. It's basically just Grinch Warlock vs. People who are actually trying to have fun
+---
+3 if you count the indirect nerf
+---
+Funny because I am playing wild for free to play reasons. I only need a handful of cards every nee expansion and don't need to catch up too much after taking a break.
+---
+2 ? sludge slurper was a fine card. i litterally never heard anyone talking about it being op
+---
+But what if *they* get traded into by 1/1 tokens? Better give them rush to be safe.
+---
+Yea but make sure you have something to make the imp not worthless, like evil conscripter, or other minions that assault their fellow board mates
+---
+Warlock
+---
+AAEBAf0GApz4ApfTAg740AKEsQPchgOdqQPOBoniAooBiJ0DvdMC2O4Cl8sCxQmODujnAgA=
+---
+You gotta tech in electra to get 8 mana 23/27s
+---
+You should already be running 2 [[Vicious Scalehide]], and a lot of people have switched over to 2 copies of [[Magic Carpet]]. So I thought about including [[Swamp Leech]].
+---
+Add 2 vicious scale hide and a zilliax
+---
+Yeah I don't think it's a big secret that this isn't going to do a whole lot. Galak Shaman isn't going to lose so much of it's strength that it's going to be countered by any more decks (currently only Holy Wrath Pally). Virtually every single match up is still going to play the same way and hardly anyone's deck is going to swap out these cards
+---
+half the time it'll be  4 5/6 with taunts
+---
+"Sludge Slurper only has 1 attack?!  But how will trade him into a 1/2 minion now?!"
+---
+**Format:** Wild (Year of the Dragon)
+---
+**Class:** Warlock (Gul'dan)
+---
+Mana | Card Name | Qty | Links
+---
+:--:|:---|:--:|:--:
+---
+1 | [Dark Pact](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/LOOT_017.png) | 2 | [HSReplay](https://hsreplay.net/cards/43128/),[Wiki](https://hearthstone.gamepedia.com/Dark%20Pact)
+---
+1 | [Depth Charge](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/DRG_078.png) | 2 | [HSReplay](https://hsreplay.net/cards/55428/),[Wiki](https://hearthstone.gamepedia.com/Depth%20Charge)
+---
+1 | [Grim Rally](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/TRL_249.png) | 2 | [HSReplay](https://hsreplay.net/cards/50012/),[Wiki](https://hearthstone.gamepedia.com/Grim%20Rally)
+---
+1 | [Plague of Flames](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/ULD_717.png) | 2 | [HSReplay](https://hsreplay.net/cards/54429/),[Wiki](https://hearthstone.gamepedia.com/Plague%20of%20Flames)
+---
+1 | [Power Overwhelming](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/EX1_316.png) | 2 | [HSReplay](https://hsreplay.net/cards/846/),[Wiki](https://hearthstone.gamepedia.com/Power%20Overwhelming)
+---
+1 | [Sanguine Reveler](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/ICC_903.png) | 2 | [HSReplay](https://hsreplay.net/cards/45321/),[Wiki](https://hearthstone.gamepedia.com/Sanguine%20Reveler)
+---
+2 | [Doomsayer](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/NEW1_021.png) | 2 | [HSReplay](https://hsreplay.net/cards/138/),[Wiki](https://hearthstone.gamepedia.com/Doomsayer)
+---
+2 | [EVIL Genius](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/DAL_606.png) | 2 | [HSReplay](https://hsreplay.net/cards/52872/),[Wiki](https://hearthstone.gamepedia.com/EVIL%20Genius)
+---
+2 | [Scorp-o-matic](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/LOOT_111.png) | 2 | [HSReplay](https://hsreplay.net/cards/43453/),[Wiki](https://hearthstone.gamepedia.com/Scorp-o-matic)
+---
+3 | [Ratcatcher](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/GIL_515.png) | 2 | [HSReplay](https://hsreplay.net/cards/46936/),[Wiki](https://hearthstone.gamepedia.com/Ratcatcher)
+---
+3 | [Unwilling Sacrifice](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/ICC_469.png) | 2 | [HSReplay](https://hsreplay.net/cards/42391/),[Wiki](https://hearthstone.gamepedia.com/Unwilling%20Sacrifice)
+---
+3 | [Void Terror](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/EX1_304.png) | 2 | [HSReplay](https://hsreplay.net/cards/1221/),[Wiki](https://hearthstone.gamepedia.com/Void%20Terror)
+---
+4 | [Voidcaller](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/FP1_022.png) | 2 | [HSReplay](https://hsreplay.net/cards/1806/),[Wiki](https://hearthstone.gamepedia.com/Voidcaller)
+---
+7 | [Lord Godfrey](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/GIL_825.png) | 1 | [HSReplay](https://hsreplay.net/cards/48156/),[Wiki](https://hearthstone.gamepedia.com/Lord%20Godfrey)
+---
+9 | [Voidlord](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/LOOT_368.png) | 2 | [HSReplay](https://hsreplay.net/cards/46056/),[Wiki](https://hearthstone.gamepedia.com/Voidlord)
+---
+10 | [Bloodreaver Gul'dan](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/ICC_831.png) | 1 | [HSReplay](https://hsreplay.net/cards/43415/),[Wiki](https://hearthstone.gamepedia.com/Bloodreaver%20Gul%27dan)
+---
+**Total Dust:** 7120
+---
+**Deck Code:** AAEBAf0GApz4ApfTAg740AKEsQPchgOdqQPOBoniAooBiJ0DvdMC2O4Cl8sCxQmODujnAgA=
+---
+*****
+---
+^I ^am ^a ^bot. ^Comment/PM ^with ^a ^deck ^code ^and ^I'll ^decode ^it. ^If ^you ^don't ^want ^me ^to ^reply ^to ^you, ^include ^"###" ^anywhere ^in ^your ^message. ^[About.](https://github.com/HearthSim/deck-code-bot/blob/master/README.md)
+---
+TAUNT IS CHEAT
+---
+\*done
+---
+If only there was a minion that could GIVE adjacent minions taunt... /s
+---
+Just make a jade druid. Does fine in any brawl
+---
+No Cobalt Guardian Change for Battlegrounds? Mechs are already the best tribe in battlegrounds, with the murloc nerf and amalgam removal they will be even stronger.
+---
+Cobalt Guardian needs to be moved to Tier 4/5
+---
+yeah but the goal in tavern brawl is to have fun not win
+---
+Sorry, are you suggesting moving Mogu Fleshshaper to 9 mana is a BUFF?!? 
+---
+Let’s say that the average cost for Mogu Fleshshaper to be good would be that it would have to cost 4 mana or less. A 4 mana 3/4 minion with rush is decent. Before these nerfs, this meant we had to reduce Mogu from 7 mana down to 4, meaning there has to be 3 minions on the board. Now we are reducing from 9 down to 4, there must be 5 minions already in play on average for Mogu to be worth playing or putting in the deck. That’s huge.
+---
+Think how much easier and more common it is that there are 3 minions on the board as opposed to 5. Getting 5 minions on the board is much harder than getting 3, especially if your opponent is a slower control deck and leaves their side of the board free.
+---
+It’s a hugely exponential nerf because it is *exponentially harder* to get more minions on the board. Mogu will now end up sitting in your hand more often than not.
+---
+Only if you disenchant them. It comes out to 0 dust gained; if you have to disenchant something now that isn't extra it could result in a loss of dust in the long run
+---
+When rotation hits with the next expansion you can do something similar with hall of fame cards to get free dust
+---
+Slower decks with strong board clears do not get dumpstered by Shaman's lategame. I've played a fair bit of Galakrond Handlock and find Shaman's midgame tempo to be the hardest part of the matchup. These nerfs hit that part of their game really hard.
+---
+I figured it went without saying that I was talking about metas where Face Hunter is relevant in the first place, since my post was specifically about why it makes sense that Face Hunter runs the sidequest. When you interpreted my post as being about the frequency of metas in which Face Hunter is good rather than the reasons why the sidequest is a good card for the deck, I explicitly told you that’s not what I meant and clarified my point extensively. If you wanna continue having an argument with yourself about something else, be my guest.
+---
+hsreplay.com/meta
+---
+yeah but it's not the point. i don't care if every shaman deck plays it that means it represent the class well. it's like backstab in rogue it's fine as is.
+---
+I love my mill shaman deck in wild, but I wouldn't recommend crafting it
+---
+Lol this has got to be a joke right?  This is their answer to the mechanic issues they've created?  
+---
+These guys have no fucking clue what they're doing.  I feel sorry for anyone who spent money on this set and isn't enjoying it as a result of the state of the game.
+---
+*kraft
+---
+Is kronx before galakrond correct though? Isn’t always better to save for clear or burst?
+---
+Woops! wrong code
+---
+AAECAa0GBKmlA9KlA4WtA5+3Aw3TAdUI0gryDJH7Apj7Avb9AoyAA6uAA+aIA9uJA9msA4KxAwA=
+---
+I've played this game since S2, but I refuse to give Blizz a cent anymore. The game makes it impossible to play more than one or two classes without spending money or dusting entire collections.
+---
+I was quest hunter playing against face hunter and he won purely because he rolled misha instead of huffer or the other one.  My hounds play wasn't enough damage through his one fucking taunt and he won with leeroy the next turn.
+---
+**Format:** Standard (Year of the Dragon)
+---
+**Class:** Priest (Anduin Wrynn)
+---
+0 | [Circle of Healing](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/EX1_621.png) | 2 | [HSReplay](https://hsreplay.net/cards/1362/),[Wiki](https://hearthstone.gamepedia.com/Circle%20of%20Healing)
+---
+1 | [Mecharoo](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/BOT_445.png) | 2 | [HSReplay](https://hsreplay.net/cards/48886/),[Wiki](https://hearthstone.gamepedia.com/Mecharoo)
+---
+1 | [Northshire Cleric](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/CS2_235.png) | 2 | [HSReplay](https://hsreplay.net/cards/1650/),[Wiki](https://hearthstone.gamepedia.com/Northshire%20Cleric)
+---
+2 | [Injured Tol'vir](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/ULD_271.png) | 1 | [HSReplay](https://hsreplay.net/cards/53970/),[Wiki](https://hearthstone.gamepedia.com/Injured%20Tol%27vir)
+---
+2 | [Seance](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/TRL_097.png) | 2 | [HSReplay](https://hsreplay.net/cards/50278/),[Wiki](https://hearthstone.gamepedia.com/Seance)
+---
+2 | [Upgradeable Framebot](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/BOT_309.png) | 2 | [HSReplay](https://hsreplay.net/cards/48529/),[Wiki](https://hearthstone.gamepedia.com/Upgradeable%20Framebot)
+---
+3 | [Injured Blademaster](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/CS2_181.png) | 2 | [HSReplay](https://hsreplay.net/cards/1109/),[Wiki](https://hearthstone.gamepedia.com/Injured%20Blademaster)
+---
+3 | [Microtech Controller](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/BOT_535.png) | 2 | [HSReplay](https://hsreplay.net/cards/49164/),[Wiki](https://hearthstone.gamepedia.com/Microtech%20Controller)
+---
+3 | [Mindflayer Kaahrj](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/DRG_308.png) | 1 | [HSReplay](https://hsreplay.net/cards/54917/),[Wiki](https://hearthstone.gamepedia.com/Mindflayer%20Kaahrj)
+---
+3 | [SN1P-SN4P](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/BOT_700.png) | 1 | [HSReplay](https://hsreplay.net/cards/56223/),[Wiki](https://hearthstone.gamepedia.com/SN1P-SN4P)
+---
+4 | [Grave Rune](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/DRG_302.png) | 2 | [HSReplay](https://hsreplay.net/cards/54873/),[Wiki](https://hearthstone.gamepedia.com/Grave%20Rune)
+---
+4 | [High Priest Amet](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/ULD_262.png) | 1 | [HSReplay](https://hsreplay.net/cards/53929/),[Wiki](https://hearthstone.gamepedia.com/High%20Priest%20Amet)
+---
+4 | [Replicating Menace](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/BOT_312.png) | 2 | [HSReplay](https://hsreplay.net/cards/48536/),[Wiki](https://hearthstone.gamepedia.com/Replicating%20Menace)
+---
+5 | [Faceless Corruptor](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/DRG_076.png) | 2 | [HSReplay](https://hsreplay.net/cards/55426/),[Wiki](https://hearthstone.gamepedia.com/Faceless%20Corruptor)
+---
+7 | [Rabble Bouncer](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/TRL_515.png) | 2 | [HSReplay](https://hsreplay.net/cards/50395/),[Wiki](https://hearthstone.gamepedia.com/Rabble%20Bouncer)
+---
+7 | [Star Aligner](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/BOT_552.png) | 2 | [HSReplay](https://hsreplay.net/cards/49195/),[Wiki](https://hearthstone.gamepedia.com/Star%20Aligner)
+---
+10 | [Sea Giant](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/EX1_586.png) | 2 | [HSReplay](https://hsreplay.net/cards/211/),[Wiki](https://hearthstone.gamepedia.com/Sea%20Giant)
+---
+**Total Dust:** 7600
+---
+**Deck Code:** AAECAa0GBKmlA9KlA4WtA5+3Aw3TAdUI0gryDJH7Apj7Avb9AoyAA6uAA+aIA9uJA9msA4KxAwA=
+---
+I was going to wait u til the nerfs to craft a shaman deck. Guess I can go ahead now.
+---
+Argent Defender says hi.
+---
+It's b/c Team 5 just isn't very good at balancing a "Priest" archetype. They have no original or good ideas on how to actually make Priest not suck. It's a harsh criticism, but at least 90% of their design decisions on the hero in the past couple years supports the statement
+---
+Nothing about them fixing a total fuckup is awesome.
+---
+I can officially say I am no longer surprised with how awful Actibli$$'s team 5 is at balance.
+---
+A lot of brawls to me are just get the pack and leave
+---
+Glacial shard on suicide watch.
+---
+That mogu nerf is highkey a buff because of that 0 mana evolve card lol
+---
+Hey, listen, not *all* classes can have Battlecry as a class identity.
+---
+Just one.
+---
+It does yeah but that deck is even more cancer than the top winrate decks, doesn't really save the meta.
+---
+Trust me, its a huge nerf.
+---
+That sounds like a textbook tier 2 deck tho... a deck that is good against the most popular decks but has fair to bad matchups against the rest of the field.
+---
+You're declaring that this balance patch is a failure before it's even put in place, as if it's a certainty that nothing in the meta will change. That's a completely unreasonable stance, seeing has how they just nerfed nearly a fourth of all the cards played in the strongest deck.
+---
+You're also talking as if this *wasn't* the fastest reaction we've ever seen before from the devs in order to fix an unhealthy meta.
+---
+It's like you had already made up your mind that you were going to be negative about this regardless of what the announcement would be.
+---
+[[Zoobot]]
+---
+[[Menagerie Magician]]
+---
+murozond has a ton of potential in wild right now
+---
+* **[Zoobot](https://media.hearthpwn.com/avatars/423/240/42035.png)** Neutral Minion Common Kara  ^[HP](https://www.hearthpwn.com/cards/42035), ^[TD](https://www.hearthstonetopdecks.com/cards/zoobot/), ^[W](https://hearthstone.gamepedia.com/Zoobot)  
+---
+3/3/3 Mech | Battlecry: Give a random friendly Beast, Dragon, and Murloc +1/+1.  
+---
+* **[Menagerie Magician](https://media.hearthpwn.com/avatars/423/250/42055.png)** Neutral Minion Common Kara  ^[HP](https://www.hearthpwn.com/cards/42055), ^[TD](https://www.hearthstonetopdecks.com/cards/menagerie-magician/), ^[W](https://hearthstone.gamepedia.com/Menagerie_Magician)  
+---
+5/4/4 | Battlecry: Give a random friendly Beast, Dragon, and Murloc +2/+2.  
+---
+^(Call/)^[PM](https://www.reddit.com/message/compose/?to=hearthscan-bot) ^( me with up to 7 [[cardname]]. )^[About.](https://www.reddit.com/message/compose/?to=hearthscan-bot&amp;message=Tell%20me%20more%20[[info]]&amp;subject=hi)
+---
+Whatever you need to tell yourself. I will, thank you.
+---
+"Complete my deck" is your friend.
+---
+That doesn't mean very much. Dragon's Pack only sees play in a galakrond deck whereas Sludge Slurper sees play in nearly every shaman deck because it's generic.
+---
+LOL ! But sadly this is close to reality.
+---
+I’ll be getting nearly 3500 dust off this from cards I never crafted in the first place specifically because it’s far easier to have multiples of commons and rares. It’s not like they haven’t nerfed epics and legendaries in the past either.
+---
+What cards are you talking about? Armorsmtih, a classic card?
+---
+If it wasn't for the versatility of Warpath, it wouldn't see any play. At all possible mana costs it is objectively worse than other  cards in Warrior.
+---
+Sludge slurper was the most played and one of the highest played wineate cards in the game. It's effect May seem minimal, but the nerf was more than necessary
+---
+You’d be surprised how consistent Deathrattle can be.
+---
+This is clearly a battlegrounds patch. The shaman "nerfs" are a excuse so they can say they did something
+---
+Lots of crazy people on this sub.
+---
+&gt;&gt;lightfang/brann (RIP)
+---
+why the RIP?
+---
+Not even close to strongest
+---
+&amp;#x200B;
+---
+* Corrupt Elementalist: now costs six mana, up from five.
+---
+* Sludge Slurper: now has one attack, down from two.
+---
+* Mogu Fleshshaper: now costs nine mana, up from seven.
+---
+* Faceless Corruptor: now has four attack, down from five. 
+---
+Double battlecry double invoke is 5 cards in 1 turn, add in any cards already in play and boom that magu is nothing and a free 10 mutate.
+---
+one mana nerf was fine to the minion. i think a lot of people were asking for that.
+---
+Remember machinegun priest?
+---
+Wait, were you expecting the Priest cards to get nerfed?
+---
+Necroum vial hit, then apothecary instantly trigger which gaurentees at least 1 and can go even more and more.
+---
+I used to use him in my budget duel pally, what have you become ;-;
+---
+Dragon's Pack should make 4/5s
+---
+I think they’ll be even better now because Shaman is now weaker to aggro decks.
+---
+This seems to be going over your head a bit. I'm not saying it was a good card in Uldum. But it was clearly a card to watch if more Deathrattle synergy got printed, and you could tell that from Wild. You can't just "not count Wild" when you're trying to talk about game balance. How a card performs in Wild is important for helping predict how it will interact with future Standard cards.
+---
+I’m not sure you’re right about face hunter. It’s been a fringe “maybe someday soon” deck for a while and it’s two biggest counters (priest and armor gaining classes) are either not good right now (priest) or can be countered now with [[Platebreaker]]. Only time will tell though. 
+---
+I also tend to not pay much attention to streamer opinions simply because they are all playing at legend which is &lt;1% of the player base so the meta at legend isn’t one that most players will experience.
+---
+Taking a quick look at what 10 offers i can see one bad minion while 8 offers plenty of bad minions. Take the nerf however you want but this is just a buff to mutate
+---
+Once you get the cardback you get a pack whenever the brawl returns, and it looks like this one is going to be a yearly brawl so it'd be a good idea to get the cardback out of the way now for packs in the future.
+---
+* **[Platebreaker](https://www.hearthstonetopdecks.com/wp-content/uploads/2019/12/Platebreaker-300x415.png)** Neutral Minion Common DoD 🐉 ^[HP](https://www.hearthpwn.com/cards/12288), ^[TD](https://www.hearthstonetopdecks.com/cards/platebreaker/), ^[W](https://hearthstone.gamepedia.com/Platebreaker)  
+---
+5/5/5 | Battlecry: Destroy your opponent's armor.  
+---
+&gt; but Shaman gets top-tier for a few days
+---
+Shaman has been top tier since the release of Saviors of Uldum at least lol
+---
+wanna bet on your hearthstone account if you're so confident?
+---
+Sure, but that's not what they said. They said no other tribe gets it, which was incorrect.
+---
+Thats literally the Warriors base kit. Buffs for damage. Armour gain or minion attack buffs in return of the disadvantage of a hurt minion. His play style and rng just turned out in his favour. He's far from an OP class in my opinion.
+---
+Nope, the battlecry looks at the starting deck, same as baku and genn.
+---
+Still avoid nerfing epics and legendaries so players get less dust refund because if we have more dust banked, we are less likely to spend money on packs. This is also why they prefer to wait for the imbalanced cards to cycle out to Wild instead of changing them. Profit &gt; a balanced game :(
+---
+Good. We don't want to "kill" shaman. The goal is for it to be balanced.
+---
+No, it didn't. You simply didn't make that point. According to you, it was part of 'mid-tier' decks, when in reality those decks should never run him.
+---
+OP made same post on another forum.  Seems to be total noob.
+---
+about streamer thing i mean i always get to legend within the first 2 weeks of the month (except expansion month where it's more like 3 weeks in) and i don't think platebreaker is a good card in facehunter i't s a 5mana 5/5 right ? so i don't think they'll want to run it
+---
+On one hand I want the balance changes to actually help things, but on the other it is pretty entertaining to watch blizzard fumble around.
+---
+Currently there are 773 cards in standard and you say that having 6 viable decks is good enough? BS
+---
+faceless is now +7/+7 board state with rush. thats still a lot of stats for 5 mana. those other nerfs are ok i guess, but this totally doesnt solve the shaman problem imo. they will still shit out tons of value, but poor shaman with "card generation" as a core weakness of the class. lol.
+---
+I thought Galakrond warrior looked cool but, is pirate warrior a better option?
+---
+This expansion has literally left me feeling like I have no idea what to play and build
+---
+Murozond is good for Togwaggle Priest but I haven't heard of him being used in much else; does he feature in any other decklists?
+---
+Murlocs get them at tier 5, it's not like they get it THAT much sooner.
+---
+rogue untouched im sure will be problematic, it's also curious how they hit the two older cards for shaman rather than the clearly broken new cards that everyones been stocking up on for dust (not to say mogu aint broken)
+---
+shaman still seems really strong imo but i can see the lists moving back over to the battlecry version now that the mogu+mutate package is worse
+---
+Why are you using the word exponentially incorrectly?
+---
+Gotta attack faster than your opponent can concede, obviously
+---
+I'd love that personally. Just broken being able to mutate a 7 cost for 0. A 7 cost that can be 0...Joke.
+---
+So play something else.  Adapt.  Arguing that the deck needs to be nerfed because your deck is inadequate is silly.
+---
+[[Corrupt Elementalist]]
+---
+New expansion, who's this?
+---
+Your hand doesn't ever count for the duplicate deck check, only the cards you've not drawn yet.
+---
+Looking through my old magic cards now. I’ll look out for it.
+---
+Well that was incredibly underwhelming. As a Priest player, I guess Team5 feels I can just to go die in a corner. I can not believe Shamans Galakrond and Shudderwok remains untouched. Also corruptor got a fucking slap on the wrist, -1 dmg... ok. That was mildest of nerfs ever and Rogue got no nerfs at all. This balance change was a step in the right direction but hopefully there will be a 2nd wave of balance changes because this wasn't nearly enough.
+---
+Well the logical chain from the others would be 1 x/x rush then up to 4 rather than starting at 2
+---
+&gt; You have a terrible memory if you think almost none of the decks were weakened or effected.
+---
+I don't think you understand what "continued to see play and the decks went largely unaffected" means... Seriously I not once ever said that the decks were not weakened or effected. If you can't understand that then I'm just going to have to chalk this up to you being an awful troll
+---
+Not enough to let pirate warrior come around, but probably enough to let maybe a 3rd or 4th class to get about 50% winrate
+---
+Yes, if you dont, contact support, if they tell you its not true, they are lying, keep contacting until you get the right person, if thats to much effort... take a chance anyways lol
+---
+i dont know, tidepool being back up to 3 is pretty big too. that means less copies (and therefor less tipples) and they show up later. its going to be harder to ramp big murlocs to ride out untill the megasuar. were basicly back to where we were before their buff, but now there king burgle and no brann.
+---
+How six?  I understand getting 4(double battlecry) but where are you getting the second set of 8/8s?
+---
+&gt;Tbh I'm too lazy to post because I'll get downvoted regardless of what I post but I am really unhappy with the nerfs/the community in   
+---
+If only this was true and I didn't need read this nonsensical gibberish.
+---
+Not keep them, but you will be able to kind of "rent" a golden version for free until the nerf hits and you disenchant for full value instead of 1/4.
+---
+What?
+---
+Lmao. I didn't want to say it because I was hoping they'd leave the one card all classes find powerful alone, but I think this really is actually going to negatively effect the winrate or even potential of Priest. It wasn't great, but it was one of the few things it had, and now we'll never know how it could've been.
+---
+Still hoping to crack budget Dragon Priest though, since I can't get any of their new Dragons except through Invoking Galakrond =| Lol.
+---
+Reddit is the absolute best place to be making these sort of statements!
+---
+Yeah no more coining out the double invoke on 4 to play Dpack on 5.
+---
+Nah
+---
+Mana curve, lackeys, Shudderwock synergy, Corruptor fodder
+---
+I think your bad
+---
+Because I have no where else to go!
+---
+Sludge Slurper nerf is nice, created some bad trades for other cards.
+---
+Corrupted Elementalist is eh, stops them using kronx turn 6 but still makes an ez turn 7 Galak.
+---
+Faceless Corruptor worse in niche 1-2 damage instances.
+---
+Mogu will stop some early game non-sense against non zoo decks, curious to see how the 9 mana evolve works out.
+---
+Okay, what does it mean?  How largely do they have to be affected for it to count?
+---
+Exactly. Although I think team 5 could have been a bit more harsh with the nerfs, we should wait for the nerfs to actually be in-game to make a final conclusion. Nerfing four important cards in a deck isn't anything small.
+---
+Maybe they think that's too much like the priest Galakrond effect but with rushes for removal instead of straight up destruction?
+---
+MEANWHILE IN WILD.
+---
+Yeah you could literally have 8-12k easily if you aced your first games, like so many others. But you’re stuck in that range. Listen to what you’re saying, you should know how long it would take to get to 12k. It’s not even possible unless you are truly one of the best. Yes those players lose MMR if they actually play games, they don’t have to though. It would take months to catch them if they didn’t play a single game. They do reset legend every month... you don’t just hit rank 1 and get to sit there forever. The point is that the top players are not the best players at all. I beat them regularly and I’m just a 8k scrub.
+---
+Shudderwock
+---
+Meh.. If you are just gonna focus the nerfs on mainly one class, why not just go all the way ? these feel like they are not enough imo.
+---
+It's not like shaman will be left with no viable options if galakrond shaman is nerfed, there's still overload and quest shaman..
+---
+Hmm buy a few more 60s to be sure - need to get ~~Blizzard's revenue~~ that sample size right up!
+---
+no more amalgam is so good, you actually have to pick other strats...
+---
+meme template sauce?
+---
+I disagree I don’t think double Invoke should be a mechanic available for just 1 class. Every Invoke card costs an actual card plus mana. A double Invoke is super efficient since you get the value of 2 cards in 1.
+---
+Don't worry, it helps Shaman
+---
+It's all subjective, but I'd consider a large effect to be a couple percent win rate difference for the deck.
+---
+Thanks
+---
+Whizbang is what I use for all the create a deck ones unless hes banned.
+---
+Get a friend or something.
+---
+Yeah Invocation of Frost needs a change. Either 2 mana or make it only able to target minions. That way you can’t just play it turn 1 on face.
+---
+I can understand losing yo aggro decks sometimes, but you can control the board with invocation of frost and sludge slurper.If you lose tk control that's definetly a you problem since control gets fucked up by gala shaman
+---
+Well it’s been around longer.
+---
+Stats say face hunter
+---
+Same with most 1 drops.
+---
+Idk just doesn’t seem that oppressive
+---
+It should be changed so that it can’t target face.
+---
+Curators hero power is to give you a 1 1 amalgam
+---
+Run silence weapon removal and maybe a hecklebot
+---
+Ok so this OTK won’t be meta breaking then, whew.
+---
+I love having to craft cards just to beat a weekly brawl!
+---
+Retard
+---
+For this one just roll warlock, pop in 2 of every 'destroy a card' and hit auto complete
+---
+I KNEW they were going to remove Amalgam.  He is essentially an auto-pick.  His presence made Curators H.P. not interesting.
+---
+Just play self sacrifice Warlock and destroy your own gifts for fun and profit. I played [[Sanguine Reveler]] turn one and my opponent conceded.
+---
+I think we all know why these cards were nerfed and not others. These cards won't give too much dust value back to players, so Blizzard can keep making money from packs bought
+---
+This isn’t a joke, if the shaman gets pass 5 mana round it’s a rap. Momentum will win him the game even if you put out big minions every turn. Trust me I know I play priest this happens
+---
+* **[Sanguine Reveler](https://media.hearthpwn.com/avatars/415/178/62835.png)** Warlock Minion Common KFT  ^[HP](https://www.hearthpwn.com/cards/62835), ^[TD](https://www.hearthstonetopdecks.com/cards/sanguine-reveler/), ^[W](https://hearthstone.gamepedia.com/Sanguine_Reveler)  
+---
+1/1/1 | Battlecry: Destroy a friendly minion and gain +2/+2.  
+---
+**ITS ALL ABOUT INCEST**
+---
+So true
+---
+I'm playing Control war, and I'm not seeing how control has a positive match up.  Cant generate armor due to lackeys constantly removing it, unable to keep the board undercontrol due to minion spam.
+---
+Did sludge slurper really need a nerf?  Also the problem with Corrupt elementalist wasn’t the cost.  It was that it invokes twice, making it stupid easy for shaman to max Galakrond by turn 7
+---
+Hopefully just long enough to kill them with face hunter!
+---
+I prefer the strategy of farming Arena, effectively buying packs for like 40 Gold a piece plus you get bonus dust/cards in the rewards sometimes. Plus you get to play a game mode that is consistently fun most of the time. 
+---
+You're able to play basically every deck in Standard by the end of any given expansion if you keep up on it. (Uldum was the exception because they ruined Arena for half of it and made it no fun so I stopped playing and never completed crafting Reno Mage.)
+---
+That being said, I only usually play like 20 games of Standard a month just to get to Rank 5 to get the 400 Dust from the Golden Epic at the end of the month.
+---
+AAECAYO6AgSvBKCAA4SmA8GuAw2zAbQBnAKIBdQF+wz27ALe+gLs/ALxpwO7rgO/rgOCsQMA
+---
+# 
+---
+Seen this deck in a YouTube video was just wondering if any of you guys have tried it and can give any feedback
+---
+The real counter is Shirvallah OTK...I haven't lost a single game playing it vs Shaman. Galakrond Warlock also performs very well.
+---
+**Class:** Rogue (Maiev Shadowsong)
+---
+0 | [Backstab](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/CS2_072.png) | 2 | [HSReplay](https://hsreplay.net/cards/180/),[Wiki](https://hearthstone.gamepedia.com/Backstab)
+---
+0 | [Wisp](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/CS2_231.png) | 2 | [HSReplay](https://hsreplay.net/cards/179/),[Wiki](https://hearthstone.gamepedia.com/Wisp)
+---
+1 | [Bloodsail Flybooter](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/DRG_035.png) | 2 | [HSReplay](https://hsreplay.net/cards/55103/),[Wiki](https://hearthstone.gamepedia.com/Bloodsail%20Flybooter)
+---
+1 | [Southsea Deckhand](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/CS2_146.png) | 2 | [HSReplay](https://hsreplay.net/cards/724/),[Wiki](https://hearthstone.gamepedia.com/Southsea%20Deckhand)
+---
+1 | [Stonetusk Boar](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/CS2_171.png) | 2 | [HSReplay](https://hsreplay.net/cards/648/),[Wiki](https://hearthstone.gamepedia.com/Stonetusk%20Boar)
+---
+2 | [Novice Engineer](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/EX1_015.png) | 2 | [HSReplay](https://hsreplay.net/cards/284/),[Wiki](https://hearthstone.gamepedia.com/Novice%20Engineer)
+---
+2 | [Vicious Scalehide](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/GIL_143.png) | 2 | [HSReplay](https://hsreplay.net/cards/46710/),[Wiki](https://hearthstone.gamepedia.com/Vicious%20Scalehide)
+---
+3 | [Acolyte of Pain](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/EX1_007.png) | 2 | [HSReplay](https://hsreplay.net/cards/1659/),[Wiki](https://hearthstone.gamepedia.com/Acolyte%20of%20Pain)
+---
+3 | [Necrium Blade](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/BOT_286.png) | 2 | [HSReplay](https://hsreplay.net/cards/48478/),[Wiki](https://hearthstone.gamepedia.com/Necrium%20Blade)
+---
+4 | [Necrium Apothecary](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/DRG_031.png) | 2 | [HSReplay](https://hsreplay.net/cards/55099/),[Wiki](https://hearthstone.gamepedia.com/Necrium%20Apothecary)
+---
+5 | [Anka, the Buried](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/ULD_288.png) | 1 | [HSReplay](https://hsreplay.net/cards/54020/),[Wiki](https://hearthstone.gamepedia.com/Anka%2C%20the%20Buried)
+---
+5 | [Leeroy Jenkins](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/EX1_116.png) | 1 | [HSReplay](https://hsreplay.net/cards/559/),[Wiki](https://hearthstone.gamepedia.com/Leeroy%20Jenkins)
+---
+5 | [Necrium Vial](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/BOT_508.png) | 2 | [HSReplay](https://hsreplay.net/cards/48748/),[Wiki](https://hearthstone.gamepedia.com/Necrium%20Vial)
+---
+5 | [Zilliax](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/BOT_548.png) | 1 | [HSReplay](https://hsreplay.net/cards/49184/),[Wiki](https://hearthstone.gamepedia.com/Zilliax)
+---
+6 | [Flik Skyshiv](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/DRG_037.png) | 1 | [HSReplay](https://hsreplay.net/cards/55105/),[Wiki](https://hearthstone.gamepedia.com/Flik%20Skyshiv)
+---
+9 | [Anubisath Warbringer](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/ULD_183.png) | 2 | [HSReplay](https://hsreplay.net/cards/54257/),[Wiki](https://hearthstone.gamepedia.com/Anubisath%20Warbringer)
+---
+**Total Dust:** 8880
+---
+**Deck Code:** AAECAYO6AgSvBKCAA4SmA8GuAw2zAbQBnAKIBdQF+wz27ALe+gLs/ALxpwO7rgO/rgOCsQMA
+---
+Have you seen literally any meta game stats on evolve shaman or now galakrond shaman? If you look at this meta or the last one and think "yup thats just fine, the community are just crybabies", you are a fucking moron.
+---
+This sub is clueless on balance change and this is not something new
+---
+Some people even think mogu got buffed (unironically) lol
+---
+Those 6 have positive winrates.  admittedly they're mostly T2, if we put Shaman as T1, but still.  If you want to say galakrond is T0, then a few fit in T1.
+---
+Uh, have you ever played against rafaam?  Rafaam tends to skip leveling on turn 2 to instead buy a minion+hero power (which gives even more of a board number advantage).  Outside turn 1 (when rafaam isn't hero powering anyways), he is almost always going to be the one with the board number advantage early game.
+---
+you just say bingo
+---
+2 mana is a monster nerf. The card will be coming down on turn 5 instead of turn 3, when shaman wants to be playing other things. There are very few matchups where 9 minions are on the board before turn 6, so this card will almost never come down for free anymore.
+---
+Shaman is still going to be strong after these nerfs. Definitely puts them back a few turns, but they didn't completely rip them apart. I fully expect to see tons of Shaman still. Aggro might be able to sneak out a few more wins now though.
+---
+Which puts us right back where we started.
+---
+dEnIsSsS#11233 NA
+---
+I show you i have the quest, then you go first
+---
+“I won’t be satisfied with nerfs until Shaman is literally unplayable!”
+---
+One *W* and done
+---
+Didn’t know this not existed, this is super cool
+---
+This is a pretty awful attempt at balance. It's things like this that make you wonder if they play their own game. Surely they must do, but they balance like they don't.
+---
+Shaman is still tier 0 though mildly weaker, rogue and hunter will be stronger for it and crush everything else.
+---
+Looking forward to Mogu evolving into 10 drops every game, a competitively stupid idea.
+---
+If they put out a patch so quickly, maybe they'll be willing to put out another soon after the holidays?
+---
+People are just mad because they wanted Shaman deleted instead of just nerfed
+---
+Cool! Thanks!
+---
+This doesn't mean it's a nerf, it's just a rotation, brann out, bartender in.
+---
+I expect brann's hero power to come down in power significantly tho, perhaps +1/0 or +0/1 randomly. If they want to keep the thematic of battlecries, that is, whih they probably want.
+---
+I mean...yeah, that's the point. They aren't supposed to beat Shaman.
+---
+Yeah they made aggro better against it. However midrange and control still stand zero chance. So now it's only going be the same exact 3 decks on ladder. Deathrattle rogue. Face Hunter and galakrond shaman
+---
+Too be fair, what made shaman ridiculous was the play of 
+---
+T1: slurper/ gala invoke
+---
+T2: Lacky/gala invoke
+---
+T3: Far sight or mana tide
+---
+T4: The 4 mana gala invoke 
+---
+T5: Either 5 mana Gala Invoke OR Dragons Pack
+---
+T6 : Dragons pack OR Kronx.
+---
+T7: Gala thats fully upgraded.
+---
+With these new nerfs, the decks core curve gets messed up significantly. It's not longer able to trade favorably into agro decks in the early game. A card like Flame Imp or Voidwalker completely hurts their early game board and allows other decks to build a board to combat the strong turn 5-6's. While I think that rogue should have been adjusted, same with potentially hunter, I think these are significant changes that will impact shaman.
+---
+5 drop it's not OP. Need nerf galakrond battle cry Ability
+---
+I wish “explosive trap” the end result was 256
+---
+That sub basically circlejerks itself now.
+---
+It can still be viable if they nerfed the cards that make shaman too oppressive. A 5 10/12 is just ridiculous stat lines that honestly in some games is even an insta concede because if you can't deal with it right away you aren't gonna be able to deal with the second dragons pack or the galakrond the turn after either
+---
+I just copy a standard deck
+---
+Something always has to be bottom of the winrates.
+---
+Regardless if the nerfs are good or bad, the idea that they are doing any changes is good.
+---
+The buffs that they gave doomsday were refreshing, but some had to be reverted. It was still a move in the right direction. 
+---
+I encourage blizzard to carry on making changes instead of letting the meta get stake from over powered decks.
+---
+Uploaded it to youtube and figured why not uploading it to Reddit as well?
+---
+I think some people are underestimating the nerfs however it seems like youre overestimating them. It's still gonna be one of the most played decks and the only thing this nerf does is mean a few more aggro decks might pop in here and there. Control and midrange will still be destroyed by galakrond shaman
+---
+I don't agree at all. Rastakan's rumble nerfs came almost just as fast and were massive. To me these nerfs show that they really tested the cards and the statistics they wanted only slightly differed from what they expected, or they had already tested the nerfed  versions before release. They didn't rush them out just because of the outcry. I wouldnt hold my breath for another balance patch before the single player content.
+---
+Just found out they aren't and that Zayle still sucks (but even more in this brawl because god damn I can't get a single minion on board because of those fucking treasures)
+---
+All 4 of these cards are rares, maybe they chose these so people would get minimum dust refunds. Nerfing the quest or galakrond wouldve been too much dust.
+---
+A full deck of random legendaries is often worse than your average arena deck. Generally you'd rather have draw, tempo cards, or removal.
+---
+You also can't really play this early as you may just draw several prohibitively expensive cards in a row and just lose the game as you won't have removal either.
+---
+Don't get me wrong it can be great in topdeck mode or if you have a pretty weak deck, but the card's really more fun than it is strong.
+---
+Yeah it makes face Hunter stronger and deathrattle rogue stand a better chance. Most other decks will still struggle the exact same as they dud
+---
+oooze for the weapon.
+---
+also ooze and silence do alot
+---
+Except if you're a madman who crafted non-golden snip-snap they only gave refunds for one legendary. It's still better than what they did when they nerfed The Caverns Below
+---
+Hunter should be easy highlander hunter can give you hard time other then that it should be easy win and vs rogue with 2 spell breakers and 3 weapon removal you are favourite to win
+---
+This also makes sense. If we compare the Galakronds hero powers, we get that the priest one has the value less than a 0-mana spell, the shaman has the value of a 1.5 mana spell, the rogue represents a 0-mana spell and the others two are a 1-mana spell of value. So, shaman’s Galakrond is clearly overpowered in terms of hero power.
+---
+Faceless Corruptor = Corridor Creeper yo!
+---
+Dude, Dragon's Pack would still be beyond amazing if it made 4/5s.
+---
+They announced 5 days ago that nerfs were coming, if you didn't think shaman was getting nerfed then thats a you problem.
+---
+and ooze so weapon cant trigger it turn its played
+---
+This is correct. But...Shaman has ruined the meta for months and it doesn't stop. It's giving people nightmares with the same gameplay. There isn't much difference than last season's meta. Fill the board with fucking strong minions and shit on your enemy with low effort because it's impossible to keep up with Shaman's tempo even with removals. 
+---
+Hence a worthless shitdeck like Facehunter and DR handbuff rogue even exists. We have to IGNORE Hearthstone and just put all out cards into the Shaman's face within 5-8 turns and hope for a win. That's absolutely sad. ( DR handbuff rogue and Facehunter are not a problem to the Meta if Priest even existed )
+---
+It's time Shaman drops to the bottom of the foodchain. I am tired of Shaman's dick pounding me, it's time for another class to make me want to quit. This class is trying to make me quit for too long and it's getting closer and closer.
+---
+Community when not nerfed enough - angry
+---
+Community when a deck gets overnerfed - angry
+---
+I'm definitely in the first group.
+---
+When I'm losing my third brawl in a row thinking "why is this junk in the prebuilt deck?!?" because it seems the lowest cost card is 6, while my opponent curves out perfectly
+---
+This is so true. Except lately... I just tavern brawl the wife twice so we both get credit.
+---
+Me arena and bg player, me don’t have cards
+---
+ooze the weapon,silence the 2/5. And priesr cna cabal shadowpriest aswell possibly.
+---
+Just one expansion ago, restless mummy looked so busted... now it pales in comparison to a neutral minion.
+---
+I think it's good to nerf carefully and if it's still too strong you can hit it again. Blizzard sometimes preferred to nerf cards so mercilessly that they went from overpowered meta-definders to never getting played at all.
+---
+Ok but what about people that are not thw best but grinded. Fuck them they need to do it again lol. And if they are sitting on top for weeks then good for them i guess they dont suck so they stay up whats the problem
+---
+Restart
+---
+&gt; They chose all "rare" cards to limit the dust refunds.
+---
+Wow, such a saving, all that dust. It must be enough to send the entire team to the Bahamas for their holiday vacations.
+---
+You do realise it's not real money, right?
+---
+Nope. The original Azure drake was printed in 1993. That one is a 2011 version.
+---
+Good classic set
+---
+What 2 health minions? as a priest player I can tell you that most low health minions that are actually played in standard are either at 1 or 3 health. That's why breath of the infinite is such a goddamn awkward card that doesn't even help in the aggro matchup. 
+---
+Defensive statlines are pretty common for low cost minions currently.
+---
+Nevertheless my theory is rooted in an empiric environment and I'm just connecting dots from different branches of conspiracy theories that are discussed by a ton of people. Maybe worth researching? :)
+---
+yeah i have a golden mogu and faceless, probably dusted so many mogus over the last 4 months though haha
+---
+Yeah, I had this experience with it. I had a really bad hand with my galakrond shaman deck and he kept duplicating the albatross my deck had 50 cards. It was Very annoying. But I was lucky with card draw and beat him luckily.
+---
+I really don't see what the problem is. You already netdeck all your standard decks, I'm sure you figure out how to do the same for a tavern brawl.
+---
+It is total shit atm yeah
+---
+As Priest it’s total garbage you kidding!!??
+---
+Autocomplete is good nowadays
+---
+Yeah, that actually is pretty notable.  This is a big nerf to Zoobot and Magician  and indirectly a nerf to Brann since Magician was one of the strongest battlecries to double with him and in general you won't be able to take advantage of as many battlecries with a given comp now (it'll be hard to have a comp where both Leaper and Coldlight are good at the same time, for example).
+---
+I just like Treants
+---
+I really like deck building, so enjoy this type of beeawls
+---
+Juss use autocomplete feature!
+---
+ootl, fill me in pls?
+---
+Damn, this is some next level conspiracy shit
+---
+&gt; but it's also what makes Menagerie-style play really possible. Builds will be so much more paint-by-numbers without it: pick a tribe and stick with it through hell or high water.
+---
+As opposed to "place a minion and apply literally every single buff in the history of Hearthstone to it"?
+---
+It’s a joke.
+---
+Imagine reacting to half of your opponents turn with your entire turn
+---
+There is nothing empirical, just basic grasping at very common themes and the usual big brother nonsense. A spiral, even a runic one is exceptionally common. Diablo's imagery means nothing because it's intentionally inflammatory as a bit.
+---
+I’m sorry, you’re asking for a fucking nerf to Northshire Cleric and Power World Shield.
+---
+And you say you want to *improve
+---
+I can't believe the play testers, if there were any, thought the card was fun or reasonable. What a terrible terrible card.
+---
+Doesn't work, did in old shop
+---
+It's like they either leave it in the dumpster (like for this whole year) or make it stupid broken (like in Gadgetzan)
+---
+Doesn't help that Priest basically has no class identity in a game that's class based. Healing? Not unique. Card steal? Not unique. So what's left is AOEs (which don't win you matches) or resurrection (but there are so many good spells you're nef with next to no slots for minions)
+---
+Well, it's a welcomed RIP for me and I'm sure for a lot of people.
+---
+We do live in a society
+---
+The Boar seems to be a Litmus test at this point. As soon as it starts oinking things have gone wrong and need to be addressed.
+---
+I agree.
+---
+So speaks the Shaman player
+---
+Back in 2014, you say? ) [Those were the days](https://www.youtube.com/watch?v=FyJh1Kyl184)
+---
+Why are you torturing yourself if all the best happened 5 years ago???
+---
+Don't you remember Old Gods Big Priest, Raza Priest, Patron Warrior, KB rogue, Cavern Rogue, Big Spell Mage, Control Lock and I'm not even speaking about Odd and Even variations. Have you missed all those? Gala Shaman is no better than KB rogue or Big Priest nowadays.
+---
+Every set has statistically confirmed (with variations) great and shitty decks and you never know before until it really happens.
+---
+The thing is that deck (or decks) are memetic, annoying and (sometimes) butthurting, though you don't meet the same decks constantly. You remember frustration better, thus you tend to rememeber "it's always Shaman!" (its always Odd Paladin, its always...)
+---
+To me (playing casual, ladder, wild, standard) Shamans are common, but happen in like 20% of games. I tend to meet mages, rogues, warriors, Whizzbang decks in standard and (almost) haven't seen Shamans in wild.
+---
+?
+---
+I guess people can complain about whatever they want as well :)
+---
+I understand that. All i'm saying is I saw a lot of people get mad at having to deal with 4 8/8 rush minions on turn nine.
+---
+I'm not saying that my idea is anywhere near perfect, i'm just sharing it to see what others think
+---
+Yeah that's the main thing. Changing the invoke card from 5 to 6 doesn't make much of a difference. It's still playable on curve before galakrond and you'll easily play a fully invoked galakrond on 7 essentially winning the game on the spot. These nerfs seem very weak and they didn't touch the problem cards. Rogues Apothecary is insane and I cannot believe they didn't touch him. It's gonna have to happen eventually, either this or they will not print a good deathrattle this next rotation which will feel weird either way.
+---
+[removed]
+---
+So it must be hard for you to deal with limited offers all over the retail places.
+---
+Literally to hammer a nail, you need the best tool (a hammer) to do it. You can use any heavy, sturdy, blunt object, but it is achieved best with a right tool. Just a hammer is better than multitool that includes hammer.
+---
+Same in HS. You can't beat aggro with a slow deck, you'll loose to a combo deck with a control and aggro would crush combo for sure.
+---
+If you don't like something, means that you like something else. So if you like playing HS without limited in choices and if you don't like spending money, choose what you like more - spend money and be unlimited, or have a limit but do not spend. No one is forcing you to play constantly in frustration )
+---
+Remember the goal of every game ever invented - **to have fun**.
+---
+So instead of galakron or dragons pack they nerf... Sludge slurper?
+---
+No DR rogue nerf
+---
+No pirate warrior nerf
+---
+No hunter nerf
+---
+I expected nothing and Im still disappointed
+---
+["We must band together United, for dalarn!"](https://m.youtube.com/watch?v=P8d2J_wCC7E)
+---
+That is true
+---
+Dammit, you are correct. Galakrond Shaman outwins Galakrond Quest Shaman. But Galakrond Quest Shaman outwins Quest Shaman. Quest Shaman is actually outwinned by builds from other classes...such heresy!
+---
+Faceless is strong as it is, but it's control warrior that is able to make use of it, because it has yeo of the best 1 drops in the game: eternium rover and town crier. Warrior can easily transform it into another 5/4 rush. However I don't see other control decks run this, simply because they don't have access to quality 1- drops like warriors do.
+---
+ 
+---
+Control shaman sees fringe play, and the only 1-drop is sludge slurper. 
+---
+Control mage (if there's any) has no 1-drop, and most mage are dragon highlander midrange build. 
+---
+Control priest doesn't run 1-drops. Northshire cleric doesn't fit into control theme.
+---
+i didnt know that, thanks
+---
+Stop im having flashbacks O_O
+---
+Hmm, I think is up there with patches, the cavenrns below, galakrond, jade idol, and baku.
+---
+I fail to see how these changes tackle the real strengths of Galak Shaman, I'm ready to bet that it might go from say 65% to 64% at best, still very dominant and unfun to play against. The invoke power is the problem, the 8/8s are a problem, the fact you get to replay all of it is a problem. Besides, Mogu's nerfs could arguably be seen as a a buff instead, as the 10 mana pool minions is much crazier than 8s - and even with 2 mana increase, you will still be able to play it relatively cheap.
+---
+can confirm, I love constructed brawls, usually dislike non constructed brawls
+---
+Slowing Shaman will force them to sacrifice value tools for defensive tools. It'll give space to control deck to tech against Hunter/Rogue while being able to compete on value against Shaman.
+---
+ye it weakens their turns 1 and 2 a lot and mogu cant be used inbturns 3 and 4 like before with that cost but they might be able to fill mogu and evolve for bwtter early game
+---
+You cannot compare murozond to those cards (except for yogg that is more random than him, and it's a meme card) because it depends on your opponent and does not pick cards from all the game but only from a single turn.
+---
+It's still weird to use an acute accent instead of an apostrophe even witth German layout. The apostrophe is just `Shift+#` (`#` is above right shift).
+---
+Meanwhile, the acute accent (as well as the grave accent/"backtick") is to the left of Backspace on a so-called "dead key", which is a key that does nothing by itself, but instead modifies the key press after it. So, if I press the dead key, then `e`, I get é. To get the acute accent mark by itself, you press the dead key twice. For a regular speed typist like myself it's faster and easier to use the normal apostrophe.
+---
+Interestingly, when I press the accent dead key and then Space, I also get an apostrophe. However, that might be because I'm using Linux, which often introduces a ton of additional symbols to normal layouts when compared to Windows (which is very useful). Normally, when you press an accent key and then space, you get the accent by itself. Not going to reboot into Windows just to test this though.
+---
+*This is more likely than the current incarnation is to get a 12/12* = Mogu will turn into a 10/10 more often after the nerf than it currently turns into a 12/12 right now
+---
+*also it will now be more likely to hit a 12/12* = Mogu will turn into a 12/12 minion more often after the nerf
+---
+Shaman is heavily nerfed (at least the braindead deck everybody copied). It's not about the raw stat the turn you play it it's about tempo. All the 4 nerfs are drastically slowing down shaman and it will be really hard to ever get to the combo part of the deck without dying way before hand. Or to simply lose to other control decks that got the time to get to their own juicy stuff.
+---
+Unless you’re clever enough to build a counter deck. When everyone was running Pogo Hopper in the pick 3 I ran Earth Shock, Tunnel Trogg, Ancestral Knowledge and hard countered that deck as well as preformed well against other things too. It was really fun and rewarding.
+---
+Definitely !
+---
+People don't have cards and they don't let you run whiz or zayle
+---
+You should still feel dirty for playing it, these “nerfs” don’t change that.
+---
+No, it's rush now
+---
+With this change we will be forced to more commit to a strategy now, which i feel is good BUT, when will blizzard finally add the option to see other peoples board like in other suto brawler games so that i can make a right judgement on what strategy to play for?
+---
+I don't get why people are obsessed with Shaman but nobody seems to talk about face huntard. Out of the 10 last games I played 8 were variations of face huntards.
+---
+And I don't care if there is builds that counter it (even though I really don't feel there's much ways to counter it besides playing the same type of cancer aggro deck or simply having lucky draws). I have 0 with pleasure playing against a deck that has 0 interaction with the videogame I'm currently playing. I'd rather watch paint drying it feels a lot more interactive than whatever this is.
+---
+It's unfun when they have a 12/12 on board on turn 5 and that's definitely Mogu's fault
+---
+Same thing is happening in Ranked.
+---
+I guess I can see this side of it. I’ve been playing since pre-Naxx and I started playing card games in 2006. I guess I have a hard time empathizing with new players sometimes. Thank you for bringing up this point!
+---
+It's almost like shudderwock has a really bad idea.....
+---
+6th best card by drawn winrate. The freeze invoke card is by far better in those matchups, and summoner was better.
+---
+Because Galakrond Shaman lists stopped playing the quest a day after launch?
+---
+still not enough to deal with gala sham
+---
+foilenleg#3423 NA. You go first.
+---
+´ acute accent  
+---
+` grave accent/backtick  
+---
+^ circumflex accent
+---
+I agree on all points, corruptor is no longer autoinclude but for shaman he's great in 2 scenarios: reseting a token into 4/4 on t5 after trading into something or using his battlecry to trade efficiently, and in later turns playing him to turn some small battlecry minion into a 4/4.   
+---
+Ill try to leave at least one in my quest version, space permitting 2 will see play to help shore up DragonHunter and/or pirate warrior matchups.
+---
+What was it again?
+---
+THANK YOU!
+---
+I also enjoy making silly jokes
+---
+It is intended to be a nerf but in some matchups is indeed a buff. It's only a nerf against aggro but a mild one because aggro tries to fill the board anyway so the 2 more mana will not affect that much the play, additionally the 10 mana outcome is way way better than the 8 mana so against control is way better (the two extra mana is irrelevant against control). I would be more possitive if I belived in the Blizzard balance team, but they playtested Galakrond shaman in the first place so to be honest I just lost hope in them. And yes I think Galakron Shaman can may be even better now with the "nerfs" and will become even more oppressive. One of their tempo bombs is even better now, they changed little of why they are op (Galakrond itself and the wolfs). Battlecry shaman is something that have been nocive for the game for far too long, we have seveal expansions with Shaman on top since Shudderwock is a thing (changing different flavors of the same thing every patch (all of them tastes like s**t)) so yes, Shaman had to be obliterated so new stuff can be played.  But time will tell, let's see what happens but I have my hopes really low for this patch.
+---
+Good riddance
+---
+Anyone defending the state of rogue is probably playing it. It's a no skill deck that just highrolls on 4 to win
+---
+I just use a standard deck
+---
+Mogu Fleshshaper: 9 mana 
+---
+Me: Sweet!
+---
+Opponent holding mutate with 8 minions on board: LUL
+---
+Why? What was so exciting about Sen'jin Shieldmasta with one more health? I think it's a strong candidate for blandest deck in HS history.
+---
+buut.... galakrond shaman!
+---
+I think it's very fun to play.
+---
+Yea as if that isn’t the case with galakrond.... nice one mate.
+---
+Expansion packs usually contain cards that have a higher powerlevel and the "playsets" of synergetic cards mostly also come from one expansion.
+---
+So yeah i would just buy expansion packs. Go through all expansions until you got one legendary in the special 10 packs pity timer and then go for dod packs.
+---
+Nah, wish I ran decktracker to see, had roughly at least 10-20 losses, the extra 51+ stars come from winstreaks.
+---
+Was so surprised how many people at rank 40 were playing Combo Priest, Galak Shaman &amp; Face Hunter decks fully crafted.
+---
+\*Loses to murlocs\*
+---
+but mecha‘thun priest is completely unaffected by the nerf, or do i miss sth? none of the relevant DR cards got reduced to 0
+---
+It doesn't even let you use one of your own decks.  I'm outta here.
+---
+Ok incel
+---
+Tier 4 maybe. Not Tier 5. Too weak for Tier 5 compared to Lightfang.
+---
+So no more Odd Shaman because of Elementalist nerf? I was playing [saiwei's deck](https://hearthstone-decks.net/odd-shaman-5-legend-saiwei/) with good results and actually having a lot of fun for once...
+---
+Everyone is complaining but I honestly think these were really reasonable nerfs, this will keep shaman viable but not as good. This might enable fx pirate warrior to get some wins because of less tempo. The 1 Mana Nerf to corruptor is going to change a lot tempo-wise.
+---
+Still looking forward to 4 8/8’s with rush on turn 9. So glad they “balanced” Shaman.
+---
+It would happen later tho, and I suppose that’s what blizz was aiming for
+---
+How mucho gusto mo no a Hollywood myth of the game continues with my bike or the employee is the best way to get it Epstein.
+---
+There'll be no more poisonous Amalgrams running around, which is an indirect buff to Demons (which tend to have a few huge creatures).
+---
+Then its not a "double" galakrond issue, its a *galakrond* issue.
+---
+I agree. I don't understand why everyone is getting so upset over Shaman Quest. It just makes the Gala deck weaker.
+---
+BG Shudder is definitely way underpowered right now. I don't think single turn Brann for 2 would be too much of a buff when heroes like Edwin exist. BG heroes have powercrept and Shudder's not a fit for the meta.
+---
+I'd change the order of your title though. Now it seems like you're a rank 20/3k scrub that thinks it's the other way around lol.
+---
+&gt;however vs hunter playing the 3rd card to heal out of their hero power range is required quite often. 
+---
+The hunter already expended a card and 2 mana that technically did nothing all game until you choose to trigger it. Consider the implication that someone can skip their T2 and push you to the very brink compared to say dropping a T2 Faerie dragon for easy 3-6 damage assuming they just go face. 
+---
+The plan isn't NOT TO TRIGGER Rat Trap, its to trigger it in a scenario where you can handle it.
+---
+Because the problem people mostly have with galakrond shaman was the interaction between galakrond and the quest and the interaction between glakrond adn shudderwock. Neither of which have been adressed.
+---
+The only meaningful nerf from this list is the mogu one. The rest don't even matter.
+---
+Another dumb blizzard intern trying to make sense how good of a nerf to make 2/1 becomes 1/1. Everyone with brain knows blizzard just don’t want to nerf epic or legendary cards coz they want to make money by pushing players to buy packs. Stop saying some fake shit to defend team 5.
+---
+Which class do people not mind being powerful? I feel like warlock doesn’t get complained about too much
+---
+Galakrond shaman was practically made for this brawl, free wins with my standard ladder deck
+---
+FPSRussia
+---
+For precisely the reason he listed.  Without easy access to giant taunt/DS/Poisonous minions a big board becomes way more valuable, and nobody does huge minions like demons right now.  Floating Watcher plus an early Wrath Weaver can get out of control really quickly.
+---
+Even if the meta shifts to where people start keeping a couple murlocs around for poison, they likely won’t be big enough to 2-for-1 like a divine shielded Amalgam always would.  I really have to agree that demons are the big winner of this patch.  Poison being everywhere has devalued stats dramatically.  Mechs will still be extremely strong, but demons are also pretty well-suited to fighting them too with Soul Juggler and giant health pools.   It feels like we might actually have a meta that revolves around reading what your opponents are trying to do and pivoting to counter again.  I hope, at least.
+---
+I can't say for sure but I believe he'll comeback, though it may be a year or more
+---
+I think you just want to be right or just farming karma, so this have no point indeed. I'll just say to you that silencing the voices of people that think different to you is a horrible thing to do. Some radical groups have done that in the past with really bad outcomes for humanity.
+---
+How do two of those have the exact same stats?
+---
+If people really want to beat Shaman then just play as a resurrection priest....guarantee your opponent concedes from boredom every match
+---
+And if I come back and laugh at you for that hilarious prediction if you are shown to be wrong, would that be alright?
+---
+Yep, if you don’t know exactly what list you’re up against then it’s better to pop it now than wait for it to get magnetized up
+---
+LOL.
+---
+Way to jump the gun buddy.
+---
+You have a right to your opinion.
+---
+I also have the right to contradict it with my own.
+---
+Take a disagreement on the chin. No need to cry about oppression and being silenced when that is nowhere near the case.
+---
+Wtf are you going to kill every shaman player on the face of earth?
+---
+If that happens we can have a good laugh together, dunno why people take these things so seriously.
+---
+3 friends?
+---
+Indeed, [why do you take these things so seriously?](https://www.reddit.com/r/hearthstone/comments/ecq68z/thanks_for_nothing/fbdjn9m/)
+---
+And it took a card from the opponent's hand
+---
+Tier 4 is a bit late though to make the Menagerie buffs really impactful. Most popular tier 4 minions are used to buff other minions, not to get buffed. For example: Iron Sensei, which has a similar effect, but rarely gets to become a significant size minion, because it's too rare and arrives too late. Additionally, +3 random attack seems way too weak that late in the game. You need 4 turns to get similar stats to what a Metaltooth leaper can do in an instant. That's way too slow. There's only so many turns in a game. Metaltooth leaper also is good because it doesn't take up a slot on the board for multiple turns. If this is on the board you need to cut one of your other minions that can give and receive more buffs or do more in fights.   
+---
+I think it's a decent tier 3, not more than that.
+---
+Idk, Priest's Galakrond seems like a great value generator if Priest had a shell to support a good control deck.
+---
+Don't act like there weren't memes about the other cards just to make your argument look better.
+---
+And people say DoD is overpowered, they should see classic!
+---
+So really to me mogul nerf is geared towards letting aggro have a better time against shaman.  It makes control potentially worse. 
+---
+Also agrro floods the board so he can still come down pretty cheap and now has a much better mutate.  
+---
+I'm saying this nerf to mogu won't change much imo, but we will see.
+---
+I have a few that added me that one time I was climbing using OG Secret Paladin.
+---
+They were not very friendly back then but eventually they invite me for 80g quest so I’ve forgiven them.
+---
+I don´t need to see how the nerfs will pan out. They won´t be enough to remove the fundamental issues of Galakron shaman or make it enjoyable to play against. Unless you love playing aggro lol. 
+---
+It is not my fault that you cannot connect the dots, and yes, that does probably have something to do with your intelligence. Upgrading Galakron up to T7 doesn´t only have something to do with the cost of invoke cards, but also how many you need to draw, when some do it twice. Is that enough to connect the dots now? Yes, you can nerf Corrupt Elementalist to 10 mana, which again would be a fucking lazy fix that does nothing about the actual mechanic that is problematic, and still horrible way to change it. 
+---
+Cubelock had other issues than Skull, ones that got changed as well, trying to spin the issue around Skull is downright idiotic.
+---
+&gt;Because being so sure of yourself always works out.
+---
+Funny, coming from you.
+---
+Genuine question: if you think these nerfs will accomplish so little, why are you still here?
+---
+&gt;Why don't you just, like, go ahead and act on your bitching for once and actually go do something you enjoy?
+---
+Because Standard is not the only mode of Hearthstone I can play and enjoy, and because disliking Shaman or the current meta doesn´t mean I hate the entire game. I know, I know, very hard logical "connect the dots" again, but hey, maybe one day you will get it.
+---
+This sub would melt if that happens
+---
+Also true. However Shudder is going to enable over-the-top actions from now until eternity.
+---
+El-egg-trifying!
+---
+Blizz sucks at balance.  The frost bullshit and galakrind are still broke af.  Broke decks must make them a lot of money.  Think how long broken ass dr. Boom was left alone.
+---
+What do the broken cards Dragon's Pack and Necrium Apothecary have in common? 
+---
+They’re epic...
+---
+&gt; They won´t be enough to remove the fundamental issues of Galakron shaman or make it enjoyable to play against. 
+---
+Both points you made are *extremely* subjective.
+---
+Which is what it boils down to.
+---
+You will continue to whine.
+---
+I will see how things turn out.
+---
+Let's leave it at that.
+---
+people getting butthuy by a meme
+---
+hsreplay &gt; copy meta deck &gt; open up brawl and create deck
+---
+copy/pasting decks works in tavern brawl too! Just figured that out last brawl.
+---
+I played it for a few games, but never got to actually use it. Does it equip a weapon as is? Or does it go in you hand?
+---
+Plus, Druid combo requires 10 treants to die first which requires mindless 2/2 board flood where as your opponent could already be summoning 8/8s with rush or have your face down to null
+---
+Not always.  Iron Sensei is arguably best if you only have 1 mech you want to buff to ensure the buff always goes to the right place.  With this you can never guarantee the buff won't end up on a filler unit that you're planning to sell.
+---
+I would have tossed the threshadon. 
+---
+Prob the pack leader too, cus you gave the rat pack taunt you'd only ever summon 2 rats at most.
+---
+Shield Slam maybe? 1 Mana Execute too.
+---
+If it's so frustrating then just play SI:7 Infiltrator.
+---
+Hey guys loot at our new expansion descent of card balan- I mean descent of dragons.
+---
+ye lightfang is def bad now. It was already very situational now because attack is so much less important than health.
+---
+With the very impactful amalgam removal we might also see the return of mechs. Egg on 4 isn't bad and also all the annoy-o-modules will be only for mechs. 
+---
+Less poison running around without amalgams is also interesting. Def hard to predict right now how the whole meta will work out
+---
+I've never noticed him before.  That's great!  I assume all of these cards were done by the same artist?
+---
+You guys have friends?
+---
+"Of course it's the perfect card.  You just aren't seeing how to use it."
+---
+Should be shaman hugging him
+---
+I went for even shaman, went up against galakrond shaman. Got thunderbluff valient on turn 2 for 0 mana. Easy game.
+---
+Best way is to autocomplete a Shamman deck, people auto-conceded to me even before I could mulligan *something*.
+---
+Would you mind sharing the deck?
+---
+Since it was a \*2 minion and most people got it over time there wasn't much of auto win with it. It actually gets way harder now to switch compositions. Which is something which actually requires skill. It feels like you now have to stick with your comp no matter what.
+---
+I am all for nerfing/removing amalgam but I hope they introduce dual tribe/tri minion rather sooner than later. 
+---
+Staying flexible with your competition and not just rolling and hoping to hit the 3 units you need requires skill. If you can take nothing from your composition with into your other composition a switch might be never worth it after the early game.
+---
+I don't know about you, but my Galakrond is usually fully envoked before I even complete the quest, usually around turn 6.
+---
+Data's hard to argue against.
+---
+*Spiderman speech meme template missing*
+---
+It will be an improvement in term of raw stats, but there is very few interesting effects otherwise, and they only get one attempt at evolve.
+---
+In any case, it's still a 2 mana nerf on the minions, which make it much more difficult to play at no cost. It should still delay it by a few turns.
+---
+This is freakin' incredible. You're really talented.
+---
+He needs more variety of hats!
+---
+It’s a cool card but...
+---
+It’s a dead card for 5 turns against pirate warrior. On turn 5 they’ve gotten full or at least 2 swings-worth value out of ancharr already, sure they don’t get 6 draws but they’re likely pummeling you on board with the 2-3 draws they already got. Also a 2/1 ancharr does very little for you. 
+---
+Against rogue, they’ve already pulled off necrium apothecary shenanigans on 5. If they haven’t already, then you’re probably gonna beat them anyways cuz they didn’t hit the high roll that deck relies on. 
+---
+Against shaman at most you’re getting rid of 1 charge of at arcanite reaper which they reequip with shudderwok. Let’s also think about what else happens when they equip their arcanite reaper, they summon 2 8/8s. You’re telling me you can take care of those 8/8s with the 5 mana (at most, oftentimes, will be just 3 if they play It on curve) you have left? 
+---
+So who do you play this against? Hunters? Mostly face hunters out there so you’re dead or well on your way to being dead on turn 5 if you play a 5 mana do nothing card. Paladin? You took their truesilver, now what? You’re still on a clock, rest of your deck better be aggressive but then why are you running a weird 5 mana tech card. Druids don’t play weapons. Warlocks don’t play weapons (a few galakronds here and there) and priest don’t exist. 
+---
+Anyways, after writing this i feel like a dick but the card stinks in almost all common scenarios i can think of. The only scenario where i could see It being played is if we got an intense pirate warrior meta and you teched your pirate warrior for the mirror to steal their ancharr. Even then it’s probably bad lol.
+---
+Yeah people are being way too harsh, especially considering that the update came out TODAY. I legit saw someone say on another post "but Shaman still has 2 other viable decks" as an argument. Like people seem to want shaman destroyed to the point where it's the worst class just because they're mad with how overpowered it was
+---
+As opposed to Deathcry which just makes me feel sad
+---
+Wasn't arguing to begin with. You seem to assume I was on the defensive.
+---
+I was... just having a conversation.
+---
+Ironically the one who seems to be bothered is you.
+---
+Isn't the picture on the right an actual card? [[Hungry Toad]]? From League of Explorers?
+---
+And all the card art on the left was released after hungry toad?
+---
+\[\[Huge Toad\]\]
+---
+Yes I'm sure. People don't die instantly with only blood in their deck.
+---
+Who needs tempo when you can add random 6 mana 5/5s to your hand :)
+---
+* **[Huge Toad](https://media.hearthpwn.com/avatars/423/374/27219.png)** Neutral Minion Common LoE  ^[HP](https://www.hearthpwn.com/cards/27219), ^[TD](https://www.hearthstonetopdecks.com/cards/huge-toad/), ^[W](https://hearthstone.gamepedia.com/Huge_Toad)  
+---
+2/3/2 Beast | Deathrattle: Deal 1 damage to a random enemy.  
+---
+In any case, it's still a 2 mana nerf on the minion, which make it much more difficult to play at no cost. It should still delay it by a few turns.
+---
+If you can’t beat them, join them.
+---
+But seriously, fk shaman. Battlecry shaman is a problem. Turn 9, they can heart of virnaal into Galakrond for 4 8/8 with rush. Then they can get two more with shudder. And that hero power is just so good (consistent) compared to the other Galakronds (priest Galakrond)
+---
+From this vid, in the description :) [Cyclone Mage](https://youtu.be/ZrTxlXY_XrU)
+---
+Same problem here
+---
+What? Reaching rank 10 is easy with any deck, doesnt really matter if its face hunter or some meme deck.
+---
+So I don’t understand the post.
+---
+there is a cute frog in it. different color tho.
+---
+**EU Lostdotfish#1466 80g trade**
+---
+&gt;You go first
+---
+&gt;You win yours I win mine
+---
+**Previous trades**
+---
+https://www.reddit.com/r/hearthstone/comments/bb28rf/battletag_findafriend_shadow_edition/f1pk48n
+---
+https://www.reddit.com/r/hearthstone/comments/bb28rf/battletag_findafriend_shadow_edition/envlhnb/
+---
+https://www.reddit.com/r/hearthstone/comments/9uwlss/battletag_findafriend_zandalar_edition/ehiisf5/
+---
+https://www.reddit.com/r/hearthstone/comments/9uwlss/battletag_findafriend_zandalar_edition/efn7h5j/
+---
+https://www.reddit.com/r/hearthstone/comments/de771m/battletag_findafriend_savior_edition/f35vj2n
+---
+There's always gonna be tier S decks. Shaman will still be the best. even if they do more nerfs they're probably not gonna take that away, there's always the best classes and the best decks. They just wanted to reduce how much better they were, and they fucking nerfed 3 shaman cards, that's gonna reduce their power a fair amount even if it doesn't stop them from being good
+---
+&gt; Lol what?
+---
+&gt;*Never before seen?*
+---
+&gt; Far too presumptuous for someone who has yet to see
+---
+&gt; I have to ask if you're relatively new to Hearthstone as a whole
+---
+Try harder, friend.
+---
+Shaman support card is fucking bonkers, even without Galakrond I guarantee people will still use that card anyways (if it still summon 2 2/1 with rush). It's just that consistently good vs. any match up.
+---
+I played secret mage in wild. Dude hate friended me, railed at me, then unfriended me so quickly that if I hadn’t been actively watching my messages, I never would have even seen it. I couldn’t even screenshot it quickly enough :(
+---
+I noticed one of these... :( 
+---
+ So here take this... :D
+---
+Awww
+---
+Good bot
+---
+&gt;These minions don't have Rush, period.
+---
+Ah, now I see what you mean. I didn't even think about that, but it's true, it's as if they get a -4/-1 debuff the turn they're summoned and don't have Rush. But they still can't attack face either...
+---
+So Nithogg is basically just a bunch of stats, except they can be easily removed the turn after he's played, whereas Galakrond gets giant Rush minions. In that sense they're less comparable.
+---
+Nithogg just sucks then, both in terms of power level and creativity... :(
+---
+I guess he could be interesting if Blizzard made cards that trigger when something's transformed? Like... "Whenever a minion is transformed, give it +3/+3". He would still probably be bad, though...
+---
+I hate to nitpick, but unless I'm missing a meme or a reference here, the actual line is ["Goodnight, sweet prince"](https://www.nosweatshakespeare.com/quotes/good-night-sweet-prince-meaning/).
+---
+The piece is incredible though, so good job nonetheless.
+---
+They're definitely not gonna change Galakrond and no one should expect them to. There basically nothing you can change about the Shaman Galakrond that wouldn't change the fundamental nature of the card. Unless they just wanted to make the Shaman Galakrond weirdly different from all the other Galakronds. There's always gonna be a "best" Galakrond and it's probably always gonna be shaman, that's not the problem
+---
+I mean, it’s very explicitly the design goal of Zephrys to offer you the best card possible given the circumstances. It’s just that there are practical limits on how smart he can be programmed to be.
+---
+Yes, clarifying points that you're clearly wrong on is not arguing.
+---
+If you honestly think Galakrond Shaman is "never before seen" dominance, then you're wrong. Plain and simple.
+---
+I'm not going to make a grand effort convincing you of that. Either you see sense or you don't.
+---
+This is so cool. Great job man!
+---
+I did, just select every warlock card that says "destroy a friendly minion", crush shaman, easy gg
+---
+Sacrifice warlock completely crushes Galakrond Shaman in this brawl tbh, so bring them all to me. They can't tempo like I can constantly opening presents and playing 2 mana 7/7s, zero mana 4/5s, and so forth.
+---
+&gt; Having two Stonetusk Boars at 14/14 isnt a problem? 
+---
+Yeah, perfect example. That happens EVERY GAME. What is aggro anyway, amirite?
+---
+What type of pet wants to even beat the shit out of people? Kangaroos?
+---
+This needs to be a spell card artwork for something murloc related in the future
+---
+Yeah, on ipad... crash then insta-crash on reconnect attempts. :(
+---
+There actually is a notable difference in Battlegrounds: Zapp Slywick targeting.
+---
+I also dont triple two big cobalt guardians.
+---
+Quote 
+---
+If you sell one of those, that's an additional 3 copies of that minion added back into the pool which you can buy and use the battlecry of.
+---
+Unquote
+---
+Whaaaaat? You just fucking blew my mind. 
+---
+How did I get all those wins without even knowing and accounting for this?!
+---
+Even if they had minions, you don't spit in the face of RNG giving you two Charge minions. If RNG wanted me to trade, I'd have gotten two Rush minions.
+---
+Battle squad assemble!
+---
+Just ignore him, guy seems like he got out of bed on the wrong side. Neat accomplishment!
+---
+I will see gentlemanly aggro decks beating the crap out of deathrattle rogue.
+---
+Oh yeah, because high rolling in Hearthstone is so rare. Paladin already has a lot of good class cards, including ones that heal while drawing more cards. It's not like you're supposed to yolo Purifier every time you draw it. Use it after you draw your good neutral cards and/or you don't have anything currently in your deck that's going to pull you out.
+---
+Shut up and insult blizzard.
+---
+Just use the auto complete. It made a pretty awesome deck for me today.
+---
+Honestly speaking from a pure design perspective; if Blizzard really wanted to pander to us they would have gut Shaman. Even if it's a completely different deck, seeing the same class be completely dominate through several different meta's in a row tires people out. Even if you suck at balancing you know to at least rotate the faces people see.
+---
+Tidecaller, Fishflinger, Toxfin, Battlemage, Treants. Sorcerer's Apprentice, Khadgar, Sky Claw, Scion of Ruin, Sky Raider, Parachute Brigand, Frightened Flunky, Zephrys, Micro Mummy, Evil Totem, Pharaoh Cat. There's probably many more.
+---
+Probably being downvoted by said individual at blizzard
+---
+Yes and they nerfed discover, did you get refunded for every discover card? No I didnt think so, your arguement is irrelevant
+---
+I'm glad that they are attempting to make subtle changes so quickly after an expansion is released. I'm also remaining hopeful that they will add to the nerfs if they don't fix the situation after a few weeks of fully released gameplay.
+---
+Update: just hit Rank 1 at 130 wins.
+---
+The best version of the deck doesn’t play Electra or quest. Just because one plays more stats doesn’t make it worse, the tempo of a turn 5 10/12 is waaay more than a turn 8 23/27. The turn something comes out matters a lot. Also, that Electra is a dead card for at least 3 turns, and Electra + Invocation of Frost isn’t a reason to put her in your deck. You can’t afford her in this deck because of how bad a dead draw is. As for the quest, it’s literally in your deck to be replaced by Galakrond. Doubling like 6 battlecries isn’t a good reason to run or complete quest. You need to consider if a card is better than another card you could run, that opportunity cost is hitting you every time you play the deck.
+---
+INB4 someone says yOu ShOuLd HaVe SaVeD iT
+---
+Clearly them refunding legendaries is something they did recently, they are more active than ever, seems to be that whole HK controversy that got their attention
+---
+That's true but not my point.
+---
+It's a card with some sort of potential, but has no business in face hunter. Might find a home in some sort of mid-range or control build.
+---
+Was that pun intentional? [[toxic reinforcements]]
+---
+* **[Toxic Reinforcements](https://media.hearthpwn.com/avatars/430/443/127298.png)** Hunter Spell Epic DoD 🐉 ^[HP](https://www.hearthpwn.com/cards/127298), ^[TD](https://www.hearthstonetopdecks.com/cards/toxic-reinforcements/), ^[W](https://hearthstone.gamepedia.com/Toxic_Reinforcements)  
+---
+1/-/- | Sidequest: Use your Hero Power three times. Reward: Summon three 1/1 Leper Gnomes.  
+---
+Why the hell is that "cancer deck"? That's solid strategy. You know, like building a deck to match the theme of the brawl- kinda the point.
+---
+For the record I'm not even sure it's the best deck, swap priest works pretty well too and you can get  combo wombo and/or lyra for the win.
+---
+You know what's more "cancer", when people queue into these brawls with their regular ladder deck. Oh yeah, that's fun, playing against the **same** decks you already play against **all** the time. Get your pack and get out. 
+---
+Fortunately those players get crushed in this brawl.
+---
+The technology just isn’t there. You’re asking for way too much from this small indie game company.
+---
+Why? Literally no one is bothering with control warrior so all they have is the 2-8 armor they'll gain from leftover mana, and priests are just so terrible that even if they heal themselves, you'll outpace them trivially.
+---
+If the opponent is quest priest and they manage to stall for a very long time (or get a really fortunate Circle) then maybe you'd be unfavored, but that's really it.
+---
+He probably was on a win streak at Rank 6, 5 stars.
+---
+You probably need your diapers changed.
+---
+As much as I would love this, I'd be surprised if this change goes to the main game today.  If it was I don't think they would have nerfed flesh shaper.  I hope I'm wrong.
+---
+Congrats
+---
+/r/iseewhatyoudidthere
+---
+I confused and downvoted instead.
+---
+The nerfs actually make sense. Mogu Fleshshaper + evolve can flip almost any board if you play it on turn 4-5, that's been delayed by 2 mana (which means 2 more minions on the board, so either you're under A LOT of pressure or you're playing a more aggro version of Shaman with more early game cards). Double invoke on turn 5 was also a big help in summoning Mogu and flipping board states, that has been delayed one turn now (it also delays your wolves if you didn't draw 2 of your invoke cards). 5/4 rush was always going to be nerfed, from day one it was played in almost every deck. Same goes for the 2/1 murloc, it was very strong since the start, it allowed Shaman to play less aggro cards since it was a good aggressive 1 drop that also generates early game cards.
+---
+Opponent plays Doomsayer for no reason, gets punished. Easy to play around without even changing your deck, don't doomsayer against nothing against rogue when they aren't developing any early threatening board anyways.
+---
+Yeah it's weird how hearthstone decides what's "played" and what's not. It's the same way with Tess and other similar cards
+---
+nobody would play it, hearthstone is built on the foundation of minimizing RNG so as to win
+---
+Oh no
+---
+Well I’m just happy about no more Tirion/Alakir/Catrina/Batterhead, which were all super swingy. Probably more I can’t think of off the top my head, but what’s 10 got that 8 doesn’t? Colussus of the Moon is probably the best card possible now and less utility/immediate-impact than my aforementioned quick examples. No more Hireek I guess though.
+---
+&gt;No, that's statistically impossible.
+---
+&gt;Edit: Am I actually getting downvoted for disputing that you won't lose 90 coinflips in a row?
+---
+Yes. Because it's very obviously a stupid take and that losing 90 coin flips is certainly statistically possible.
+---
+I understand his train of thought, though. A true nerf would’ve been fixing it’s cost when played. So that a 4 cost mogu mutates into a 5 cost.
+---
+I downloaded the patch. Started a BG. Got Brann from a discover. Seems hes not really gone yet.
+---
+I'll pass. Every skin that I can't unlock by just playing the game is a skin that i'll happily ignore.
+---
+Thought that was a cigar for sure!
+---
+*Creepy Tree, I choose you!!*
+---
+On iPhone 6, I’ve tried launching the game to get the “checking version” screen but App Store still isn’t showing any available updates.
+---
+I’ve tried restarting my phone but really don’t want to blow 4 gigs or whatever of data on reinstalling at work.
+---
+Comment isn’t directly relevant to the post but here we are :/
+---
+You've conceived well my fren.
+---
+Think about it. When the other shaman mutates into colossus of the moon, after the shaman earthshocks it from the lacky discover spell card he got, it will still leave a 10 attack minion on the board to deal with!
+---
+I’m not stupid.... of course I know
+---
+I call that "The Barnes effect".
+---
+I thought just moving it up to tier 4 would be a better move
+---
+Lmfao
+---
+For Priest it ia
+---
+I had that exact thing happen to me yesterday, this screenshot isn't me tho
+---
+prettier than most jews i've seen
+---
+Hey hey hey. To get those stats you have to have played cards you would have played anyway.
+---
+&gt; depending on the meta
+---
+This card is bordering on broken in just about any meta. It’s a neutral Polymorph that leaves a 3/3 body on your side of the board too. It’s hard to imagine what decks *wouldn’t* want to play this card. 
+---
+Balanced my ass, OP.
+---
+They nerfed 4 cards from one deck, that doesn't feel timid at all
+---
+Unfortunately, your submission was removed because it is a pack opening.  
+---
+All pack opening submissions should be added to the [Pullsday Thursday pack opening threads](https://www.reddit.com/r/hearthstone/search?q=Pullsday+Thursday&amp;restrict_sr=on&amp;sort=new&amp;t=week).  
+---
+They are stickied to the the subreddit every Thursday and allow you to show off your crazy or unlucky pack openings.  
+---
+You are also welcome to post in /r/HSPulls.
+---
+^(Have a question or think your post doesn't break the rules?) **[^(Message the moderators.)](http://www.reddit.com/message/compose?to=%2Fr%2Fhearthstone)**
+---
+Sir Finley. Singleton Paladino card that let's you discover a Baku hydropower
+---
+Foreshadowing a Legion storyline?
+---
+The card was fine with 2 attack. It paid for Galakrond's sins.
+---
+It shouldn't have overload in this state.
+---
+It's a bit awkward, but I disagree about waiting to pull Amalgam. The outcome of basically every game has been entirely Amalgam-centric since BG came out. It got stale pretty fast and I know I'm ready for something different, even if an Amalgam-less pool comes with new problems.
+---
+The last thing I would want is for Amalgam to stay in the game *just* because it makes some of the text on a couple of cards redundant, especially during beta which is about trying different things out and seeing what does and doesn't work. They could literally change Zoobot and Menagerie Magician's text to only buff a Beast and a Murloc, and they would still be cards worth playing around with. Team 5 might even want to collect some data on them as cards which only ever buff two things at a time.
+---
+I've read in a few places that they've had intentions to replace Amalgam with a 2/2 version in a January patch, so now is a good time to see what happens without it. Maybe since they originally made that decision, they have become less confident in making it a 2/2 being enough, which I have had thoughts of my own about. Being in beta, they are still establishing what the core of BG gameplay looks like, and it seems like they are leaning away from Amalgam being a defining component of the game. I think they just want builds to have more identity and not all have one or two of the same exact minions with the same exact buffs.
+---
+I'm not saying that the way it's going to be right away without Amalgam is perfect or even close to balanced or what they are ultimately striving for, but it is a first step in a very different direction for the game for them to build on. There's a million adjustments they could make to other aspects of the game instead that would only have so much impact if at the end of the day everyone was still just making big divine shield/taunt/poisonous Amalgams. The game needs to be able to grow and expand out side of that, and it never will as long as that is the best minion you can get no matter what your build is.
+---
+To the one who scammed me: you should feel ashamed of yourself, fucking tosser
+---
+okay
+---
+Lol
+---
+I mean I’m not saying I didn’t play two doomsayers.
+---
+That was my first impression, but [after running multiples analysis](http://fotoforensics.com/analysis.php?id=7889396628faecfce44b86867167385870b1c79d.74099), I can safely conclude that this pictures is genuine and was not photoshopped.
+---
+Came here looking for this comment and i'm sad it isn't #1
+---
+Unfortunately, your submission has been removed as it contains baseless accusations, personal attacks, or personal information.
+---
+We require that any accusatory threads have sufficient evidence **and** moderator approval prior to posting.
+---
+For more details, you can read our rules [here.](https://www.reddit.com/r/hearthstone/wiki/rules#wiki_accusations_and_witch-hunting)
+---
+People loved Fblthp lol, what?
+---
+Big fuckin brain
+---
+Yah the winrate for Mage is also low because the decks are so expensive. I’m doing well with Highlander but my deck also costs almost 20k dust.
+---
+Do you feel offended?
+---
+At least those are new cards though
+---
+With this we will see the curator being the true Lord Drakkon that will rule them all
+---
+Unfortunately, your submission has been removed because of your poor behavior.
+---
+Do not use extreme language or racial slurs.
+---
+Do not mock people by referencing disabilities or diseases.
+---
+Do not be overly negative, hostile, belligerent, or offensive in any way.
+---
+Do not put "curse words" in post titles.
+---
+NSFW content is never allowed, even if tagged, this includes nudity and lewd references.
+---
+Do not describe or promote violating any part of Blizzard's Terms of Service or EULA.
+---
+If you're not familiar with the subreddit rules, you can read them [here](https://www.reddit.com/r/hearthstone/wiki/rules)
+---
+Competitive sub requires 50 games at rank 4+ to write a guide. Still a bit meagre, but should give you a general idea.
+---
+This just confirms my belief that we need a Scrollsage Nola adventure. 
+---
+When will Blizzard give us an adventure that actually matters! Like helping the turtles make it to the water!
+---
+Is necrium just deathjuice?
+---
+rank 17-10 in 8 games
+---
+They said they won't change cards only in Battlegrounds. It's the real version or nothing.
+---
+Ah yeah it isn’t just friendly minions
+---
+Completely agree. Loved the idea of giving F2Ps their chance at nice costly decks.
+---
+If you’re playing it with quest you’re basically throwing based on stats and common sense, but ok.
+---
+I always thought the frog and Carnivorous Cube were smoking buddies :(
+---
+Well guess its a good thing with the very balanced zephers you can brawl it in warlock
+---
+People should honestly not be surprised about issues and bugs after a patch. This is completely normal and in fact we should be grateful that the game even launches. 
+---
+This is a poor gaming studio with rookies and lack of experience in development. Game is still in the beta phase. Cut them some slack. They are doing the best they can.
+---
+Amalgam is being removed?  Nice.  I’ve won tons of games with it but I agree it absolutely has to go.  Most games essentially became who gets the first amalgam as they could then buff it to the stratosphere no matter what build they chose to go with.
+---
+So you are going to annoy other players by playing really long games? This wont “hit them in the money”  this will hold more players online and make them look better. Gahhhh so much wrong with this post 
+---
+ get a job kid
+---
+You try to play them into board clears like explosive trap, other than that just hope they target it, it's also gotten me a win with misdirection, main thing is the 2 initial damage.
+---
+And?
+---
+[deleted]
+---
+the gods shine their light upon you this day
+---
+Colossus makes the board unwinnable
+---
+Wow you are so fucking stupid
+---
+Its more fun to watch and its still new(ish).  
+---
+Also the biggest streamers weren't streaming hearthstone prior to battlegrounds, they were mostly on TFT.
+---
+&gt;want shaman destroyed to the point where it's the worst class just because they're mad with how overpowered it was
+---
+yes
+---
+Shaman Galakrond is not the good guy here!
+---
+deathrattle rogue is terrible vs face hunter, they never kill the 2/5 and rogue has no healing outside of the buffed lifesteal
+---
+Nope
+---
+I beat 4 shamans in a row right after nerfs as Tree Druid x2, Aggro Overload Shsman and Reno Dragon Mage, so no, pretty happy with them.
+---
+Sonix#2936 on EU  
+---
+80g Quest
+---
+No, is normal value
+---
+Finally somebody puts into words how I feel.
+---
+Single handedly saved me about 10k dust, which is sadly exactly why they wont do this
+---
+i think the atk nerf from 5 to 4 is pretty significant but yeah its still way too good not to run in a deck that can create a wide board
+---
+This experiment is actually done on my alt arena account, so no worries. My mmr tanks to 2.5k during this fight. I tried a few more times but the most Pogos I can play is 10 instead of this screenshot of 12, and now my mmr is in the negative.
+---
+you should have the first chapter free, and you can pay the next chapters with gold
+---
+Nice artwork!! 
+---
+Go go power rangers!!!!
+---
+Agreed bro! I always felt like having to pick Amal over something that synergizes with my lineup just because it synergizes with everything was lame. With it gone the diff factions and their individual strengths/weaknesses should become a lot more clear
+---
+You rewarded them with additional money after what has happened over the last week...no wonder they don’t give a fuck...
+---
+Okay?
+---
+Yeah, great for clearing lifesteals and sometimes taunts (to keep lepers alive), also great if you need to kill something off to survive a turn. Probably most of time on things like the 4/2 pirate and 4/2 huffer.
+---
+Zerus was actually a reward from combining the last Pogos. Played it just for the screenshot :D
+---
+Excellent rebuttal
+---
+you also get 30 packs, it's a good value...
+---
+I'm just saying that it's more consistent. It's not about how scary the drop is. It's a damn big tempo swing no matter when it's coming out. 
+---
+It's more consistent now. You can't say roll a 1/1 or really anything that isn't an 8/8. 
+---
+You can also 100% get it out on turn 4-5 fairly consistently, especially if you have a coin.
+---
+Don't let shaman's other ridiculousness distract you from the fact that sludge slurper is stupid and crazy rng dependant. He can 1 card win the early game which lets you transition into the op midgame of gal shaman
+---
+I'm dumb can someone explain please
+---
+Is smh my head some meme?
+---
+What a cool gift
+---
+tfw you don’t have any wild cards so you’re forced to play your only deck.
+---
+I think that you should learn to play decks without fearing the results. Give them a few games, then tweak where you feel your lacking.
+---
+Works great on my Note 10.
+---
+Yeah, how dare people want to have fun.
+---
+Looking to trade the 80g quest on NA. I'll show the quest, but you go first. I'm also happy to play any format.
+---
+Volknur#1326
+---
+I played a mirror to fatigue, slowest pack ever!
+---
+That's not even close to the same chance. A Royal Flush is a  0.000154% chance. What you're talking about is a  8.0779357e-26% chance.
+---
+### TreeAids
+---
+# Class: Druid
+---
+# Format: Standard
+---
+# Year of the Dragon
+---
+#
+---
+# 2x (1) Acornbearer
+---
+# 2x (1) Treenforcements
+---
+# 1x (2) Dreamway Guardians
+---
+# 2x (2) Power of the Wild
+---
+# 2x (2) Shrubadier
+---
+# 1x (3) Blessing of the Ancients
+---
+# 2x (3) Landscaping
+---
+# 2x (3) Savage Roar
+---
+# 2x (4) Garden Gnome
+---
+# 2x (4) Soul of the Forest
+---
+# 2x (4) Wispering Woods
+---
+# 2x (5) Aeroponics
+---
+# 2x (5) Force of Nature
+---
+# 2x (5) Treespeaker
+---
+# 1x (7) Goru the Mightree
+---
+# 1x (8) The Forest's Aid
+---
+# 2x (9) Mulchmuncher
+---
+AAECAbSKAwTDlAPKnAPTnAP3rQMN/QLtA/cD5gXX7wLf+wK//QK0iQPOlAPtogP8rQP+rQP/rQMA
+---
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+---
+Should just be +2/+2 tbh.
+---
+the 2-1 silence a taunt isn't used in ANY deck... I'm not sure this 5 mana version would make it to aggro or midrange. It's a solid control tool tough.
+---
+I mean, sure, if you have both Mogu Fleshshaper and Mutate in your hand the two-card combo tends to do more than just Sea Giant on its own.  Sea Giant has the advantage of being one card instead of two cards, though.
+---
+&gt;shamen
+---
+&amp;nbsp;
+---
+&gt;rouge
+---
+Also this deck definitely isn't broken. It's very strong, don't get my wrong, but a control Zephyrus deck should be able to withstand it without too much trouble.
+---
+Couldn't find Baron so I just got one off Sneeds!
+---
+No way, neither aggro or midrange would run this. Neither shaman nor mage as they have better tools too.
+---
+And most people know what Feral Spirit does considering it's a Classic card. Seems awfully disingenuous to detail all of the one card's restrictions but not the other while claiming it's OP.
+---
+Face hunter destroys every deck.
+---
+deadass, I have a shitton of the two rares being nerfed but was holding onto pretty much every shaman card on the really cashing out
+---
+At some point switch to control warrior.  They conced once you stabilize.
+---
+Face Hunter is cheap and effective right now while waiting to see how the meta shifts.
+---
+That’s why I always keep a dead murloc/battle cat. Just to fuck with them
+---
+Got a deck list?
+---
+True that haha
+---
+Well sylvanas as one of the most important warcraft characters doesn't really need anymore backstory. Hazelbark is HS original, so making a backstory for her is much appreciated.
+---
+He's not even running Anubisath, are you high?
+---
+that's the joke
+---
+This one was at least easy. I threw together a janky warlock removal deck cubelock package for lols 
+---
+One by turn 6
+---
+Wow i just now noticed, that thats a leg pointing out of his mouth. I somehow beloeved that it was a cigarette all this time
+---
+How do you acquire the tree
+---
+If you trade into the 7/7 first you probably would have got it. They said the more information you can give it the better. Try to set up the board state more for the card you want.
+---
+&gt; Well my point was they missed alot of other targets
+---
+...on your opinion. Some will say they hit all targets they needed to hit.
+---
+&gt; so now rogue and hunter are going to dominate
+---
+lol, best rogue deck was barely in top 10 decks and the only reason it was played because it was decent against shaman.
+---
+You making random prediction without understanding that shaman nerf is not only a shaman nerf, but also every deck that was good against it, like face hunter for example
+---
+Should have attacked with Reno first to help encourage a swipe.
+---
+Galakrond Shaman isn't even good in this Tavern Brawl.  Priest and Warlock are the best classes since they are the best at destroying the gift boxes.  Confuse, Topsy Turvy, Sac Pact, EVIL Genius, Dragonfire Potion, etc.
+---
+Oh right. I'll remember to do that then.
+---
+Someone with a total of 0 posts in this sub is complaining about the content. Perfectly average comment for this subreddit.
+---
+Got to remember to do that then. Thanks.
+---
+I really want this hero.. might it come back another time?
+---
+My quest res priest with silence cards teched in eats deathrattle rogue and face hunter for breakfast. Free wins. I even teched in shadow madness for omegalul moments when I steal their +3/+3 buffs.
+---
+Highlander decks however...
+---
+Unless you’re a shaman scumbag who runs double earth shock like me (went 18-4 with a pure aids gala sham from 11-5, after bouncing between 15-10 with highlander warrior, hand and zoonlock).
+---
+Gonna run this on my gf’s account so she can get into hs om the cheap. Thx for sharing
+---
+Cry me a river
+---
+Shaman was pure trash in PVE though compared to pally buff bot.  Also, to this day I will still bitchslap whichever dev did the twin emp fight.  Cause it was clear they didn't play horde at all for testing AQ
+---
+so, do I disenchant now for free dust or is it automatically refunded to me for having it?
+---
+So far, compared to the others...very bad.  Demons aren’t all that great and summoning 4 of them can be pretty bad sometimes. Compared to shamans 8/8s with rush, warlocks galakrond is not very good.
+---
+It's a bundle that got added to the shop with the latest patch. 25 bucks for the skin and 6 packs each of Witchwood, Boomsday, Rastakhan, E.V.I.L. (don't remember the xpac name) and Uldum.
+---
+So? It's not like you can see the future either. So what if it's my opinion? I didn't say it was a fact. Nobody knows that's going to happen, and this whole thing was a meme.
+---
+I just don't understand why everyone is so ready to forgive cards that violate rules about how many stats you should get for a given amount of mana.  "oh, only getting +50% more stats then the best five cost card ever should be fine, rather than +100%! We don't want to nuke the deck from orbit after all!"
+---
+Wrong you get refund for all.
+---
+Disenchanted over 20 faceless for 2k dust.
+---
+Yerrr
+---
+Really? When did they change this? I could swear you usually only got full dust for 2 copies...
+---
+Have you seen the cards they've printed since Tinkmaster?
+---
+Shudderwock is top on my list of "cards that should never have been made".
+---
+I think you may be talking about HOF cards. I'm rarely new so I have no reference but from what I understand it is working as intended.
+---
+No, you need to do this yourself. They gives full refunds after nerfs. Your decision.
+---
+Sludge Slurper nerf hits other balanced decks very hard. Shou have nerfed Dragon's Pack and Galakrond the Tempest
+---
+Whizzbang seems to be so underpowered this expansion I don’t really care. He was viable previously and I wanted him in classic but no point if he’s going to be tier F
+---
+Yeah i thought frizz was cool when i saw the dragon druid but then i saw dragon druid losing and losing
+---
+Guess I was under the wrong impression for years then. Kek.
+---
+I believe the main RNG you need going beasts is an early Pack Leader. Rat Packs are not very seldom and then you can build up reasonably enough.
+---
+Demons need commitment all the way. Either stats or juggler builds demand certain minions in every tier. BTW the lack of a good 6 drop is glaring.
+---
+Thanks, you got me a good 50 dust or so from that pack.
+---
+Thanks. I can never remember how it works. But if something gets hall of famed, then you get the dust automatically?
+---
+Suggesting it isn't the same as calling it though. That said, I've seen a lot of people predicting this.
+---
+Ouch time to start saving extra copies! 
+---
+This is the first expac I didn't press mass disenchant as early as possible... And it actually paid off way more than I expected.
+---
+When you feel like you NEED to pick a card that is completely different from the build you are going for, then it is OP.
+---
+it's AI and it's not perfect .. if you attacked first it would've definitely given you swipe and lightning storm
+---
+I still don't understand people that say that the new 3 full xpacs a year is better than the old xpac/adventure model...
+---
+I totally feel you, just something that you might want to think about.
+---
+Do you think the same people that are finding success with their niche deck come here to complain on Reddit? 
+---
+The most they will do is post their deck list on Reddit and move on.
+---
+Thats actually a double edged sword here. 
+---
+If nerfs can hit that fast then why would you spend dust in the beggining of an expansion to even try new decks? You ll just wait till the meta settles and then do it.
+---
+Oh I usually don't mass disenchant right away, luckily.
+---
+You should consider Anka as a backup plan
+---
+Restart your hs, pc, w/e
+---
+Whizbang just copy the deck recipes (he doesn’t get updated manually) so he will keep giving only standard decks forever.
+---
+Despite all the memes, you usually do not want to go all face in the first handful of rounds. The early game goes the same in pretty much all matchups-Establish a good board, remove their stuff with your weapons and try to maximize how many stats you can put per turn (Toxic Reinforcements is a tricky exception that depends on the matchup). One thing to remember is to almost never "trade down", like sending Misha into a minion-your opponent will have to deal with it and you get some juicy face.
+---
+By the time you get to turn 4, you should have a decent pile of threats and damage in. This is where it breaks up by matchup and what you're holding. Got two kill commands and an equipped bow? Face is the place. If not, do you have the tools to keep piling up stats? Then do so! If it's a mech-based build, never leave a mech standing. Zilliax can turn games around on its own.
+---
+If you're facing another aggro deck, the board state might be a bit trickier, and likely either one deck has snowballed out or you both have damage sent to the face. Knowing your matchup is key. Against warlock, for example, I like to keep unleash the hounds and explosive trap, since they tend to fill boards well and these cards can swing the game. Each turn you don't have lethal, ask yourself: "What can I afford to leave up, what burst damage could they have left?" Finishers include bloodlust for shaman, soulfire for warlock, and leeroy/shadowstep for rogue. Likewise, your own finishers are usually kill commands. They all have different setup conditions and critical turns, and so should be countered differently. If you feel safe against dying yourself, then you can try to finish them off. 
+---
+Face hunting may seem toxic and braindead, since all the opponent ever sees is "me go face", but there are still critical decisions to be had under the hood. Happy hunting!
+---
+I love this sm
+---
+You have kronx in hand and so can clear that next turn, stop complaining that you losing to the top deck, while are playing the worst of the expansion.
+---
+But aren't you glad there is a new bundle in the shop? Hmmm?
+---
+Works for me
+---
+I've hand this hand before and then I topdecked Anka on 5 :)
+---
+Likely you will be forced to play his decks in wild.
+---
+I hope he will rotate to wild, but that his decks will remain playable in standard
+---
+Alternately they could give each class 1 or 2 wild recipes that get updated each expansion for him to pull from and add a new version of him to the classic set
+---
+Amazing Deck. Rogue and Shaman are basically freewin. Lost vs a Shaman wo highrolled mogu into deathwing on turn 3. Disgusting. Havent matched Warrior, mage or priest yet. Lost vs a Paladin with Mass heal (the Drake who heals for 8 and lay on hands). The mirror is decided by who goes first or who draws better. Overall very fun to play. Its fast its fun.
+---
+huffer also go face
+---
+Hey ElykSeyer, unfortunately your submission has been removed because it contains little to no content. Posts must contain at least 50 characters. Please review the [rules](https://www.reddit.com/r/hearthstone/about/rules/), in particular our rules on [low effort content](https://www.reddit.com/r/hearthstone/wiki/rules).
+---
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/hearthstone) if you have any questions or concerns.*
+---
+play em again
+---
+standard priest is very sad
+---
+Whats this anime?
+---
+Charlotte
+---
+Token druid is pretty fun, plus the tree in the store is awesome haha i've loved tree druid ever since i started playing, i got the best luck and got goru in the packs, it's not too heavy on dust, i at least run a version which only uses vargoth and Goru as the legendaries.   
+---
+Can't speak for paladin, i ended up dusting a lot of stuff to make a quest paladin last expac but got bored after just a few games, it's super slow and would never survive in this face hunter shaman meta
+---
+wait what!! youre getting mad thats someone found a counter to your extremely powerfull deck... what a shame
+---
+They needed to release the new holiday pack sale before the holidays but they know they will get destroyed by the community  for trying to sell pack before addressing the shaman problem. So they just throw together a quick patch and call it a year.
+---
+Depends on the matchup/meta. 
+---
+I'm maining Highlander Mage on ladder above rank 5 atm, and I have something like an 80% winrate vs the no-quest version, and the reverse ratio vs. quest. Quest just has way too much for me to deal with when it all comes together, no-quest is much more manageable. 
+---
+If the rogue/hunter anti-shaman meta stays this aggressive, you'll be right, but if the meta changes (which it might), which version is preferable will change overnight.
+---
+If you went 9-7 playing with Priest no less, how could you possibly describe your opponent’s decks as being broken?
+---
+&gt; I hate to nitpick
+---
+Yet here we are...
+---
+hey you guys think its safe to craft anka? i had a golden version of her but i dusted it a few months ago like an idiot...
+---
+SAVE THE BEST FOR LAST
+---
+[I've dabbled](https://i.imgur.com/kbv9oHv.png).
+---
+I do agree with the name of your deck
+---
+This is some pretty strong aggro though. Board clears work against you now because of that side quest.
+---
+Yeah, playing against aggro decks or something even playing aggro decks is pretty boring, everything happens so fast that you don't get to actually play the game, it's just 6 turns of hitting face and then they either win or concede. I don't understand how people get any enjoyment from the game this way.
+---
+It’s so true lol
+---
+I’m talking about the general philosophy on how they nerf things, dumbass. They usually don’t incline to nerf cards  above rare. I reach legend a lot of times and have enough knowledge to talk about their stupid balancing work over and over again
+---

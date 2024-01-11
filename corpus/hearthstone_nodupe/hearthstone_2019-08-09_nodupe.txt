@@ -1,0 +1,1890 @@
+* **[Vulpera Scoundrel](https://media.hearthpwn.com/avatars/390/518/637002005896215030.png)** Neutral Minion Epic SoU 🐉 ^[HP](https://www.hearthpwn.com/cards/90847), ^[TD](https://www.hearthstonetopdecks.com/cards/vulpera-scoundrel/), ^[W](https://hearthstone.gamepedia.com/Vulpera_Scoundrel)  
+---
+3/2/3 | Battlecry: Discover a spell or a pick a mystery choice.  
+---
+
+---
+^(Call/)^[PM](https://www.reddit.com/message/compose/?to=hearthscan-bot) ^( me with up to 7 [[cardname]]. )^[About.](https://www.reddit.com/message/compose/?to=hearthscan-bot&amp;message=Tell%20me%20more%20[[info]]&amp;subject=hi)
+---
+---
+---
+Blizzard created the buckets in an effort to make arena drafting more interesting.  Before the buckets you would often get the choice between Alarm-o-Bot, Angry Chicken, Truesilver Champion.  You'd pick Truesilver without even thinking because that was obviously the best card.
+---
+To combat this, Blizzard divided all arena standard cards into 7 buckets (plus 3 for legendaries) based on how likely the average player is to pick them .  Each bucket is also divided into a top half and bottom half.  So now each set of three cards you are offered will be from the same bucket plus or minus half a bucket.  In theory, this will make every choice an interesting decision, because now you're deciding between Truesilver Champion, Consecration, and Blessing of Kings.
+---
+I consider this a good change, however there are some issues with it:
+---
+*Blizzard isn't open about this information.  The only way to know what cards are in what buckets is by observation.  If you go to the [Lightforge tierlist](http://thelightforge.com/TierList), you can see they've gathered enough information to determine the buckets are, but you'll notice they don't have the cards from the newest expansion yet.
+---
+*Like I said before, Blizzard groups cards based on pick rate of the average player, not necessarily how good the cards are.  For example [[Keening Banshee]] was placed in the 6th or 7th bucket despite being a really good arena card (You rarely go to fatigue in arena, so it rarely has a downside).  This meant you were guaranteed to see underbucketed cards like [[Eccentric Scribe]] in almost every deck.
+---
+*The opposite is true for overbucketed cards.  Before the sets rotated [[Spectral Knight]] was in the top of the 3rd bucket.  It was a fair card being offered beside broken cards.  As a result I never saw anyone play it the entire time it was available.
+---
+There have never been that many good legendaries in a class, but then again through most of the game's histroy, there weren't that many class legendaries available at all.
+---
+During Un'Goro, I was in top 300 legend with a Miracle Rogue list that contained every standard-legal class legendary: Edwin, Sherazin, Shaku and Xaril
+---
+Unfortunately it was on iPad, and the opponent never accept my request so I could ask him about it
+---
+* **[Keening Banshee](https://media.hearthpwn.com/avatars/339/812/62954.png)** Neutral Minion Rare KFT  ^[HP](https://www.hearthpwn.com/cards/62954), ^[TD](https://www.hearthstonetopdecks.com/cards/keening-banshee/), ^[W](https://hearthstone.gamepedia.com/Keening_Banshee)  
+---
+4/5/5 | Whenever you play a card, remove the top 3 cards of your deck.  
+---
+* **[Eccentric Scribe](https://media.hearthpwn.com/avatars/386/611/636899157850366908.png)** Neutral Minion Common RoS 🐉 ^[HP](https://www.hearthpwn.com/cards/90671), ^[TD](https://www.hearthstonetopdecks.com/cards/eccentric-scribe/), ^[W](https://hearthstone.gamepedia.com/Eccentric_Scribe)  
+---
+6/6/4 | Deathrattle: Summon four 1/1 Vengeful Scrolls.  
+---
+* **[Spectral Knight](https://media.hearthpwn.com/avatars/331/207/7751.png)** Neutral Minion Common Naxx  ^[HP](https://www.hearthpwn.com/cards/7751), ^[TD](https://www.hearthstonetopdecks.com/cards/spectral-knight/), ^[W](https://hearthstone.gamepedia.com/Spectral_Knight)  
+---
+5/4/6 | Can't be targeted by spells or Hero Powers.  
+---
+Upvote to help you find your lost friend- good luck!
+---
+singleton quest druid is a thing? really? cool?
+---
+Was it ever in control? `laughs in Barnes`
+---
+TL:DR They should have made cards that said 'if enraged' instead of getting rid of a keyword.
+---
+Welcome to control. Sorry zoo gets shit on I guess.
+---
+Succubus was basic you mong.
+---
+Did it offer crazed alchemist? According to the devs, it offers him when there is a doomsayer on the board.
+---
+People who care more about having fun, than those fools suffering from video game addiction who consider win-rate a life accomplishment
+---
+Hooktusk sees play? Asking because I crafted her.
+---
+Why Blizzard, why would you make that card
+---
+"ALL ~~CHARGED~~ WOKEN UP"
+---
+I kinda find that pointless since if you need otk you can just play an otk deck, but having no dupes in your deck or/and hoping for siamat survive doesn’t smell good for me.
+---
+Sorry... you’re right. It’s not *technically* a disconnect. But people still call it that sometimes. But it IS a very well known bug that gets posted here all the time. 
+---
+https://github.com/HearthSim/hs-bugs/issues/361
+---
+The biggest mistake is some classes having hero cards when others don’t since hero cards can pretty much carry a game when played. 
+---
+It feels really unfair to not have one for each class given the power level of said cards.
+---
+Could you elaborate on some cards you didn't put in? Such as:
+---
+Kill command: If you're looking to burst down you opponent, it doesn't get much better than this.
+---
+Unleash the Hounds: With secrets this becomes less necessary for board control, but is a good combo with timber wolf.
+---
+Scavenging Hyena: Synergies with springpaw, powerful snowball card.
+---
+Looking at HSReplay after 11000 games of the top quest rogue the best Mulligan in the deck is Edwin then Questing Explorer which gives you a 2/3 body and a free card on turn 2.  Most of your other cards generate cards. 
+---
+Not much good card draw for Rogue.  Sprint was effectively nerfed via the Prep need.  Raiding Party  doesn't fit a Quest deck.  Common card draw minions lose tempo.
+---
+Very good. Thanks buddy
+---
+He probably means the divine shield legendary one
+---
+Hey there,
+---
+Unfortunately, your post was automatically removed because you failed to assign it a flair within 5 minutes.  If you assign it a flair, your post will be automatically re-approved shortly after.
+---
+To assign a flair to your post, click the button titled "Click here to edit your flair" underneath the post. If you are on mobile or have CSS turned off, the button is just titled "Flair"
+---
+[Example With CSS](https://i.imgur.com/9TTfq91.png) | [Example Without CSS](https://i.imgur.com/3V6ugiq.png)
+---
+If you're having difficulty finding the flair button keep in mind:
+---
+You -can't- flair your posts if you're:
+---
+* Submitting via reddit mobile on a browser.
+---
+You -can- flair your posts if you're:
+---
+* Submitting via the reddit mobile app, and a variety of other reddit apps.
+---
+* Submitting via a desktop version of the reddit site on your mobile browser. You can force this view from the menu options.
+---
+You can choose either of the options above to flair a submitted post.
+---
+^(Have a question or think a mistake was made?) **[^(Message the moderators because I am a bot.)](http://www.reddit.com/message/compose?to=%2Fr%2Fhearthstone)**
+---
+david#19897 NA trading 80g you first
+---
+Blizzard hire this man ASAP.
+---
+I completely skipped that expansion. Just wasn't playing at the time. I crafted Undertakah for some fun decks but it didn't seem like I missed much, especially as a wild player. At least Rastakhan is cool if you didn't get Murggl.
+---
+BWSnake#1746 - NA, trading 80g quest, I show, you go first :D
+---
+So hows quests paladin going,besides this soulcrushing game ofc.Thinking of crafting it
+---
+Quest paladin has been a hoot for me (especially when warriors can't figure out how to get around a board full of 2/2 mechano eggs for the second time. Hack warrior is also been fun but runs out of steam really fast
+---
+So rank 5
+---
+I'm surprised M. Night Shyamalan isn't the director.
+---
+And [[Neptulon]].
+---
+Its crazy. Plus the amount of removal that warriors have. I almost auto concede these days
+---
+That's not very high thought of you to say.
+---
+Are you sure you're really the only enlightened one among us, Mr. "I have fifteen non-meta Paladin decks in Standard?"
+---
+* **[Neptulon](https://media.hearthpwn.com/avatars/331/442/12292.png)** Shaman Minion Legendary GvG  ^[HP](https://www.hearthpwn.com/cards/12292), ^[TD](https://www.hearthstonetopdecks.com/cards/neptulon/), ^[W](https://hearthstone.gamepedia.com/Neptulon)  
+---
+7/7/7 Elemental | Battlecry: Add 4 random Murlocs to your hand. Overload: (3)  
+---
+The lady caster
+---
+Dire Frenzy Hunter doesn't outvalue Control Warrior nor does Control Shaman nor does any variation of Rogue. Outvalue implies that you get more value for your cards than they do theirs and no none of those decks do because if the Control Warrior is good their removal will outvalue anything you can throw at them.
+---
+The only decks that outvalue Control Warrior are Quest Paladin, Mech Paladin, and occasionally Freeze Mage. Quest Paladin is the only deck that completely outvalues Warrior because their Hero Power combined with strong Deathrattle cards greatly reduces the value to the point that Warrior just can't remove all your stuff so they just lose.
+---
+Hagatha is a bigger RNG fest than Boom lol. Either your opponent gets 5 totemic mights or 5 storm bringers.
+---
+...so?
+---
+At least fourteen given the earliest nerf announcement was given two weeks into RR Format last December.
+---
+Only classic set
+---
+F
+---
+I'm using Rogue as an example, but the same applies statistically to Priest, Hunter and other archetypes. An on curve Prismatic Lens has a 70% winrate against everything but Warrior. So it's not just a Rogue problem.
+---
+Also their hand gets bogged down by trash spells, so they have to waste mana to make space. Meanwhile you play a 10+4 damage removal minion for 4 mana.
+---
+It actually does as shown by Quest Shaman have a 40% winrate versus Control Warrior.
+---
+Rouge and priest are the worst performing decks first 2 days of the expansion.....why in the world would you compare its winrate with those decks.
+---
+Still not as bad as the doomsayer I managed to spawn with a full board of minions on my side.
+---
+Or just make it so CC uses the value a card is played at instead of the initial value so there's no more Giant bullshit.
+---
+can we stop pretending warrior was dominating anything last expac when mech hunter had the highest winrate at all rank brackets and highest overall playrate of any deck after the raiding party nerf in addition to being favored against all warrior and mage decks?  
+---
+https://www.vicioussyndicate.com/vs-data-reaper-report-136/
+---
+Okay, that sucks man
+---
+I just tested it. It works fine for me today (8/9)
+---
+Thanks, I had seen the decklist, but it didn't look good.  One of the three legos i opened, so hopefully i have enough of the cards to make the deck work.
+---
+It also has a 75%+ winrate against Paladin, Hunter and Druid.
+---
+Any explanation? I'm not sure if it's just me but I'm not sure what I should be looking at here?
+---
+great synergy with the new 8 mana 5/5 that casts a spell from your deck
+---
+K
+---
+Thanks man!
+---
+Do you remember the number after the name? Probably a lot of fiends
+---
+Ranting is fine, but if people want Blizzard to take issues like this seriously, they shouldn't resort to hyperbole. People like OP aren't doing themselves any favors by making it hard to take them seriously.
+---
+Sorry you’re reading that aggressively? I was just being matter of fact.
+---
+Those quests are far more of a build-around. Also comparing the quests to quests that rotated out is irrelevant.
+---
+The reward IS a win condition, it isn't a "automatically win the game" card.
+---
+It might be the "0" damage part, like with the Bloodlust post with 0 damage minions/totems on board not finding lethal.
+---
+You DARE summon ME?!?
+---
+You have paragraphs starting “Hunter -“ etc but I didn’t see one for Mage. That’s why I said that
+---
+Honestly, id highly recommend never adding anyone, 90% of the time is an angry player looking to mock or say shit about then remove right away.
+---
+There has been no official announcement about nerfs to packs, and my packs felt fine, probably just a case of bad luck
+---
+&gt; The Rogue, Druid, Priest, Paladin, and Shaman quests have seen play in possibly competitive decks.
+---
+Literally none of them will be viable t1 decks in a month, therefore they are bad. And rogue, paladin, and shaman don't require you to build around them? So you're going to complete rogue without thief cards, paladin without reborn, and shaman without battlecry? They absolutely require deck building to complete.
+---
+/u/Laikarios pointed out right, why my and hearthstone arts are still different things. I don't think mine is better, i think my still has a different approach - hearthstone artist should make they art look good in miniatures - mine art will become a mess in a miniature, so - just different approach. Well, that's next thing to overcome - to make my art look pretty as well as in fullscreen and thumbnail. Thank you very much for a kind words, i appreciate that! :)
+---
+Hmm... it took almost 2 weeks for me to draw it (each day for 3-4 hrs). That was a longer, than i expected
+---
+Thanks!
+---
+Astounding!
+---
+Weaker to Mind control.
+---
+Flame ward is not great, not proactive enough especially once people learn to play around it.
+---
+you're 100% right.
+---
+Over a quarter of all decks played at ranks 2 and 1 are Warrior according to HSReplay. Given that people are still in the process of moving from bad new decks to good meta decks that number is only going to increase. 
+---
+I hope we get a Rastakhan-esque panic nerf announced soon, as blizzard have fucked up pretty badly here. Odd/Control Warrior has been tier-1 or high tier-2 for over a year now and literally anyone with any shred of intelligence and knowledge of how card games work could have seen this coming.
+---
+OH! that could very well be it! How can I tag one of the staffs reddit to this?
+---
+Atleast you have 2 of each now... /s
+---
+Great crossover. This is genius!
+---
+wow, thank you dude! :) 
+---
+Yes, i posted it in r/wow already :) I'm shameless insta-poster-in-different-subreddits lol
+---
+Yeah i roll stormbringer with hagatha alot i dont know if thats normal or how the rng on that card works but i feel like i get that card more than 50% of the time
+---
+It is in a Reno deck that generally lacked an early game. Reno Mage has always been much top heavier than Renolock or Reno Priest.
+---
+Literally way older expansions were in last arena rotation, fool.
+---
+Zephrys has won me so many games in that deck. Nomi not so much
+---
+You could always discover it I believe
+---
+Bismillah. Nooo!
+---
+Smol
+---
+Agreed! Now that’s enough positivity on this sub. Back to complaining about control warrior!
+---
+Lunas is probably the most important part of the deck, everything else can be cut more or less. Getting and playing lunas on 5 is VERy good
+---
+Nothing optimized outside of Warrior can deal with multiple 10+ health taunts, with 2 resurrection spells, all it takes is one of the minions to live after all the clears you do and you lose.
+---
+Control warrior a good deck!? I thought it was the worst one!  
+---
+  
+---
+(SARCASM WARNING)
+---
+7 + 7 Murlocs from Tip The Scales
+---
+2 + 2 Cards from Prismatic Lens
+---
+1 + 1 Prismatic Lens's themselves
+---
+That's 20
+---
+Then you have the other 2 cards in your opening hand + your first 3 draws.
+---
+That's 25
+---
+TIL: Tournament decks are identical to ladder decks. Thank you. Thank you so very much!
+---
+Cause he always rolls snake eyes
+---
+[Not sure which one is the meme.](https://www.reddit.com/r/hearthstone/comments/cnu0bw/username_fiend_please_message_me/)
+---
+[Not sure which one is the meme.](https://www.reddit.com/r/hearthstone/comments/cnttww/help_i_accidentally_deleted_my_friend/)
+---
+You must have played against some special snowflake versions of Control Warrior and Quest Paladin then.
+---
+More likely though, the Control Warrior was some some version of the Aggro Warrior deck floating around, which does have a fair amount overlap with Control Warrior.
+---
+why is that card art so blurry?
+---
+Oh no...
+---
+Or he could just be riding a random dinosaur, would make more sense than him both riding Krush and having Krush next to him when he summons it.
+---
+True.  Or just wish then back to normal.
+---
+Soooo tempted to dust my golden octosari for druid quest since I got elise
+---
+I don’t think the above nerfs you need that nerf too. Or you should only remove rush effect and nothing else.
+---
+The way I personally see it, the reason warrior is strong is not necessarily Dr Boom, but the multitude of ways you can clear a board with: brawl, shield slam, omega devastator, dyn-o-matic, warpath.
+---
+In a state of game where board floods are clearly prevalent (42/42 stats out of my ass CC mage, token druid, mech pala, murloc pala, lackey shaman, etc), it's all about having as many answers as you can early on, and warrior is really the only one to have that many, so it's more consistent.
+---
+These decks don't aim to win t8, I'd say more like t5 at best (which is fucking sad the game has come to this). While Dr. Boom is obviously really, really strong, I'm positive it's only a snowballing factor after having stabilized with the multitude of (much needed) board clears that warrior possesses. It's only because of these board clears that you're allowed to even play Dr Boom. No other class can make an aggro deck (95% of decks right now excluding warrior mirrors) run out of steam to be able to play a 7 mana card that does nothing and not die.
+---
+So yes, Boom is objectively  immensely strong but only after you've already managed to stabilize, which is soooo hard and satisfying in this current state of the game, where games are decided on turn 2 a lot of the times. It's really sad.
+---
+It's really sad that warrior is the only control deck left, and that the vast majority of the players enjoy closing games by turn 5.
+---
+I got the Hunter Quest as well, tried a few decks. They didn't seem to work well. Been playing with this deck now, helped me move from 20 to 12 today. 
+---
+\### Unseal the Vault
+---
+\# Class: Hunter
+---
+\# Format: Standard
+---
+\# Year of the Dragon
+---
+\#
+---
+\# 2x (1) Secret Plan
+---
+\# 2x (1) Secretkeeper
+---
+\# 1x (1) Unseal the Vault
+---
+\# 1x (2) Explosive Trap
+---
+\# 1x (2) Freezing Trap
+---
+\# 1x (2) Pressure Plate
+---
+\# 2x (2) Revenge of the Wild
+---
+\# 1x (2) Snipe
+---
+\# 2x (2) Vicious Scalehide
+---
+\# 2x (3) Animal Companion
+---
+\# 1x (3) Desert Spear
+---
+\# 2x (3) Hunter's Pack
+---
+\# 1x (3) Masked Contender
+---
+\# 1x (3) SN1P-SN4P
+---
+\# 2x (3) Unleash the Hounds
+---
+\# 1x (4) Dire Frenzy
+---
+\# 1x (4) Hyena Alpha
+---
+\# 1x (5) Leeroy Jenkins
+---
+\# 1x (5) Tundra Rhino
+---
+\# 1x (6) Savannah Highmane
+---
+\# 2x (6) Swarm of Locusts
+---
+\# 1x (6) Wild Bloodstinger
+---
+\# 
+---
+AAECAR8OhwSvBMkEuwWuBu0JyfgC9YkDu6ED5KQDn6UDoqUDpKUDn7cDCJ4BtQPbCfbsAof7AtePA+WkA5ipAwA=
+---
+\# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+---
+&amp;#x200B;
+---
+You can swap out secret plans for Rat Traps or Snake Traps and Pressure Plate for another Masked Contender. Try to mulligan for secret keepers or a couple of secrets.
+---
+This is coming from listening to alot of mark rosewater's(the head designer if magic) podcast. But seeing as they didnt call reborn mummification or something they clearly want to be able to reuse the mechanic in another setting later, every reborn minion is a mummy in this expansion, but in future expansions they could all be zombies, or holy men or any other thing that comes back to life in pop culture or mythology or memes or whatever.
+---
+I do agree that it could have been any other color but it was a mistake that they specifically robot coded magnetic. If they called it something else and used a more generic animation it could be used for genetic monstrocities or something in a future set.
+---
+And the answer isnt in just making it multiple times with different names. They're gonna run out of good names for things soon.
+---
+I think most people kinda knew Rastakhan was weak beforehand. I was also pretty inactive on the lead up to the set, though.
+---
+Nomi is pretty much only for Control Warrior.  You still lose if they have Brawl, but sometimes they don't.
+---
+&gt; I’ll wait until a more refined list appears I guess
+---
+Definitely a good idea, metas tend to shift around a decent amount for at least a few weeks while decks get refined.  
+---
+Pocket galaxy is probably a guaranteed safe craft, as it shows up in a ton of mage decks now that it's at a cost that's viable.
+---
+Same. No worse feeling than being slowly worn down. I for one welcome our new aggro overlords.
+---
+Of course it is not a good card if you want to actually win games. It is just a lot of fun to give in to RNG, especially if you are losing.
+---
+I had a match with a similar experience where i accidentally milled my Dr Boom but proceeded to get Dr Boom from the Elysiana, ended up saving the match for me against Conjurer Mage.
+---
+in wild im an ancient one miracle priest
+---
+Suggestion: The first mech every turn has rush
+---
+This does not happen every expansion. Yes, sometimes an OP deck doesn't need new cards and says OP (odd paladin), this is completely different. The best deck from the last expansion got new cards to make it even better. This hasn't happened since cubelock.
+---
+It's the only out against control / bomb warrior.
+---
+Warrior is the only control deck because it is the only onein the current rotation to have such tools.
+---
+They are REQUIRED to include every aoe and removal possible because of the miserable state of aggro meta itself.
+---
+As a consequence of that, having a deck that is slow and stall based, mirror matches do last unnecessarily long, but that's a side effect of warriors needing to include no "instant win condition" to be able to deal with aggro. So like I said, it's a necessary evil in this shitfest of a meta.
+---
+I figured you guys might enjoy the list if you see it, but having it confirmed made my day. Cheers!
+---
+Yeah wtf. 2 mana draw a card, summon a 4/3 your hero is immune is pretttty good.
+---
+&gt;Right? The only reason we're not still complaining about the "can't be targeted" visual is because we've gotten used to it.
+---
+I did not get used to that effect. It was changed, along with Stealth to a more annoying and almost obstructive visual effect. For reference, this is what Fairie Dragon looked before the change:
+---
+https://gfycat.com/elasticsparsecopperhead-hearthstone
+---
+While this is the changed one:
+---
+https://gfycat.com/nimbleeleganthen
+---
+The new 8-mana card that deals 5 damage is also good for suprise lethals
+---
+Wait nooooooooo she is a really good caster!
+---
+The amount of „xd“ and smileys cringed the shit out of me.
+---
+Cool.  How do you get Sn1p Sn4p?
+---
+I'd much rather that then some salty man child trying to hurt my little feelings with their amazing insults.
+---
+Not revealing a mechanic is unacceptable? People have played WoW for over a decade and Blizzard has NEVER released data like weapon proc rate. We can get close via testing and datamining, but player sims will never match Blizzard's data.
+---
+Yeah that’s the joke regarding Blizzard and their lack of care for discrepancies and mistakes from one thing to another
+---
+There should be a NSFW tag. I'm still hurting from seeing this.
+---
+I know the feeling, i have been to 11 wins like 3 times, and i only got it now. For the deck, it was good, but nothing special, I have definitely drafted much better than this. You really need to get lucky with the draws and not to get answered at the wrong time. Don't give up is all i can truly say.
+---
+🧂 🧂 🧂
+---
+Damn. Have to add that after I get up.
+---
+&gt; decent deck
+---
+what does that even mean? Any deck is decent if you can win against your competition. That what ranking and matchmaking is for.
+---
+Wait, whot?
+---
+Next thing you know Brann just summons an army of dinosaurs to fight for him and  then gets corrupt with power so then the rest of the LoE’s and the RoS cult have to work together to defeat him next expansion
+---
+Hey GUY_FROM_GILNEAS, unfortunately your submission has been removed because it contains little to no content. Posts must contain at least 50 characters. Please review the [rules](https://www.reddit.com/r/hearthstone/about/rules/), in particular our rules on [low effort content](https://www.reddit.com/r/hearthstone/wiki/rules).
+---
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/hearthstone) if you have any questions or concerns.*
+---
+yeah shamans ability atm to mass produce cards with the battlecry is crazy.
+---
+Does anyone have a somewhat successful Lucentbark list?  
+---
+I tried to combine it with the druid quest because it looked really nice but came out as absolute dogshit xD lost against everyone.  
+---
+I am not ready to accept that the old Witchwood Grizzly list is the best one...I want to use some cool new cards!
+---
+That’s really nice you got Siamat!
+---
+ I feel like that Legendary looks really good on paper but it’s to be determined how good it actually is.
+---
+Slice and Dice ?
+---
+[https://youtu.be/EShUeudtaFg](Relatable)
+---
+No, it's because it is the only one with such a powerful hero card like Dr boom. Shaman is the only one that can possible make a competitive deck and hagatha is no where as strong and it's passive power is RNG. 
+---
+All of the spells you are speaking about are absolutely necessary for warrior for the past and future. Without it what kind of cards would they get? What are your suggestions? Give it aggro tools and warrior will be too dominant once it gets Dr boom online. Aggro is hardly the issue, it has risen so much because everyone is simply trying to counter warrior and mage. This is when the meta gets redundant and mundane. When everyone has to build specifically to defeat one or two decks.
+---
+So you do realize what warriors win condition is right? Stall out the game as long as possible without making actual skill intensive decisions except stuff your deck with removal because Dr boom carries end game.  
+---
+So I don't get it. What's your opinion on the meta, Dr boom, and what needs to be done.
+---
+You’re playing in wild? Of course people will be playing strong decks
+---
+Awesome! Happy to see her get the job that excites her even more. Looking forward to seeing her around in reveal streams and promo materials and so forth, she's great on screen.
+---
+Best meme
+---
+Well, https://hsreplay.net/decks/0uXwrVstqbETs1OWPS0Uje/ 
+---
+or if you want one updated to the new expansion, https://hsreplay.net/decks/3VlkZc3mL2PfHZy9KeCU5c/#gameType=RANKED_STANDARD
+---
+This is great content, thanks a ton!
+---
+TrentReign#1697 NA 80G quest trade.
+---
+Ok yea that's pretty dumb and strong. But as I understand it takes a while to complete the quest no? And I'm assuming the deck isnt great when the deck hasn't completed the quest
+---
+Hey Phenodreum, unfortunately your submission has been removed because it contains little to no content. Posts must contain at least 50 characters. Please review the [rules](https://www.reddit.com/r/hearthstone/about/rules/), in particular our rules on [low effort content](https://www.reddit.com/r/hearthstone/wiki/rules).
+---
+Blizzard doesn't care about balance as much as money, they're bad designers forced to make profit over making fair play.  I'm sick of Blizzard's half-assed logical design and number crunching, they're just a bunch of spineless developers and designers.
+---
+Beelzebub has a devil put aside for me!!
+---
+He will give +1/+1 to ANY Mech, activating deathrattle is extra effect
+---
+I didn't even know there was a solo adventure coming, is there an announcement page or something?
+---
+Yes, ranked floors removed all challenge from getting to legend. Veritable crutches for people who reach rank 5 by series of lucky streak, and who then continue to inject free wins into the system, making laddering even easier. 
+---
+It's like selling university diplomas at the coffee shop - why not make everyone happy right? Let's remove the challenge, and pamper the incompetent. Way to go!
+---
+People who "appreciate" such crutches are dumb enough not to notice that the "legend" accomplishment lost any meaning in the process.
+---
+It also works in mech decks, fetches replicating menace, mecharoo and skaterbot (so does crystology or call to adventure). Also can fetch twilight drake for slower decks. You can increase your hand size with the sandwasp queen, so there's some synergy for that. If they could copy enough mogu cultists to make it a deck, this card would help with that. Most likely it'll just be used for cycle in a combo deck though.
+---
+it's animal companion if the enemy has no board
+---
+My buddies just call Zeph "Lethal Boy" whenever they draw him
+---
+Yeah I missed vanish.
+---
+Yeah, Face Collector has always been a card I've used in my Rogue decks anyway because I like value cards and because it's one of my few legendaries.
+---
+But I can see it being better now, what with Druid, Warrior and Shaman decks having so much value that you need to keep up with.
+---
+Unfortunately, your submission has been removed because it is unrelated to Hearthstone. 
+---
+All submissions must, in some way, relate to the game of Hearthstone or the greater hearthstone community.
+---
+Posts about the community, its members, and Hearthstone drama must be either related to the game of Hearthstone or the career of a community member. The personal lives of a community member are not considered relevant to Hearthstone.
+---
+If you're not familiar with the subreddit rules, you can read them [here](https://www.reddit.com/r/hearthstone/wiki/rules).
+---
+^(Have a question or think your post doesn't break the rules?) **[^(Message the moderators.)](http://www.reddit.com/message/compose?to=%2Fr%2Fhearthstone)**
+---
+Unfortunately, your submission was removed because it is a pack opening.  All pack opening submissions should be added to the [Pullsday Thursday pack opening threads](https://www.reddit.com/r/hearthstone/search?q=Pullsday+Thursday&amp;restrict_sr=on&amp;sort=new&amp;t=week).  They are stickied to the the subreddit every Thursday and allow you to show off your crazy or unlucky pack openings.  You are also welcome to post in /r/HSPulls.
+---
+It's random targets though. So you don't get all benefits.
+---
+Unity, precision, alakazam!
+---
+Yes, there are actually, residual traces of challenge left in the system, but don't worry, Blizzard will fix that too. Maybe giving you free wins while you sleep? Or assigning a win for both parties, regardless of who actually won the match, right? That's "stress free fun for everyone", no?
+---
+Or hey, why not give the Legend rank to everyone on 30th day of the month! We will all be equal! So much fun. Everyone could also get a complimentary World Champion title, while we are at it.
+---
+I mean, this is way overboard, but I'l like to see him play an important role in the adventure.
+---
+I remember when the LoE trailer dropped, I immediately identified him as a brother of Magni Bronzebeard, who was my favourite in Warcraft 3. Then I was like, huh, who are the other losers? And a fucking Murloc with a hat? That's just rubbish. But then I came to love the rest of the League and it feels like Brann kinda fall to the sidelines.
+---
+And i thought i had problem with my memory
+---
+No. They finish by 5-6.
+---
+The name's Zeph.
+---
+ZephyЯyusf
+---
+"it's too expensive" is more of an excuse and less of a problem.
+---
+Brann is Kibler confirmed. Explains why he's friends with Reno the dragon.
+---
+Bro, have you tried Renolock with some of the new cards like Zephrys and Expired Merchant?
+---
+The first link has no kangor! FFS
+---
+The second list is quest pally... It's a reborn deck.
+---
+Yeah I was thinking that you could probably outvalue Warrior with Toggs scheme on Face Collector alone but I've never tried it.
+---
+It should offer you to take over and play the rest of the season instead of you, because the game does not cater to dumb people enough yet. I mean they are unjustly discriminated!
+---
+What do you mean by 100 gold/day? I get 1 quest each day usually worth 50 gold. Where do you get the extra 50 gold from each day?
+---
+This could be it, but here it also didn't give an ooze - https://i.redd.it/jp7u0rwsuaf31.png
+---
+Well he spoke about "the 100 gold/day". That's a specific ammount and sounded like set. Like as it'd be guaranteed i get that ammount each day. The extra rewards from winning can be higher or lower or none at all depending on your daily playtime. That's why i was wondering.
+---
+NA 80g quest trade
+---
+PistolPoet#11116
+---
+I'm genuinely confused..
+---
+yeah. In terms of design at least Duskfallen Avianna and Harbinger Celestia are more interesting and "wow"-e. Maybe the devs were worried getting to run two of them would break "big" decks.
+---
+Or maybe they wanted to make at least *one* reborn legendary and they couldnt really think of anything more interesting that wouldn't break the game other than just a hard to remove big dumb body.
+---
+###Uldum Renolock
+---
+AAEBAf0GHtsGkge2B8wIuQ3+DY4Owg+tENYR/RHDFoUX4KwC2LsC3sQC38QC08UC58sC980CoM4C8tACl9MC6OcCw+oCnPgCoIADoaED/KMD/aQDAAA=
+---
+I run this version, but there's definitely room for tweaks. Expired merchant is insane because you can either get an extra copy of N'Zoth or Gul'dan, or if you're big brain you can play Brann into Expired Merchant and discard both Guldan and N'zoth and get two copies back of each when merchant dies. Zephrys is just insane with his ability, and Khartut Defender, while being just a rare, is also a pretty insane pick, being a reborn deathrattle that heals you, and he has taunt, perfect for getting two of him back from N'Zoth
+---
+Wow!
+---
+Hi, do we need to do anything to claim missing quests? I haven't had them
+---
+I used [[Clever Disguise]] to happen into [[Cloning Device]]. I used that to happen into my opponent’s [[Mogu Cultist]]. This is while I had a 7-copy [[Togwaggle’s Scheme]] and a [[Tak Nozwhisker]] in hand.
+---
+Mind you, I’m using my shittiest homebrew Rogue shuffle deck at Rank 20.
+---
+Talk about luck.
+---
+* **[Clever Disguise](https://media.hearthpwn.com/avatars/390/500/637001995055530225.png)** Rogue Spell Common SoU 🐉 ^[HP](https://www.hearthpwn.com/cards/90831), ^[TD](https://www.hearthstonetopdecks.com/cards/clever-disguise/), ^[W](https://hearthstone.gamepedia.com/Clever_Disguise)  
+---
+2/-/- | Add 2 random spells from another class to your hand.  
+---
+* **[Cloning Device](https://media.hearthpwn.com/avatars/389/164/636964317881851542.png)** Priest Spell Common TBP 🐉 ^[HP](https://www.hearthpwn.com/cards/89837), ^[TD](https://www.hearthstonetopdecks.com/cards/cloning-device/), ^[W](https://hearthstone.gamepedia.com/Cloning_Device)  
+---
+1/-/- | Discover a copy of a minion in your opponent's deck.  
+---
+* **[Mogu Cultist](https://media.hearthpwn.com/avatars/389/904/636994987463862588.png)** Neutral Minion Epic SoU 🐉 ^[HP](https://www.hearthpwn.com/cards/90748), ^[TD](https://www.hearthstonetopdecks.com/cards/mogu-cultist/), ^[W](https://hearthstone.gamepedia.com/Mogu_Cultist)  
+---
+1/1/1 | Battlecry: If your board is full of Mogu Cultists, sacrifice them all and summon Highkeeper Ra.  
+---
+* **[Togwaggle's Scheme](https://media.hearthpwn.com/avatars/386/365/636897323532575746.png)** Rogue Spell Rare RoS 🐉 ^[HP](https://www.hearthpwn.com/cards/90553), ^[TD](https://www.hearthstonetopdecks.com/cards/togwaggles-scheme/), ^[W](https://hearthstone.gamepedia.com/Togwaggle%27s_Scheme)  
+---
+1/-/- | Choose a minion. Shuffle 1 |4(copy, copies) of it into your deck. (Upgrades each turn!)  
+---
+* **[Tak Nozwhisker](https://media.hearthpwn.com/avatars/386/374/636897331584689499.png)** Rogue Minion Legendary RoS 🐉 ^[HP](https://www.hearthpwn.com/cards/90562), ^[TD](https://www.hearthstonetopdecks.com/cards/tak-nozwhisker/), ^[W](https://hearthstone.gamepedia.com/Tak_Nozwhisker)  
+---
+7/6/6 | Whenever you shuffle a card into your deck, add a copy to your hand.  
+---
+Thanks, I Will chdck this later cuz I dont know how to do anything on mobile
+---
+This is the best use of the curb music to date
+---
+Quest pally is nothing like mech pally from rise of shadows.
+---
+Still got it? I also have quest
+---
+I'm dyslexic and this post really confused me at first
+---
+the meme doesn't apply hers-e
+---
+this is common vs legendary
+---
+of course you should be worried
+---
+sorry i dont know if blizzard is doing smth abt it and when i saw that post it was downvoted to 0 votes, this is why  i made a 2nd post so ppl know im not making it up
+---
+“SUFFER AS THE WILDLANDS SUFF...”
+---
+*plays uno reverse card”
+---
+Chump's opponent had only three health minions
+---
+80 Gold Quest EU
+---
+Add: KingOfKings#2736
+---
+PepegaHands
+---
+Why isn't there aggro warrior when it's actually the second best win/rate of the class ?
+---
+I just like gold cards that produce gold cards haha
+---
+It can only offer classic and basic cards
+---
+The exact same thing happened to me today!
+---
+I fucking hate blast shield the most out of all his hero powers. It’s just super ubibteracruve and rng that shuts aggro out of the game.
+---
+I think I misread that this was specifically about this expansion. Agreed though, Uldum is more elementals than dragons. I bet we get at least 1 more dragon in the final xpac. Which would put us at 4+ for the year.
+---
+God this sub is so fucking retarded. Ask any pro player what they think of Nomi or look at the hsreplay stats, either the ones now, or if you’re dumb enough to think it’s a sample size issue, in a week.
+---
+\[\[Crystalsmith Kangor\]\]
+---
+Nope!
+---
+https://hearthstone.gamepedia.com/Kalecgos
+---
+Arena is a common thought but going infinite or soft infinite (as in always getting enough wins for another run) takes a long time. If you are good with your meta decks grind brawliseum as much as you can. Also, dont spend too much money, It doesnt get you far. Dont buy reg packs, only buy promotions and preorders if must buy. And yea the dust thing kinda sucks, dont be quick to disenchant legendaries cuz they could be meta later
+---
+* **[Crystalsmith Kangor](https://media.hearthpwn.com/avatars/376/377/636688325992824932.png)** Paladin Minion Legendary TBP 🐉 ^[HP](https://www.hearthpwn.com/cards/89860), ^[TD](https://www.hearthstonetopdecks.com/cards/crystalsmith-kangor/), ^[W](https://hearthstone.gamepedia.com/Crystalsmith_Kangor)  
+---
+2/1/2 | Divine Shield, Lifesteal Your healing is doubled.  
+---
+Right I got carried away by that screenshot xD
+---
+PETER PAN  
+---
+MAGIC CHEESE
+---
+you need 7 Mogu Cultist on the board
+---
+Zephrys offers only Basic and Classic cards. He will never offer "return to hand" effects. He will never offer boring vanilla cards.
+---
+And basic. The problem is it seems to  currently factor out 0 attack minions.  It doesnt give silence vs doomsayer and if u have a board of goblin bombs it might not give you bloodlust
+---
+Not really, your win con against warrior is playing tess, then togg's scheming it. They can only clear your board so many times
+---
+It is only top-tier because the other value Hero cards left. Elysiana is not prevalent in Wild when green men, Big rezzing dudes, and Highlander can outvalue 10 additional cards.
+---
+what does the 1/1 card he killed do? whyd the elemental spawn?
+---
+it's more like how do they remove a 2/14 mosh'ogg on turn 8 before it becomes a 28/28. if playing a minion and going for a 50/50 brawl is their best answer you just bring it back next turn with mass ressurection and ask them to have the second brawl and highroll that as well. with frightened flunky, armegedillo and tomb wardens in the list now though i'm sure the matchup got harder for the priest.
+---
+Zephrys looks between Classic and Basic. That's the difference
+---
+I don't like half the opponent's deck coming out on turn 5, no.
+---
+yeah, i will never get my 12 arena wins.
+---
+i brawliseum i got it 2 or 3 times
+---
+&gt;Any time its two or more secrets I think it gives flare.
+---
+I got Flare against one Secret playing him on turn two.
+---
+Idk whenever I played wall vs warrior it always felt like a pure rng matchup. They would slam or execute or I'd miss lethal or smth
+---
+Toast didnt stop 2 days after the xpac he didnt even play hs at all.
+---
+Oh, I forgot about it.
+---
+Probably supposed to be 'expands'. But same thing yeah
+---
+Gotta win that karma race
+---
+Why would it force that at all?
+---
+If it is not clear, I am referring to the current expansion - Saviors of Uldum, not Rise of Shadows.
+---
+I was playing in wild
+---
+You can probably contact blizzard support about this.
+---
+On one hand good for her! I am sure she will do great.
+---
+On the other hand, bummer I always liked her casting.
+---
+Go for 10 packs of each expansion first. You will get one guaranteed legendary within the first 10 packs. This will take 6000 gold so you need to just grind it out till then.
+---
+Once you have this kind of a collection, you should be able to see what decks you can make as of now. By this time you will also get some clarity as to which classes you enjoy and which you do not.
+---
+I would recommend buying a few classic packs first. These cards are lower in power level than the expansion cards, but will never rotate out of standard, and so should never be disenchanted.
+---
+Now you must have received a free quest from the saviours of uldum set. If you tell us what quest that is and what other cards you have access to, we can point you in the direction of a decent deck. If you have any other question, feel free to let me know.
+---
+Enjoy the game :)
+---
+Wait chillwind yeti? F2P BTW.
+---
+Something something small indie company
+---
+Arena is free pretty easy to play and for new players. That's mainly all I've been playing for the last couple of years. I just use budget decks/ wild decks to get the quest gold and make arena decks whenever I have 150g. 
+---
+I do agree the main game is getting way too expensive now though. That's why I stopped playing ranked.
+---
+Yes, reborn pally beats warrior.  But reborn pally loses token druid, mage, scales pally, quest priest, and lots of other decks, so warrior doesn't have to worry about reborn pally because the warrior will gain ranks while the reborn pally will lose ranks, assuming equal skill.
+---
+Yea people don’t understand that
+---
+https://hsreplay.net/archetypes/2/control-warrior#tab=matchups  
+---
+every deck that is favored against control warrior gets farmed by aggro to some extent. highlander hunter seems like the best option overall.
+---
+The "basicness" is what makes hearthstone accessible to newer players, people who aren't very intelligent, and returning players. There's already complexity and depth without things becoming a giant mess.
+---
+Yeah and his cost to 4, and attack to 7
+---
+Just play wild dood
+---
+Lots of hs art comes from wow tcg anyway.
+---
+Dude you literally turned the table! :)
+---
+Last bullet seems encouraging
+---
+Well ill have u know that i win most matchups even against aggro except scales with my reborn pally
+---
+I can climb easily, my point is simply that the tier one decks are more played and more dominant than ever before. 
+---
+Also telling someone they suck at hearthstone just makes you look like a moron. Have you ever made legend with a homebrew? Thought not.
+---
+First I play Prismatic Lens
+---
+I put it in my quest mage, however I rarely am able to play it ( turn 10 ) and when I do it just gets cleared easily. Useful, but not worth the craft
+---
+That is the definition of big oof!
+---
+Oooh so that's what the 3/6 and 1/2 does :O
+---
+Thanks =D
+---
+I did the play 100 cards quest first day, and I still lost my quest for today.
+---
+I've always thought the same
+---
+Huh...
+---
+Quest shaman is below 50% and costs quite a lot, i am not sure if it is wise to craft it now (not counting crafting for pure fun ofc)
+---
+Play the quest paladin. It is a sleeper hit. You will make some warrior ragequit.
+---
+yea, it's bs
+---
+You sound salty.
+---
+Which is why they're abandoning that format immediately.
+---
+I have fun with control warrior.
+---
+The thing with that quest is that it will keep changing and improve as people try out different battlecry minions with it.
+---
+What can I replace barista lynchen and siamat with in valeeras highlander rogue list? Thanks!
+---
+And if they nerf or HOF it, I get the dust back! lol
+---
+No :C
+---
+iv won against prismatic lens turn 4 exactly once and it included  5 damage hagatha scheme into mogu rusher+mutate into al akir. at turn 4-5.
+---
+Control shaman is really good against if because of multiple refills on the deck and lots of heal.
+---
+I am a standard player, i only play wild to test meme stuff and this was in casual.
+---
+Yes
+---
+“Decided best choice” because of a single card in your deck, over perhaps the best possible card you could get in almost any situation. 
+---
+Okay then...........
+---
+Yep brode was a gem, I will never forget the championship were he we all were exposed to how amazing brode was
+---
+\*Zephrys
+---
+Its wild
+---
+Ya that’s what I figured. The MMR still probably would have put you up against a newish player.
+---
+Even when I win against control warrior I dont have fun
+---
+You are stating you run those 3 cards when it is the norm for the netdeck - you say it like it's some next level inclusion thought up by you. Everybody is running those 3 cards
+---
+Normally playing daily or every 3 days, to finish all your daily quests and not missing any, gives enough gold to get 80 packs per expansion (an expansion every 4 months). With that, you normally get 4-5 legendaries + the free one at the start of an expansion (I got 7 in 88 packs this expansion though, im happy with it) and all commons and 95% of the rares, and some decent amount of epics, and like a bit less than 2k dust in duplicates, depends a bit.
+---
+So, for free, you still get a decent amount of stuff and dust to finish the decks you have half completed by the cards you opened.
+---
+Of course, if you are good at arena, you can play arena and get packs for less gold than you would get by buying them for 100 gold in the shop, although in my case I hate that mode and I suck at it, so i avoid it.
+---
+Also, every month reaching a high rank in ladder gives you dust and golden cards (commons, rares, and 1 epic if you got rank 5 or higher), so thats another dust/card income that comes 4 times per expansion and that can help you flesh out your decks, or even try bad cards that you think are fun if you want to go that route, like mogu cultist or whatever.
+---
+But yeah, you wont get a complete collection wihtout playing this game daily for 5 hours+, being a god in arena, or paying a lot. Not all cards are needed anyway, many are bad, some people play to be competitive so bad cards can ve avoided, others play mainly for fun so unfun cards can be avoided, and others want to experiment and deckbuild theyr own stuff so getting everything they can and saving it so they have a good collection of junk after a year or 2 is also nice for them. With having enough for decks you enjoy and really like playing over and over and over it can be enough, and if you can sustain that playstile while being free then even better.
+---
+Dont forget, the game has a HUGE amount of cards, trying to get a decent collection at first its going to be really really expensive. Take your time, and let your collection evolve little by litte. You already payd to kickstar your collectiona nd you say you have already 3 strong decks, I would stick to them for a bit and keep playing for now, no need to get all the possible existing decks in the game, since they constantly evolve and change too.
+---
+How ?
+---
+That would be great if it were a guarantee, but if it still doesn't give me a card to kill doomsayer, then my board is now gone.
+---
+GOLDEN COMMON
+---
+Same thing happened. I rerolled a quest today logged out and logged in and it was gone.
+---
+NANI?
+---
+The problem is not the quest, it's the murlocs.
+---
+Not really the same as classic control warrior, but still fun-ish.
+---
+* **[Hagatha the Witch](https://media.hearthpwn.com/avatars/368/831/636590938295353888.png)** Shaman Hero Legendary WW 🐉 ^[HP](https://www.hearthpwn.com/cards/89355), ^[TD](https://www.hearthstonetopdecks.com/cards/hagatha-the-witch/), ^[W](https://hearthstone.gamepedia.com/Hagatha_the_Witch)  
+---
+8/-/5 | Battlecry: Deal 3 damage to all minions.  
+---
+[Bewitch (0): Passive Hero Power After you play a minion, add a random Shaman spell to your hand.]  
+---
+* **[Nozdormu](https://media.hearthpwn.com/avatars/330/989/285.png)** Neutral Minion Legendary Classic 🐉 ^[HP](https://www.hearthpwn.com/cards/285), ^[TD](https://www.hearthstonetopdecks.com/cards/nozdormu/), ^[W](https://hearthstone.gamepedia.com/Nozdormu)  
+---
+9/8/8 Dragon | Players only have 15 seconds to take their turns.  
+---
+* **[Duskfallen Aviana](https://media.hearthpwn.com/avatars/368/939/636590940107630147.png)** Druid Minion Legendary WW 🐉 ^[HP](https://www.hearthpwn.com/cards/89385), ^[TD](https://www.hearthstonetopdecks.com/cards/duskfallen-aviana/), ^[W](https://hearthstone.gamepedia.com/Duskfallen_Aviana)  
+---
+5/3/7 | On each player's turn, the first card played costs (0).  
+---
+* **[Lady in White](https://media.hearthpwn.com/avatars/368/900/636590939437069748.png)** Priest Minion Legendary WW 🐉 ^[HP](https://www.hearthpwn.com/cards/89375), ^[TD](https://www.hearthstonetopdecks.com/cards/lady-in-white/), ^[W](https://hearthstone.gamepedia.com/Lady_in_White)  
+---
+6/5/5 | Battlecry: Cast 'Inner Fire' on every minion in your deck (set Attack equal to Health).  
+---
+You need to get laid more dude
+---
+Next expansion has been predicted to be themed around deathwing so watch out for that!
+---
+Rogue, hunter, mage
+---
+[[Reckless Flurry]]
+---
+I believe he is strong not op. I reserve op for cards that warp the meta around them. Zilliax dosn't warp the meta around him. He is simply part of it so i don't see him as op.
+---
+CARD DRAW AT THE END OF THE TURN!?!!?!
+---
+Jk, nice combo!
+---
+ZURN IT DOWN
+---
+* **[Reckless Flurry](https://media.hearthpwn.com/avatars/356/331/76945.png)** Warrior Spell Epic KnC  ^[HP](https://www.hearthpwn.com/cards/76945), ^[TD](https://www.hearthstonetopdecks.com/cards/reckless-flurry/), ^[W](https://hearthstone.gamepedia.com/Reckless_Flurry)  
+---
+3/-/- | Spend all your Armor. Deal that much damage to all minions.  
+---
+Northshire then linecracker
+---
+This time there’s a whole plan for the year, so maybe the last expansion will be Dragon-themed
+---
+creeper... Couldn't blow you Up :) pls don't statt a chain. Be normal ty
+---
+That’s not how statistics work.
+---
+True. The only way I win against aggro is if just hero power the 4/2 life steal and ziliax and pray that it saves me. 
+---
+Kangors is also like a Walmart Nzoth
+---
+Dreamwing#1508 NA. I show, you challenge first.
+---
+MUAHAHAHAHAHA
+---
+ya I am a casual player
+---
+I dont give a shit about streams or tournaments. Although I watch trump and dane on youtube, for different reasons.
+---
+Just Change King Krush (Mayen like they changed witchwood Grizzly, to not look ghostly) oder just Different artwork. We got artwork changes anyways in the last Time and then they can just use the old Artwork for another Card like they did with Omega Defender
+---
+Hear that, Fibonacci? You’re a stupid noob and you’re hurting OP’s feelings by playing your favorite deck archetype.
+---
+I get where you're coming from but I think doing that would dilute the pool all the way up. Would I love to hit Legend? Sure, but it would feel like less of an accomplishment if I kept queuing into weirdly easy match-ups every few games.
+---
+I’m sorry for your loss
+---
+Duelist of the Roses? You mean, that digital video game?
+---
+just to update i crafted the mage quest and it’s so much fun!
+---
+Hearthstone rule #1 Don't accept friend requests from people you just played and beat, 9/10 times they are just salty fucks.
+---
+In previous years, was loosely based on the theme of the first set, pretty much arbitrary. This time they chose Dragon because it was supposed to be tie in the year-long story... Except it's not, unless we get fucking Deathwing in last set of the year.
+---
+I can see this being added eventually, but it is also a lot of work to redo so I also see why blizzard might ignore this idea...
+---
+cool idea though, and you showed it off well
+---
+I understand the cynicism but to be fair in Q2 we got a surprise new powerful legendary given to everyone for free, 2 new basic cards to replace 2 sent to the hall of fame, 8 new Classic cards, arena rotation every 2 months, and for the first time ever actually got buffs to cards. Not to mention that this dungeon run reskin was by far the deepest one yet. I feel like for the first time we actually are getting more from Team 5 than just new cards every few months.
+---
+So close. I was giving an opinion on something of which I do not get to have an opinion because it's meaningless to do so because there is a fact that stands regardless of my "opinion." Fact is, many people find the two graphics to be too similar to easily and quickly identify and distinguish the effects. Nothing you can say or think can change how other people have already perceived the effect.
+---
+Wow
+---
+I got 6 in less than 55 :O
+---
+I don't have Finley but the deck works well without him. I don't think he's a card you have to craft for the deck.
+---
+It feels like warrior always rises to the top of the meta. They just have too many strong classic and basic cards. I made the premade quest warrior deck and am like 9 and 1 on it
+---
+How many more threads about this are we gonna get?
+---
+Same. I thought I was going crazy.
+---
+Obviously the middle one.
+---
+Pfft not even full 100g for daily wins, pathetic /s
+---
+Yeah I had to craft a golden Zippers day 1!
+---
+Reminds me of one of my favorite Hearthstone/Day9 clips. [https://youtu.be/CG64gTC3A9w?t=310](https://youtu.be/CG64gTC3A9w?t=310)
+---
+I was going to say I was new but then realized I started last October. Is that still new?
+---
+Nope. I also haven’t lost to one yet. Only played a few, though.
+---
+Let's rotate the board!
+---
+Exactly what meta should be, a rock-paper-scissors
+---
+Whenever I throw Finley on curve I get a (assumed sarcastic) "well played," but end up winning in three or four more turns.
+---
+It does arcane damage, but you did make me go look it up as I was not sure all of the sudden :D
+---
+Read a similar post 2 min ago.
+---
+Personally I'm not a fan of tribes. They're an easy way to get a theme going but in my opinion they're not an interesting way of doing so. I'd prefer if they looked at what most cards in a tribe had in common and built synergies off of that instead of off a single word at the bottom of the card.
+---
+What do most Frost spells have in common? They freeze. So if you want to make Frost Mage a thing all you need is to add cards that synergize with freeze.  
+---
+Beast Mastery already has beasts (another tribe, I know).  
+---
+Both Restoration and Holy specs are healing.  
+---
+Feral is armor and attack buffs.  
+---
+Shadow has that mechanic where healing is turned into damage.  
+---
+etc.
+---
+There's enough here already for interesting spec-themed builds. I think spell tribes are unnecessary.
+---
+I got 2 from 71 packs
+---
+the reno restriction is much more a feature than a huge restriction in a wild control deck.
+---
+Charge your phone.
+---
+Aggro is pretty RIP. If you take all the most popular aggro decks in rank 5 to Legend  right now and combined them they are still about 5000 games less played than Control Warrior and Control Mage. Also to be noted is that the majority of the most played aggro decks is taken up by Murloc Paladin which makes up 10,000 of the 22,000 of the most popular aggro decks and Murloc Paladin is literally the most balls to the wall aggressive deck that is played right now whose entire goal is to kill their opponent by turn 4 to 6 before Control Warrior and Control Mage have answers and it still only has a 48% winrate versus Warrior and about a 55% Winrate versus Control Mage variants. No other aggro deck can even compete with how fast Murloc Paladin is and that deck is sometimes not even fast enough to beat the two Control Decks.
+---
+The entire meta right now is dictated by Control Mage and Control Warrior because of how absurdly strong they are. Control Mage and Control Warrior aren't just Tier 1 they're Tier 0 with decks below it literally shaped by the existence of those decks.
+---
+Okay good. I was scared for a second there.
+---
+Same thing happened to me today. I got and completed the first SoU quest (play 100 cards), got 2 new quests, logged in today and did not get a third quest.
+---
+Dont worry there'll be plenty when they team up to fight deathwing next expansion
+---
+Hey N0V0w3ls, unfortunately your submission has been removed because it contains little to no content. Posts must contain at least 50 characters. Please review the [rules](https://www.reddit.com/r/hearthstone/about/rules/), in particular our rules on [low effort content](https://www.reddit.com/r/hearthstone/wiki/rules).
+---
+Scowl#1471 on NA, trading 80g You go 1st!
+---
+While I wouldn't expect it for the next expansion, I could see her doing some of the reveal streams in the future. I know some people ragged on her over the RoS one but a lot of the issues were clearly not her fault.  One thing that's been pretty clear since Brode left is that some of the Blizz devs do not look super comfortable with public speaking.  Having a person who's been in the role of a caster that also can speak to the game design philosophies and stories behind the cards would make the reveal streams a lot better.
+---
+Thanks Facterino Kripperino !
+---
+Yea well I got 1 in 4, because I have no gold!
+---
+Same here too. I didn't finish the first quest till yesterday but I didn't get any new quest today.
+---
+It’s still the first week of the expansion. This deck could easily fall flat once the meta settles. Or the deck could be refunded to not even include Tip the Scales.
+---
+I got 4 in 18 with no preorder plus the free quest on first login.  First pack was a golden Zephrys and 2 epics.  I had some pretty juiced F2P pack luck.
+---
+I’m currently running a slow quest control shaman and I’m winning about 65% of games, just control warriors I mainly struggle with because they outlast it by miles
+---
+Yes. Tip is supposed to thin your deck out of murloc duplicates (increasing draw quality also) so that late Zephrys and Finley can get you burst damage or ping damage to end the game.
+---
+Either fed or transformed, though the former is more likely since the lackey dies.
+---
+It's entirely possible for more than one person to have the same idea.
+---
+Surprisingly not!
+---
+ashen #21442 EU Looking for trade, you go first.
+---
+Traded here before, check my comment history.
+---
+So, a deck being weak to particular strategies and describing those strategies is not describing that deck's weaknesses?
+---
+Plus, not every deck is weak to those sorts of strategies given how often then end up being glacially slow. Aggression pretty aptly slaughters both Mech Paladin and Conjurer's Mage by a margin of around three to two.
+---
+If every deck ever was truly weak to decks playing sticky minions, wouldn't this discussion we're having right now be about Mech Paladin and not Control Warrior?
+---
+Oh you could wait for timer to end then end your turn, this waste the warriors time much much more and if they had something to do, hopefully they concede
+---
+'Les Cousins Zephyreaux'
+---
+Warrior has too many answers atm. He can't win the game but he can't loose so he wins by attrition.... He has the usual great evergreen removal + the best rush minions + a bunch of mechs that wreck minions... It's overkill 
+---
+Meanwhile with pally you have a 4 mana equality....
+---
+Only issue with Highlander Mage, you only get max 2 Puzzle Boxes, meanwhile Big Mage gets 4.
+---
+I have 0!
+---
+Quest pally, quest shaman if you build more value than early game, any number of rogue decks that focus on value, cyclone mage had a chance. These are just off the top of my head.
+---
+You build your deck to beat control if you want to beat control.
+---
+At least he didn't pull Tess.
+---
+Ben Brode literally said multiple times that they would "communicate more". They didn't.
+---
+Also, already 5 months passed.
+---
+Do you finally stoped believing these kinds of things?
+---
+Yeah I've honestly never seen the appeal.  If I don't have the urge to play video games (which is pretty rare) there's plenty of other things to do. The only times I really watch someone else play are for occasional Let's Plays which are heavily edited or the GDQs.
+---
+Don't give them ideas
+---
+monkaS
+---
+I like to call him Joseph.
+---
+When I first saw the name, I thought it was zethrys which made me think of Zathrus:
+---
+https://youtu.be/v79fYnuVzdI
+---
+You just saying 2 months or did they say 100% 2 months from now. The last one was 5 weeks after launch.
+---
+Which shows what a horrible and expensive business model lootboxes are.
+---
+(Unless you're Activision blizzard, then they're awesome and incredibly profitable.)
+---
+5 months passed and nothing changed.
+---
+Any hope yet...?
+---
+Hey simonico, unfortunately your submission has been removed because it contains little to no content. Posts must contain at least 50 characters. Please review the [rules](https://www.reddit.com/r/hearthstone/about/rules/), in particular our rules on [low effort content](https://www.reddit.com/r/hearthstone/wiki/rules).
+---
+He can only give you Basic and Classic cards
+---
+Agreed (:
+---
+Did I miss the 'Raven' tribe tag somewhere? Or the Kraken tribe tag?
+---
+It's obviously hyperbole but the casual audience and a good amount of the hardcore audience don't really give a shit about Twitch or HS personalities because we just play.
+---
+Brann into expired merchant while having both of those cards in hand
+---
+You literally can't refine Murloc Paladin anymore it's literally a 1 trick deck. Wanna know the highest winrate Token Druid deck from Rank 4 to Legend? It's a deck that has a 50% winrate which isn't very good. There's some higher winrate aggro decks but they are fairly unpopular, of the top 20 winrate decks 7 of them are aggro with 3 of them being Murloc Paladin. The only two decks that are in the top 10 are a new Zoo Priest and Mech Hunter. The Zoo Priest has 1600 games so it's a decent sample size and has a 62% winrate but has no matchup data on Mage but does beat Warrior pretty handily at 63. The Bomb Hunter has way too small a sample size to make any definitive conclusions at only 400 games  especially when the second highest winrate Bomb Hunter is ranked 23rd. What's really important to note though is that the top 5 decks by winrate in the game all have a pretty significant 2% gain or more on the decks below them.
+---
+On the subject of Quest Druid it really only needs more value because it will otherwise lose to the two most popular decks in the game which are Control Mage and Control Warrior which are insane value machines.
+---
+Finally I just want to mention that the new Zoo Priest looks very interesting and like it could possibly beat both Mage and Warrior. https://hsreplay.net/decks/QnXw8qXtZuKhDex4qTIbSb/#rankRange=LEGEND_THROUGH_FIVE
+---
+It is my humble opinion that you’re both cunts.
+---
+Depends on the amount of dust u got 
+---
+If you don’t hv a lot here are some cheap decks:
+---
+-Zoolock (the lackey one, minus tekhan)
+---
+-Token Druid (I think stelladris is great, but I also think you can do without it) 
+---
+If you have more dust you can experiment with these more expensive decks:
+---
+-Quest rogue (tempo rogue shell tweaked a bit) 
+---
+-Tip the scales murloc (minus either Finley or nomi) 
+---
+-Quest paladin (mech one needs kangor, budget versions use plain old reborn minions and a lot of buffs) 
+---
+-Quest priest (not sure about this deck’s win cost, but I think the finisher is amet boar DSIF or just plain old tempo) 
+---
+-Quest shaman (minus either shudder or elysiana) 
+---
+If you hv a lot of dust then just craft wallet warrior and start climbing
+---
+By the time its hit you, your last suprise.
+---
+So to answer both of your questions they are yes. I am unsure with the new player experience (it has changed over the years), if you aren't in some tutorial mode that won't let you edit your deck yet. 
+---
+To remove cards from a normal deck you click on collection, select the deck, and then drag cards out of the list on the left. Sometimes on my tablet this doesn't behave correctly. To create a custom deck, you click on your deck list. Click new deck, and the 4th option from deck lists is custom deck.
+---
+2 months before the whole thing is out.
+---
+Idk if you’re trolling or not but there was a Sorry emote in the game when it first came out people got so annoyed by it they replaced it
+---
+There used to be a Sorry emote, but they removed it and replaced it with a different emote
+---
+People really making some dumb replies. "Where were all the ravens and krakens in the last years???"  
+---
+News flash, there is no raven nor kraken tribal tag, so that comparison isn't valid.  
+---
+This is the Year of the Dragon. Dragon is a literal tribal tag for minions in this game. People in general, love dragons.  
+---
+Anyone with any planning at all would have planned dragon themed expansions for the Year of the Dragon. It makes such obvious sense to do.
+---
+War. War never changes.
+---
+And what if I wanted to run the quest? What would you suggest?
+---
+You, my friend, would enjoy Las Vegas. Love the enthusiasm and creativity tho.
+---
+Its basic and classic only, and he can't see your hand. He's a wish granter, not a miracle worker
+---
+I think it the main issue with this is that there's really not an efficient way to get gold or cards; for example, in pokemon TCGO you can gather up packs in tournaments and either open them or trade them for specific cards or other packs, cosmethics even. This in HS might open a secondary market where people put in money into HS because they might buy multiples of limited time skins or card backs and then other players might trade them for packs they get at the game or bought. The issue here is that there's no way this economy will be F2P accesible in HS without more access to packs, so Blizz and Team 5 would have to give out significantly more packs per day, which I personally don't think they'll ever do.
+---
+Even without Boom the deck is too strong. It's choke full of removal nothing can stick. Blizzard keep making insane removal for warrior. The rush package is even better than before.
+---
+Is it worth it to craft kang or or undataka, or could they be replaced by something?
+---
+Shadw Flame wouldn't have killed the 6/7 Treant.
+---
+Equality is the better card and Zephrys is currently on Yogg's level with randomness.
+---
+Secret Plan is a Hunter Class card, which is why it gave you a choice of Hunter secrets.
+---
+Holy smokes.
+---
+*your not you’re
+---
+*lose you every game
+---
+On second thought I give up. There’s a lot there to fix.
+---
+Yeah, that deck is bonkers. Had a 70% winrate to dad legend last night, all the way to rank 4 before losing.
+---
+Not 100$ per month lol, but if it was a one time buy for an expansion release.
+---
+Highlander mage ftw
+---
+How did you get so many C'thuns?
+---
+Ah
+---
+That’s what he said right? Doomsayer then Blizzard
+---
+There was one time when I really needed a chicken sandwich but all I was offered were Tirion, Blizzard and Twisting Nether. #fuckzephrys
+---
+Frost mage has pretty good winrates against warrior decks and is good against other meta decks too. Only some hunter decks beat it so stop saying there arent good decks against controll warrior.
+---
+Yeah, hasn't it had token druid as just about the best deck for most of the last four months, even when it was actually just a tier 2ish deck for most of that time? Because it's so brainless that its win rate was inflated. This murloc deck might be the easiest deck to play in Hearthstone history, so it's going to have an even bigger boost.
+---
+Fatique usually gets you, it was this close even with shuffling so many Cthuns in my deck
+---
+Thank you! I have about 10k or so dust
+---
+Yeah duplicates all the way, tip the scales empties the deck better than divine favor haha
+---
+Its not looking good for you, to nobodies surprise
+---
+I don't think its too much of an overreaction in this case. The deck is nuts. It will be meta-defining, and in a bad way.
+---
+“Control mage” isn’t a value deck. At least the best list last expansion with the cyclone package plus giants just relied on creating a few large boards and killing the opponent. Cards like phaoris are not gonna help vs them. It’s too slow, the deck closes the game before turn 10 if it draws well and Frost nova just shuts down phaoris and lets them slam face.  
+---
+And I’d wait before calling decks refined. My point is it’s still early and murloc paladin might not even stick around later. So let’s see. But mech hunter was tier 1 aggro deck last expansion . Idk maybe bomb hunter is a different deck? Last expansion mech hunter was everywhere and had a good winrate, actually favored vs control warrior.
+---
+If you paid $200 you should be able to make pretty much anything you want involving new cards since the top decks right now are the top decks from a week ago because the expansion came out three days ago.  
+---
+Conversely, I spent $0 on this expansion and opened about 30 packs so far between saved up gold and quest rewards.  I'm playing Control Warrior with the new Taunt package and Quest Druid.
+---
+&gt;  it's not the most broken deck in the game's history 
+---
+It's not the first time Control Warrior is like this. It happened several times in the past especially when \[\[Justicar Trueheart\]\] was in the meta.
+---
+Thanks, commonmisspellingbot
+---
+Treat it exactly the same way as warsong commander was. For the rest of the game all mechs have +1/+1 or something.
+---
+Also make Omega devastator not a mech
+---
+Yes, always save one Brawl against Paladin.
+---
+* **[Justicar Trueheart](https://media.hearthpwn.com/avatars/328/193/22276.png)** Neutral Minion Legendary TGT  ^[HP](https://www.hearthpwn.com/cards/22276), ^[TD](https://www.hearthstonetopdecks.com/cards/justicar-trueheart/), ^[W](https://hearthstone.gamepedia.com/Justicar_Trueheart)  
+---
+6/6/3 | Battlecry: Replace your starting Hero Power with a better one.  
+---
+My results over 30 games show otherwise...
+---
+At least 1 in first 10, then at least 1 in 40, so worst case for 163 packs is: 1 + 153/40 (integer division) = 1+3 = 4
+---
+I have also thought about running the Body Wrapper in Quest druid for fatigue games. Add 2 morecards to your deck, and if you run 2 of them, there is a chance they can discover themselves.
+---
+Reminds me of boomsday when I got 4 legendaries including one gold and an epic, safe to say my friends hated me
+---
+But you still know who they are talking about, just like Bumblebee Thunderlatch.
+---
+Do you know what bugs are? Something wrong with an ai algorithm IS a bug.
+---
+sylvannah
+---
+Also, if you fill your board they play poisinous seed and transform it into 2/2s. I had to clear my own board to fit these bad bois
+---
+DB is a weak hero card compared to some of the Death Knights but he is still really powerful in the current meta.
+---
+Again there is no foundation for this assumption especially since Ninja blew up and became a household name.  We do however have a direct link between lower Twitch viewership and sales.
+---
+The "no one cares about Twitch" bit is antiquated.  Maybe it held water 5 years ago but Twitch is growing exponentially yet HS views are declining.  This indisputably significant and very bad for the game.
+---
+From playing the deck for hours, I'd say the most broken cards are Tidecaller (OP 1-drops...) and either of the spells. One of the spells has to be nerfed in cost, don't care which.
+---
+Funny thing is that if you highroll hard enough you can get pretty much the same amount of stats if you follow up with the health buff murloc. Except this is spread out across many bodies which is actually even stronger.
+---
+Obviously those people believe in but a single name, whereas Elisandre is far less limited.
+---
+Not OP but he's not completely off base... The card is powerful enough that you can get tons of value (upside) and have another card slot for more control (downside protection). 
+---
+Every card has an opportunity cost - for every card you include, you miss out on the value of cards you don't include. 
+---
+I'd argue there's lots of reasons to only run one copy. Could be a combo piece in a draw heavy deck, a situational tech, or in the majority of cases, it's a mediocre card that doesn't merit two copies; but in some cases, and I think Omega Assembly in particular, it could be that it's so good that it is both flexible draw and provides lots of value.
+---
+Also, too much value can be sub-optimal in some situations, because generated cards are only useful if you have time to play them.
+---
+You use too much big word so you must be more salty than OP.
+---
+Still a pack, whether or not you consider it relatively worthless.
+---
+Ay how is houndmaster Shaw in highlander hunter?
+---
+If they didn't want ppl to misspell him they would have given him an different name.
+---
+I would still avoid crafting anything since it's a bit too early. But if you cant wait... galaxy seems safe-ish since cyclone is pretty strong, I dont like the idea of crafting a classic legendary because you are gonna get it eventually(but this is cenarius time to shine so it might be worth ot). Siamat is a good card, but will fit in less decks that people think, mostly control and midrange stuff. I'm mentioning brann and zephrys last because you kinda need them both, and its 2 legendaries to make 1 deck, which is not the best value considering you can only make 2.
+---
+I login on the other regions whenever there's a free arena run (I always have an arena run unfinished on all regions) and I never bothered to finish the play mode quests, which they give you when you login at the start of each expansion I think. I have no clue why they stack though
+---
+Guys don’t be a slyv-anus about it
+---
+Complaining about warrior IS complaining about an archetype.  There's always going to be a control deck that is viable (if there isn't, Blizz has really fucked up).  And people will complain about that deck.  And the complaints are always the same.  Doesn't matter if it's warrior, or warlock, or priest.  Always the same complaints.
+---
+Lots of decks received a huge power boost.  It's a high power level expansion.  So of course the control decks had to get new cards as well.
+---
+Do they exist? Of course. 
+---
+This is the modern plugged in at all times world. The internet is a HUGE part of people's lives. Old Town Road has fucking 500 million plays on Spotify. The internet is life now. 
+---
+People know what Twitch is. Even non gamers are aware of what it is now.
+---
+&gt;quickly adds up, especially for f2p players.
+---
+1 pack.
+---
+Deathwing is coming 👀
+---
+*She
+---
+My response to these concerns (which i think line up with the devs position at least right now) is to learn how zeph works. Some of the more common complaints have been Zeph no giving poly or hex or silence when they are "objectively" the best cards. The problem is Zeph doesnt read minion text (ie. It doesnt know doomsayer will kill the board next turn, vargoth will double a spell it gives). Learn these interactions and at manipulating zeph
+---
+No balls required. Just be playing a singleton deck while your opponent isn't. Then hope the match ends before your opponent's deck *becomes* a singleton deck. It's really no worse than any other picks.
+---
+Damn. Guess I'm lucky I havent faced one yet as a rogue
+---
+And what’s your point? With the disgustingly OP Quest proposed in the Original Post, Quest Warlock would win 95% of the time. It has plenty of tools to deal with aggro. Your analysis is flawed and misguided.
+---
+Because Finley is a good guy, and paladins had murlocs before.
+---
+People can’t even spell rogue. A word that’s so common in games and one they see constantly on this thread not to mention when they log in to hearthstone. How do you expect them to spell Zephrys correctly?
+---
+Wrong,mage has the worst one
+---
+Jozeph Joestar is famous for pulling the perfect solution out of his ass at the last second.
+---
+zeddyW
+---
+“standart”
+---
+Its intended its order
+---
+Singleton Paladin and Puzzlebox Mage so far have been the most fun for me so far. I might try some other Singleton decks later. Havent tried making my Reno lists for wild better this expansion yet. Might do that soon.
+---
+Yh he surrenderd after first Box.
+---
+I was pretty behind, but he had empty hand and rngesus cleard Board.
+---
+Sad i couldnt use all of them!
+---
+You know if they make a raid of Alliance heroes and Horde heroes v Sylvanas it'll be the second time they've had players from both factions team up against the Warchief of the Horde.
+---
+Where are the Alliance's war crimes?
+---
+Fel reaver doesn't do fatigue damage though right?
+---
+Yeah I guess so. We got [[dragonspeaker]] too as a support card tho
+---
+Guys guys
+---
+You need to learn the difference between
+---
+_The only AoE_
+---
+And 
+---
+_The only **good** AoE_
+---
+Because if you say the first sentence. I can respond with Fan of Knives and Reckless Flurry.
+---
+Be precise in your statements
+---
+* **[Dragon Speaker](https://media.hearthpwn.com/avatars/386/412/636897379460327241.png)** Paladin Minion Epic RoS 🐉 ^[HP](https://www.hearthpwn.com/cards/90596), ^[TD](https://www.hearthstonetopdecks.com/cards/dragon-speaker/), ^[W](https://hearthstone.gamepedia.com/Dragon_Speaker)  
+---
+5/3/5 | Battlecry: Give all Dragons in your hand +3/+3.  
+---
+Well, the counterspell is technically removed.
+---
+Fine wrongfully justified. They’ve wrote many essays on why they do certain things and there are many cases that their reasoning makes no sense or they have said the completely opposing things later on. 
+---
+I think it was good for standard, it played a specific role that was very needed, the ability to punish a board flood while the opponent still has a large hand size (murloc paladin) and the ability to stall minion based decks (token Druid/zoolock) but it was never oppressive. It stoped being op after cold light oracle was HoF.
+---
+Read my reply on other reply. But bounced back cards are essentially silenced because they are removed from play and essentially reset hence able to receive another battlecry as well as removed buffs or damage. I think I explained what I meant in my other reply.
+---
+That literally just happened to me last night from a random quest classic pack
+---
+That's... what I was saying? I said I made a prediction, but I made it one expansion too soon.
+---
+No, I’m happy it’s gone. Rogue should not have board clearing aoe
+---
+He also took candle!
+---
+I laughed out loud at this. 
+---
+Aside from Diablo 3, every Blizzard game since Warcraft 3: Frozen Throne has used some variation of that story.
+---
+Deathwing is a dragon!
+---
+Ehhh standard and they weak boards. Thats a nice one tho
+---
+Please get rid of the rush ability. Then it’s balanced.
+---
+Check your last sentence again, idiot. Or should I say check you are last sentence again so you can understand?
+---
+I guess that's the one thing this version has up against the fel reaver deck.
+---
+I mean...that's kind of the idea.  Fewer packs with gold is more encouragement to spend actual money
+---
+i mean kraken had a ton of tentacles at least. Mammoth did actually have a mammoth funnily enough. Raven had the card you said i cant name.
+---
+the difference with dragons is *dragon is a tribe* and one that a lot of people love specifically. and yes there was people complaining about the lack of krakens and people with a desire for more ravens - unsure on mammoths though.
+---
+I have a 2nd account I use to help my main account complete quests faster. I've never completed a "play mode quest" and they just keep replacing each other when a new one comes out :( Wish I could have them stack like you!
+---
+BTW i still won,he sent me a Friend request and he challenged me for a game with an 80 gold quest, i love how the hearthstone community can be.
+---
+But then again the other half of the time you get insulted By some salty idiot.
+---
+That sweet Witchwood pre-order deal has to play a part in how successful it was. Honestly blown away that they haven't recreated that yet. The current $50 preorder just doesn't feel worth it at all. 30 less packs for the same price.
+---
+He was two of the 12-win brawl decks on the streamers/pro player deck lists. With fairly out there decks too! Like Hack Warrior and Quest Rez Priest
+---
+The deck is basically unchanged over last 6 months
+---
+463 packs because am a whale. All cards including many more gold copies than in previous expansion mega-openings. I wonder if Blizz tweaked the stats a little bit or if I just got more lucky this time.
+---
+KorrupT#2465 on EU 80g trade?
+---
+except for paladins dragon package and kaleccgos from RoS
+---
+Good point
+---
+The Dungeon Run 'reskin' added 18 hero powers, and bartender Bob so you have a way to modify your deck instead of just adding to it. Both of which add replayabilty and decisions for the player to make. 
+---
+I would have liked to see less overlap of bosses in the wings.
+---
+Other that I think it was a good improvement. Hopefully they keep improving it. If all single player content is going to be paid for moving forward, they should really let us complete quests in it.
+---
+Quest pally
+---
+Mech pally (old deck)
+---
+Mech hunter (old deck)
+---
+I dip in and out of Hearthstone, and tbh, it's usually just after randomly tuning in to one of the HS streams that I dip back in. I'm just one person, but I imagine there's others like me out there.
+---
+I remember when people called face hunter, pirate warrior, and generally any aggro deck "cancer".
+---
+Huh, you're right, I dont run Edwin (cause in Just a casual free to play player) but thats pretty good indeed
+---
+1 pack could have a legendary, or two, or three
+---
+Not to mention tip the scales pulls finley out.
+---
+Bruh.
+---
+Sitting with two of them in your hand is essentially a warrior hero power every turn.
+---
+I think the point you make about overlap of bosses is the thing that fatigued me, I got to see thrice the same boss on a row :1
+---
+Tbqh I havent unlocked all of the hero powers because of this boss fatigue
+---
+Man. What happened to make Blizzard become so inept? It's sort of sad seeing them make such combos and go so far to hard code away possible counters.
+---
+now that's an avengers level threat
+---
+Is that better or worse than a khadgar, a few grave horrors and four mirror images, plus they have more cards in hand than you?
+---
+Next week's VS report is gonna be lit AF.
+---
+I haven’t played the deck myself but in about 10 friendly games against my brother he managed to get a Tip the Scales out early in probably two-thirds of them. In a couple of games he had to wait until turns 6-7 due to the lens hitting itself or nomi, and in 1 game he had both Tips in his opening hand.
+---
+It’s a lot more consistent than it looks, and honestly the only deck that scares me more is quest Druid.
+---
+I would go with "Z 2 the G 4 lyfe dawg" pronounced dinosaur.
+---
+Obligatory music; love it!
+---
+sane beings who do apply will die within a space smaller than a single expansion.
+---
+I know a guy who knows a guy.
+---
+i spell it zeoff
+---
+I still think Hearthstone should award a free pack every 3 days for logging in and playing a set amount of games. It's one of the aspects of MTG arena that i'd like to see cross over. The reason I say one every 3 days, is obviously that Hearthstone packs hold significantly less value than the average MTG pack.
+---
+Zephrys' knowledge grows. Next step: Blizzard CEO
+---
+the mistake I always saw was "Sylvannas"
+---
+also, let's not get started on "rouge"
+---
+Any update?  Same issue occurring for me....
+---
+It’s decks with no duplicates. Afaik they call them that because of the movie Highlander “There can only be one”.
+---
+\*genderless demonic hellbeast here to feast on our blood and souls
+---
+This could work but they would have to print neutral spells, which they haven’t done yet on purpose.
+---
+What?
+---
+This is pretty damn neat!
+---
+Did you make this? If so really well done!
+---
+There's no official statement about it
+---
+Not the worst ones too ;) Really not commonish for sure! Enjoy
+---
+Adaptive learning is here! Skynet is next.
+---
+the mistake I saw everywhere was "Sylvannas", pretty sure OP is thinking of that
+---
+How do you know what their preffered pronoun is?
+---
+Yeah it kinda pisses me off. 
+---
+I was ready for hunter and paladin dragon!!
+---
+Nah
+---
+oh thank god i found this, i thought i was the only one who didnt get a daily yesterday.
+---
+Having a blast with Highlander secret hunter as well, and it actually performs pretty damn well too!
+---
+FrostyTurtle#11753 NA
+---
+80G Quest
+---
+What the hell is that ungodly buzzing
+---
+I lost that game cause he had pw: shield, inner fire, and extra arms to keep buffing the cleric. 3 attack can’t do anything against that
+---
+Wait what card did you use to shuffle Cthuns into your deck???
+---
+Oh wow, you just made me realise there’s a strong, entirely neutral “elemental package” of sandbinder + zeph + siamat. Thanks! That adds a tiny but interesting facet to highlander deckbuilding.
+---
+Making mummies is insanely strong in my opinion.  Check my post history if you want a list.  I started below rank 5 and breezed to legend in a couple days with an almost 75% win rate (started out 18-2).  I was bummed when I opened it as my first legendary but, honestly, it’s my second favorite card in the set now outside of the puzzle box.
+---
+Rogue has off-and-on run Nomi. Most folk are messing with Quest right now but if nothing else changes Rogue will rotate back towards a list more reminiscent of Rogue in RoS.
+---
+If so, I would love if we fight on deathwing in the solo adventure, just like the raid.
+---
+What about something that gives your opponent the worst card for the boardstate?
+---
+Thank you, now I forgot the correct one
+---
+I tried to make executus playable...at least i made it fun...i think (re made the post cause i name it mayordomo instead of majordomo and i couldn't live with the shame).
+---
+You think that's mana you're floating right now?
+---
+Before the equality and fan of knives.
+---
+Togwaggle into the change hand into legendary minions, then Princess Talangi into big F
+---
+https://imgur.com/a/vxg2HKv
+---
+To me it’s not pronounced anything, it’s just the card that gives me what I need when I need it.
+---
+Also often disappointing.
+---
+Haha, that’s creative. I’ve never made that connection. I’ve heard it’s a term from MTG (like many other terms) but of course MTG could have got it from the movie.
+---
+I opened the Shaman Quest and was having so much fun until I brought it to the Brawliseum. Not a good matchup into Warrior, since you know infinite value beats double battlecry value I guess.
+---
+I've been playing this and it's a blast. So much fun in wild.
+---
+Same thing with big priest. That’s the most autopilot deck and you don’t even need two brain cells or be able to add two numbers together. Seen priest go face with their minions when they would have had a ragnaros lethal guarantee if the killed my minions instead. It’s embarrassing losing to that crap.
+---
+It gave me Crazed Alchemist against a Doomsayer the other day, I think it works fine in this regard.
+---
+Well, Peter Whalen isn't a story writer. I don't blame him for not being able to come up with a better response on the fly.
+---
+Also, why wouldn't the League of Explores happen to be the good at least relative to Rafaam? In the LoE story, the two were quite opposed to each other.
+---
+ Give it a month
+---
+New card that has a Micheal Pena voiceover. Discover a Discover that Discovers.
+---
+Yeah that’s why I revised it to discount its cost by 2 mid thought there. 
+---
+I didn’t realize OP meant he didn’t want to be able to tap for a card as well. Without a tap I think his suggestion is actually worse than the current quest hero power. I just assumed he meant to keep that aspect of it
+---
+Or... or... now get this,
+---
+# People are playing Control Warrior right now because it's just a good deck in a sea of mediocre to bad ones.
+---
+&gt;  I don't get why they want to be so stingy with making the card work like it's supposed to. If there's a bug with a card, fix it.
+---
+They are not saying it is the last time they will adjust him. They are saying it is the last time they will hardcode specific instructions on how to deal with a single card. It has nothing to do with bug fixes.
+---
+I'm on mobile, it doesn't show any link or anything. Could you post the original post?
+---
+Nice nice, I’m still trying to decide if Brann is worth crafting. I would also need Subject 9 since he seems to good not to run in that deck. I’ve always wanted to play Highlander decks in wild but it’s just too many legendaries.
+---
+Barnes steals your girlfriend when meets him at college.
+---
+Because they took them from Warcraft, obviously. Warcraft has a reason to provide lore. Hearthstone takes what it can, and two year nostalgia for old players is honestly pretty good. Just because one guy failed to properly represent the thinking of the entire hearthstone team, doesn't mean they lack storytelling potential.
+---
+I do not but it sounds a lot like what Bethesda did with Wolfenstein Young Blood. It's hard to keep track of all the middle fingers. For every good action there seem twice as many bad ones. :(
+---
+At least Control Shaman has to have somewhat of a game plan that isn't "Play Mad Genius and smash my prehensile monkey hand on Hero Power while emote spamming". It's not much better I agree, but it's certainly better
+---
+I've been playing a lot of highlander and I haven't encountered that problem a single time. It's not a big deal. Just counterplay.
+---
+You act like being able to actually kill your opponent instead of just emptying their deck isn't a MASSIVE difference.
+---
+&gt;A skillful lethal is missed but a RNG lethal is given anyways
+---
+Are you talking about using Conjuring on the vault safe? There's 3 taunt minions it could've hit. Far more likely to work, but it's still an RNG lethal.
+---
+Sometimes subject 9 draws me nothing he is nice though. Brann is 100% worth
+---
+I guess your argument is that "whales" are generally the kinds of people that care about the competitive scene and while I'm sure some of them are, I don't see any reason besides personal anecdote from people on this subreddit (which is an incredibly specific subset of people) to believe it's true for a majority of players.
+---
+As a counter-anecdote, when I was playing MTG with friends in high school we were all competitive to the point where we'd go searching for sites like MTGgoldfish and other sites similar to HSreplay or ViciousSyndicate but none of us really cared to watch actual Pro Tours or high level competition with rare exceptions like world championships.  It wasn't necessary to watch or even really care about those things because the websites we use are run by people who do care about the complexities of a competitive meta.
+---
+That's where I've been with Hearthstone for a while.  Honestly I'm of the mind that if there was less of a Twitch presence the meta would be more enjoyable around expansion launches because it would take longer for the information at the top of the meta to trickle down to more casual players.  I don't watch Twitch pretty much ever but I still check the VS report every week and browse HSreplay to compare certain card choices with what other people are doing, I just don't think Twitch is relevant to the competitive scene or popularity of the game any more than the year-over-year profitability of the game.
+---
+Sylvanuses?
+---
+I've seen a lot of "Silvandoos". I'm quite sure you meant that. No harm done though!
+---
+Hes just an idiot
+---
+Actually baku and Genn can be done in physical format too, you can just show the card before shuffling the deck and have a judge verify the deck do satisfy the condition just like them verifying the deck don't have  any cards that exceed the maximum number of copies you can add to a deck.
+---
+but we have mechs....mechs everywhere....a little bit too much imho
+---
+That's untrue. Some deck strategies don't care about sticky minions i.e. giant freeze mage. Actually, that's the primary strategy against mech hunter last season: you'd freeze all the deathrattle mechs and go face with your giants. And most decks that are not control CAN deal with boards that are quickly setup because they also have stuff on board. Why do token druid win against warriors while they lose horribly against rouges while rouges loses horribly against warriors?
+---
+lol at this point it just seems like you got salty af cause you kept losing to Quest druids and Reno mages like jesus christ. It's soo early in the meta, are you even sure that control warriors still have that "competitive edge"? If you are just being afraid that the deck you poured dusts on might turn out to be a shitty deck when the meta settled, then just wait until it settles, don't justify yourself calling control warrior "f2p deck" lol.
+---
+Honestly, that sounds awful. All it would be is pretty much another Ice Block or Time Out! only against the right deck except that Ice Block also makes it do they wouldn't be able to play any cards.
+---
+Plus, effects similar to that have already been made.
+---
+Oh boy. You are talking like the classes had only one option and warrior has all. Mage for example, the new secret is almost always a clean board against aggro. The new minion when you cast a secret does that (5 mana or 2 if you use that 2 mana draw secret). You can freeze and doomsayer the board. Shaman has storm, hexes, the new elemental with aoe, tons of heal, sandstorm, hagatha, schemes, the 4/8 elemental. Hunter has options to clean boards, and till last week it was one of the best answers to conjures mage.
+---
+Can zephyr give zephyr?
+---
+Oh yeah ok, makes sense
+---
+Is the 0/5 itself a six drop? Some other cards that spawn deathrattle cards have different mana costs.
+---
+it's okay you don't hear, i BM for my own enjoyment anyway
+---
+The data suggests different.
+---
+The amount of time and effort spent on this is both impressive and sad at the same time.  While I applaud your analytical ability, I have one thing to say...you need to get out more.  Still, this is pretty amazing if JUST a little bit impractical.
+---
+Imagine thinking Quest Druid is a problem when Control Warrior exists. You people have lost your mind.
+---
+https://puu.sh/E3iEA/ff2841e545.jpg
+---
+Take a look, The warrior play out the same cards I talked about in the same order. I know from your previous 40 or so comments you are a dirty warrior player. In fact every single comment is about you defending a clearly broken class. I bet you are not even in ranks yet and still in the 50-25 zone.
+---
+SylvANUS
+---
+In the next update, Zephrys plays you.
+---
+The "If your deck has no duplicates" cards mean that the effect on their respective cards will go off only if you have no more than 1 copy of any card in your deck AT THE TIME you play the card, you can also run duplicate cards and just wait till you have no more "duplicates" in the deck by drawing to use those cards.
+---
+Is that guy scoob?
+---
+I laughed very hard at that :) , to be fair, even the worst cards are useful when they´re free.
+---
+Hagatha also pushes belief (and now there are TWO zero cost totem-buffers)
+---
+I’d actually like this deck to be meta, because I’m really enjoying Quest Druid, and I have a 100% win rate against murlocs with my quest Druid list.
+---
+Sandwich mage?
+---
+ Blizzard user agreement: 9) A. Blizzard may change, modify, suspend, or discontinue **ANY ASPECT** of the Platform \[GAME\] or Accounts \[PLAYERS\] at ANY time, including removing items, or **REVISING THE EFFECTIVENESS OF ITEMS** in an **EFFORT TO BALANCE** a \[SINGLE\] Game \[aka 'A MATCH'\]. Blizzard may also **IMPOSE LIMITS** on certain features or **RESTRICT YOUR ACCESS TO PARTS** or all of the Platform \[GAME\] or Accounts \[PLAYERS\] without notice or liability. (MEANING THEY CAN ALSO **PREVENT YOU FROM LEVELING**) 
+---
+you are an absolute dipshit.
+---
+When you play the card, the battlecry will only happen if there are no duplicates in your deck. 
+---
+Some people think that it’s worth running a duplicate or two with the idea that you’ll have drawn one copy of the ones you have two of when you want to play the no-duplicate card... most of the time. 
+---
+Sometimes, players plan on playing it when they have an empty deck, like after they play [[Myra’s Unstable Element]].
+---
+Gonna have to try that mech quest hunter
+---
+* **[Myra's Unstable Element](https://media.hearthpwn.com/avatars/376/401/636688326286270378.png)** Rogue Spell Legendary TBP 🐉 ^[HP](https://www.hearthpwn.com/cards/89802), ^[TD](https://www.hearthstonetopdecks.com/cards/myras-unstable-element/), ^[W](https://hearthstone.gamepedia.com/Myra%27s_Unstable_Element)  
+---
+5/-/- | Draw the rest of your deck.  
+---
+It seems to be that one of the quests slots kinda got blocked by the special SoU quest. So, only two quest slots are working properly (for me at least)
+---
+So *that's* why Thrall noped out.
+---
+A new card that deals 3 to the enemy hero on death.
+---
+https://gatherer.wizards.com/pages/card/Details.aspx?multiverseid=439463
+---
+First, please read your post again before posting to fix any grammatical errors, I almost had a seizure. 
+---
+Secondly. Don't buy packs with your gold, play arena. It's more economical and provides an even playing field for someone who doesn't have all of the good cards.
+---
+Similar to how [[Kabal Chemist]] worked.
+---
+KOTFT singlehandedly doubled the powercreep of the game. Also every card was either OP or horrible. Don't get me started on Hero cards... worst design mistake in the game so far
+---
+* **[Kabal Chemist](https://media.hearthpwn.com/avatars/329/130/49690.png)** Kabal (MPW) Minion Common MSoG  ^[HP](https://www.hearthpwn.com/cards/49690), ^[TD](https://www.hearthstonetopdecks.com/cards/kabal-chemist/), ^[W](https://hearthstone.gamepedia.com/Kabal_Chemist)  
+---
+4/3/3 | Battlecry: Add a random Potion to your hand.  
+---
+Mostly been good for me only time it went bad was when it gave me lay on hands, two arcane intellects, and fan of knives milling myself to death.
+---
+You liar this is Token Druid
+---
+23 with the other minion attack assuming no freezing trap. So one off lethal
+---
+Sylvanarse here in UK
+---
+Hilarious if true.
+---
+Depends what you mean by worst.  Grand Tournament or maybe Witchwood (save Baku and Genn) had the lowest power level while Frozen Throne and Kobolds &amp; Catacombs had the most broken OP cards.
+---
+Since Genn and Baku were so broken they had to be Hall of Famed early I’d say the worst expansion was The Witchwood.  The lower power level was needed at the time, but that just means the cards won’t stand the test of time except for the two that never even should have been made.
+---
+that is for balancing the game, how does that link with you getting purposefully put against bad match types. All of overwatch has berely 1% of salt you have.
+---
+People upvoted this?
+---
+Don’t tell me how to spell Zephryze!
+---
+[removed]
+---
+All of these decks are so expensive it makes me cry
+---
+[[King Phaoris]]
+---
+This the /r/ iamverysmart of Hearthstone
+---
+Played "about" 8 games, I only remember losing twice in those games. I lost to a Quest Shaman where I wasn't pulling any removal and played suboptimally. The second time I lost was by playing Glinda too early, and the game swung in the hunter's favor by top decking and playing Zul'jin.
+---
+I mostly played against Priest, and most of them were some variations of Quest Priest. Most of the time, just discard Twisting Nether from Expired Merchant, and priest doesn't have a lot of staying power or burst to keep up pressure beyond that many Twisting. That, and they can't battle Fatigue like this deck can with Glinda and Baleful Banker combo.
+---
+* **[King Phaoris](https://media.hearthpwn.com/avatars/390/388/637000866829719087.png)** Neutral Minion Legendary SoU 🐉 ^[HP](https://www.hearthpwn.com/cards/90792), ^[TD](https://www.hearthstonetopdecks.com/cards/king-phaoris/), ^[W](https://hearthstone.gamepedia.com/King_Phaoris)  
+---
+10/5/5 | Battlecry: For each spell in your hand, summon a random minion of the same Cost.  
+---
+Maybe if they ever have a kid. Little Thaddius.
+---
+Hey man you're 100% right. I just think you could lose the insults. Waking people up to blizzard bs isnt fun for anyone.
+---
+The madlads did it. Sounds expensive to play it tho
+---
+Basic and Classic that are in Standard. He cant give you an Ice Block, Sylvanas, Ragnaros, Coldlight Oracle or Naturalize even if you are playing in Wild.
+---
+I never considered Corrupt the Waters with a C’thun deck! I dusted all those cards ages ago! Fuuuuuck.
+---
+How many ravens did we get in 'Year of the Raven'? Don't take things so literally you fucking putz.
+---
+Get a modern phone, s10 works grand for hs
+---
+Immortal Druid (gaining 2000 armor) because it's funny to watch people try to deal that damage and then eventually giving up. Jolly good meme.
+---
+[Sure buddy](https://i.warosu.org/data/sci/img/0079/54/1458847650943.jpg)
+---
+Ah okay. Well I hope you played the box when you realized you were otherwise off lethal!
+---
+If you play Magic then a booster isn't anything to sweat about, there are much bigger monetary concerns.
+---
+MightyBeast#27243 EU trading 80G quest
+---
+Well done, love the editing. Also gotta give props for using that Mega Man X music brought back a lot of memories.
+---
+You can make your own Fireside Gathering, it's not hard to get Nemsy.
+---
+are you for real?
+---
+if you're not actually trolling, you're a legend.
+---
+I had copied the [[Kobold Illusionist]] with [[Unearthed Raptor]], Kobold summoned [[Anubisath Warbringer]] but the Raptor summoned a random [[Colossus of the Moon]] I randomly generated off of a [[Pharaoh Cat]], which I then used [[Spawn of Shadows]] to shuffle 3 more in, which summon when drawn.  
+---
+Then I got insanely lucky and drew 2 more over the course of the next 3-4 draws (double Shiv)
+---
+As for what kind of deck this is, it's a very dumb version of Big Rogue, with Deathrattle and Reborn mixed in.  
+---
+I'm making an "adventure mode" for my dad who plays hearthstone more casually, creating a series of for-fun decks to play against him, with a focus on theme instead of viability, just to play as a series of "boss fights" against him, and this was one of the decks I had made.  
+---
+I was trying it out for a little test run in Wild-Casual, and well... **this** happened lmao.
+---
+They're very good concealers
+---
+Oh right you mean the actual adventures. That's true. I was referring to dungeon run and witch hunt.
+---
+* **[Kobold Illusionist](https://media.hearthpwn.com/avatars/356/379/73331.png)** Rogue Minion Rare KnC  ^[HP](https://www.hearthpwn.com/cards/73331), ^[TD](https://www.hearthstonetopdecks.com/cards/kobold-illusionist/), ^[W](https://hearthstone.gamepedia.com/Kobold_Illusionist)  
+---
+4/3/3 | Deathrattle: Summon a 1/1 copy of a minion from your hand.  
+---
+* **[Unearthed Raptor](https://media.hearthpwn.com/avatars/332/439/27220.png)** Rogue Minion Rare LoE  ^[HP](https://www.hearthpwn.com/cards/27220), ^[TD](https://www.hearthstonetopdecks.com/cards/unearthed-raptor/), ^[W](https://hearthstone.gamepedia.com/Unearthed_Raptor)  
+---
+3/3/4 | Battlecry: Choose a friendly minion. Gain a copy of its Deathrattle.  
+---
+* **[Anubisath Warbringer](https://media.hearthpwn.com/avatars/389/912/636995275522637067.png)** Neutral Minion Common SoU 🐉 ^[HP](https://www.hearthpwn.com/cards/90750), ^[TD](https://www.hearthstonetopdecks.com/cards/anubisath-warbringer/), ^[W](https://hearthstone.gamepedia.com/Anubisath_Warbringer)  
+---
+9/9/6 | Deathrattle: Give all minions in your hand +3/+3.  
+---
+* **[Colossus of the Moon](https://media.hearthpwn.com/avatars/390/30/636996797162089138.png)** Neutral Minion Legendary SoU 🐉 ^[HP](https://www.hearthpwn.com/cards/90764), ^[TD](https://www.hearthstonetopdecks.com/cards/colossus-of-the-moon/), ^[W](https://hearthstone.gamepedia.com/Colossus_of_the_Moon)  
+---
+10/10/10 | Divine Shield Reborn  
+---
+* **[Pharaoh Cat](https://media.hearthpwn.com/avatars/390/307/636999958867414600.png)** Rogue Minion Common SoU 🐉 ^[HP](https://www.hearthpwn.com/cards/90783), ^[TD](https://www.hearthstonetopdecks.com/cards/pharaoh-cat/), ^[W](https://hearthstone.gamepedia.com/Pharaoh_Cat)  
+---
+1/1/2 Beast | Battlecry: Add a random Reborn minion to your hand.  
+---
+* **[Spawn of Shadows](https://media.hearthpwn.com/avatars/327/803/22357.png)** Priest Minion Rare TGT  ^[HP](https://www.hearthpwn.com/cards/22357), ^[TD](https://www.hearthstonetopdecks.com/cards/spawn-of-shadows/), ^[W](https://hearthstone.gamepedia.com/Spawn_of_Shadows)  
+---
+4/5/4 | Inspire: Deal 4 damage to each hero.  
+---
+Nonono. "repeatable this turn"
+---
+Does Zephrys account for Kel'Thuzad in wild? That's one card I remember that makes the AIs go nuts. I'd imagine it would need the Doomsayer treatment
+---
+I would definitely be cool, but to be fair there's so many good warlock options
+---
+good thing you can punch it with your hero power
+---
+Your gf is a sperm container
+---
+Wouldn’t it also be better to use Power of the Wild to buff the chicken instead of Abusive? That way you get enough board space for the full set of Bees for the overkill buff.
+---
+That's right. Millhouse Manastorm is a great tech card against King Phaoris. Gonna have to put him in all my decks from now on.
+---
+ONE PUTS THE BLOOD OF THE ANCIENT ONE INTO THE OTHER BLOOD OF THE ANCIENT ONE 
+---
+IN 40 WEEKS SUMMON THE 🅱️ANCIENT ONE
+---
+OMG guys it took my 10 days to notice its shaggy :O
+---
+What did u replace bloodslinger with in the midrange deck?
+---
+Heeeeeeere it coooooooomes!
+---
+Nomi?
+---
+I mean, I don't like playing as or against control warrior either, but you gotta acknowledge that a lot of people do find playing the deck fun. Whether it's the playstyle or if they just like winning.
+---
+Evidently many do, no reason to run it otherwise.
+---
+No shit it's a deck that didn't need any upgrades and its preying on all the unrefined greedy decks noobs are playing.. let the meta settle and watch.
+---
+'Zephrys is a unique card that couldn't be implemented in a real life game'
+---
+Of course it can!
+---
+The player can simple add a token card that represents whatever card in the game he wants.
+---
+Just a heads up, no one is gonna take you seriously whether you're right or wrong when you end comments like that
+---
+\* \[\[Spiritsinger Umbra\]\]
+---
+* **[Spiritsinger Umbra](https://media.hearthpwn.com/avatars/335/205/55522.png)** Neutral Minion Legendary UNG  ^[HP](https://www.hearthpwn.com/cards/55522), ^[TD](https://www.hearthstonetopdecks.com/cards/spiritsinger-umbra/), ^[W](https://hearthstone.gamepedia.com/Spiritsinger_Umbra)  
+---
+4/3/4 | After you summon a minion, trigger its Deathrattle effect.  
+---
+Quest shaman, highlander Hunter, control warrior, mage
+---
+Next expansion, there will be a scooby-like minion with taunt. Calling it now
+---
+OLD LAMPS FOR NEW!
+---
+I'm not 100% sure, but from my understanding he doesn't look at the cards in your hand, so the best tempo play given the information he had was a BGH. Surprised there was no polymorph effect though. Can't answer for the other cards either.
+---
+Deer Diary...
+---
+It's not proactive tho. The Pally player can just hold and wait for his Coldlight. But I guess it can stall for a bit sometimes.
+---
+you should rephrase it a little better next time.
+---
+even in casual? seems a bit off
+---
+Thaddius, Chaddius, and Braddius.
+---
+Sounds like she's going away to college... the necklace will still be wearable in a few months at least
+---
+This is a straight up quality post
+---
+I would also love more balance patches.. I mean it's not like they have to reprint any card, they could balance cards more frequently.
+---
+Nah, I can't see a physical game being played but certainly see people wanting to buy cards for display
+---
+Here is the link to the deck: [http://www.hearthpwn.com/decks/1300828-rez-quest-priest](http://www.hearthpwn.com/decks/1300828-rez-quest-priest)
+---
+It works basically the same as other rez priest decks that utilize the big taunt minions. The difference being that SOU gave some really great new tools for it. Pychopomp is great for resurrecting minions and giving them reborn. Also I noticed that every time I use Mass Resurrection that it does not pull Psychopomp. This is also the case with Catrina Muerte not pulling Psychopomp. Not sure if I have just gotten lucky with it or what. Damaged Stegotron is great with the new quest hero power. For 8 mana you get a 8/12 minion with taunt on the board. It is also nice with Zilliax, especially when you give Zilliax reborn.
+---
+AND SUMMON, THE ANCIENT ONE
+---
+Fred’s gettin down and dirty while shaggy and scooby get obliterated.
+---
+&gt; Where are the Alliance's war crimes?
+---
+Arthas: "Am I nothing to you? 😥"
+---
+Seriously though it really seems like Blizzard thinks the Arthas thing is enough War Crime for the Alliance for the next 10'000 years. "He was so epic and badass he counts for 20 horde villains!"
+---

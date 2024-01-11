@@ -1,0 +1,1450 @@
+The way to write it here i make it seem like its achievable to not have ppl bitch. What i mean is that we've always had a sizable portion of the online community disatisfied with the state of the game.
+---
+
+---
+Other games have had phases were even despite some issues the games were overall really solid and mpst ppl agreed. Thats what i havent seen in my time playing gw2.
+---
+---
+---
+https://snowcrows.com/raids/training/
+---
+lfg is locked if personal level is too low
+---
+Shocking... comments here are full of exactly the cancer OP is warning about. Just a consolidation of 100 other shitposts repeating stuff that have already been said 100 times over.
+---
+You could make the argument that they could have worked with a new engine and pushed back the gw2 release a while instead of jumping right from eotn but its probably a toss up. What they did is probably the better business decision
+---
+Try the mount skillbar option
+---
+&gt;Why should arenanet change stuff if everyone seemed to be happy according to the feedback that's been here on reddit
+---
+Because they actively know people are NOT happy since it's widely known the mods in their actual forums are extremely trigger happy and remove almost everything that isn't sucking up to them.
+---
+yeah it's not working for me tried it alrdy
+---
+The settings are bugged: The skill bar setting keys off the mount skill bar in instances where mounts are disabled.
+---
+My guess that there's a few ways of disabling mounts, but someone took a shortcut for instances where mounts are never allowed and just toggled all characters to be considered already mounted.
+---
+I only do t4s, but from what I've heard t3s are hell because all the good players are doing t4s while the not so good players are stuck in t3 purgatory.
+---
+Pretty sure it was just so ridiculously OP that its "obliyirated" form is still OP.
+---
+just start training some of masteries and spend the points; theres no pre-requisite for completing any of the story in order for you to gain masteries.
+---
+sound like Strong hold is the place for u
+---
+it's totally game mode for pve er.
+---
+there is nothing wrong with play non meta build in conquest but u have to answer 2 questions
+---
+can u kill meta build user    or  can u stall meta build user
+---
+if u can't do either of those why are u even playing
+---
+i dont do raids so you're just talking crap thanks
+---
+wvw has the issue cause some people treat it like its sPvP top 0.1% of the ladder when the reality is open world with people trying to do their dailies and gob and to fk off from the map vs people that spent thousands of hours in it
+---
+Speaking for myself, I trade snow diamonds for Tyrian Exchange Vouchers because I dislike WvW , PvP, and Dungeons.  If you're into those aspects of the game, you may have different motivations.  I avoid the legendary shards because I think I can get those from the laurel vendor and I have plenty of laurels
+---
+pvp is still people getting placed vs players of similar skill lvl and open world wvw is people with thousands of hrs in it playing in the same pool as players who want their gob and get off the map
+---
+So when is the next expansion coming?
+---
+They even refuse to speak about it. When was the last time you saw Anet promoting wvw or spvp?
+---
+WvW back in it's heyday was exactly what you were looking for.
+---
+&amp;#x200B;
+---
+You could play solo, as a small group, dedicated guild group, or all out zerg. The choice was yours and enjoyment was to be had by all types of players.
+---
+Anet killed that though
+---
+Cancel culture has JUST as much of a cult-like atmosphere... as does the circle-jerk of negativity.  The true white knights are wrong, the game definitely has plenty of problems.  But the people like you who seem to take offense at anyone still enjoying the game or finding things to like are also full of shit.
+---
+hey there. This is a bit of a late reply to your post but if you want some items and things to help start you off in the game, let me know!
+---
+The *actual* Korean MMO-like grinds are all for vanity items: The stuff that glows and half the mounts. You can skip them unless you want to do the hardcore content. In that case you need to grind it out because no one will allow you to play with them without it. They have standards, you know.
+---
+The minor inconveniences like the mastery gating in HoT don't take particularly long and, unless you're trying to zerg the stories, you'll get what you need just by playing the maps. Once you unlock them they're unlocked for all your toons.
+---
+Just start your own lfg. 
+---
+Whenever I run lower fractals there are always people who join me. Even if I run non-daily T1 fractals.
+---
+If you play with something over 100 ping. Movement skill or even some slow projectile won't connect. Because what happen on your screen and what server see is totally delayed. In PvE mobs don't usually move . But PVP your opponent always running arpund which make path finding off the mark.
+---
+I have 250 ping and the only time bull charged connected is when someone already rooted in place. Or in almost point blank.
+---
+Something not happen too often is irrelevant to determine how bad it is and how justified someone is in being disgruntled about it.
+---
+Account-wide Magic Find, Gold Find, Karma, and Exp Boosts are added to your account at set intervals every 500 AP.
+---
+Ok, that actually made sense. Are you based in australia?
+---
+Ikr. That's a nice passive reward on his way through the content, but focusing specifically on getting more AP would be just wrong advice.
+---
+Again, UNLESS he is enjoying it.
+---
+Yep, totally forgot about them.  Neat idea but completely forgettable.
+---
+There's no expansion yet announced.
+---
+Using their past precedents for expansions, chances are the announcement will come at the end of the Icebrood Saga.  Expansions have never previously been announced during a Living World season, only at the end of them, and when they said they were doing Living World Season Four they said it would be followed by Season Five so that people wouldn't get their hopes up for an early expansion.
+---
+[removed]
+---
+The game is nearing maintenance mode as explained by Deroir on this [clip](https://clips.twitch.tv/WildSnappyGoblinSSSsss), so I wouldn't recommend picking it up now.
+---
+Please point out to me where I said I hate the game that I’ve probably been playing longer than you. The point of my post was to point out that MMOs older than GW2 are more active and successful. Learn to not be fragile and read more comprehensively. I’m not married to this game and neither should you be.
+---
+There's this weird social/psychological thing with groups in this game. 
+---
+There can be 10 people who want to do a specific fractal and check the lfg listings over and over but will never start their own group.
+---
+If there *is* a group for a fractal, people will still want to join it but won't actually join until there are like 2 or 3 people in the group already.
+---
+It's absolutely insane how quickly going from 4 members to a full group is compared to 2 to 3.
+---
+The best you can do is just put a lfg listing up and hoep people join and stay.
+---
+you make a new shortcut and add this command line to do it 
+---
+-repair
+---
+that will trigger the client to start re-downloading the dat pack
+---
+Try to clear the following directories after you uninstalled the game:
+---
+C:\Users\&lt;yourusername&gt;\AppData\Local\Temp
+---
+C:\Users\&lt;yourusername&gt;\AppData\Roaming\Guild Wars 2
+---
+Outhealing isn't easy either. But this time it stresses the healers, not the DPS. And it's actually fine, we haven't yet had an encounter in the game that really requires constant and massive healing. You can think of it as of a training, but for another role: every raid boss is a training for DPS players, but not every boss provides a challenge to tanks and healers. So in my opinion is deserves to stay in the game in its current state, but I'm not so sure that this is what the developers intended. I'm thinking they buffed it more, than they themselves intended, but are now afraid to balance it because of additional anger from the community.
+---
+I'm not saying they should go for it, but it's not like there isn't any worth in going for it. At least if you're getting close to those thresholds.
+---
+SEA region. Used to play some PVP for that legendary wing. But seeing A-net can't  make server for other region. I'm pretty much just grab the stuff and never touch pvp again.
+---
+Not sure if you realize how much goes into doing TT. You also need blockers for husks and people reflecting for eggs otherwise things become very difficult, especially at amber wurm. And the organization is required because commanders need to sort out who is taking those roles in addition to ensuring that there are enough numbers per wurm and making sure that everyone understands the mechanics. Going back to amber, not everyone understands what they're supposed to do with the harpoon gun and that it requires 20 people to save their last shot and hit the wurm with it. 
+---
+Sure, you can say that the majority of the game (especially in core Tyria) never pushes people to learn these things and that's why they're so adverse to content that requires thought like TT/Raids, but that's only one component. The fact of the matter is that even if everyone was competent to the level you claim to be, it would still be much more manageable in organized squads.
+---
+He can't use them, because he hasn't unlocked masteries, which don't get unlocked unless you play the first chapter of either HoT or PoF. The message hes' getting is that his experience bar is full and he can't earn mastery experience until he unlocks masteries.
+---
+How is a lack of new content good for players that haven't done it? That just tells me they shouldn't even bother trying it ever because what if they end up liking it and then become jaded by the lack of releases like the rest of us?
+---
+&gt; Turning a good god of GW ino pure evil really makes little sense
+---
+Play the Story and get the reasons. It totally makes sense...
+---
+&gt; when you got Menzies to use,
+---
+Oh yeah, we have an evil guy that's barely mentioned without any backstory and no influence on Tyria. Totally makes sense to use him ... not. 
+---
+&gt; Also it made the Elder Dragons way too weak in this part of the plot, Primordus and Jormag were almost finished and Kralkatorrik would end up the same if the players hadn't come to interfere.
+---
+Again, play the story...
+---
+It wasn't Balthazar who almost killed Primordus and Jormag, it was Taimis machine. They almost kiled each other. Balthazar just sucked the magic. 
+---
+Same with Kralk. Balthazar used Aurene aka Kralks weakness. It wasn't him personally who attacked Kralk. 
+---
+And speaking of "made the Elder Dragons too weak": Who already killed two Elder Dragons before Balthazar showed up? Right, the commander, a normal mortal with way less power than a human god.
+---
+&gt;How is a lack of new content good for players that haven't done it? 
+---
+Because everything has an opportunity cost. Time and resources spent making raids could instead be spent on making content that more people would play. Also, rewards that are exclusive to raids could be made available to modes people actually *enjoy* playing and would do without even needing to be bribed. 
+---
+If the developers had made Forsaken Thicket into an active open world map, and had the Legendary Armor be a more standard collection like the Legendary Precursors or the Skyscale, then the game would be in a much better place today.
+---
+[Arheundel.6451 posted on 2019-12-28 02:55:27](https://en-forum.guildwars2.com/discussion/94874/where-is-the-promised-by-the-end-of-this-year-new-pvp-wvw-armor-set):
+---
+&gt; It was stated during the announcement in September that there would have been a new armor set available before the end of the year..but here we are and no upcoming armor set..
+---
+&gt;
+---
+&gt;https://wiki.guildwars2.com/images/c/ca/Icebrood_Saga_PVP_set.jpg
+---
+&gt;Any news?
+---
+^(Beep boop bleep. I'm a bot. Message me or /u/Xyooz if you have any questions, suggestions or concerns.) [^Source ^Code](https://gitlab.com/networkjanitor/docker-polarbytebot-gw2-submission-transcriber)
+---
+You're just making the plot sound so much worse. Not only does Taimi have the answer to everything all the time, but now she's the one who put two dragons to sleep and empowered an ancient god to plausibly take on a third dragon.
+---
+&gt;  it took the entire dwarven race to more or less sacrifice themselves in order to kill primordus' general in GW1.
+---
+No, barely any Dwarven were killed/destroyd when we killed the Great Destroyer in GW1. 
+---
+They sacrificed themselves to prevent all the other destroyers to reach the surface for the next 250 years. (more or less)
+---
+New player here. What do I do with all these winter items?? My storage is almost completely full, as well as my bank.
+---
+The power of the great dwarf was needed to kill the great destroyer. To obtain the power they had to turn to stone, wiping out any chance of reproducing.
+---
+Did you mean that typo? 😜
+---
+haha fuck.. I mean not that you mention it, It does kind of seem like a pun ._.
+---
+Man this is so disheartening to hear. I was one of the devs laid off early in the year. We couldn't get traction on our projects because we were working on an under-developed (but very promising) engine/tools. We begged to use another engine until ours was ready but it never happened. And now this....damn....we had an awesome team, could have made something special.... Makes me sad.
+---
+Cool run and all with great shortcuts, but imo you can’t just cut out the waiting time for the presents, part of speedrunning is luck, and that’s just how it is. For all we know, you could’ve spliced the footage.
+---
+The only time I ever started running through them was the old Octo-Taxi in Auric Basin. I've been playing a long time and I'm not running out unless I forcefully use them by gambling the Mystic Forge.
+---
+Question: Why is everyone crying about future of GW2?
+---
+Answer: Because most people see the writing on the wall with the amount of staff leaving, quitting, or being fired, and with content updates being stretched far out, with the same regurgitated content every holiday season with the same achievements. If people can't see GW2's demise already, they clearly have eyes but they can't see, and ears but they can't hear.
+---
+The Glacial Sword skin could do the trick
+---
+Sure, we believe you...btw...you need more karma; better get farming those internet points.
+---
+They have the logs, if you reply the ban and contest, they usually show you a timestamp with a small transcript
+---
+Well I explained what could've potentially happened in the edit.
+---
+I ... didn't say you were talking about the shape of the area. I'm pointing out that the connections are ridiculously over-the-top obvious.
+---
+&gt;a good god
+---
+Balthazar was a revered god, but by no means good. Have a look at the wiki:
+---
+&gt;According to the Orrian History Scrolls, Balthazar was the second god to arrive from the Mists, carrying the severed head of his unnamed father and sweeping Orr with a cleansing flame. Although the gods were initially drawn to the magic of the Artesian Waters in the heart of Orr, they took humanity with them to Cantha in 786 BE, planting the seeds of the first thriving human civilization in Tyria.[3][4][5][6] Balthazar urged humanity to claim Tyria for themselves at the expense of the native Tyrian races. However, the natives resisted human expansion better than the God of War had expected. Despite this, humanity proved to be resilient and spread to Orr, Elona and beyond in the following centuries. 
+---
+According to a Canthan legend, Balthazar spent some time walking Tyria and came across a village which offended him through a long-forgotten breach of etiquette. The old ritualist Kaolai challenged the God of War to a game of Nui in exchange for sparing the village. Balthazar accepted the challenge, and seven days later the game ended with Kaolai emerging as the winner. In a fit of anger, Balthazar slew the old ritualist, but ordered him inducted into Tahnakai Temple afterwards in a rare gesture of sportsmanship. 
+---
+Does any of this indicate a "good" god?
+---
+And then you added "Rat Slum", which, even if you think they tied the Asura race to the Jewish people ( which is a really convoluted idea ), is an insult to the race you tied them in your argument.
+---
+If you don't get it, nobody can't help you not getting new bans.
+---
+Join a guid and get into T4 Fractals, your level will increase even if you do levels that are way above your personal Fractal!
+---
+You just need a party member to open up Fractals for you then you can do them without struggle! T4 Fractals are really easy, just grab a Healbrand or Healscourge to carry your ass with their increased defences! Learn fractal mechanics in T4 where they actually matter not in T1-T3, down there you can facetank them even without healer and don't even recognise you need to dodge them to begin with. 
+---
+Learning Fractals in T1-T3 is not really worth your time, they don't pay as well and people down there usually suck very hard or are new just like you. If you join a T4 team, join voicecomms with your guildmates and then start LFG in T4s for other randoms your odds of success skyrocket! Your guildmates can instruct you incombat on what to do and "how to basic 101".
+---
+T4s are rather easy too, its 6 year old content and usually everyone who cares in the least bit has reached T4s by now. So the quality of your usual T4 pug is way above those guys in T1-T3. Also since you're allready fully ascended you really DO NOT want to bother with the frustrations down in lower fractals! Usually guys there cannot play their class properly, they don't know what to do mechanic-wise, they don't know the fractal, they lack equipment and agony resistance etc.
+---
+I guess just read guides from [snowcrows](https://snowcrows.com/raids/builds/mesmer/chronomancer/power/), since Discretize discontinued Chronomancer guides that fucking sucks tbh. If you have ascended Berserker ~~(maybe Assassin too)~~ Armor you can allways start dealing damage and be considered worthy! If you have ascended Diviner or Commander Armor you're eligible to join as Support and work together with any Healer providing boons in T4s.
+---
+If you run some weird meme shit like Minstrel, Harrier Chrono or other weird Armorsets you might reroll your stats and flush your Set down the Mythic Toilet.
+---
+If you run with Viper Mirage ... I guess that still a good choice of Stats but not viable in Fractals that are usually power focussed!
+---
+If you're from EU hit me up with a PM and I'll show you around!
+---
+... I didn't add 'Rat Slum'. It's called Rata Sum. I actually didn't use the words, 'Rat Slum' in game, but did say 'Rata Sum' looks like 'Rat Sum' and the area is shaped like a 6-pointed star. This isn't at all a convoluted connection. I don't think you could actually make it more obvious.
+---
+Metabattle.com, you pick any meta build, read carefully the description of how you're supposed to play it (you'll be memorizing bulletpoints about certain traits and skills and how to use them on the battlefield), but ultimately I think that YTB tutorials aren't bad at all too.
+---
+But its really bad for a company to have turnover rate this high.
+---
+Thanks a lot!  I'll definitely be checking this out.
+---
+Metabattle was already mentioned but this site is nice too :)
+---
+ [https://www.godsofpvp.net/guides/getting-started/introduction-r1/](https://www.godsofpvp.net/guides/getting-started/introduction-r1/)
+---
+Well, deposit what you can.  Snowflakes and Candy Canes will deposit into your Collectibles tab.
+---
+You can sell much of the rest of it.  Tonics and the booze contribute to the Spirited Drinker achievement, but you need to consume 10,000 of them to complete it, which isn't realistic.  Selling what you get on the Trading Post for around 1 silver each will get you immediate returns, assuming the game will let you sell them if you're F2P.
+---
+If you have more Emypreal Fragments than you can deposit in collectibles, just delete them, you'll get tons of them later and there's no way for you to turn them into money.  If there's other items you're unsure of, let me know what they are and myself or someone else can give input.
+---
+Don't forget to do the interactions with Orphan Laine and Grawnk so you can get to "For The Children!", an achievement that will give you a permanent new fixture in your home instance to collect year-round!
+---
+Took a 6 month break, came back and actually felt like bulls charge tracks better now. Might just be me. Wish they’d implement the changes they did to gs 5. Just try to time it in better situations (enemy going at you, closer range, etc) than just using it as a long range gap closer.
+---
+Thread removed: For finding/advertising a guild, please use /r/guildrecruitment
+---
+See full rules [[here]](/r/Guildwars2/wiki/rules)
+---
+Joko was a joke pretty much from his first introduction. Maybe they were going for something like the Joker but I think the failed in all attempts.
+---
+The way they illustrated him, Balthazar was the God of Edgy Weeb Male Ego Brawling. Nothing about what he did illustrated a mastery over the institution of **WAR**. War is a crucible which burns cowards, forges heroes and births demons. War isn't a silly game of chest beating and tavern brawls.
+---
+What graphics card are you using? If it's an nvidia one you can use shadowplay which has a minimal impact on your performance.
+---
+God of Norn
+---
+&gt;War isn't a silly game of chest beating
+---
+It is. Just between nations.
+---
+I think its the simplicity: no quadrillion of boons, every ability has visible animation, specific sound...unlike normal pvp
+---
+How was Balthazar "good" ever? In lore, when he first appeared in Tyria, he was carrying freshly severed head of his own father.
+---
+Darn, really? I was always planning to try that at some point! :(
+---
+I noticed one of these... :( 
+---
+ So here take this... :D
+---
+Its not hard to play with friends. One of you join and others can spam "join friend in pvp" till you're it right instance. And then it keeps you in same instance forever.
+---
+There was a lot of potential with elite specs, doesn’t help that most of them doesn’t feel like they are diverse in other game modes. Most feel tailored to pvp exclusively.
+---
+How the current state of viability and balance on some specs only leaves me hungry for more.
+---
+Orrian history scrolls are a little problematic currently, because we can't trust devs if their creation is canon anymore. I'm referring to the part where scrolls stated that gods brought first humans to Orr, while devs retconned it in the blogpost stating that humanity appeared first in Cantha.
+---
+Pvp had no goal other than having fun competing and improving your play, the rewards you can obtain have no value for a pure pvp player because pvp have no use for equipment (equipment can unloock skins but after a few time you will have all the frequent unloocks).
+---
+Thing is this game was designed around pve and players doing a little of all gamemodes, because of this one of the rewards of pvp are ascended equipment that is top stat equipment for pve and wvw
+---
+Accurate! T3 is like an alternate dimension where no-one really knows what they're doing, people aren't fully geared yet and we're sure the mandatory "im good dps ok" Deadeye has a crayon stuck in his left nostril. 
+---
+If you want a giggle, just bring a fully geared Druid of HFB and carry a team. You'll get the best healing practice of a lifetime, and a free trauma or two hahaha.
+---
+I know but that is still annoying to do. Ultimativly it shouldn't have been hard to add a team join but they decided against it.
+---
+I just did it with a PUG and it was all of our first time. It took us about 7 tries, because we went into it with the mindset of every other strike. We got enthusiastic about learning the mechanics, and came up with a strat and got better at it and finally beat it. It was super rewarding and fun. Al though not ACTUALLY rewarding, because the rewards were shit for it.
+---
+I honestly don't think should put visibility on the difficulty of the strike. Just put it there and let it sit and let people react to it. If they start putting challenge ratings on strikes, then it will create an expectation that will fuck up player psychology. People will get mad if  a "hard strike" isn't hard enough. And people might start avoiding any strikes that are rated too high, just like they avoid raids. I think it's fine as it is in that sense.
+---
+see ya next patch
+---
+See ya
+---
+If you'd said creativity, GW2 combat design imo is still above most mmorpgs.
+---
+Alright I've played around with things and have come to the conclusion you have as well. It for sure its the PSU. I crashed out, logged back in, crashed out again a second later. I opened my tower to see if perhaps the PSU vents or what have you were clogged (I have a shiba, he doesn't stop shedding) it was hot to the touch. I have this  [https://www.amazon.com/Antec-Earthwatts-Bronze-Power-supply/dp/B004NBZAES](https://www.amazon.com/Antec-Earthwatts-Bronze-Power-supply/dp/B004NBZAES) any suggestions on what to buy to upgrade?
+---
+*Apples, apples for sale, come and get a nice quiet apple!* Psst! Over here Initiate.
+---
+Starting your journey to take down the Elder Dragons, huh? But due to our new rules the questions must be left in the [&gt;questioning session&lt;](https://www.reddit.com/r/Guildwars2/search?q=title%3Aquestions+thread+author%3AAutoModerator&amp;restrict_sr=on&amp;sort=new&amp;t=week). We have plenty of experienced historians there that can guide you on your first steps.
+---
+If you think your thread should be allowed to stay or if this was a mistake do report this comment or send a modmail and Pact commander will come take a look.
+---
+-------
+---
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Guildwars2) if you have any questions or concerns.*
+---
+Hahaha, I'm crafting Astralaria and Chuka because you can't buy a precursor and it gave me  something to do in game. I know the feeling. I might quit after too, dunno. I'll probably come back patch day lol.
+---
+How was initial PoF a mess? Nothing changed apart from making Serpents Ire easier and adding one gold to the meta rewards.
+---
+:D
+---
+Someone had a bit too much if the "eternal alchemy"
+---
+Praise Steve's Mom! 🥓
+---
+Can't really go wrong with a guardian, excellent dps and support, they are the love child of this game imo.
+---
+#Asuramasterrace
+---
+&gt; but now she's the one who put two dragons to sleep 
+---
+"Now"? Dude, it's not like *I* made the plot. Have you played LS3?
+---
+Play it and enjoy it. 
+---
+The games is not dead yet. We have confirmed some updates for the next pair of months, but not the kind of updates and features that the comunnity want the most.
+---
+It would essentially be if Daybreak did a Planetside 3: it would probably be shit because apparently daybreak doesn't know how to make a game anymore, let alone maintain the ones they have.  
+---
+  
+---
+Guess it would just be a dream. I don't want to compare Anet to a company like post Sony Daybreak in the future. But I seen all this before with planetside.
+---
+To think it it "out of nowhere" is pretty bullshit...
+---
+[https://media1.tenor.com/images/5c05a4a77ab29d787bcbeaa06c7779d4/tenor.gif?itemid=8457666](https://media1.tenor.com/images/5c05a4a77ab29d787bcbeaa06c7779d4/tenor.gif?itemid=8457666)
+---
+Buy the most lvl 80 berserker exotic gear you find even if it’s ugly, or assassin if a piece of berserker is too expensive. You should expect spending around 20 gold for a full exotics armor. Use cheap runes and sigils that help to deal damage, don’t go go for scholar or force as they are too expensive to use on exotic gear. 
+---
+Save the rest for ascended or legendary gear. 
+---
+Now... HoT is really harder than the previous maps specially if you don’t have the HoT masteries that show hidden enemies. If you die too much, try to learn the attacks your enemies do, and how to counter them (specially snipers and mini-raptors). One of your best friends is rallying when down: if you see you are about to die, leave an enemy almost dead, and kill him once you go down so you revive automatically.
+---
+*Les Charrs d'Avignon*
+---
+Why did you bother crafting it if you quitting the game immediately renders all the effort pointless?
+---
+Knew people would doubt the cut @ presents. For proof that it's not edited, compare the HUD flashes around 0:04 and 0:09 and the HUD at the very end. The chat and players on the left are all the same. The round timer (at the top) and the server time (at the minimap) all add up to it all being one 1:09 run.  
+---
+As for the decision to cut out the waiting time, other speedrun footage from other people also demonstrate this cut, I've assumed its acceptable protocol to cut that section and not include it as part of the final time.
+---
+Research and logic are toxic. Please try to be constructive next time, we only care about positive feedback here.
+---
+anyone still remembers aardvark from the pink panther? :D
+---
+[My bald, mustached brother!](https://i.imgur.com/MYhJSvd.jpg)
+---
+He failed at his job, and even let the failure become public. That's a big red flag for someone in a security position.
+---
+I'm far more worried about the others who were involved in the same shenanigans, because I doubt he was there alone.
+---
+No, I say because devs retcon what they themselves put in the game in scrolls, I cant trust this source now.
+---
+This is what I was thinking, not some Rick and Morty ref
+---
+I'm willing to debate the points, but you literally ignored them. Who's on a high horse when at least I gave your full comment thought in my response. I see I'm not gonna get that here, so, by all means, go ahead and keep the head-canon you're bitter. I just pointed out that your logic was toxic and offered another perspective. Peace, my dude.
+---
+Wow so much passive aggresive talk I can almost see you aquiring canadian citizenship today
+---
+How dare you threaten me with socialized healthcare and a better quality of life...
+---
+I read this with voice of Greta Thunberg
+---
+It's the new "Dali overlay"
+---
+If you wanna send your stuff to a good home on EU hit me up
+---
+What the HECK
+---
+New player in Europe server, how do I search for a guild? Been playing for a week and feel kinda bored now
+---
+Haha that got me!!
+---
+People have been asking for a Tengu/Cantha expansion since before HoT. At this point I just can't see it happening. Especially because Cantha would mean Kaineng, which is pretty much the hardest environment to pull off in a game. It's a miracle GW1 pulled it off.
+---
+:u
+---
+I think if Anet had a divorce with NCsoft they wouldn't last 6 more months...
+---
+Get degree in IT
+---
+Become software developer
+---
+Spend half of your monthly salary on gems to gold conversion
+---
+I dunno man. Lore I read suggests your ability to read is tenuous at best.
+---
+I was under the impression that ArenaNet was self-publishing since 2015 until the layoffs this year. What makes you think that going back to self-publishing is a good idea, considering the level and quality of marketing we have had in that time period?
+---
+At 22 seconds you can clearly see this is your character talking, so this all thing is just your charr being bad at bad ventriloquism.
+---
+That's okay, we already established drawing conclusions ability is yet to be unlocked on your account.
+---
+&gt;What do you think?
+---
+Is GW1 supposed to be the Halo of this fantasy?
+---
+Here some sugestions:
+---
+Ranger - Bard (Shield)
+---
+Thief - Ninja (Katana Greatsword)
+---
+Engi - Turret Builder
+---
+Necro - Warlock
+---
+Mesmer - Illusionist
+---
+Elementalist - Wizard
+---
+Warrior - Barbarian
+---
+Guardian - Paladin 
+---
+Revenant - Shadowknight (Greatsword)
+---
+Which always makes me a step ahead of you.
+---
+Only yesterday I joined a FULL squad doing hero points on HOT zones, people are really into farming to unlock specializations, it never gets old.
+---
+It's not possible. ArenaNet is 100% subsidiary company, making them Ncsoft bitches till the end of days.
+---
+When you're on the wrong path, you can be all the steps ahead you want to believe. Still means you're wrong.
+---
+I put my hopes and dreams within Mike O'Transaction and his new studio then
+---
+Except you can't recognize right path from wrong one anyway.
+---
+These were supposed to be a gate / intro / whatever you want to call it to raids.
+---
+Result: Spectacular failure.
+---
+This is correct but changes nothing to the fact anet was then and still is 100% owned by ncsoft, therefore their whole budgeting dependends on their korean overlords.
+---
+People here think ArenaNet are their friends and they want to make good game of gw2 but ncsoft is holding them for whatever reason. That's next level naive.
+---
+Still better than 4Chan
+---
+From who's point of view. Because from a lot of people it's highly valid
+---
+I was going to offer some sort of counterargument about Balthazar's positives, what if any neccessary evils a god of war might have etc etc...
+---
+But you're not worth my time. See ya.
+---
+So you wouldnt, noted.
+---
+They have been owned entirely by NcSoft since before Guild Wars 1 came out.  Until recently NcSoft has given them a lot of free reign. Only recently has that changed, most likely because the company has been mismanaged.
+---
+Compare Destiny 2 to what it was BEFORE andAFTER the split. Since Bungie broke away from Activision, they became more and more greedy. Sure, the base D2 game is now free to play, but the game gets more and more fashion items put into the Eververse (their version of the gemstore) instead of being actual earnable rewards. Sure, you can get Bright Dust currency from weekly bounties and use that to earn some of the weekly rotated items, but still - it wasn't this bad before the Activision split. 
+---
+Also, the Shadowkeep expansion was a major disappointment with its lack of content and suddenly ending story. Same goes for the seasonal system akin to the old gw2 LS1 style with missions and content going away permanently. The game went on full FOMO with time-locked availabiltiy of new weapons, armor and mods - sure it is 3 months instead of 2-4 weeks like gw2 used to do back in the days of LS1, but it is still bad.
+---
+So don't think that it is Big Bad Activision / NCSoft / whatever that is making the game lack content or bad, because it is on Bungie / ArenaNet themselves. Destiny 2 proves it. Yes, the game got a lot of audience on Steam, because it is really great in graphics, sound design, gunplay etc - but the FOMO and the lack of new in-game fashion rewards is very apparent, as is the overly grindy season/battlepass system.
+---
+For a beginner there's some good stuff to enjoy. Atm don't consider it your no.1 hardcore MMO game and see where this year goes.
+---
+Don't consider rushing to max level either, enjoy the ride (especially past the early levels (for skills) there's a lot of content for new people still.
+---
+the mini picture on the subreddit to this post looks like a cover of a nintendo N64 game, lol
+---
+Nah this is way too high quality.
+---
+specially if not running it on SSD
+---
+I think this is part of the restructure. It was my understanding with the layoffs last February that Anet would be merging with NCSoft West. That's why Mike Sibowitz was announced as NCSoft's VP of Marketing at the Saga announcement "event". NCSoft also took over publishing of GW2 again. Fact is, Arenanet has been a wholly owned subsidiary of NCSoft since 2002. They just don't want to talk about it IMO. Anet has had some freedom under NCSoft, but it appears that that was revoked after last February. As with other things going on in the studio, it's not clear what that means for Anet (whether they will remain as Anet or just become NCSoft) but it really should be no surprise that cards come from NCSoft now after last February's announcement IMO.
+---
+Aw jeez, Rick
+---
+really, i thought you still had access to the central tyrian masteries?
+---
+They pay their salary, provide office space, after firings and MO leaving they also handle management. Oh and allow them to work on Guild Wars IP.
+---
+Why the long face kiddy?
+---
+It'd take less effort than your clever jab, that's for sure
+---
+It wasn't meant as a jab, isn't your drawing style to be very "skribbly"?
+---
+It's really funny that before anet white knights were defending the game barely releasing any content, and most of it being trivial and single player. But now more are finding it harder to deny and the next step (after having flamed the 'toxic elitists' already) is to try to blame NcSoft. What's the matter, I thought the game could be sustained by ppl who play 1 hour a week? Sagas are exactly the kind of content that satisfy that demographic
+---
+&gt; Not sure if you realize how much goes into doing TT 
+---
+continues to name two mechanics. Excuse me, I think you forgot to mention the other 10 mechanics that everyone has to be aware of - after all you said there is "so much" going on...
+---
+Some major points:
+---
+You point out there there are raids and high level fractals and I should try soloing them etc.
+---
+You might not have noticed but: my criticism wasn't that nothing was difficult. My criticism was that everything is easy.
+---
+Sure. I have all the Fractal Attunements mastered, I have enough money for full ascended gear, I could go straight into fractal, work my way up, eventually start soloing it etc.
+---
+...And then what? The amount of true end game pve content in this game is very little (relativeley speaking).
+---
+And *everything else* is braindead. 
+---
+Like, GW2 has such a beautiful open world. It's completely wasted. Why would I spend time on a map where there's nothing to do?
+---
+I enjoy MMORPGs for many of it's aspects.
+---
+I enjoy exploration, map complettion, steady progression in things like Masteries etc.
+---
+I've done Map Completion without mounts or gilders. Didn't use them for other content of core tyria (like retrospective runaround for example) either. Too much convenience destroys the adventure. That's how I personally like to play.
+---
+\[Side Note: that's also why I haven't done anything on HoT or PoF maps yet - not gonna enter those maps until the story introduces me to them and haven't done them yet\]
+---
+To most people those kinda things (map completion etc) are pretty boring etc. And that's fine. You can find them boring. But that doesn't mean they have to be braindead easy by default.
+---
+In WoW for example (never played it, probably never will so don't get mad for bringing it up) you do raids *while leveling*. Raids are pretty much the highlight of every map. And even if you aren't aware of it as a new player, the game - and players - will guide you towards them and you'll have a blast.
+---
+In GW1 Story Missions were sometimes as challenging as Raids in other games and sidequests involved bosses with unique elite skills and mechanics that could be dangerous at first (without having encountered the boss before).
+---
+GW2 Open World is unchallenging and thus totally boring and uncompelling.
+---
+This does not mean that soloing fractals can't be challening.
+---
+My point is: Open World is a pretty big part of an MMORPG (for me at least) and it feels worthless in this game.
+---
+What you're telling me isn't that soloing high level fractals or raids or certain events are challenging. You're telling me everything else is boring af. 
+---
+I also don't get your point/advice telling me to rush to the little end game content there is. So after having played this game - *an MMORPG* \- for barely two months, I'm gonna rush PvE End Game and in a year I'll be bored having nothing to do because ANet only releases like one raid a year? What would be the point of that?
+---
+I'm doing the exact opposite.
+---
+Until now I've spent my time 50/50 between PvP and PvE. In PvE I've done Map Completion, Personal Story and Core Tyria Mastery Completion. And I'm going slow. Bit by bit. I'm not rushing towards anything. Why would I? I feel like the better/more veteran you get at this game, the more bored you'll get. (Before you try to think: well, that's normal for any game...no it's not. Not for online games. Wether it's an MMORPG, Moba or FPS game; online games usually don't cap off)
+---
+My strategy currently is to play this game casually, and just enjoy steady progression (as braindead as it may be) while hoping that in the time (maybe 1-2 years) I'm playing like this, Anet will add things to the game that will spice it up. Like maybe the Alliance thing will spice things up. Maybe they'll have added multiple new Raids by the time I want to do Raids regularly etc.
+---
+That said....pretty much all your points were absolute bullshit. 
+---
+Having a couple maps that are hard to solo doesn't fix the problem that everything else was designed for braindead, drooling monkeys.
+---
+Asking a new player if he's tried soloing fractals (incentivising him to try it, whether that's the intention or not) is moronic considering that's not a solution either. A player who'd strive that hard for it and actaully do it after 2 months of game play will quit this game after a year. Maybe not even a year. Because once he's done with that there is nothing else to rush to next.
+---
+Additionaly to the other pve pages posted here also try metabattle.com, as they got a little more information about the builds.
+---
+To get started I would recommend you a power dragonhunter, as this class can do good dps more easily than other classes.
+---
+If you look for a little challenge try weaver.
+---
+But it also depends on your playstyle. All classes are worth giving it a try (:
+---
+I would recommend playing some dungeons or open world to find your class (or classes).
+---
+I'm pretty sure Alliances will never happen because Anet/NCSoft can't find a good enough way to monetize WvW.
+---
+There are rewards to be collected that are really nice either as wardrobe or things you might want such as ascended backpacks and jewelry and weapons or bl keys, or gobblers or other things. There are also lots of mastery points  tied to ap in which you need to pick up or you wont have enough if you dont go for some of the achivements. So yes there should be some considering of ap hunts or there will be stuff that he miss out on. 
+---
+And even though you might find it useless does not mean other people do find it fun or interesting.
+---
+cause i don't believe in that at all, the 1.5 hrs of content that is the boring as story is lot worse than raids being released, at least someone watches raids on ttv and gets people interested, nobody gives a f about the story.
+---
+also another thing oyu got its not the "casuals" who spent most of the money in the game, its small minority people who have IRL problems and/or are prone to addictive behavior so they gamble their life savings and create giant problems for themselves and are the target players that micro transactions rely on ; the person saaying "my life is so garbage but maybe this new 700g that i can't afford might make me feel better" ; nad this is true for virtually all gambling industries and substance abuse, small proportion like 20% spend 80% of the money and of those 20% another 20% spends 80% money in that so the notion that all casual players are the ones who keep the game alive is bogus
+---
+I honestly don't expect ANet to put all the cards on the table and give the community everything that its hoping for, but there is the feeling that we are getting the "What you are seeing isn't what is happening" gaslight.
+---
+It very much looks like the company is feeling pressure from NCSoft and pulling back a lot from the development of the game.
+---
+If I compare this to the development cycle of the first Guild Wars, after the first 2 expansions we got "Eye of the North" and then Beyond.
+---
+The base game, we fought a lich. In Guild Wars 2, we fought and dracolich.
+---
+The first expansion, we fought a foe who was seduced by a god and driven mad.
+---
+The first expansion for Guild Wars 2 started with the actions of one driven mad by a sleeping dragon.
+---
+The 2nd expansion we go to Elona, defeated a god
+---
+The 2nd Guild Wars 2 expansion we return to Elona and defeat a god.
+---
+In Icebrood Saga is set to revisit the last vestiges of the first game.
+---
+If they are indeed winding this down to move onto something new, I would hope they would be more enthusiastic about keeping the community informed. We lost so many developers and community allies in the company. That was a big shake up and instead of honestly telling their customers (as much as they don't like using the term), that something has changed, they are acting as if it was all planned and expected.
+---
+It looks like the wheels are coming off, and you are telling us to enjoy the ride, ANet. You can't be surprised that people are leaving in-house and in-game when stuff like this continues.
+---
+Next time just read yourself before you type
+---
+im not saying you should play that crap and that you should enjoy it , im simply stating that the skill level of players in similar ratings is more closer than it is in wvw where someone who made an account and is level &lt;10 in WvW and has no gear is placed with people who have tens of thousands of hours while in sPvP you will get people around your rating in sPvP which in no means is perfect but is lot closer in terms of skill than you get in WvW
+---
+You do realize that Anet ranks among the biggest scumbag companies in the video game industry, right?
+---
+As opposed to PvD? :D Not sure I see your point. What do you want out of WvW if not large scale pvp? Remember that there's no GvG in this game called Guild Wars, so this is as close as people are gonna get to semi-casual mass pvp. And imo it's a lot more entertaining than spamming 1 on a siege ram... And sadly those two playstyle options exhaust the limits of the gamemode's design.
+---
+They were self publishing up until the restructuring. Everyone had to sign EULA agreement that had NCSoft mentions removed.
+---
+https://i.imgur.com/2Rw1X0m.png
+---
+Why am I just discovering this!?!
+---
+Not sure if you were aiming for making [Caduceus Clay](https://images.app.goo.gl/BqoujoNeY9iL7gLv5) but it's pretty close, in spite of the glitch! Happy accident maybe.
+---
+Bungie was on an agreement with Activision, but ArenaNet are a [wholly-owned subsidiary](https://www.investopedia.com/terms/w/whollyownedsubsidiary.asp). 
+---
+So one way they can split from NCSoft is if [someone buys it from them](https://smallbusiness.chron.com/purchasing-subsidiary-company-80401.html).
+---
+Why don't you start a crowdfunding campaign?  
+---
+Pool enough money, change the ownership from a company to the players.  
+---
+Then make the focus from making profit to making enough money to pay the employees 10-25% more, plus yearly adjustments, and to get more employees and get them to add more more content and improve existing content.  
+---
+And of course to have a surplus for marketing, emergencies, support creators and competitive prices.
+---
+You will be back.
+---
+They always come back.
+---
+Looks like someone hit a nerve hahaha
+---
+[Me too.](https://i.imgur.com/SDayEwS.jpg)
+---
+No, it's really not...unless you're getting carried by others on those...which you are from the sounds of it.
+---
+It's just a very clunky ability. Using up slopes makes you get airtime lol.
+---
+It's still heaps better than the downstate Hammer that literally will never hit anyone that isn't 1 inch from your face.
+---
+&gt; imo
+---
+So i run a small discord community and we were talking about the best MMOs, well i was saying how gameplay wise GW2 was the best in that regard. And after a spirited debate with some friends about it, and defending my stance, well dammit i wanted to play again.   
+---
+So im back to GW2 with a few friends in tow, reinstalled, deleted an 80 to replay through the game again, and I have some questions.
+---
+First, wtf is a revenant? Thats new since i last played (I play like 10 hours of Heart of Thorns, and like 1000 hours of the original game, dont remember that class)
+---
+Secondly, whats currently good for BG PvP, i LOOOOVE bg pvp, and some WvW is fun also. What are good classes right now, strong, solo and/or zerg buster classes/builds.   
+---
+Finally, Also i play on sorrows furnace I think, any friendly PvP guilds around that also do some Pve? I want to get geared up after I level, and PvP.   
+---
+Are legendaries still as insane to get as in the base game? I never got one, and kinda want one this time around.   
+---
+Thanks
+---
+https://media.giphy.com/media/jcxtvm2bsZDH2/giphy.gif
+---
+&lt;iframe src="https://giphy.com/embed/14fs128vvqge3e" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href="https://giphy.com/gifs/mrw-confusedtravolta-groceries-14fs128vvqge3e"&gt;via GIPHY&lt;/a&gt;&lt;/p&gt;
+---
+https://giphy.com/gifs/mrw-confusedtravolta-groceries-14fs128vvqge3e
+---
+Your opinion is factually wrong, so it's kinda irrelevant when it comes to this discussion.
+---
+To an organized group, as one would usually find in raids, this thing is a joke.
+---
+&gt; Your opinion is factually wrong
+---
+Okay redditor
+---
+You spelled Mesmer wrongly
+---
+Yes, make a spreadsheet and you'll know it too! :)
+---
+Oh no no no
+---
+Your comics are just ridiculously hard to decipher, making no effort to actually make them properly readable. That's my honest opinion. The scribbly makes it very hard to make out whats going on, and the structure itself is so all over the place that it stops making sense altogether.   
+---
+     
+---
+   
+---
+Also he was making a joke.
+---
+Smash mouth’s new singer
+---
+And I am very interested in that one.
+---
+Silverfed is only really good if/when you get to the point where you're salvaging tons of rares and you blow through your supply of Mystic Forge Stones.
+---
+Dude... It's already there and has been there for months...
+---
+Do we have a time for US servers to do this? I would love to be involved if we can do this on a US-based server.
+---
+When a Charr gets told the enemy surrendered before the battle
+---
+In sure some US players are Up for it
+---
+It reminds me of something but I can't remember what:-D
+---
+Even if gw2’s story was good, it’d still be a fundamentally dumb thing for them to spend the bulk of their development resources on...
+---
+We live in the golden age of single player games, if people want to play an awesome story, they just have to snag one of those many titles.  
+---
+MMO’s should focus on making their group content as amazing as possible and keeping their competitive modes feeling fresh, because these are the game modes that separate MMO’s from other games.
+---
+We'll never know
+---
+Imo, you're a complete idiot who's incapable of any kind of logical reasoning and can't accept any kind of actual logical argument because it contradicts your own personal (inaccurate) opinion on the matter. Imo, you also seem to have the mental capacity of a high schooler based on your responses.
+---
+Surely, my assessment and opinion of you is valid because it's my opinion and it is thus irrelevant how factually inaccurate it may be...because that's how it works in your opinion.
+---
+Thank you so much for silver, my very first reddit award c: It will go a long way towards my kitty reconstruction surgery
+---
+Thanks for the response! I'm about half-way through the season 1 movie, the work that went into that is just amazing. I think I'm going to just put up with the popup for season 2. I think part of the reason I was frustrated is because I realized that all of the xp I'm getting is basically wasted right now.
+---
+They provide funding for most of their projects, including GW2's 5-6 year long development and probably all the new titles they're working on.
+---
+This is it. You won.
+---
+Lol, when I started learning hfb I dropped to t3 while I was gearing. (Just crafted a leggy was poor AF)  
+---
+I quickly learned that hfb has a very short range, so it's not helpful to try to heal people that were literally running around the map. Lasted a week before getting the relics to have enough slots for 135 AR and never looked back. 😹  
+---
+A lot of people in T3 honestly are....not good. Mechanics, stacking, proper builds... Strange concepts for them.  
+---
+The horrors I've seen in t3...
+---
+&gt; deleted an 80 to replay through the game again,
+---
+Oh no! your birthday gifts!
+---
+&gt;First, wtf is a revenant? 
+---
+Heavy class that came out with HoT. Uses a unique mechanic of allowing for utility skill swapping (6-0) in combat, but restricts you in that you have to choose utility skills as a predetermined set. Also has a resource bar that automatically recharges that you need to use skills besides 1 and 6
+---
+&gt;whats currently good for BG PvP
+---
+godsofpvp.net is probably your best resource for that
+---
+&gt;and some WvW is fun also
+---
+Similarly, https://www.vabbi.eu/builds I believe should be up to date
+---
+&gt;Finally, i play on sorrows furnace I think, any friendly PvP guilds around that also do some Pve? I want to get geared up after I level, and PvP.
+---
+two things
+---
+1) server only matters to determine which region (megaserver) of the world you're playing in (NA vs EU) and which WvW server you're aligned with, so it doesn't matter for PvE. They've combined all of the servers in each region into one large megaserver, so, since sorrow's furnace is NA, that means that you will find people from sea of sorrows, and fort aspenwood, and maguuma, and every other NA server for PvE
+---
+2) /r/guildrecruitment is your resource for finding a guild
+---
+&gt;Are legendaries still as insane to get as in the base game? I never got one, and kinda want one this time around.
+---
+No, they made it easier in that you don't have to luck your way into finding a precursor. With the inclusion of the mastery system, they made it so that you can go through a pretty long process of making your own precursor, which you can then turn into a legendary.
+---
+Revenant was added in Heart of Thorns as the third heavy armour class.  As flavour, it calls upon the power of a Legend from the Mists, a character from the past lore.  It gets both weapon swap and legend swap, with the currently equipped legend determining skills 6-0 on the bar (and no customization for those skills allowed beyond what legends you pick).  Skills also have Energy costs, with your Energy varying between 0-100 (starting at 50).  Many Revenant skills have lower cooldowns than they might on other classes because you have to spend Energy on them as well.  Swapping to your other legend resets your Energy to 50, and it recovers naturally over time too.
+---
+The current available legends are Jalis Ironhammer (Dwarf, focuses on defence/sturdiness), Shiro (Factions end-boss, Guild Wars' version of Lu Bu, focuses on offence and mobility), Mallyx (Nightfall post-game boss, demon of Anguish, focuses on inflicting and controlling conditions), Ventari (Centaur, focuses on healing).  Elite Spec Herald adds Glint (Prophetic Dragon, focuses on giving boons) and Kalla Scorchrazor (Charr, women's suffrage by the sword, has a little bit of everything and is pretty strong because of it).
+---
+I'll leave the PvP answers to others.  Legendary weapons are still acquired the same way, though Heart of Thorns added the ability to craft precursors, an expensive proposition but one you can work towards step by step without relying either on RNG to get a precursor drop in the wild, or amassing a large amount of gold at one time to buy it off the Trading Post.  There is also a second generation of Legendary weapons added with Heart of Thorns that can only be crafted, their precursors are not on any drop tables.  They're still attainable, but expect a lot of grinding.  Of course, now you have friends to play with, so have them help out and/or help them get their own Legendaries too! ;)
+---
+Despite what they say, I think your comics are a gem and the style with which you portray them is wonderful. I want to see more adventures with the mad Charr Commander.
+---
+Am I the only one who fears a bit the new decade? I wasn't doing ok at the beginning of this decade and I'm not doing ok at the end of it, it's a bit disconcerting... But I can proudly say to have fought for what I believe in and to have achieved something. And at 28, I'm still a dreaming boy at heart, who loves this type of songs. So I wish you all the best for the new year and the new decade!
+---
+anet is bankrupt, they need ncsoft
+---
+That makes a lot of sense, I just feel like them types of guilds that recruit in map chat just want warm body's on their roster. I'll give it a try and see what happen. Lol
+---
+Remember this people - when you want something done in GW2 when it comes to your case, and/or when GW2 GMs are fucking around and blatantly lying to you/dodging their job...
+---
+**GO TO REDDIT WITH IT**
+---
+ANet don't give a flying fuck about the case *unless* it threatens their income. It's been proven dozens of times before.
+---
+Most customer service/ticketing service jobs are now filled with people that barely got their GED and recieved 1-2 weeks of classroom-style training on how to read a step-by-step script.
+---
+I still run supp chrono in T4s. 
+---
+But with heal FB becoming super common, most of the time i end up doing a DPS/alac hybrid.
+---
+Does it? Well then... only happy new year, I guess.
+---
+Power chrono is honestly fine in fractals. The fact that its burst takes a while to set up is the main problem, as quick burst is extremely useful during encounters with short phases.
+---
+Boon Chrono and druid are objectively less useful in fractals than quickbrand and alacrigade.
+---
+Only happy new year then, I guess!
+---
+&gt; Oh no! your birthday gifts!
+---
+I grabbed em first, im good lol.
+---
+Godsofpvp.net was EXACTLY what i was looking for, thank you!
+---
+Ill check out Vabbi later as well, Thanks!
+---
+gonna check out the recruitment sub as well, ty ty
+---
+Finally its good to hear that I can get a legendary a bit easier this time around.
+---
+Thank you for all the info!
+---
+Cool cool, thank you for the info, much appreciated!
+---
+What's the significance of the VIP passes?
+---
+“What are all those gLoWiNg DoTs?” *Kermit face*
+---
+I have like 3-4 Copper-feds because I don't think there were shared inventory slots when they first came out. Now I just use my Shared slots for my WB Portal Stone and my Lily pass (express ticket to Elona)
+---
+Happy New Year to you!
+---
+He was  good god in GW1 and was depicted as a good one before this plot
+---
+He wanted to usurp Balthazar's power. The other gods were good.
+---
+Anet has been self controlling since gw2 afaik, NCSoft just provided the money and as long as Anet kept the profits they had the freedom. The difference with Destiny 2 was that Activision didn't want it anymore and Bungie has the money from investors to split. NCSoft wants to keep gw2 as its one of the few things they have and Anet definitely doesn't have the money.
+---
+Someone was recently asking in LA if any guilds were recruiting. In order to save him for the auto-spam of third rate dead or dying on arrival communities, I instead directed him to the World Boss Triple Threat where a guild organizes the attempt multiple times a day, doing a recruiting run after successful completions. I figured that would get him into a guild that was at least active enough to engage with him daily. Ironically, it seems that we are reaching the twilight of the situation born from rampant guild establishment: too many pointless mediocre guilds that do nothing but sub-divide a community. I really advise people to not bother making a guild unless you have an express purpose for doing so, a goal to focus on. Organize for WvW, train for sPvP, establish static raid teams or organize the more complex metas and world events. But don't make a guild because you want to be the leader of a functionless group.
+---
+Why didn't they use Menzies.
+---
+I do believe that the individual developers at ANET want to make a good game. nobody _wants_ to do a shitty job. I also think that there's something rotten at the company. I don't know if NCSoft is the right company to cut that rotten stuff out.
+---
+&gt;We'll never know
+---
+It must be hard to know how much better this game would be had they bothered to use a new engine and not leave it a mess.
+---
+why didn't they use Menzies.
+---
+but it shouldn't be so powerful at all. The dragons were like little dummies to be killed by the machine.
+---
+You do know they WERE self-publishing for a while, right? It was exactly this that led to all the game's problems in the end.
+---
+&gt;Since Bungie broke away from Activision, they became more and more greedy
+---
+Is that why it's become far bigger now?
+---
+It changes everything since this means every decision was made by ANet, not NCSoft.
+---
+But of course, people in this subreddit have this strange delusion that NCSoft is to blame for everything and ANet are just little angels, their best friends, that just want to make a good game.
+---
+Just finished exordium, feeling drive to play dropping dramatically, probably going to quit soon too. Just feels like there's never anything truly new or innovative to get excited for anymore, new gemstore stuff or new map that's essentially just more of the exact same. 
+---
+Really feels like all ardor and creativity for this game has dried up and that's being passed onto the base. 
+---
+Sad cause I did love this game.
+---
+MO is out so we can now wintess if things improve in next few months.
+---
+&gt;When Kralkatorrik got Balthazar's magic, it was more the magic of a 'faux' god made out of salvaged magic from a bloodstone and Taimi's machine
+---
+NOTHING implies this is a thing. It's been implied even during the final battle against Kralk that it WAS Balthazar's actual magic.
+---
+To elaborate: there's no year 0. Our historic calendar starts with the year 1 AD, thus the first decade ended with the year 10, making 11 the first year of the second decade.
+---
+You want to know more? https://en.m.wikipedia.org/wiki/Year_zero
+---
+That's why I intentionally said that budget is what ncsoft controls, even when anet is given free will regarding development process. I would never defend anet themselves.
+---
+That depends. IIRC whole western market is no more than 10% of ncsoft's revenue. In this context Anet is just a silly fart in their spreadshit.
+---
+The Earth King has invited you to Lake Laogai
+---
+Yes. It was his actual magic.
+---
+The human gods are mistwalkers and masters at manipulating magic. Any magic Balthazar took was attuned to himself and turned into his own.  They basically become sentient magic.  So it's kind of like how you and me eat food and turn it into our own bodies, but with magic.  
+---
+What kept Balthazar from being at full power wasn't the type, but the amount. A bloodstone wasn't enough to bring him back to full power, or he would have not needed the subterfuge.  
+---
+And when he stole the magic from dragons it wasn't enough either. We cut him off before he could finish, and he needed to make himself an army to slow us down, push the awakened away and get resources for his war machine. 
+---
+And to fight Kralkatorrik he needed Aurene and a machine to use her. 
+---
+If Bathazar had enough magic to be a full powered god, the fight would have been way more spectacular and the consequences would have been much worse.  Even worse if there wasn't a dragon there to take all the magic in.  
+---
+Remember how the entire Desolation is the consequences of a fight between gods. 
+---
+Kormir made it very clear: Both more elder dragons dying and dragons getting the power of gods would be a world-ending event.
+---
+True, but taking into account they've bothered to update Blade and Soul even for us proves that NCSoft does actually care how their games do here \[unlike before with a certain game about superheroes\].
+---
+But we celebrated a new millenia at the shift from 1999 to 2000, so it might not be a new decade tonight technically but people still treat it as it was.
+---
+So you stopped playing 7 years ago and suddenly decided to return, as usual here, when the game is in its lowest point so far.
+---
+:/ come on now, these fake threads are just getting funny at this point. What's next? Someone bought the game at launch, stopped playing at launch and now suddenly they care to come back?
+---
+&gt; he needed to make himself an army to slow us down
+---
+Then the moment he fought us, he killed us, so forgive me if i don't believe he made his army to slow us down.
+---
+idk what you talking about, if adds are such a huge problem, where a thief with short bow cant ignite torches,  you should just utilize epi from a necro and nuke 5 adds in 1200 range.
+---
+Reflects also helps.
+---
+&gt; I would be absolutely okay with GW3
+---
+Well yeah, because you're an idiot who thinks hit and runs only exist in Europe
+---
+Alize.4756
+---
+I see statistical analysis, I upvote.
+---
+There is a lot of bad decisions and wrong movements made by Arenanet/NcSoft this past year.
+---
+But for someone that will just now return to a game he barely played, there is *literal hundreds, if not thousands* hours of content to enjoy.
+---
+Look for a active, laid back guild in game and have a blast!
+---
+In GW2, you instead have gem store deals where items cost less gems.
+---
+Jokes at someones expense isnt a good joke.
+---
+&gt; La verna Yerai
+---
+I wonder in what language that is wishing us a Happy New Year.
+---
+Oh wait. That's a character name.
+---
+I should have coffee before going on the internet.
+---
+I mean yes but also no. Plenty of things go on sale during the holidays, why does anyone buy a video card or console except on Black Friday? Even more directly comparable things like gift cards or steam credits go on sale periodically without destroying sales other times. If Anet chooses to not give a discount on gems, that's their prerogative, but it's not a priori unthinkable.
+---
+I'm curious, since the Chinese client is managed by a different company - does ANET get a cut from its gemstore sales? Probably has a completely separate gem store, but still ANET provides the assets for it I imagine?
+---
+Matching colours!
+---
+If Anet was focused fully on GW2 and it was possible for them to leave NCsoft, it would be really wonderful.
+---
+But,considering they're working on at least one other project (their console game), they likely need the funding from NCsoft.  It's just sad that they can't hire all new staff for their other projects with that funding instead of also diverting resources from GW2.
+---
+[deleted]
+---
+Too bad that song was made when GW2 enjoyed better days.
+---
+It's comparing 2 possible outcomes but has 300 data points so it's a fairly robust result.
+---
+Kill that cute soab!
+---
+Seems like a niche for a dual wielding weaver but looks very cool!
+---
+What else are you gonna do with fireworks lol
+---
+Yeah I wouldn’t use it as a necro, unless you could dye it green and black!
+---
+Yes
+---
+You can dye everything on the outfit
+---
+Omg you can!!! I forgot maybe I will get it
+---
+(Edit) jk I don’t have money
+---
+Nothing suggests that what Balthazar did was "pure" evil. He just wasn't riding the gods' bandwagon. Hell, maybe he was right?
+---
+Intelligence is personal to me
+---
+aha misunderstanding ty for clearing it up for me, thats what i get for skimming while winterberry farming
+---
+I usually never see the oil until its too late, I'm the type to have trouble visually seeing the blue at Vale, so yeah... Melee scares me lol
+---
+Not sure why people do stuff like this and then quit (lots off people saying similar stuff in the comments), just take a break! Being tired of something is normal it doesn’t mean you’re done forever. 
+---
+And besides that point you may be playing at an unhealthy level. I play several hours daily since I started almost 5 years ago and I still have tons of stuff to finish. You’re probably putting too much time into it
+---
+I have the Lily invite from the PoF collectors edition, but I typically do all my stuff in LA. I just like LA
+---
+He's already ran this game into the ground though. I don't think there's a future for GW2, they are just trying to draw its death out to squeeze in what they still can from players.
+---
+Biggest disappointment is that the Mythic weapon set is locked behind appearance packages just like Immortal and Onyx/Gold Lion weapon sets...
+---
+Yes, I have no doubt that industries chose 2000 as benchmark rather than 2001. What I find curious is why they didn't simply choose to consider the 1-9 AD "decade" as just an irregular one (after all, already the fact that it passed from 1 BC to 1 AD without a year 0 makes it irregular), instead of making all the successive centuries and millennias "irregular" by making them start in 1001, 1801, 2001 etc.
+---
+also, thats a nightmare amount of deimos encounters with pugs...
+---
+Yeah I totally understand your frustration and they should've unlocked Central Tyria masteries the moment a player hits level 80 and owns the expansions.
+---
+I'm really glad to hear that you're enjoying the story so far and if you have any further questions, feel free to let me know. :)
+---
+I was honestly expecting.......more. Just patches of fire and ice? We already have that. And I like my current glider skin too much.
+---
+Finally official GW2 Instagram account :)
+---
+Staff DD or Deadeye in raids for DPS, there is also boon thief but that's much more rare. PvP its meta, it almost always has been meta and probably always will. DPS is DPS in fractals, outside of a very few select groups who speed run CMs you'll be accepted, 99% of pug CMs wont care either. WvW is where it tends to severely lack. You are more of a scout/gank bot who picks on one person or in a small scale fight, large zergs a deadeye could pirate ship, staff DD might be ok for melee fights but is severely outshined by warrior, rev, scrapper, tempest and scourge.
+---
+What if the comm isn't exp?
+---
+Flip for 2copper
+---
+Even in melee you can stand a bit back and effectively “ranged” if you are scared of oils until you get more comfortable with them
+---
+I would assume it in part has to do with gems being able to convert into gold so it would mess with that? Whereas with them just discounting items in the store you still save but it doesn’t effect the gold value of gems.
+---
+mythic weapon locked behind 2k gem pay gate, nice
+---
+it might not be as irregular as you assume. 1 BC and 1 AD merely describe the first 1y long interval before and after the (arbitrarily) defined point 0 on the timeline. might make it easier to describe them as the 1*st* year BC/AD, putting us now on the brink between the 2019*th* and 2020*th* year AD.
+---
+i have the theory that part of the misconception comes from the fact that we use time as displayed by clocks to describe time that has passed, while (calendar) dates attempt to describe and narrow down the currently ongoing interval. e.g we don't say "it's the 8th hour of the day" when it's 7:15am.
+---
+Lol it’s still gonna be map specific I bet
+---
+And people flamed me for saying that we obviously will dive deeper into those lol
+---
+Nyeahe it used to be
+---
+that's because iceboob saga bad no hope allowed
+---
+Yarixx: [PUSH EVEN FURTHER](https://www.youtube.com/watch?v=8TGalu36BHA)
+---
+Any dye previews?
+---
+Theyve already said this. And the next episode is on the same map expanded. They already said there is no plans to have the current new masteries on future maps but other teams can.
+---
+Logged my main, no mail.  
+---
+Went to bjorah map, mail received.
+---
+The way the mechanic works it wouldn't make much sense otherwise. The mobs have to be specific. 
+---
+We can get it for the rest of the season though, I'm sure it's not going to be the last time we see it.
+---
+THANK YOU. This is what I was thinking throughout my time wading through all this hate. Almost every forum post I read discussing the state of the game or current issues etc is always RIFE with ENTITLEMENT. For some reason, the players of this game believe that by playing the game, they are giving their time and as such, DESERVE something in return...for nothing. I've been playing since launch and I've paid roughly $100, for roughly 5000 hours over seven years of solid entertainment. No matter how you do the math, that's an AMAZING deal.
+---
+That said, I HONESTLY wish ANet would implement a monthly subscription fee. I would gladly pay it (others would too I'm sure) and they could hire more people to create more content.
+---
+we knew that since... the episode's announcement or something. i doubt the core of the discussion was about that, but rather about how an expansion of the system could possibly salvage it into a meaningful addition. personally i still don't feel like i've been given a reason to hold my breath on that topic.
+---
+They launched it today actually! They are keeping the arenanet account for behind the scenes and office photos.
+---
+It is fully dyeable you can go for any theme
+---
+Didn’t even see that the set was part of this package, oof.
+---
+what about Rev in PvE and Raids? what about pvp?
+---
+I made fun of left lane drivers, and you're here, on a thread completely unrelated, unless your ass is bored at work like mine is, I see no reason for you to be wasting time.
+---
+It would make much more sense had they used Menzies.
+---
+meh, wooden potatoes provides 180+ episode stream series where he leeches free gifts from people, so why not doing the same as the pillar of the community?
+---
+No I'll still contest day and night that in game this community is second to none the best. Still willing to help, answer questions, walk new players through certain aspects of the game. Come out of the game and come onto the reddit or the forums that amazing community you see ingame is no where to be seen.
+---
+&gt;I decided to keep data from 300 pulls of the boss, pulls meaning every time you got the boss below 90% health.
+---
+Why 90% though? You're still stacked together from 100- ~60% if you're doing ranged, so wouldn't it better to only include pulls around that percentage?
+---
+Ok. But we're not talking minmaxing, we're talking baseline viability.
+---
+If Anet split from NCSoft they would just officially put GW2 in Maintenance mode instead of trying to hide that they checked out on the game.
+---
+This is the one I was looking for.
+---
+They were to be killed by each other's energies, the machine was just sort of a conduit directing that energy.  Think like a magnifying glass + the sun concept.
+---
+Since the setups are different, and some pugs move the boss out at the start of the fight, it would be unfair to not include 100-60%.
+---
+I think it'd be better if we got so good at using the 3 colors we learn how to merge them in one by getting the last mastery in each track and unlocking a 4th 'Owl' mastery, and after that we get to do similar attacks anywhere from any kills, just requiring more charges when not fighting jormag-powered minions. 
+---
+The additional power could also unlock the ability to get charges from doing and taking damage, not just kills.  
+---
+Kind of how you build up energy from doing and taking damage to unleash 'super specials' in fighting games. 
+---
+Then, as long as nothing is giving you a different Special Action skill,  you could get your super special in there.   
+---
+The way I always envisioned Elite skills with longer than 90s cooldown should have worked.
+---
+I mean you could've just waited for someone to answer this in your other post.
+---
+Have you considered the disparity in player talent? Your analysis only works if all players play at an equal experience level.
+---
+With ranged, mechanical responsibility is shifted to only three players (HK, OK, tank) whereas melee, responsibility is split among ten raiders. This means the lowest common denominator (i.e., the person who fucks up) is limited to three people, whereas in melee, it's everyone. In a group that has three reliable players and seven incompetent players, would melee still be the safer strat?
+---
+"Sir, I am not Tony Stark."
+---
+The main title and subject of the post is about a guy that helped me.
+---
+well yeah but im trying to figure out a class i wanna play cuz theres a lot of different builds.
+---
+I liked a lot of the outfits and gliders that the subreddit had thrashed for being too over-the-top or cheaply fancy, but this
+---
+This is a joke.
+---
+Gain 5 boons at 50 stacks. Pog
+---
+&gt;"Slow us down, fend off the awakened and get the resources to make the machine".
+---
+"Sup Humans, i am literally the God of War, returned to you to wage war against the Elder Dragons"
+---
+Literally all he needed to do and almost every Human would've joined his side. Please don't excuse garbage writing so much.
+---
+Humans have been without direct intervention of the gods for a long time.
+---
+And many humans did follow him, starting with the Zaishen and those recruited by them.
+---
+It's just a bunch of people who have never had a career in a similar industry acting like it's the end of the world. It's rare to find people who have lasted as long as a lot of these people have.
+---
+&gt;some pugs move the boss out at the start of the fight
+---
+Interesting. That's something I've yet to see. Then again, I haven't pugged in ages.
+---
+:^)
+---
+You could've waited. That's all I'm saying :^)
+---
+Revenant is primarily boon support with dps. Currently the "Alacrigade" build is very popular in raids. Diviner's gear is a good option, but also carry a full Berserker set.
+---
+Yet another weapon set locked behind 2K gem gates. Bravo Anet...
+---
+&gt;Humans have been without direct intervention of the gods for a long time, but the pact have proven that killing the dragons would be a really bad idea.
+---
+Hence why a literal GOD revealing himself to the world would've instantly moved them to his side.
+---
+The Pact proved that TO THEMSELVES. The general public has no idea that killing the Dragons is actually bad.
+---
+Pay attention to the story, i'm getting a bit tired.
+---
+is this one of those "viable only means able to complete the content" things? like every build is or can be?
+---
+cuz otherwise power chrono is again, not fine at all! this is purely from a dps perspective too, as in you might get outdpsed by the quickbrand
+---
+if you consider the fact it's very fragile to passive poke damage(bleedfire, afflicted), lacks cleave and has to work 10x as hard for that potato burst then it becomes even less worthwhile
+---
+For raids, [Snow Crows](https://snowcrows.com/raids/) is a good source of commonly used builds. Revenant is used rather often. [Condition Renegade](https://snowcrows.com/raids/builds/revenant/renegade/condition/) is a very strong condition-based dps build.
+---
+[Power Alacrity Renegade](https://snowcrows.com/raids/builds/revenant/renegade/alacrity/) is also often used for its ability to bring 10man alacrity, although it has lower damage than typical dps builds. You can also make a [support version](https://snowcrows.com/raids/builds/revenant/renegade/heal/) of this that focuses on healing and other boons instead of damage.
+---
+(Power) Herald builds are rarely seen. They are rather low damage and lack burst damage, even though they are power-based. You can [bring some support](https://snowcrows.com/raids/builds/revenant/herald/boon/) in form of shared buffs and buff duration extensions, so it can be more valuable to an experienced group than it seems on the first glance, but it still is rather mediocre.
+---
+One of the problems is that ranged groups tend to have a higher proportion of inexperienced raiders, meaning a higher risk that inexperienced raiders will be funneled into high pressure roles, such as tanking, oil kiting, or hand kiting. I think that probably leads to some sampling bias which will be hard to control to measure "difficulty" as opposed to "skill".
+---
+How many times did the squad decide to change tactics from ranged to melee or vice versa?
+---
+O  O
+---
+  I I
+---
+  W
+---
+is power alacrity basically power Rev as people call it?
+---
+Not at all. 
+---
+Balthazar had to hide from the other gods, wait it out until they left. Kormir was the only one left, and she had to leave right after giving her warning. 
+---
+If he had revealed himself early, human priests would get oracles from the gods warning them about him, or from their stand-ins like The Judge and Desmina.  
+---
+He knew that so he had no qualms about going around burning villages and capturing people to make more souls to trap into forged bodies.  
+---
+No need to keep the apperances.  
+---
+Followers of balthazar would still probably stick with him, but the followers of the other gods and humans who do not follow any gods would not.  
+---
+So he hid until he got enough power back.
+---
+Looks like it would go well with the weapons that have both flame and frost versions or both flame and frost at the same time:
+---
+* Rival Skies Axe Set
+---
+* Elemental sword
+---
+* Fiery Draconic Sword and Jormag's Breath.
+---
+Kind of weird to have a icy-fiery bikini top over your clothes, tho.
+---
+It's the most relevant PvE power revenant build, so it's likely they mean that.
+---
+Even in LFG listings you can see it called many names. Alacrigade, alacrity Rev/Ren, even just "alacrity". If it's a boss at which condition renegade doesn't make much sense, just asking for a renegade/revenant makes it clear that it's this build.
+---
+There is also a correlation between better players do melee strat and worse players only want to do range which will skew your numbers when pugging. Assuming skill is the same then ranged is the easier strategy, you only need 3 good people; the hand kiter, the black kiter and the tank and yet with melee one person can ruin the run which is less present in ranged. 
+---
+I agree melee is easier for better players but assuming skill level is a constant then they will probably be roughly the same if not ranged pulling ahead. 
+---
+Most good players in a run will leave when presented with a ranged deimos too so there is also that.
+---
+just make a statement then contradict yourself the next time; 
+---
+i don't say people should do any of these things but people who came for the story to see it be played/ play it don't touch it anymore ; people who do raids etc. do the story cause there is nothing else to do for long periods of time ; like they got 1300+ KPs from same bosses which they've done like 100 times. 
+---
+I prefer watching raid content either way its something that I can't do and I run through story missions as soon as possible just so i can get some rewards ascended stuff and bugger off from there and dont go there unless i need more ascended stuff ; if it was my choice i'd gut them both but i dont and i dont think anyone should be forced to do content they don't want but spvp and wvw got no content updates for years and you dont think those people ever spent any money on the game?
+---
+Nice begging post.  Honestly, you aren't clever.  It is very obvious you are begging.  Talking in map chat about how close you are to crafting a legendary, you're not fooling people.  Then trying to say this is a post about how nice that person is when half the post is about getting gold to finish your legendary and your username.  Seriously, fuck off.
+---
+The mechanic is only risky when too many torches are unlit. The more unlit, the more damage you'll take. Being away from the stack when several torches are unlit is a death sentence. Being away from the stack when one torch is unlit isn't too big of a deal.
+---
+It's just the charr dye kit in it, unless you mean the outfit dye channels...in which case you can preview those in your hero panel
+---
+This was with pugs, with kill proof provided. Regardless, that variable is one I did mention. 
+---
+\&gt; Players who do ranged are not as experienced with the boss.
+---
+But then you tried to profit from his charity move by asking for donations. You still don't see what's wrong with it?
+---
+thank you!
+---
+This was with pugs, with kill proof provided. Regardless, that variable is one I did mention.
+---
+&gt; Players who do ranged are not as experienced with the boss.
+---
+But I'd love to see your stats on 
+---
+&gt; There is also a correlation between better players do melee strat and worse players only want to do range
+---
+ There is also a correlation between better players do melee strat and worse players only want to do range
+---
+I only saw it a few times. Though this would skew the data against melee, since most pugs swap from melee to ranged. (Once in these groups we changed from ranged to melee.)
+---
+Godtier in pvp, both wvw and spvp
+---
+Why can't NA just not touch the oil?
+---
+&gt;To elaborate: there's no year 0 but actually there is because no one gives a shit about anno domini.
+---
+Go to bed Francis.
+---
+i bought a styling kit today for only 105 gems! 70% off
+---
+Yeah, let's take away all of their income, so they have to shut down the servers and fire everyone. That'll fix it!
+---
+/s
+---
+Okay, nobody asked.
+---
+Rev (alacrigade) is highly wanted in Fractals, probably the most wanted class outclassing even HB in CMs. Raids it can easily find a slot as DPS, boon herald or as an off-healer. WvW its meta, almost always wanted in zergs and PvP it's quite strong. If you dont mind support rev is a great pick to main imho.
+---
+*medium armor intensifies*
+---
+&gt; It was "out of nowhere"
+---
+Your "out of nowhere" started with LS2, but okay boomer.
+---
+Well I guess I could explain further. I HAVE played GW2 before to level 80 in fact this is my third account because the first account I lost because it got banned because I let my friend play to try it out (this was way back before it was F2P and stuff, before the first expansion was even announced), the second I ended up just straight up forgetting my account info and not having my CD keys to recover it and stuff.
+---
+So this is my third attempt essentially at playing. So I have leveled to max before prior to this however I consider myself newish because I never got to fully experience end game stuff just because my first account got banned as I was working on it and my friend wanted to see how the game was before buying.
+---
+Ideally I want to get to end game and do end game content. That is always my goal in MMO's, maybe grind out cool appearances and stuff.
+---
+One of the key parts of GW2 is the exploration aspect and if that doesnt seem interesting for you this might not be the game unless you only care about pvp which you dont need to boost to do. Besides that you definitely have fractals and raids which requires some nice level of combat skill until you run it over and over that it becomes boring. 
+---
+As for your question yes there are items you can buy for gems that can unlock waypoints but that isnt worth it imo since the mounts do make running back and getting them extremely easy. There are also addons you can download that show routes for you to take relatively optimally through to get the points
+---
+This is the ultimate version of content in this game.
+---
+Mails between episodes.
+---
+If only ALL of the desirable mounts weren't in crown crates with such a low drop chance that people spend hundreds of dollars and *might* get *one*. 
+---
+Yeah, no. ESO is a slot machine with a great story.
+---
+If this happened I would never buy gems outside of sale, which kind of removes the point.
+---
+Yeah, quit giving them any money to pay their employees! Let the game die *faster*! That'll fix it! 
+---
+Woo boy, more anime characters with sheet metal swords. So original.
+---
+Its already fucking dead. They are just milking whatever is left of the playerbase.
+---
+Well it's the same here isn't it ? The really special ones get locked behind the crates and the other ones can be bought trough their own loot box system. If you don't like to grind for hours to change some gold into gems there isn't a single mount skin which can be obtained as a reward. Heck unlike eso we get new skins for armor once a year or so trough rewards
+---
+That's the joke. Here's a (something). You gonna take it, and you gonna like it. (because you don't have the option of not taking it.)
+---
+Some do, and, of course, some don't.
+---
+&gt;Skyscale is a great Mount. Definitely worth the time investment 
+---
+No doubt about that and if I had logged in during the LW season and unlocked the Episodes, yes.  Now it's time and money, so that's not happening.
+---
+What is actually going on is that in this instance the player moved *very far away* during a dialogue sequence, far enough for NPCs models to despawn. 
+---
+As such, the game struggles to find the said NPCs’ facial animation bones and instead use the player’s. Since the NPCs involve characters of different races (an Asura, a Sylvari, etc), the player’s face morph into other races’ faces with their corresponding bones.
+---
+Immortal weapon skins are also in Guaranteed Wardrobe/Weapon Unlocks.
+---
+Hopefully the Onyx and Gold skins will get added to those Unlocks as well now that we have a new set replacing them.
+---
+Why tho?
+---
+If you only have an hour to play for a couple of days a week then do T4 fractals. You get at least bare minimum 60g+ liquid and in assets from CMs+T4s and need about 50min to complete. Yes even with Healer and Support.
+---
+Use your time!
+---
+???
+---
+The Mythic set also has an achievement collection assoiciated with it, the same as the normal BL weapon sets. The Immortal and Onyx/Gold Lion sets didn't have any achievements with them. This could suggest the Mythic set will eventually be released as a standard BL set purchasable with tickets.
+---
+i thought the game was prohibiting me from having them because i was f2p, never been so glad to be this dumb \^\^
+---
+I don't even trust my raid members to not step in the oil, and we tried multiple times over the year. Much less will I trust pugs. Range strat lives only the tank, the oil kiter and the flak kiter as sole responsible to fkn up the fight. It they are dependable which they should be, then your dps can just lazily dps from range. And their are good range classes like deadeye. Ezpz.
+---
+Bro, devs leaving anet have said straight up gw2 wasn't their priority. They just cancelled a few different projects, and now they're working on another game. Anet just does not want to work on gw2, and it's only because they're not independent that they are forced to.
+---
+Source?
+---
+&gt;&gt;Skyscale is a great Mount. Definitely worth the time investment 
+---
+&gt;No doubt about that and if I had logged in during the LW season and unlocked the Episodes, yes.  Now it's time and money, so that's not happening.
+---
+Could you not have used the gem card to buy the living world season 4?
+---
+Whilst I agree that the game definitely lacks direction, I still genuinely am impressed by much of the content of the two expansions. My concern is that they seem to show little hope of continuing it.
+---
+&gt; Hours of Content / Dollars Spent = WAY BETTER DEAL THAN ANY OTHER GAME EVER.
+---
+On the back of whales funding development, without those whales the game fails financially. This is the problem with the monetisation.
+---
+&gt; I stopped playing right after getting 80 in the OG GW2
+---
+So you don’t own the expansion then? Because mounts are locked behind Path of Fire.
+---
+He does them for fun and because he enjoys the game. Let him be.
+---
+Oh, make sense.
+---
+For what it’s worth, the skyscale is the most useful mount the game will probably ever offer. Worth all the time and effort. It’s a bit underwhelming that you got a skin you cannot use at first yet, but LS4 can be purchased with the gold to gem conversion, otherwise you can probably use your remaining gems on it.
+---
+Each episode comes with tons of new cosmetics, minis, equipments in addition of the map. Getting these episodes won’t be a waste, unless you wanted *really hard* cosmetics or other tools of the store.
+---
+Yeah, I'm looking at keeping it and grinding out some gold to get LW at this point.  Appreciate it!
+---
+Just get the Drake then, its not that hard especially now after all those fixes.
+---
+Takes about a week or so.
+---
+It's amazing that statistical analysis of how shit pugs are is the new content ArenaNet puts out. Beautiful.
+---
+Hey I run a guild called Mistlocked [FotM]. We focus on teaching Fractals of all tiers and have started to include raid trainings this past year. We have a pretty active community, people do their daily runs each day, and we’re not strict with guild guidelines/ requirements, no rep requirement. We also do social stuff as well like guild missions/dungeons. You’re not required to participate in anything, but the option is always there for you. 
+---
+If this is ever something you’re interested in feel free to throw me a mail or PM in game! My account name is Anbz.5863
+---
+lmfao.. are you talking about **[this](https://store.guildwars.com/store/gw/cat/categoryID.67871700)**? 
+---
+Nowhere near even the *initial* GW2 cash shop offerings... Don't be deceitful.
+---
+The GW1 model was *expansion* based. GW2 is cash shop based.
+---
+yes, a good tank and oil kiter, will lessen the possibility of an oil spawning on group (even with melee strat) a good tank will know when to instantly move deimos as oil spawns so the group just follows deimos and naturally move away from the new oil.
+---
+I would not mind all these chests all over the world giving crappy rewards most of the time if they worked more like [Treasures](https://wiki.guildwars.com/wiki/Treasure) in GW1: A large reward the first time each character opens them, then not so much until a certain time has passed.  
+---
+Even if the first time reward was account-wide rather than character-based, it would be more fun if they gave something significant at least once.
+---
+Ye It Is so funny. This whole they would do the perfect game but evil corporation is blocking them
+---
+Did you record the reason for failure (oil expanded, slam,etc)? This could be useful to see if ranged causes less oil deaths and could help justify some of the reasons you said ranged results in more wipes - though I admit hard to categorize every fail and is up to interpretation of what caused the fail. Another could be to record who died, tank, hands, oil kiter, healer, # of dps to provide numerous insights. Also being a participant in your own study can influence results and your own performance - how many wipes were your fault ;)
+---
+Overall good analysis, fun to see
+---
+Appreciate the insight.  I've got some work ahead of me.
+---
+To get an idea with builds included go to metabattle and filter on profession. Note that metabattle gives an overall idea on current state of the class but in niche groups focusing on a strict meta, results will vary
+---
+Should've added the pugs' LI requirement as a variable IMO. Better and more confident groups are disproportionately more likely to do melee and succeed, so it would be nice sorting groups by their LI requirement and seeing their respective success rate on melee and ranged. LI obviously doesn't reflect squad skill well but I can't think of any other easier way.
+---
+As someone with 10k hours in the game I stopped seeing that about a year ago to be honest. The random chit chat leading to new friendships went with it as well. I can’t even get into raids in gw2 anymore without being kicked / yelled at about once every 2 bosses. Sure I may not be great and maybe I deserve to get yelled at even but like I’ve never been yelled at in any wow content expect pvp which is about the same as gw2. I respect you defending what you know but I have to state the reality that is yours today used to be mine also up until last year.
+---
+I don't know, why but for some reason I thought you were going to link to a video of that Sylvari who says "I know your face from my dream!" over and over
+---
+UwU
+---
+How would you queue for it? Without any defined roles, it would be a nightmare. Hell, if you queued for "Chrono" you could show up playing condi dps, power dps, low toughness boons, high toughness tank boons, etc. Because every class can do anything queues are incredibly hard to implement.
+---
+Every profession has builds that allow them to do well in every place.
+---
+If anyone tells you a profession is bad, they are actually telling you they are bad at that profession.
+---
+So it's a matter of finding what works for you in terms of fun and skill.
+---
+Do tell
+---
+Yeah, and melee people sometimes steal oils as well. Basically regardless of which way you do it you need good tank, hk and oil kiter. And in my experience there's no point in trusting people with melee when you can spend a minute or two more and do regular ranged stat. Basically I've given up on melee without voice.
+---
+The players doing melee are better and more confident than those doing ranged.
+---
+Ranged is easier for bad players. They do it because they keep dying on melee.
+---
+Damn I didn't even know the Chinese version was still active.
+---
+Not a reason to create (spam) a new full post per class ! Could as well have kept discussing this in the post you already made, where there are already answers for rev btw.
+---
+Also ideally you wouldn't have created a post at all and used the [question thread](https://www.reddit.com/r/Guildwars2/comments/egqkah/weekly_rguildwars2_question_thread_december_28/)
+---
+Comparing it to wow. Another dead game, survived by its slaves that pay a sub to play that dinosaur. 
+---
+Anet is not anet anymore. If you cant see that you're in denial of the games current state of decline. I'm sure they've got new skins in store for you in the new year though.
+---
+IIRC, in FFXIV one toon can be any class. If your current class has specific traits active you can only queue for certain roles, if your build allows you to more than one option, you manually pick what you want to queue for.
+---
+Kormir, the Goddess of Truth, outright states that Balthazar is no longer a god in ["Facing the Truth"](https://wiki.guildwars2.com/wiki/Facing_the_Truth) which does lead to some problems with the reason why she can't fight Balthazar (as the reason given for Kormir's noninterference in the Elonian conflict is that a fight between gods on the mortal plane would destroy Tyria even though 1) the five gods fought against Abaddon in the past and the only bad thing that we know happened was a catastrophe turning the Crystal Sea into the Crystal Desert and one verdant piece of land into the Desolation, 2) Balthazar is no longer a god even when empowered by a bit of dragon energy and Bloodstone magic, so at most he'd be at a demigod power level and thus Kormir should have no trouble teleporting behind him, whacking him on the head and dragging his unconscious body back into the Mists if killing him was not an option):
+---
+&gt; **Lady Kasmeer Meade:** I—please excuse me, Goddess. Perhaps I wasn't clear—we can't hope to defeat Balthazar without the aid of the Six.  
+---
+&gt; **Rytlock Brimstone:** Or the five. Balthazar is one of the Six.  
+---
+&gt; **Kormir:** No. He isn't. Balthazar has been stripped of his claim and title. He is no longer one of the Six.  
+---
+&gt; **Character Name:** Stripped of... He's in Tyria as we speak, leading an army. He claims to be the god of war. [...]  
+---
+&gt; **Kormir:** We stripped him of his power, and chained him in the Mists. There he would remain, forever—powerless to carry out his plans.  
+---
+Additional clarification in the story journal entry for "Facing the Truth":
+---
+&gt; In response, the rest of the Six stripped Balthazar of his power and chained him in the Mists, where he remained until Rytlock unwittingly released him. Once freed, Balthazar set out to recover his lost power, defeat the Elder Dragons, and claim their magic for himself in order to take vengeance on the other gods for imprisoning him.  
+---
+Balthazar himself implies being depowered as well in ["Heart of the Volcano"](https://wiki.guildwars2.com/wiki/Heart_of_the_Volcano_\(story\)):
+---
+&gt; **Balthazar:** They abated me, dimmed my light... But they will see me now. [...]  
+---
+&gt; **Balthazar:** I was weak... I'm feeling much better now. [Balthazar manifests his fiery greatsword]  
+---
+If Balthazar had been at full power, his attack would not only have killed Marjory during his reveal but all of the Pact Commander's party, Phlunt and the New Novus krewe back in Season 3 instead of him letting the mercenaries do the dirty work while stating how the confrontation tired him, and we would have been unable to defeat him during PoF. As [stated](https://www.reddit.com/r/Guildwars2/comments/74qjlh/path_of_fire_devs_here_ask_us_anything/do0hz8w/?st=j9nk3g6t&amp;sh=4eadf480) by developer Connie Griffith (and thus we get literal word of god from one of the writers who had worked on "Facing the Truth" among other instances in PoF), Balthazar even at his weakened power level (at most at a demigod level with all the magic absorption by all indication) could only be defeated in combat with the combined strength of a skilled opponent who caught him off guard (Commander), a dragon countering his attacks (Aurene) who saved the Commander at the eleventh hour, his own sword containing traces of his former divine magic (Sohothin), and an irritated Elder Dragon (Kralkatorrik) firing blindly at the battlefield to distract him:  
+---
+&gt; I think you might have answered your own question, bc Sohothin and Aurene are definitely key factors ;) However, it's important to remember that Balthazar's power level is not at the same level when the other gods stripped him of his power and chained him in the Mists. The power he wields in PoF is what he's regained since absorbing a bloodstone and Taimi's machine. He's still mega-powerful, but the Commander is also pretty freakin' powerful and using a god's own sword against him and having your own pet dragon seem to go a long way.  
+---
+This of course opened the still unanswered question about what happened to Balthazar's stripped divinity. Nightfall lore indicates that a god's power needs a vessel or it runs rampant and it requires a choice only a mortal can make (hence Kormir's sacrifice to become his successor). That's why Abaddon was chained in the Mists as a fallen (but not former, unlike Dhuum) god as the gods needed a suitable replacement for him. Unless the gods discovered a way to either divide Balthazar's divinity among themselves (which would be strange because Kormir still calls the pantheon the Six rather than the Five while specifically excluding Balthazar from it) or stored the power in some artifact (which would beg the question why the gods didn't do that for Abaddon back in the day if the mortal part wasn't required), the most logical path is that Balthazar already has a successor in the pantheon.
+---
+It would be nice if that replacement was actually the GW1 Hero who already proved themselves to be a honorable even if jaded combatant, but it seems ANet may not want to step on players' toes and dictate an ending to the Hero even though the Hero's ascension and departure into the Mists would retroactively explain why the Hero let Joko, Ministry of Purity and crazed Adelbern and Flame Legion to run rampant and cause destruction throughout Elona, Cantha and Ascalon without interfering.
+---
+The ["Requiem: Zafirah"]() short story does potentially hint at the existence of Balthazar's successor given the way Zafirah is surprised at meeting Balthazar in person and having a different sensation from her earlier prayers. Although one can argue that the different sensation and dissonance are Balthazar turning into a betrayer during his imprisonment, that theory would indicate that the gods only imprisoned Balthazar recently (since Zafirah felt the odd changes during her lifetime) which would make the rest of Tyria's timeline a bit confusing (gods' departure deeper into the Mists seems to have caused the resurrection shrines to stop working, and this happened between GW1 and GW2, long before the events of Zafirah's life by all indication and thus couldn't have been a recent event):
+---
+&gt; Then I felt something. I didn't know what it was at first, but it felt strangely familiar to me. A power. A presence. Had I felt it before? Had it always been there? [...]   
+---
+&gt; The Zaishen told me I was one of them, accepted me with open arms. I had been given a gift by Balthazar himself, they said. And I believed them. I felt Balthazar's presence that day. His power was there, all around me, guiding my hand. It had always been there, I realized—a shadow of a thought in the back of my mind. It wasn't until Atsu spoke to me in that cave high above the Desolation that I finally realized my true calling. [...]    
+---
+&gt; Under Atsu's guidance, I donned the garb of the Zaishen. I learned the words Balthazar spoke to us long ago, when he helped humanity conquer Ascalon. I learned to listen to his voice deep within me and spread it to those who could not hear him. [...]  
+---
+&gt; The moment I saw him, I knew this was my god. I knew this was the one I had pledged my service to. The one who had given me my gift. The one who had brought purpose and meaning back to my life.  
+---
+&gt; But something was wrong. He stood before me, tall and imposing, power radiating from his physical form...but this power was different from what I had felt all those years before. His voice dissonant from the one I heard within me.  
+---
+&gt; Still, I was blindsided when he betrayed us.  
+---
+I hope that one day the story answers what happened to Balthazar's taken divinity. Unless the idea was to originally turn Aurene the next god of war somehow despite the power having been gone from Balthazar at least for years (suggested in Jessica Price's tweets which otherwise seemed to contain correct information regarding story issues whereas Tom Abernathy has denied that there ever were plans to make Aurene the new Balthazar to unite dragon and divine magics in harmony), we should hopefully encounter the new Deity of Conflict (perhaps a fully armored GW1 hero with a helmet concealing their features, an androgynous body and a booming voice using both female and male actor to leave their sex ambiguous) at some point if the gods ever return to the story. We at least know that the devs may yet have stories to tell about the gods, whether it's about why Lyssa mocked Kormir and wasn't cursed by Balthazar, what happened to Menzies, whether the gods left to find a new paradise to transport Tyrians into, why Razah was Abaddon's greatest secret, and other such stories. :)
+---
+Criticism is criticism.
+---

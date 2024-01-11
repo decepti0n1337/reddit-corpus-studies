@@ -1,0 +1,2038 @@
+WoW griffon masters, GW2 waypoints, and ESO shrines are much better in that regard.
+---
+---
+---
+Apologies, here you go! Here are the details
+---
+
+---
+\*--&gt; Crash &lt;--\*
+---
+Exception: c0000005  
+---
+Memory at address 00000000\`00000000 could not be written
+---
+App: Gw2-64.exe 
+---
+Pid: 3032
+---
+BaseAddr: 00007FF730820000
+---
+ProgramId: 101
+---
+Build: 100597
+---
+Module: d3d9.dll
+---
+When: 2019-11-28T23:43:21Z 2019-11-28T16:43:21-07:00
+---
+Uptime:   0 days  0:00:07
+---
+Flags: 0
+---
+&amp;#x200B;
+---
+\*--&gt; System &lt;--\*
+---
+Name: 5697cc99
+---
+IpAddr: [10.0.0.99](https://10.0.0.99)
+---
+Processors: 4 \[GenuineIntel:6:12:3\]
+---
+OSVersion: Windows 10.0 (64 bit)
+---
+\*--&gt; System Memory &lt;--\*
+---
+Physical: 10144MB/16303MB  62%
+---
+Paged:    15016MB/26543MB  56%
+---
+Virtual:  134213080MB/134217727MB  3%
+---
+Load: 37%
+---
+CommitTotal:  11527MB
+---
+CommitLimit:  26543MB
+---
+CommitPeak:   24270MB
+---
+SystemCache:   9833MB
+---
+HandleCount:  96546
+---
+ProcessCount:   211
+---
+ThreadCount:   2631
+---
+\*--&gt; Process Memory &lt;--\*
+---
+Private:          145MB
+---
+WorkingSet:       126MB
+---
+PeakWorkingSet:   175MB
+---
+PageFaults:    682537
+---
+\*--&gt; Memory Category Usage (Inclusive) &lt;--\*
+---
+\[Category\]              \[Size(MB)\]  \[Count\]     
+---
+Root                    89.89       6562        
+---
+Programmer Data         51.66       1021        
+---
+Collections             34.63       335         
+---
+Uncategorized           31.79       4786        
+---
+Dictionary              26.09       45          
+---
+I/O                     13.56       503         
+---
+Archive                 12.23       32          
+---
+Set                     8.48        47          
+---
+Collide                 6.45        755         
+---
+Collide Havok           6.45        755         
+---
+Engine                  3.10        24          
+---
+Gr                      3.08        13          
+---
+File Service            1.24        13          
+---
+Networking              0.18        34          
+---
+Event                   0.13        5           
+---
+Asset Service           0.08        453         
+---
+Gr Umbra                0.06        2           
+---
+Game                    0.05        55          
+---
+DDI                     0.02        3           
+---
+Content                 0.02        1           
+---
+Threading               0.01        15          
+---
+Msg                     0.01        9           
+---
+Model-Programmer        0.01        1           
+---
+UI                      0.00        24          
+---
+\*--&gt; Memory Category Usage (Exclusive) &lt;--\*
+---
+Gr                      3.00        2           
+---
+Networking              0.16        25          
+---
+Collections             0.06        237         
+---
+Game                    0.02        45          
+---
+Engine                  0.01        6           
+---
+Web Browser             0.00        10          
+---
+BTree                   0.00        6           
+---
+CharClient              0.00        5           
+---
+Services                0.00        12          
+---
+File Core               0.00        4
+---
+It doesn't take a genius to realise that what one sees in game informs how one thinks about the world. That doesn't mean that the lore can't contain things which aren't shown, but they're certainly more likely to make it feel like the two are actually part of the same world. Nor does it mean that everything one can do in game has to be part of the lore.
+---
+I'm actually playing through GW1 w/a guildie of mine. She'd never played 1 before 2. It's a trip!
+---
+Hi,
+---
+Taken from:  [https://help.guildwars2.com/hc/en-us/articles/201863008-Repairing-the-Game-Client](https://help.guildwars2.com/hc/en-us/articles/201863008-Repairing-the-Game-Client)
+---
+  
+---
+1. Locate your **Gw2.exe** file.
+---
+2. Right-click on the file and select **Create shortcut**.
+---
+3. Rename this new shortcut to **Guild Wars 2 Repair**.
+---
+4. Right-click on **Guild Wars 2 Repair** and select **Properties**.
+---
+5. Locate the **Target** line and add **–repair** to the end. (*Example:* "C:\\Games\\Guild Wars 2\\gw2.exe" -repair)
+---
+6. Click **OK**.
+---
+Best of luck!
+---
+The message should be much longer than this. Can you try again and make sure you copy all of it? 
+---
+Usually though, the problem is that your video card's drivers need updated or Windows needs updated.
+---
+Weapon swap fresh air weaver MonkaS
+---
+This game is so beautiful. I tried to play it again a few weeks ago but just seemed like anything I queued for was empty :(
+---
+GW2's combat is technically different, but it's not good, so that's not something it does better than other MMOs.
+---
+GW2's combat is very spammy, requires very little skill, is full of animation canceling for optimal performance, highly encourages melee stacking, group composition and buffs increase DPS by far too much compared to other MMOs, buffs and heals are very passive, and you don't interact directly with your teammates whatsoever. No true ranged archetypes exist in PvE in any officially supported sense, DPS or healers; everybody stacks in a melee blob, or a loose melee blob if a mechanic demands them to spread.
+---
+Fuck GW2's combat system, it severely limits endgame PvE and pigeonholes every class into a homogeneous set of melee DPS/melee support builds. Oh wow, you can move while casting, so smooth and unique!!1! No. Give me actually good combat with a wide range of archetypes that are available in every other fantasy MMO.
+---
+&gt;Fractals and Raids are tacked-on additions to a game that never wanted or needed them.
+---
+wrong-o
+---
+Its black friday tomorrow...
+---
+Nah, what we need is GREATSWORDS FOR EVERYONE and those who already have greatswords should start to dual-wield them!!!!!!!!!!!!!!!!!!!!!!!!!!
+---
+The reason I love the game is the world. Every area feels very fresh with tons of detail. I'm in love with the Icebrood Saga map.
+---
+Racist
+---
+Same I loved having my own Dimensions in RIFT. You could build really cool stuff in there and later even added your own crafting stations there. Which we kinda got with Chef 500 now in home instance, but it's just meh that you can't choose where you wanna put all the stuff in home instance :(
+---
+This was the best comment I've seen on these issues in a long time.
+---
+but sales on the  expansions  will be in 1 december
+---
+Wait when did the djinn get protection from Abaddon?
+---
+If Jessica deserved to be fired, YOU deserved to be locked in a car and burnt alive with your kids. 
+---
+Listen, you double-standards fake-gamer cunt: Just because you are sleeping with sexists does not mean that you have the privilege to talk over real women.
+---
+Just have your [priorities straight.](https://i.imgur.com/gQq9D98.jpg)
+---
+Best looking city in the game. Should be a main hub instead of LA
+---
+[citation needed]
+---
+Tbf it was a very good trait for pvp when it was added, in the few months between the specialization changes and HoT release. It's just one of the traits that got power powercrept out of relevancy.
+---
+It should not matter, but try removing the one in there first
+---
+Sorry again, heres the full message. It was to long at first 
+---
+Pid: 700
+---
+When: 2019-11-29T00:36:06Z 2019-11-28T17:36:06-07:00
+---
+Physical: 10419MB/16303MB  63%
+---
+Paged:    15269MB/26543MB  57%
+---
+Virtual:  134213068MB/134217727MB  3%
+---
+Load: 36%
+---
+CommitTotal:  11274MB
+---
+SystemCache:  10795MB
+---
+HandleCount:  95617
+---
+ProcessCount:   207
+---
+ThreadCount:   2544
+---
+WorkingSet:       127MB
+---
+PageFaults:    738724
+---
+Root                    90.07       6538        
+---
+Programmer Data         51.72       1001        
+---
+Collections             34.54       333         
+---
+Uncategorized           31.90       4782        
+---
+I/O                     13.71       485         
+---
+Archive                 12.40       29          
+---
+Set                     8.40        45          
+---
+File Service            1.24        12          
+---
+Asset Service           0.06        441         
+---
+File Core               0.00        2
+---
+I thought it was nice!
+---
+Same with Desiccate. Damage, might, life force, boon corrupt. Necro has so many possibilities to stack might but it's still trash at it, it's also 5 man except for Abrasive Grit with Sand Savant.
+---
+I'm wondering why fall damage affects this, but i tend to avoid JP's as i can't jump so maybe i'm misunderstanding -  still would like to know aswell!
+---
+well,with them exp group you gona kill everything within 60 sec in fractals ,so if you could just remove 2 supports from group and add 2 more dps.....ye maybe even +200% hp.
+---
+i always felt that being able to be in 5 guilds kind of killed the in game community over time.   It should have been one guild, of higher numbers with alliances.
+---
+Battering ram is ridiculous CC and not much of a loss compared to rifle turret. Throw mine is actually a stupidly strong utility, even beats rifle turret but is harder to use compared to rifle turret. Flame turret is useful in kitless condition holosmith, and you can still pull about 26K dps for very low intensity play - there's room for quite a bit of improvement there as well. In some situations you can precast the rocket turret toolbelt from far away, though that is finnicky. Net turret is useful for back warg on escort. Heal turret has ridiculously high healing potential and does good cleanses as well: i have a xera log in which i did 154 cleanses on the group using just the healing turret. Rocket boots are fantastic in wvw for disengaging and have good application in JPs and some fractals. Slick shoes have a low cooldown stunbreak and in concert with the skill itself can make it easier to run through a mob of enemies. Utility goggles can (until the next patch) help when solo capping a camp in wvw because the scouts blind you so much, and they help maintain fury and, when traited, might. AED is meta in raid encounters without conditions because it allows you to ignore some mechanics and brings a lot of CC.
+---
+People seem to be resistant to the idea that engineer is designed to have a little something for any situation, not to have things that are so good that they belong in every situation.
+---
+Guild Wars 2's population and revenue never recovered from the introduction of raids.
+---
+&gt; Is DE as well slowing down with updates?
+---
+Well, let me ask you this. Do you think revealing your next big patch in 2018's Tennocon, giving little-to-no info all the way to Tennocon 2019 besides "we're a bit behind schedule" and now it's almost December and the patch is still not out "slowing down"?
+---
+DE is INFAMOUS for taking far too long for their big updates, them releasing very buggy overall and ultimately being ridiculously easy or short.
+---
+Awesome! :) I love seeing characters decked out like this for Wintersday!
+---
+To add to this, you can ping to seek a training run going yourself as well, and if an instructor is available they will usually be happy to help out
+---
+&gt;WoW or any other MMO doesn't have anything like the battle for Tarir in Auric Basin, the fight in Dragon's Stand, the four concurrent Chak Gerents and their pre-events at the different bases, the map-wide defense in Verdant Brink, the Silverwastes fort defense and Vinewrath multi-lane boss, the Dragonfall meta, the temple event chains in Orr... I could keep going, but you get the idea.
+---
+Yeah, no other MMO has it.
+---
+Except FFXIV with its FATEs, which there's entire chats and sites dedicated to know when and where they'll happen. I could keep going, but you get the idea.
+---
+Make sure you chose the American active district, I still met a bunch of people in the outposts. However, it's easier to find someone in the main cities like Kamadan and ask them if they wanted to join. 
+---
+You could also join a large guild/alliance like LGiT, about a year ago they mentioned having more than [1800 members](https://www.reddit.com/r/GuildWars/comments/8j3myy/lgitlegit_guildalliancerecruiting_members/) and they just had a [huge Halloween event](https://www.youtube.com/watch?v=UZiPAOVrpPw) this year. I don't know much about it but they seem to be the largest group overall.
+---
+&gt;I really hope that they cling to their 'Icebrood = expansion' 
+---
+Did you even see Episode 1? That was expansion worthy to you?
+---
+&gt;The new map isn't even fully released yet
+---
+Yet the fact the first Episode was so small and garbage kinda implies everything afterwards will be the same. Or do you think that the map expansion will somehow be bigger than the current one?
+---
+Thematically speaking short bow is a horrible weapon to exist in a game imo. Any profession that can use longbow should also be able to use a shortbow, in my eyes there should be just bow. And classes would use it differently (range and all that, a ranger would age long range and a thief or warrior a smaller range like shortbow does right now).
+---
+They should have made it longbow and crossbow for a clearer distinction. In real life the way you use both is completely different and the goal of both (or specialty I guess) is also fairly different. Longbow and shortbow are too alike when it comes to theme.
+---
+As for intopic. It still bothers me to hell that engi has no access to mace. Feels like the most obvious weapon for one and it's also one of the least used weapons across weights (all the heavy professions use it, none of the mediums or lights use it).
+---
+If we had new elite specs I would love to see more professions get mace (engi, and I could see a necro using a mace if themed around a "judge" of death), shortbow (warrior? I honestly don't know how I'd give shortbow to any class, maybe to ele or mesmer), and
+---
+Oh dang they removed them?
+---
+I remember back in the orginal game playing as my Ranger and taking that trait that spawned mud under you, since I loved climbing and jumping off places to explore. 
+---
+Recently went back and the starting areas feel so different with all these people running around with mounts. The gliders I don't mind though, but something about seeing the mounts make such short work of everything that used to take so long annoyed me to some extent.
+---
+I wonder if they are going to be making some major changes to the game regarding fall damage and movement speed (both IC and OOC), like... normalize all movement speed to 25% IC and OOC, and lessen all falling damage. Or just add masteries for those. Probably they'll add masteries if anything, I suppose.
+---
+Nice, thanks!
+---
+To be fair, we've got some pretty cool enemy variety in the new version as well, fun attacks on most of them, lots of bosses and the Boneskinner is gorgeous.
+---
+I believe that's called a mace.
+---
+It's a analog wand yo.
+---
+and if you look across the tracks and see other trains passing and say "guys, is there something up with our train? All the other trains are chugging along just fine. Wheres ours?" the crowd turns to you, calls you toxic and then pats each other on the back and reaffirms to themselves that they are a very nice community.
+---
+BUT YOU DON'T GIVE UP, so you say it again and the reply this time is "well, its a free train, so its fine that it takes months for the train to travel for one hour's worth of distance!"
+---
+If its free why the fuck did i pay for a train ticket then and why the fuck are they selling me leg room and a flashy seat cover for £20 a pop
+---
+but for 2000 gems you can change the passenger carriage into a passenger carriage that is made of stars. Ooooh, shiny. *hands over £20*
+---
+Actually I'm pretty sure any reasonable person would see the bootlicking reference as negative.
+---
+&gt; yet only sellers stay up contstant
+---
+If course ONLY sellers stay up constantly. Every other squad gets unlisted when it fills. If you need 3 people you'll un-list once you get them, automatically.
+---
+But raid sellers ask people to join squad, get info, contact them, and leave squad. Of COURSE they are listed constantly and OF COURSE no one else is. A constantly listed squad is a non-full squad.
+---
+I'm not denying that there are more statics than there are pugs (although I don't think either one of us have the data to make a point here). But what are we really arguing about?
+---
+Pissbabies gonna pissbaby
+---
+Even tho that might be true if you just start raiding .. as soon as you hit some experience and some kp it is super easy to gibt groups the whole afternoon/ evening 
+---
+To get some exp you are better off joining a Trainings grp or a guild
+---
+A couple of more pictures
+---
+[https://imgur.com/liUKKjJ](https://imgur.com/liUKKjJ)
+---
+[https://imgur.com/O9rlPIf](https://imgur.com/O9rlPIf)
+---
+The game is old. Not worth. It’s like saying you should play runescape because it was good for it’s time.
+---
+Thanks :) Wintersday is one of my favourite events in GW2
+---
+[removed]
+---
+This is a very detailed answer, thanks a lot! GW1 sounds really interesting the more i read about it. I will seriously consider to get the complete edition. Sadly i cant get the complete edition on steam as it seems... And buying each one of them in Steam would obviously be a waste of money considering its 25$ on the official Page.
+---
+During the wintersday event and when I'm off work, I hang out in the starter areas like Hoelbrak and send gifts to random players, I try to target new players.  Its a bit of work but I have fun doing it.
+---
+Couldn’t agree more
+---
+maybe we should all go play gw1 and by the time we finish it, when we come back to gw2, there will be shit load of content!
+---
+Thank you very much for your reply. I really don't know much about DE and WF story, except what I've heard (from WF fans). There's a lot of praising, but im still quite new to judge. Ive seen now that there is some big hangar and building of some clan ships (that's the new update), but as i said, still dont know what's going on, or when announcement of that came to light... :)
+---
+That makes sense then
+---
+Personally, I never had a problem with going full zerk gear and bringing several stunbreaks or defensive utility skills. Especially with mounts nowadays, you can burst things down so quickly you don’t need to worry about defensive gear
+---
+You had fun after 2014?
+---
+Lol IDK what we are arguing about cause I agree with that. I think we are just talking at each other.
+---
+...
+---
+Lol yea I hear ya. I personally am a filthy casual and  too lazy to dodge sometimes so the sustainability that Scrapper has is satisfying to play. I tried full zerk on my first toon (Warrior) when I started playing GW2 and found it too squishy. 
+---
+I’ll think about full Berserker gear in the future but for now Marauder gear seems like a good trade off for damage and sustainability for me.
+---
+Mostly no global cooldowns, but also combo finishers, dodge roll, conditions are clear you don't have to recall numerous effects specific to every mob you encounter. There is huge skill celling to most classes.
+---
+That hangar and the ship is them releasing the prologue for their full patch early.
+---
+Calling out my "condescending sarcasm" after saying people had "extremely unhealthy pyschological behaviour" is truly the depths of pit calling the kettle black.
+---
+Your lack of self awareness is impressive.
+---
+Thanks for the offer, message sent.
+---
+You should join the discord and at least idle in there. Training happens more often than you think at random hours in the day. It's also a no commitment community so they wont boot you for not participating.
+---
+Anet: Pikachu Face
+---
+I seem to have misplaced my naughty list, or perhaps a pocket raptor took it.  You are safe :)
+---
+I mean,  will it get much cheaper that $20 for everything?
+---
+And hydras that can wipe your entire party.
+---
+I see - and agreed. Feel like the skill level in NA is just lower than EU, not just fractals but raids as well
+---
+You're forgetting the part where Runescape looks like dog shit though :)
+---
+:D
+---
+I can’t wait!  I love it so much!  Your character looks awesome too!
+---
+Never played WoW, but it's definitely different from Wildstar, both versions of The Secret World, and DDO in how the overall fight goes down.
+---
+Might as well shut off the servers then.
+---
+Here's my "pie in the sky" secret hope for whats been going on.
+---
+around lw season 3 they split of a bunch of devs for the side projects that were recently announced to have been cancelled. when they were cancelled is when a lot of the layoffs happened.
+---
+my hope is that while many older and more known devs left in the time since, it left enough budget space to keep devs employed and that there are actually more devs working on the game now than before the layoffs.
+---
+Let's assume that prior to the layoffs the content plan was for a lw season 5 then a new expansion. so some work is already in progress on new maps and episodic content. I assume this since there were no expansion leaks or hints at an expac.
+---
+If arenanet needs a money influx to put the company back into the black they need the expac to come out sooner than later. so they cut back on the lw season, they call it a "saga" instead to explain the shorter episode lengths and the lack of major other advancements .
+---
+Instead they spend  most of their dev time on the expansion and hold back major updates for multiple parts of the game to push out in a single large sales pitch to generate buzz.
+---
+think about the turnaround in the subreddit if over a couple weeks they announced 
+---
+1) a new expansion with new story
+---
+2) new elite specializations, or new playable races like the kodan and the  tengu
+---
+3)new 3 wing raid
+---
+4)automated pvp tournaments and improved matchmaking
+---
+5)alliance based wvw
+---
+6)new fractals from lw season 1 "Attack on lions arch" and "Confronting Scarlet"
+---
+7)Weekly challenges
+---
+8) new craftable ascended weapons and armor
+---
+I think they learned a lesson that we might not like from POF. the player base is not patient and does not stay hyped for content that comes out slowly as it's done. we only seem to get hyped by big grand releases with something for every little niche in the game.
+---
+Yeah, hard Disagree on that.  Five guilds at once works just fine if you create an actual purpose behind the guilds, or if the individual guilds can have some kind of more in depth roles.  It works in ESO just fine, and is in no way killing the game's population.
+---
+Reddit is inherently negative, take it with a grain of salt. 
+---
+Lots of the players that are tired or burnt out with the game have enjoyed hundreds of hours and only now are finding it not fun. They forget that that they too once enjoyed the game. Id just enjoy the game and not worry about the downers
+---
+&gt; Mostly no global cooldowns
+---
+But is that objectively a good thing? I mean I can understand if people prefer pressing skills in quick succession but having no global cooldown on certain actions in GW2 with barely customizable key bindings is awful. You can't even have seperate key bindings between multiple characters and certain skills are forced to share their bindings. (Like forced skill orders on weapons, conjures, tools, etc.)
+---
+Of course you could see that as a problem of the UI or the game in general and not the combat itself but some inputs are just not fun if you want to play optimally.
+---
+I bet it'll taste like leather.
+---
+Not updating \*insert everything but open world here\*
+---
+It's almost as if different people have different opinions about the combat and none of them are actually wrong because it's entirely subjectively based on what you personally like in a combat system.  Weird.  
+---
+Btw, I am still in the camp of "Brilliant action/cool-down hybrid combat and better than any fully cool-down based system by a long shot" camp.  I detest the combat of WoW, FFXIV, and SW:ToR, to name a few of the other big name ones I have played extensively.  ESO tries really hard but ends up failing in the category of class-identity so that, at least and especially for stam builds, every class feels exactly the same to play because the primary damage skills are tied to the weapons and the same across all classes... and also manages to still be a slower paced system despite having limited cool-downs like GW2.  
+---
+I don't know that it's 100% the best, since I also really enjoy the combat of BDO as well (It's the entire rest of the game I hate).  I think the biggest problem there is that mob A.I. and mechanics is almost nonexistent so there's this great combat and nothing at all actually presents even the slightest threat or challenge to make you actually need to use that combat.  The same could be argued for GW2 perhaps, but I still find challenge by doing stuff like solo-playing group content, and that's fine for me.  
+---
+What GW2 does do better than most MMOs is exploration and map design in PvE... particularly in Core and HoT where sometimes I still find new stuff on revisiting the maps.  (The living world maps, some of them, are very well designed too... though those are more hit or miss which I believe is largely because of alternating design teams)
+---
+There's actually a ceiling to the height you can gain above your starting point, even with the diving trick.
+---
+I certainly do not wish to refute any of it. I agree with it. I identify with the sentiment of this guy's comment, in that I'm sick and tired of everybody's worry and impotent anger about it. But here's the thing: r/guildwars2 is optional; If I don't like the tone, then I come back later. Trying to control the tone by expressing equal but contrary impotent rage just increases toxicity.  So folks can have their beliefs. I can agree and be annoyed at the same time.
+---
+I'm just going to play the game modes I like, play other games in the down times, and hold my breath with each content release that there is something that truly interests me. just like everyone else, I wait and hope. 
+---
+Rage on for sure. Nuffin i can do about it anyway.
+---
+Been thinking that for a little bit.  Would have been much more in-line with GW1's necro.
+---
+I started playing the game about a year ago. It's worth playing imo. I bought all the expansions and don't regret it. 
+---
+I wouldn't expect it to be a main MMO though. It's more of a binge for a month, then let it rot for 3 till a new story mission comes out. 
+---
+My biggest issue with the game is the difficulty. It's all over the place. PvE is AFK worthy and PvP seems like you need a degree in the game to know what the fuck is going on. Which is weird to me because PvP seems like it's most replayable aspect but it's so newbie unfriendly. PvE gets stale because it's all farming the same stuff over and over. The achievements are basically just farms and raids are released so slowly why even bother getting into them. Also, gear is stagnant, so why raid at all? You're not getting anything.
+---
+I dunno. I'm still new too but I'd recommend playing it and leveling up but I'd stay away from the cash shop. Games a revolving door; super fun when you're in but in the end you're just running in a circle accomplishing nothing.
+---
+Or, just hiding. Like the Hydra were, the Dryder are, and everyone wishes the Mursaat was.
+---
+Disagree with dungeons, Fractals should be reworked with AR as an account wide thing. Do this, and release them more often, and suddenly fractals are dungeons
+---
+Doesnt work! I cant choose the slot i put the legendary one in. And i cant simply remove a normal rune from ascended armor wothout an upgrade extractor, i guess.
+---
+Those are Risen Abominations, not Boomers. Wrong game.
+---
+If you can be satisfied playing the backlog of content (which is mostly worth playing, yes) then you're good for a while. The servers won't shut down soon and there's plenty to do.
+---
+When you're caught up on that and looking for a challenge... well... there might be some problems there. Definitely enjoy the backlog of content, though. People are invested for a reason, and no matter what angry posters say the strife is mostly from people who are attached to the game and wish it were doing better than it currently is.
+---
+What is your laptop? A 1060 GPU and 8gb ram? It must be huge
+---
+still tons of people in game. in fact, more and more people on my friends list are coming back. it's just a game where you complain a bit, take a break , then come back anyway because it's still the number 1 mmorpg on the market 7 years later. 
+---
+Which brings me to the next question, how the hell has there been no better mmorpgs in 7 years? like, sure there are good ones, but none that tops gw2 definitively? damn, either we are looking at the greatest mmorpg that is gw2, or the genre is dying.
+---
+Asus TUF fx 504GM
+---
+Informative post. Thanks!
+---
+I tried that, but didnt improve that much (drops of fps around 15-30m). Ill reinstall the game and try again
+---
+Choo Choo
+---
+[Choo choo!](http://imgur.com/qfqHTY9)
+---
+-------
+---
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Guildwars2) if you have any questions or concerns.*
+---
+TL;DR: Anet is just like any other company.  People leave all the time and they will be fine.  Setbacks happen but it doesn't mean the end of the company/world.
+---
+WoW, FFXIV, ESO, BDO, Eve Online, and more. There’s a lot of strong contenders in the MMO market, and GW2 isn’t head and shoulders better than any of them. But personally, I don’t find any of those other games worth playing now. It’s GW2 or nothing.
+---
+&gt; it's still the number 1 mmorpg on the market 7 years later. 
+---
+what
+---
+the
+---
+FUCK
+---
+are you on
+---
+I want soime.
+---
+I’m on NA though
+---
+That is the problem with the game right now! If future content is going to be 'easy' open-world content, then you're not really getting to use the combat system.
+---
+I don't particularly mind if they go with PvE over PvP/competitive modes, but if it's PvE at least give the combat some impact. You can even give up support for raids/fractals if you wanted, but at the *very least*, give us some new combat options. New elite specs with zero content would still be better than delivering combat-lite collection content.
+---
+Basically, the game is *no longer carried by* its:
+---
+- Guild content: abandoned
+---
+- PvP/competitive modes: that is a side-note and not the main focus
+---
+- PvE endgame: that is mostly RIP, strike missions are the last hope
+---
+- Fashion wars: outfits and gemstore really killed off the connection between Guild Wars as a *game* and the dress-up element.
+---
+- Roleplay: lol
+---
+- Meta events: I am guessing they feel a bit old and worthless to do, which is why HoT/Silverwastes metas seem to have better longevity. 
+---
+So what we're left with is open world exploration and story. But PoF proved that exploration content was great for a first-go but not good for long-term content. Story content was the same, felt good the first time, but a chore every other time. Listening to NPCs talk more than the first times through is boring. Most importantly, none of this focuses on combat.
+---
+That's basically where it's at right now. If combat is sidelined, then a player whose interest in the game is with its combat is going to slowly drift away from the game.
+---
+Really enjoyed reading that, thanks!
+---
+Anet gave up on competitive and hardcore playerbases because other games did it better.
+---
+Aside from WvW, but WvW was abandoned early on when the devs for WvW shared completely different opinions on how it should be played compared to the players. From twitch streams and other communication, this is still the case.
+---
+The fact the game mode still has organised players playing what are basically vanilla maps and a vanilla game mode for no rewards is testament to how attractive the concept is.
+---
+&gt; Sigh, you fell so hard for that lie that it's honestly sad.
+---
+No, it's the absolute truth. I have been playing MMOs since Everquest, and have enjoyed some, for a time, but GW2 was far ans away the best, to me, **solely** because of the living world/ open world PvE elements to it. It was the game that said "you don't have raids or gear grind, you don't have to 'form a balanced party' to enjoy the game, just show up0 how you are, play alongside dozens of other players, and then move on to the next thing." 
+---
+If I didn't enjoy that, then I never would have played GW2, and would instead have stuck with one of the many other games on the market instead.
+---
+Not low effort.
+---
+Low effort would be making a gingerbread Norn and just making it a big gingerbread man.
+---
+You do understand that most GW2 players do not enjoy the sort of *"high challenge"* open world content you're talking about, right? Most of them actually *prefer* the low-stakes farmable open world content that you seem to dismiss.
+---
+This needs more upvotes. You are totally right. I can't understand why some others just want to start chaos.
+---
+Make sure you're plugged in and your power-performance profile is set to high performance in windows.  Windowed Fullscreen preferably.
+---
+The fire is in what's called "a fireplace." It is safely contained. It is not worth freaking out about.
+---
+Don't worry about it. Basically, there is a very vocal minority around here who are upset that they aren't being catered to. They are throwing a tantrum because they haven't gotten their way, and it doesn't look like they ever will, because they are irrelevant. Eventually they'll tire themselves out though, hopefully within the next few months.
+---
+The only MMOs that can with any certainty be placed above GW2 are WoW and FFXIV. The rest are either in another niche or neck-in-neck with GW2. I would never place ESO, BDO or Archeage any significant amount above GW2. They're basically all contending for the third spot.
+---
+It's not "the veterans," *most* veterans are happy with the state of things. It is PvPers and raider types, those that want those content modes to be further developed, even though the general community has shown no interest in them. *Some* of these players have been around here since launch, but that is not the defining element.
+---
+I like it! Now just to 3D print a cookie cutter out of it, a bit of icing and you can rake in even more virtual internet points :)
+---
+Back then it had a 5 second icd as well and it was nerfed to 8. Pretty big difference.
+---
+*Apples, apples for sale, come and get a nice quiet apple!* Psst! Over here Initiate.
+---
+Starting your journey to take down the Elder Dragons, huh? But due to our new rules the questions must be left in the [&gt;questioning session&lt;](https://www.reddit.com/r/Guildwars2/search?q=title%3Aquestions+thread+author%3AAutoModerator&amp;restrict_sr=on&amp;sort=new&amp;t=week). We have plenty of experienced historians there that can guide you on your first steps.
+---
+If you think your thread should be allowed to stay or if this was a mistake do report this comment or send a modmail and Pact commander will come take a look.
+---
+Gin-charr-bread
+---
+Nope, it's purely cosmetic, I think the only transformation (not linked to a tonic) that effectively make you change side (ie. players see you in red and you see mobs in green) is the one in Ember Bay that you get while doing the story.
+---
+If you want a more RP justification let's say that either the mob just saw you transform in front of them and they are not getting fooled or maybe tonics are just illusions and they are not powerful enough to change everything of you (maybe the mobs can still smell that you are you or something).
+---
+Speaking as a producer, what you're suggesting is never going to be a reality. Post-launch development is always data-driven. The influencers, the content creators, the most committed, most hard-core players and their impact on user acquisition, user retention, conversion (into spending) and monetization is difficult, often impossible to measure. Even if we acknowledge that these benefits exist (and I do), if we cannot measure them, we cannot paralyze our development attempting to justify their importance. We have to develop based on data we can acquire and analyze.
+---
+Any development costs resources. So any development will have to look at ROI (return on investment). That's why development is always doubling down on what people are spending most time and money on. If the WvW demographic is spending 10 hours a day per user but are still out-invested in total man-hours by the Living World users (who maybe do just 5 hours a week but are outplaying WvW man-hours 10-to-1), there's no question where the resources are going to.
+---
+Personally, I hate the neoliberal direction the industry is moving into. Unlike the "communistic" model of yore where everyone has to pay a fixed amount and developers are incentivized to develop enough content upfront to attract people to buy, and have to cater for everyone of every skill level, there's no longer a minimum required or cap on how much a single user can spend. So the 20% (pareto principle) is paying for the entertainment of the remaining 80% who game for free, but also means the developer will cater to that high spending minority (or in GW2's case, the majority bloc of casuals who play Living World and spend on skins and convenience).
+---
+That's why u/notenoughdaydrinking is right. You want more development in your preferred mode, there first has to be greater spending from the demographic playing that mode.
+---
+&gt; most veterans are happy with the state of things.
+---
+Cite a source
+---
+Its got nothing to do with making them feel superior and everything to do with keeping them in the game and producing content. I've told you over and over again how other games have been affected badly by similar issues.
+---
+It's about time we had a level-headed post in here from someone who actually understands the business and industry. The crazy horde meme-think has been really frustrating to watch unfold.
+---
+There's clearly been some behind the scenes crap and that sucks but the fact they have only very recently invested in that, albeit terrible, theatre show. They are releasing new stories and only just released build templates. They are releasing tonnes of merchandise including clothing and accessories, funko pops, the upcoming anniversary art book... They wouldn't be doing this is if they were about to switch off the lights.
+---
+Agree with all points, but havent been wvw and PvP folks been praising the plans for balance at their modes? They had a new lead there.
+---
+&gt; Its got nothing to do with making them feel superior and everything to do with keeping them in the game and producing content. 
+---
+Again, not worth it. If they don't enjoy the same game everyone else is playing, then what's the point in keeping them around? There's no point producing content *just* for a handful of people.
+---
+Unfortunately, this grounded, detailed and nuanced commentary will fall on mostly deaf ears because most in the community either don't have the capacity to understand or don't possess the professional experience to relate to this.
+---
+&gt;Cite a source, and its pretty funny that someone like you makes a statement like that after all the complaints you've made over the years.
+---
+Revenues have been steady and player populations on recent maps have been consistent with previous periods of the game's history. There is no evidence that any significant amount of players are currently upset about anything. The state of the reddit is due to a relatively small number of people, whether *you* agree with them or not. They don't represent the game's population. Unless *you* can provide evidence that the majority of the game's population shares their beliefs, there is no reason to believe otherwise.
+---
+And then you turn around and see that on one leg you're wearing nothing at all up to the groin
+---
+I only disagree on 1 point:
+---
+&gt;And the maintenance mode claim? I've been through corporate acquisitions, project refocusing and looming contract losses to know that companies generally enjoy staying in business
+---
+In the case of Anet and other companies that are not defined by a single product, reducing the focus on one product to focus on another isn't the "end of the business", in fact it's often the way forward.
+---
+GW2 still has years ahead but it will eventually go in maintenance mode, like GW1 did 8 years ago. The "maintenance mode claim" is just a fact of the industry, as a game (and the codebase/tech) grows old and the playerbase shrinks (Which is almost unavoidable, except for some unicorns in the industry like WoW or LoL), it becomes increasingly more interesting to release a new game that can truly exploit a more modern stack, design and gameplay.
+---
+What are all these "other issues that gw2 and anet are having"?
+---
+I did some at the skimmer ranch too https://imgur.com/a/sqvzw
+---
+What were you doing that you had to take 6 months to unlock it? 0\_o
+---
+It's barely a weekend, two tops to complete it.
+---
+&gt;no one is buying my in-game skins (I don't have those, actually)
+---
+Big untapped market here :p
+---
+This post outlines what I am also experiencing and trying to tell people, except I have way less than 15 years of experience to back it up (more like 3) :p
+---
+You are giving Anet way more credit than what they deserve and have clearly not been paying much attention on what has been going on around here for the last few months and how GW2 is being neglected while players are dropping out in droves.
+---
+Anet has proven that they cannot even develop GW2 properly alone, let alone 2 live games at the same time.
+---
+GW is fine just the way it is in any case, thank you very much.
+---
+Uuu 1 80 se have a  badass here. I be been playing till Ultima online so trust me I have been playing too much. Having content where even in endgame you do not need others and can play by yourself is perfect
+---
+Function gyro.
+---
+I dare you to give me a worse elite spec mechanic.
+---
+Merry Early Christmas Bois
+---
+I cant
+---
+Thumper is okay
+---
+Adorable.
+---
+I suspect what the "Icebrood Saga" really is, is an update cadence defined by "appetizer" style content released at shorter release intervals of 2-3 months; a balanced mix between exploration, lore and story content that we've come to expect seasoned with both mini and major meta-events such as Drakkar.  I think that ArenaNet has already begun siphoning off and planning for the future; a final expansion or a new game entirely and that's why the game feels content light right now.  
+---
+I think by the end of the Icebrood Saga ArenaNet is going to have 5-6 new maps ready with unique masteries, mounts or some sort of innovation or gimmick; maybe a few Fractals (or a new Fractal storyline) and a new Raid storyline.  I think that this will pivot entirely on the existence of new elite specializations to reinvigorate interest in gameplay and older content.
+---
+I think as a competitive or hardcore player right now the game is in rough shape.  It's not doing as hot as games like Final Fantasy XIV: "Shadowbringers," or Path of Exile (3.9, 4.0, Conqueror's of the Atlas, Path of Exile 2).  I think a lot of people feel betrayed by ArenaNet's lack of communication, and some, like me want to care, but feel that caring is *dangerous.*  There are a lot of more dedicated players stuck in the anger, grief and bargaining stages.  The game just is what it is right now.  
+---
+I think a lot of vets are moving on; we're not really holding our breath *because* there's more to like than GW2.  Some people will be happy to continue chugging along working on their AP/Achievements, collections and throwing money at the gem-store for cutesy skins, outfits and whatever else anet comes up with; I have plenty of casual friends doing so!  Yet, at the same time most of my FoTM &amp; raid squad pretty much exclusively does their daily FoTM / weekly raids n little else.
+---
+Serpent's Touch is a pretty important trait on the extremely broken condi build right now.
+---
+Deadly Ambition is definitely more overpowered, though. That’s why they’re fixing it next patch.
+---
+Anyway it is not a requirement I was just saying u have tons to play without having to coordinate with others
+---
+It’s actually really nice in situations where it can hit 5 people. Big corrupt, big barriers (albeit on the floor as pick ups) and nice poison duration.
+---
+The problem is that it’s worthless when used against a single target. Best solution for it would be to make it have a much lower cooldown depending on how many targets are hit by it.
+---
+yea I guess the wording on wiki page is a bit strange. 
+---
+https://wiki.guildwars2.com/wiki/ArenaNet
+---
+makes is sound like they maxed out at 250, but looking at the history, they just recycled the wording from when it was 400 and edited the number.
+---
+All scepters have valid builds. Scepter is actually used in meta builds for all professions that use it. 
+---
+Farthest fetch would maybe be ele, but it’s still the best thing after Sword (which only Weaver can use).
+---
+I guess you should
+---
+The road map is there, it's just still in the box.
+---
+They did say that they were keeping them in mind for a saga. They know we want them so I don’t see why they would ever totally opt out from doing them. 
+---
+They need to just release 1 or 2 per patch. That would definitely be best case scenario. Releasing 9 a time is such a balance mess and ruins the whole game for months after release. If they spaced them out, they would more comfortably make them and have time to balance them individually.
+---
+Disclaimer,  i know nothing about hardware but i used to get this error all the time on my old PC.  When i got it repaired i was told i had bad ram, once i replaced the ram the problem went away.
+---
+alright, then why does the living world suck as well now when theyre "focused" on it?
+---
+😂😂😂😂
+---
+how can you class ESO and BDO as a niche while not classing gw2 as a niche? BDO is aimed at a much bigger and much more lucrative market and ESO is a very safe MMO, it doesn't innovate a whole lot but that is not necessarily a bad thing. gw2 appears to be designed for casuals in its current state (yes it may not have been in the beginning but it is now) and casuals are a *very* fickle and unstable market, it's one of the worst bets you could make.
+---
+You mean aside of the people posting this pretty much the day PoF came out?
+---
+&gt; Fractals: Should not be abandoned and should be their version of mythic + from wow.
+---
+A bit offtopic, but that's what people don't seem to understand about Blizzard. They always says that Blizzard invent nothing and just copies from other games. Which is true in this case too: Fractals was first. But then Blizzard copied them, and while AN seemingly don't know what to do with Fractals, it's one of the most popular game mode in WoW and it's constantly evolving.
+---
+The ontopic part is that Fractals shows bright that innovation is not enough: if there is no refining and follow-up, it will be a dead feature soon.
+---
+Man, I wish more MMOs would embrace the SWG/EQ2/Rift/WildStar housing model.
+---
+It's _such_ a sticky feature for a good-sized chunk of the player base.
+---
+IMO all of PoF is *crazy* pretty.
+---
+There's so much to criticize about PoF, but the art style is amazing. Even the "drab" areas are incredibly well-designed on a visual level. And if anything, making something look bad in a good way is more difficult than making it look good.
+---
+I dislike most of the mini-zones from the LS stories, but both the HoT and the PoF zones are soooo well-designed, at least in art style and implementation.
+---
+There will always be issues. Companies can make decisions you don't like, such as abandoning once beloved features. The picture may be dark to you and you may even be right that the game is dying  right in front of your eyes. But what is dead to you may be the essence of life to others.
+---
+&gt; What exactly awaits me with GW1 tho? 
+---
+\- No hand-holding: you die enough times, you get booted out of the instance.
+---
+\- The game actually looks like a western MMO, not a Korean can't-see-shit-from-all-the-particle-effects grindfest.
+---
+\- Monk profession which didn't survive aNet's "MMO Manifesto".
+---
+Finally thx m8!  I think this is good insight for this subreddit community. I 've noticed a generally negative attitude towards the Arenanet team from this subreddit. Perfectly normal for such a large company to go through different phases. Especially when the business model changed to a more f2p with microtransactions as the main income. This approach demands for different focussed team members also.  I think they do a fantastic job and hope they keep doing it for a long time. Personally I play solely sPVP and love it.
+---
+There is no discussion. As you said action camera is far inferior for those obvious reasons you stated. Use it on non competitive mods such as open world, world bosses etc.
+---
+If you really like it and if you wanna use it then nobody can say "don't use it" but prepare to be handicapped in competitive mods.
+---
+Honestly conceptually the way Revs work is great. There's some super cool potential in there, a class which mid-combat swaps the right hand of skills, but only swaps the left one out of combat (should have done it exactly opposite of other characters... granted, Engineers would like a word).
+---
+But as **always**, it was never fully developed. "Wasted Potential" should be GW2's tagline at this point, because everything is always 80%-90% there, but always in such a way that the remaining missing parts grate horribly.
+---
+I am ok with how gw2 do that and no, you do not explore the whole living in one hour. The whole rpoblem is that u burn content too fast . No game could stand your speed .
+---
+This  
+---
+We all know blizz copied a lot of stuff from GW2 but fractals is one blizz did way way better. Why didn't anet take a look at theirs and make them better for us? There's a big market for competitive PvE that's not raids...
+---
+This laptop cooling is very very bad. I would guess thermal overthrottles. Also fps drops for everyone in big fights.
+---
+Double comment check the other
+---
+I'd recommend setting the keybind for toggling action cam on/off, for me its middle mouse click, that way you can easily switch in/out of it when you need to do those things like looking around while continuing to run etc.
+---
+No, I'm not burning content too fast, the content is hillariously tiny. You can finish the new maps exploration by casually running around with a raptor and autoattacking everything. 
+---
+How exactly am I supposed to play it? By walking around mountless and only using white gear or by spending 3 hours staring at rock formations before I move on?
+---
+Flame legion!
+---
+Your asking the wrong person. I LOVE raids but not in gw2 so I don't know what they were even trying to do.   
+---
+WoW is the king of raiding for a reason. It's hard, fun and rewarding. In GW2 the rewards are an ayy lmao grind, the depth is 1/5th of a WoW mythic boss because they can't do very complicated stuff due to no trinity and combat style. They're here to just be done faster and faster for reward grinding while on WoW you raid to then attempt harder and harder difficulties, I personally don't give a shit about doing something 1min faster... Boring goal for me.  
+---
+The GW2 loot system, class design and general player preference simply doesn't have the basis to make good or challenging raids. The closest I can compare gw2 raiding to WoW is like a harder LFR. It's fun pretty much the 1st or 2nd clear, after that same shit and just grinding.   
+---
+I lost interest very quickly and the fact that I did well doesn't keep me going cuz I do well anyway on way harder difficulties and roles in WoW. All around fun experience I guess but no way they can ever lift raids in this game to be comparable to WoW because of the way the game is simply designed.   
+---
+Which is totally ok ofc but why not put more emphasis on 5man content like fractals? Here gw2 has WAY more room to innovate and challenge players and is way less limited by the game's infrastucture and mechanics.   
+---
+All in all GW2 should have been THE 5man superstar, not WoW... Just a damn shame they didn't try with them after they figured out a good formula. Just... wasted potential, as with most other things in this game.  
+---
+I adore GW2 for their innovation but god dammit why does it always stop there??
+---
+[Signets of Power](https://wiki.guildwars2.com/wiki/Signets_of_Power). Why are all of these bonuses tied to killing an enemy instead of upon activating a signet? It makes no sense! These bonuses are useless when the enemy is dead. 
+---
+[Body Shot](https://wiki.guildwars2.com/wiki/Body_Shot). The projectile is so slow and the immobilize duration so short that this skill is almost never used.
+---
+Definitely check out reward tracks from new map. The non-repeatable version gives 11 mystic clovers for both pvp and wvw version, so might be very nice boost for your legendary crafting needs. I think that same can be said about Grothmar Valley reward track but don't remember.
+---
+I nsorry the contebt is too tiny for you. I usually  can barely finish it before moving next usually ( this one was small but it will be a 2 month instead of 4 )
+---
+A gorgeous Scythe indeed ... (weird nobody already done that one tho)
+---
+r/woooosh
+---
+ah yes, soon™, it's *on the table* ™ 
+---
+if they had a direction and anyone with half a brain working in management they would talk about any kind of direction to stem the community bleeding, the silence is deafening. based on comments we have seen, they are up shit creek without a paddle.
+---
+build templates? skins (basically the only real endgame)? they are releasing less and asking for more, it's a good thing for the company, maybe in the short term. it's bad for the customers and it's worse for the game. what you can personally see does not seem to reflect reality.
+---
+His face is funny, all squished and weird.
+---
+That’s actually very very helpful xD FYI if you dodge and instantly withdraw you will do it forward. That being said I also do it with a mouse swipe xD I dont play badly in pvp but we play a lot of 1v1 with a friend and couple other ppl and yesterday another thief joined snd I couldnt even keep track of him XD
+---
+Are you using an old version of reshade? If so remove d3d9.dll and try.
+---
+this is something i'd buy of the merch site if they had it.
+---
+Yeah he does work for friends occasionally. Commissions aren't open atm but he does fantastic work.
+---
+Uuu thats amazing! I must have missed that!
+---
+if you were trying to make a smart comment or a relevant point, you did not succeed. "bitching at the bitchers" itself just shows that you are intolerant of alternate view points, a negative view is still a valid view, even if you don't like it. bitching about people expressing their dissatisfaction on a public forum is the epitome of whining, especially when a certain subset of the community have spent the better half of the last 2 - 3 years trying to silence dissatisfaction. if you do not agree with a negative view of the game, if you are happy with what you are getting, what is the point of complaining about people who are complaining? surely you are happy with the game in it's current state and would rather be playing than arguing with someone who is unhappy and explaining why they are unhappy?
+---
+then you are simply wrong, there are no two ways about it. WoW, FFXIV and ESO are far ahead of GW2 in terms of quality. forgive me for giving you the benefit of the doubt.
+---
+ESO is in no universe far ahead of GW2, and I already said WoW and FFXIV are ahead by miles.
+---
+Oh no, totally did not see it because it was too real :P
+---
+wow, reddit made it into the game
+---
+Revenue in real terms is going down since POF, it was lower after HOT because they didn't have the products to exploit the playerbase as much after HOT. And map populations are impossible to draw conclusions about given the megaserver. It is clear albeit anecdotally that WvW and spvp populations are declining drastically and probably raids as well.
+---
+My point is that there is nothing ironic about whining about whiners. I succeeded.
+---
+Tactics isn't really there though.
+---
+Then no guides get done and others leave because there's less support
+---
+1st of, reddit is not inherently negative. That's ridiculous.
+---
+2nd the problem we experienced players with the game is not that we're burnt out, but that there's nothing for us to do anymore. When you've achieved everything in this game then you need new content to continue playing.
+---
+Yes the game is huge and there's tons of stuff to do for a new or returning player, and yes it will be fun and great, but the problem is no reassurance for future releases. 
+---
+Arenanet had a good model in terms of LW for a while. New fractals would come out, new raids would come out, new mounts would come out, new armor and wpn sets would come out, new maps would come out, new legendaries would come out, new black lion items would come out as a suffix to all the other great content. I was glady spending 75 - 100 euro a month to support developers and enjoy full content.
+---
+Things have happened this year. Big layoffs, mike o leaving, less content... we are worried, not because we're burnt out, but because we want more, because we love this game. We are worried because the signs are not instilling hope at the moment. Plus, we're not getting any communication too.
+---
+All that makes us think this game is going to be abandoned soon because revenue is low and ncsoft probably wants to invest more in other projects and titles. We hope that's not the case, but with every passing day that is becoming more possible.
+---
+I'm really interested now why this single post didn't got downvoted like the other 100 posts a week about the same old easter egg?
+---
+"Dear Anet. Please make other players come burn to death with me. P.S. I am not a crackpot."
+---
+Well I know what I'M doing later
+---
+The ones I've seen are very easy to spot. Usually they stand right in the center of a capture point and will stay immobile, then instantly attack you as soon as you are in line of sight.
+---
+The development schedule we see right now is two things from a year ago. 
+---
+1) they split off a ton of devs on side projects
+---
+2) they are holding things for a big expac.
+---
+I made it to 1670 on action camera thief. It has advantages. You just have to have a tab target button and a quickbind for the camera.
+---
+It’s incredibly fluid and combo-oriented as a class. If you want to play thief in more of a fighting game manner it’s really good. It’s also great for things like aiming shortbow, jump-projectiling and stuff like that.
+---
+&gt; Revenue in real terms is going down since POF,
+---
+Well, it depends on how you look at it. Is the quarter-to-quarter revenue less over 2019 than 2018? Sure, and if that's as shallow as you care to go, take a Pyrrhic victory lap, I guess. But actually think about the state of the game over time. The 2019 figures are higher than in the year after HoT, and about even with the year before it. That says to me that it's roughly within the "baseline accepted range" for GW2 when nothing special is going on. GW2 does not have subscriptions, so there is no "1 Player == X money" situation to examine here, and conversely no "$1m == X players" dynamic, it's all a bit loosely correlated, right? 
+---
+Well what did PoF bring to the table? It was an expansion, so there was a large sales bump in the immediate quarter, but what else did it bring? Mounts. Mounts that you could not adequately color, in fashion wars, without buying skins for them. With money. 
+---
+So PoF added five mounts, expanded to eight, and then dripped out various skin options for them, both expensive, and slightly less expensive. Without any of us having access to specific internals, *that* is what I assume accounts for 2018's revenue bumps, that people were buying mount skins because mount skins were a thing they could buy. I do *not* believe that more people were playing than usual, or that those players were more engaged with the game, I believe they were the same players with the same engagement, they just had something they felt worth spending money on. 
+---
+Of course by 2019 they already had one or more decent skins for their core mounts, and while some "gotta catch'em all," most would be content with just having one of each and maybe a particularly cool one. There is inevitable diminishing returns on that, just as there were with Glider skins. It's also worth noting that players did have glider skins to buy in 2016, but in that situation they *were* less engaged by the lack of content and focus on more "hardcore" gameplay. 
+---
+So, what does ANet think about this? If my theory is right, then their internal data would much more clearly spell out that a lot of their revenue came from mount skins, and that these sales were in decline, so they would already account for this. That means that *either* they are *fine* with this, that the baseline revenues they've been getting are plenty to keep things running and they're content to tread water, *or* that they have plans to include some new spendable in Icrebrood at some point, something on part with the potential of Mount Skins. 
+---
+A cynic might say that Build Templates could fit that bill, but I don't buy that, because they should know better than to think that their implementation of it would have had high enough demand. Even ideal implementation I don't think they could get enough people to pay. Plus if that *had* been their strategy then they would have doubled down on hardcores and launched more raids rather than LS, because hardcores are the ones likely to spend money around Build Templates (potentially). So it's more likely their plan is focused on story casuals. 
+---
+Of course I could be wrong in my speculation as well, I just see no reason to believe otherwise based on available evidence. 
+---
+&gt;And map populations are impossible to draw conclusions about given the megaserver. It is clear albeit anecdotally that WvW and spvp populations are declining drastically and probably raids as well.
+---
+True, but PvP, WvW, and raid populations have never been significant. Their decline would be anticipated, but inevitable.
+---
+1,670 AP?
+---
+&gt;  it didn't have to end like this, this soon. it could have easily had at least another 8 years if anet didn't do what they did
+---
+Who says it won't? WoW is still lasting, as is EQ1. Both are significantly older. Can't know whether GW2 won't still be releasing an LS-episode once a year in 8 years, all done by 3-5 people, EQ1 style.
+---
+They didn't say they're closing down the servers tomorrow after all.
+---
+And the socializing-comment was about why you'd pick a **MMORPG** (in particular) if you want to play gameplay X. Because it's difficult to not find a game that does something particular far better if you don't give a damn about the social aspect of MMOs. For example with GW2:
+---
+* Action-y combat? I mean sure it's more hectic than WoW or FF14 outside of their harder boss-fights, but good luck trying to hold a candle even to weak non-MMO offerings, nevermind something like Sekiro or Astral Chain or Bayonetta 2.
+---
+* Long-term RPG-y stat grinding? Essentially **every** game has full-lengthy RPG elements nowadays.
+---
+* Diverse content-formats? One of the key weakness of MMOs in fact, you're better off with separate games for small-scale PvP, large-scale PvP and your PvE game. For example you could easily pick up something like HotS (since it's rather newbie friendly) for small-scale PvP while jumping into Apex Legends for large-scale PvP and playing Sekiro for PvE.
+---
+* Character customization, again, if anything the MMORPGs are too restrictive here. Any "proper" RPG allows far far more tweaking and messing, as do many non-RPG-centric games.
+---
+* Lastly there's the loot aspect, but looter shooter are quite a thing, and they again do it better.
+---
+Sure, GW2 provides a mix of all of these in a comvenient package. But even then you cannot truly engage with multiple aspects at the same time. So the sum is *not* greater than it's parts **before adding the MM-aspect**. That part provides the unique sales pitch, the stand-out feature.  
+---
+But it's that very aspect that has been eroded over the past few years as non-specific messaging via smartphones or Discord has become truly ubiquitous. You are in constant contact with people anyhow. You can watch them play games on twitch, you don't need to stand next to them in the game world. Chatting is **far** more convenient in a dedicated system than in the simple text of a MMORPG.
+---
+It's no wonder MMOs as a genre are shrinking quickly.
+---
+that hits me in the feels
+---
+Eh, I'll do it again.
+---
+Now, the first part you can't see. But that's me preparing to make a point.
+---
+Now I'm about do actually make the point, so keep reading on!
+---
+"Just like you have to talk to tell someone on the cinema to stop talking, or just how you have to be intolerant towards the intolerant to keep a tolerant society tolerant, so you have to whine about whining. Nothing ironic about that."
+---
+You witnessed me succeeding in making a point. It happens quick, so if you missed it, you may have blinked. Start again from the top.
+---
+Now whining about legitimate concerns is an entirely different issue, and if that would've been what I've been talking about, you may actually had a point. But it looks like you didn't succeed in making one, did you.
+---
+I will have to admit your explanation made me smile. I used to work in higher education. I used to work in higher education and have a lot of experience with administrative software. There are some fairly direct correlations to that and gaming. 
+---
+I think your analysis is right on if you are working with anything but a small company. When I was first hired my micro college had a homegrown system with two programmers who kept things rolling. They would try to do it all. I was having none of it. I wanted to know how to do my own (insert your report here) and I made them teach me how to run the software. Good thing because they both left. If Anet was small and this happened there would have been issues. 
+---
+We ran this way for a couple of years and outgrew the static system and switched to a small company. There issue was programmer loss. They had a consistent visionary but couldn't keep people at the company so institutional loss became an issue. We were consistently having to "train" their new staff and convince them that we actually knew what we were talking about. (This is something Anet is particularly bad at. They don't believe their users can tell the difference between a nerfed EXP bar and an slow fill.) Frustrating for us, frustrating for them. 
+---
+We eventually had to switch to a different company. This one was more like what you describe. Larger, some turn over and the institutional loss that can bring, but not to the point that there were gaps in service to us. 
+---
+I will tell you that there were days at my desk when the collegiate software was my game. When I chased the record that needed cleaning, or completed a degree audit and it balanced and worked I won. 
+---
+TL:DR the OP is right.
+---
+&gt;I don't know what history you want to me to imagine the game has had.
+---
+The one where ArenaNet hasn't been able to stick to anything remotely resembling a formula or plan for any extended period of time, instead reinventing the wheel and changing the direction of the game over and over. First it was temporary content meant to change the world, then they threw that idea out. Then it was small, incremental story updates that revealed a map in segments, then they threw that idea out. Then it was expansions, and now they've thrown that idea out (again). Now we're apparently back to small, incremental story updates that reveal a map in segments. The only period even remotely resembling stability in the history of this game is LWS3 through PoF and to an extent LWS4.
+---
+And how many abandoned systems and formats have they left in their wake? Dungeons, Strongholds, WvW tournaments, shall we add raids, fractals, elite specialisations, and WvW and PvP as a whole to that list as well?
+---
+If that isn't compelling enough, how about the history where they had to lay off a third or more of their workforce, and their CEO left the company?
+---
+&gt; Raiding, pvp, fractals and wvw don't hit their target audience. This is the market GW2 wants to hit.  
+---
+&gt;  
+---
+&gt; "because we don't even know if we are in the audience."
+---
+Oh, so you do *know* what their target audience is? Or do you not? Which one is it?
+---
+&gt;What is the mmo space lacking? Consistent story driven content releases aimed at an audience that might not have time to play every day.
+---
+Yes, the type of content that ArenaNet seems so intent on putting out is lacking in the MMO space for a very good reason: it is completely antithetical to what an MMO is good at. Watered down singleplayer-style content does nothing to play to the strengths of the genre. Frankly they should have made a singleplayer game, because that's what they seem to be most interested in.
+---
+I tend to go along with the meme of panic for simple lulz. But in reality..pay some attention, but not that much.  
+---
+People leave for multiple reasons including money and even "when they felt like the time is right to move on to another job". Saying the company is doomed because of it all the time is just crazy.
+---
+No one knows. They don't talk to us about it. Something they've always been good at.  
+---
+It's like being open and honest with their fan base is some sort of taboo even know it's been shown to work in a number of games over recent times.
+---
+Have you tried the flamethrower variant? I use a very similar build but swap blast gyro for flamethrower. Blast gyro is fun but it's often a pretty big DPS loss because it sends all your enemies in all directions and you have to chase them down. It's great for break bar damage of course but personal battering ram is better for that IMO.
+---
+Marauder is great for open world.
+---
+I’m so happy you found it!  It made me so happy when I saw it the first time.
+---
+&gt; I usually can barely finish it before moving next usually 
+---
+It takes you 2-4 months to finish living world story/map?
+---
+Droknar's Forge lol, no Dolyak
+---
+We can of course change the topic from how whining about whiners is ironic, or rather, how it is not, to how legitimate complaints and concerns get suppressed. Would you like to move that goalpost? We'd have to stop falsely equating whiners spewing whatever caustic garbage makes them feel better with people that have legitimate concerns and complaints, though.
+---
+Are you willing to do that?
+---
+Personally even if I like the hard content, i realize that for GW2 it's almost..."Trivial". The new fractal is new for like a week at most, then it's just a new rotating same old...raids last pretty much 1-2 weeks too. Time to do the achies and CMs, then it's just another same old again (with poor-ish rewards too)  
+---
+What I feel like right now is to have side stuff to keep progressing after the other "new stuff" gets old. Even secondary non vital stuff, like housing, farming etc. GW2 by it's nature is very prone to adopt sim like features...yet they never added a single one...and they're also all options that could help by increasing the monetization.
+---
+Sad fact: Some bots play better than some active players. xD
+---
+You got plenty of answers talking a out what it could be, but dealing with it can be a challenge. Most of the time the best thing to do is recognize it is happening without blowing all your big cooldowns and wasting them. Once you see it's happening the best thing to do is to kite them and avoid damage until it runs out then counter pressure/spike them. Easier said than done but that's the general strategy.
+---
+Yeah you're right, you're exactly getting it.
+---
+The community is extremely confused, and this confusion is uncertainty about our perception of the game. Unceetainty is a really bad message to send your stakeholders. Investors hate risk, and your customers desire reliability and consistency.
+---
+If GW2 isn't delivering on either of these then it's a problem that WILL affect the bottom line. Exactly the same way an economy goes down when consumer confidence drops, so does GW2.
+---
+Yes it's totally worth sticking around for. Hell, even Guild Wars 1 is still worth playing. 
+---
+There is literally thousands of hours of content to play. It all depends on if you want to do it or not. I have 5,500 hours logged and still play. My entire guild of 300+ members still play. Plenty of people still play. When negativity surfaces, it's going to surface on Reddit first.
+---
+Just enjoy yourself
+---
+Imagine a mob that has like 75%+ evasion that spams ranger condi traps under you that stack blind, bleed and cripple in GW2. Fun!
+---
+"Replace a bl map with eotm" oh boy here we go again with this terrible idea.
+---
+I wish they recreated some of the plants so the Gw2 looks as unique as this one. Vanilla trees just don't do it anymore.
+---
+Completely agreed this is what I did back in December and now I clear all wings but 6+7 each week.... they’re easy once you learn the mechanics and have a patient group 😀
+---
+rank point, which is in plat 2 iirc (can't check right now)
+---
+Thanks dude, can you give info about what to do? Tbh i dont understand what your're saying
+---
+mostly yes, but
+---
+&gt; reopen EOTM, maybe replace EOTM as one of the BL maps so that each BL map is unique.
+---
+just no. the whole point of identical borderlands - and it is already ruined thanks to ANet's current setup - is to create a semblance of balance  equal opportunities for each team. it's always interesting to see how few people seem to get that. eotm is also completely unfit to act as a borderland type map.
+---
+there are two ways different borderlands should only ever be implemented. either by using some sort of rotation of full sets of identical borderlands, or by using virtually identical layouts in different coats of paint.
+---
+yes, ebg defies that rule by not being symmetrical. that is for the simple reason that it was supposed to provide a small territorial advantage to the weakest team of the matchup (red, highground, only keep that can hit SM, etc), and a disadvantage to the leading one (green, lowground, towers elevated above keep, etc).
+---
+alas rn the weak team has to compensate for having the hardest to defend borderlands, which is already a huge joke. shows you how much thought post-launch anet is putting into wvw changes.
+---
+one last note on the topic of eotm: it's the only map that disregards the usual clockwise red -&gt; blue -&gt; green -&gt; red order. not a huge deal, but who doesn't like a good consistent inconsistency meme.
+---
+&gt; ESO is simply superior to GW2, it has more content and more polish
+---
+And people who spout pure fantasy is someone who isn't even making an argument. 
+---
+the only way in which GW2 is worse than ESO is their cash shop, which is pretty bad, everything else is better (although you could argue that the combat is subjective). this doesn't mean you can't like ESO, i assume that is why you are so upset, because you are under the impression that i'm saying you can't like ESO.
+---
+Now go find the Data Dog in Lion's Arch
+---
+&gt; The way you phrase this makes it look like it's a chore to do the story.
+---
+*i mean...*
+---
+Didn't the game mode have such poor balance that a pro team quit as soon as the first nodes were capped due to OP bunker specs? Not saying people would have watched the PvP, but it wasn't given a good chance either. Throwing money at something without sorting out its fundamentals is doomed to failure.
+---
+Lol's player base is shrinking. It's so big at this point that it doesn't change much for the current players. But at some point people will see the effect. Riot is aware that lol isn't gonna be there forever so they are releasing 5(?) new games and I wouldn't be surprised if they are making what will be the sequel to Lol.
+---
+Meanwhile whatever side projects Anet had as of the layoffs were cancelled. Player numbers are usually well represented by a bell curve. You want to release your next project when it starts to decrease to retain your players. Anet is very late to that. By several years in fact. If they just started working on what comes next it will probably take them 3-4 years at best to ship it and by that point most of the hardcore players will have left.
+---
+Interesting that this got upvoted...again.
+---
+When i posted about the Darksouls  "praise the sun" gesture in Sandswept isles i got downvoted into oblivion ,called retarded for not using the search function and then got my post removed by a mod since there was one other post about this on this sub.
+---
+But this easteregg gets to top at least once a month since the release of PoF.
+---
+If I wanted difficulty I would be playing monster hunter world . 
+---
+I want something relaxing 
+---
+Now if they finally would up fishing like in wow it would be perfect
+---
+Do not invent nothing . Just do a mere copy and would be perfect. I'd pay 20 euros to have fishing on gw2 in every kind of water with different fish and so on
+---
+So relaxing
+---
+&gt; I mean they should definitely have done more with it.
+---
+Well that isn't representing the rational WvW players either. The rational position is to understand that ANet has already invested more into WvW than they've gotten back from it, and that they're in a Battleborn situation with it, where people who enjoy it can continue to play it, but it would be wasteful for further developmental time to be devoted to it.
+---
+There is not much different if the server is dead or populated. 8h in WvW, 4h with max boosts
+---
+It's hard to say exactly without having a clear picture on what they are currently working on, but all development would essentially be divided between open world maps and story content. No additional development into PvP or team instanced content, beyond basically keeping it functional and somewhat balanced.
+---
+If there was news it would be posted on here. Dw
+---
+&gt;Doing the achievement I want exploring with multiple character, or just farming money to get something ? Yes
+---
+So, in order for the episode to last you this long you literally need to replay it with multiple characters and intentionally grind random irrelevant stuff that doesn't actually have anything to do with the episdode itself?
+---
+&gt; maybe crafting a legendary 
+---
+Saga hasn't added any legendaries. Also, the idea that you have enough time to grind for a legendary which is a task difficult even by extremely hardcore standards but not enough time to finish a 30 minute story is absurd.
+---
+&gt;M8 I am 40 I have a work a toddler and not the same time to play like 20 and more years ago.
+---
+I could not follow a faster game
+---
+Cut the crap, the episode takes 30 minutes to finish, if you have enough time in a day to take a shit you have enough time to finish the episode.
+---
+what do you mean finally? it was known since pof release
+---
+&gt;Permabanning botters and wintraders
+---
+Permabans for wintrading would be nice except that it is incredibly hard to prove. I'm not sure what happens on ANets end with bots but honestly I never really see them in PvP. Maybe they are in WvW but I find the WvW players to be so toxic that I avoid the gamemode.
+---
+&gt; Deleting scourge and other "AoE, run in circles on mid no brain spam" from competitive gamemodes. 
+---
+Scourge has seen nerfs to their shades recently and a new lead for PvP balance has been added to address balance. The person they added is also a fairly high elo player that plays PvP so I have confidence in what they are doing so far. For now just make a Scourge and get to the top of the leader board with it because, as you said, it takes no skill to play one.
+---
+In 2 hours from now.
+---
+&gt; If you don't like wvw that's fine but a lot of people do so it's really weird to argue that they should do even less with it.
+---
+Not enough though, not enough to justify the effort it would take to actually do it. I know this is upsetting to the people who *do* enjoy WvW and would like to see more stuff done with it, but the player population just does not justify that effort and it's time to cut bait. It's nothing against WvW or those who enjoy it, it's that further development in that area would drain resources that could *better* be spent elsewhere.
+---
+Ranger traps ...
+---
+chracter slot are only discounted 2 times a year. Usualy one day in march and a short period in august/september
+---
+What does MMO aspect bring to you here ?
+---
+You think so?  People leaving ArenaNet have even bled over into other subreddits and even over there they're screaming about the company dying and the game being in maintenance mode now.  I wanted to share my experience and perspective because turnover doesn't mean much.  There are people here who seemingly believe that lead people in a company are the most important people ever, and without them, the ship runs aground.
+---
+Changing WvW in a way that would attract more players (getting rid of scourge meta) is a waste?
+---
+&gt;the reality of the situation is that WvW was once great, with a healthy playerbase and competition
+---
+Not really. It may have been in a *better* state, arguably, but never *great.* People played it early on when it was novel, and when they needed to complete various objectives, and most importantly before Guild Halls and Personal Lobbies, so the borderlands were the most convenient access to bank space and crafting stations, but later that became irrelevant and most people never even entered WvW again. 
+---
+ANet *tried,* it was the player population that never bought into the idea.
+---
+You don't like Strike Missions either?
+---
+Raids, fractals and strike missions aren't repeatable tbh. Once you get everything from them then there's no reason to play it anymore. Of course there will be always small % of players which will repeat it no matter what. But it's a niche.
+---
+Would like a source on that.
+---
+You do see some from time to time, even in p2 and up, but I would not say Pvp is full of bots. I can not even remember the last time I saw one.
+---
+IMO, before implementing new types of mount, new masteries for Skimmer (among them, diving &amp; ocean currents) would be sufficient; and of course, allow griffon/skyscale to take air currents.
+---
+Thanks bro, but i tried this and didn't make any difference
+---
+The gold isn't a problem for me. I found doing any meta farm give enough.
+---
+The problem is I did all griffin task (except purchasing items for 25g) and almost burned out while did Corrupted Facet and some other tasks.
+---
+So I watched some Skyscale guides and I feel I will be super angry.
+---
+I understand also it's not so requaried mount but sometimes when I see someone using it I want it too :D
+---
+it has always been a diamond in the rough and was handled like a simple pebble
+---
+They're referred to as infusions, or rather cosmetic infusions. You can learn about them here: https://wiki.guildwars2.com/wiki/Infusion#Special_Attribute_Infusions
+---
+Yup, i'm always connected and in high performance (just with 90% capped now)
+---
+Last Guild Chat [summary](https://old.reddit.com/r/Guildwars2/comments/e0j3ks/guild_chat_episode_1_full_summary/)
+---
+&gt; * Essence manipulation mastery increase - yes, in ep2. After that, they don't know yet (if this mastery re-appears)
+---
+i know every1 is all positive vibes in here, but your cosplay can do some work.
+---
+&gt; Arenanet themselves have said they don't have a plan yet for masteries after episode 2
+---
+Never heared that before. Do you have any sources?
+---
+They never said they have no plans after episode 2. They didn't tell us anything about what comes after episode 2. That's a difference.
+---
+Cool which outfit ? I'll buy immediatly.
+---
+Salient. Perhaps ANet can embrace the bots on some way. Like a henchmen mode to lower Q times
+---
+It is the main point of payment service a game or Netflix . When you pay you are committed to use it more
+---
+Now subtract the opportunity cost and the gains are negligible.
+---
+People love to say lots of things about opponents they can't beat. And make assumptions about players using builds that are not common and thus further presumed to be not effective. There are always jack-of-all-trades builds that require very particular game-sense and technical skill to wield; variety is good.
+---
+Wouldn't be watching Vallun if I wasn't interested in Thief, though it's my secret hobby as long as I can't perform with it in high gold/low plat! I've seen people use it in Core days and there's some nostalgia in there too. 
+---
+I believe you when you say P/D is powerful - people just hasn't seen it used to full potential yet. Maybe even Deadeye variations could work. It's a bit harder in a 5v5 setting to realize its strengths as well, since people haven't figured out the matchups, and how to build a team around it to maximize its power.
+---
+Yeah..  if they started today.. by the pace they're putting out content in gw2 now.. they'll be ready in the 2030s
+---
+To be perfectly honest with you, renove dodge and all you get is FFXIV with less skills.
+---
+Ah you do not play gw2 but still u are here complaining. There must not be that great game since u are still here
+---
+ 
+---
+I exposed my arguments . Yours are just compliance 
+---
+ Finally coming back
+---
+Lol
+---
+????? Im not replying the op
+---
+Im replying someone who is acting like if he was the only one who knew about it.
+---
+If there is low to no population, means there is no activity there. It's not like you get points by just sitting around for 8 hours.
+---
+Is English your first language?
+---
+I came to GW2 in 2012 from WoW and when I saw dungeons (where you wasnt able even to wipe because it was possible to use wp's) it was clear sign for me that GW2 isn't hardcore pve game at all. And it won't be. Anet clearly wanted to make pve very casual here. And build it strongly around story. Not around hardcore group content. I'll tell more. Pve here was some kind of joke for a player which played pve in other games before. I remember a lot of my friends reactions which tried this game mode here. Pve (as endgame) here was good only for people which came here from gw1 or some f2p games with pve which focus mainly on lvling (1000lvls etc, etc). It was good for them because they never played real pve before.
+---
+Well, the Stronghold mode was an attempt at playing on the MOBA hype, so it could be "on the table".
+---
+No and moreover I am using a mobile phone with no language correction for English.
+---
+Still no arguments from you. Are you just attaching my English cause you have no argument . Sad from you and very childish
+---
+That's exactly how it works. You sit around and wait until you have your gift. Sometimes you hit a wall or a warden, sometimes you escort a dolly, but most of the time you sit there and wait for your next tick
+---
+Your comparison is flawed. Making games is a creative project like movies, music and so on.  
+---
+Look no further than season 8 of game of thrones. They had everything - money, actors etc, except for good scenario. Look how quickly they've fallen.   
+---
+Also I can give you an example from other MMO - FF14. It was dying quickly until the director was changed to Naoki Yoshida. He turned the game into the 2nd most popular subscription MMO. IF you want to know more, google "The fall and rise of final fantasy 14".
+---
+No actually I was legitimately curious because it makes it difficult when we can  barely understand what the other is trying to convey.
+---
+It's the behavior, search youtube, you'll see plenty of cases.
+---
+You are answering me so you understand exactly what I am saying. 
+---
+And yet you are here with no arguments . Wish there would be something to understand in what you write but really there is nothing
+---
+Really great screenies!
+---
+&gt; How to easily proof you wrong: Add a WvW reward track that has a legendary weapon of your choice at the end.
+---
+That's just bribery. You can get players to do just about anything for the right bribe, that doesn't mean that you should. I spent dozens of hours playing PvP to get my Legendary Wings, and I hated every minute of it. Every minute I spent in there made me enjoy the game less, and want to support it less, but I had no alternative if I wanted those wings, and I did. Since I got them, I haven't set foot in PvP again. 
+---
+It can be a good thing to have a short term incentive to get players to try out a mode that they haven't tried, but it should NEVER be a long term goal that they can't reasonably refuse. It shouldn't be the *reason* they are there for more than a couple hours. If they aren't enjoying themselves, then they shouldn't be there. 
+---
+The way to get more people to play WvW should not be a bribe that's too good to pass up, it should be gameplay that they *enjoy* playing enough to spend time there *regardless* of reward. I'm just no convinced there IS a way to make WvW fun enough that people who don't WvW would actually enjoy it. EotM was about as close as it could get, and really that wasn't as fun as most PvE maps.
+---
+They rebuilt the borderlands maps, what, twice? They added Edge of the Mists, they added a Mount, they added exclusive armor and weapon skins, including a path to Legendary armor (which PvE *still* lacks), and they've done numerous balance changes with primarily WvW balance in mind (since the things they "fixed" were causing zero harm to anyone in PvE, and in some cases greatly reduced the fun people were having with them). 
+---
+They tried. 
+---
+They tried enough.
+---
+Fetch was still not happening.
+---
+I play hearthstone competitively. 
+---
+Since they are focusing a lot on co-op and solo mode, I would say the prospect for a game like that is based on expansion releases and not on multiplayer aspect which is what most popular games must have these days. For example, if you go on twitch or youtube or any social media websites regarding gaming and sort by popularity, I guarantee you the top 3-5 games prioritize multiplayer and PvP as their main mode and have sandbox mode where their players can host/create modes/alterations of the game. 
+---
+If you play the game casually for fun and like expansion style/rebrand releases like dark souls, witcher 3, this game is for you. However, if you prefer PvP/multiplayer games like LoL or fortnite, this game is lacking in that aspect due to the lack of a sandbox mode which means it lacks a variety of playermade modes.
+---
+I'm open to suggestions 😁
+---
+EU or NA? If you are in EU we can do it in a few hours when I'm back home.
+---
+You don't need a group for zhaitan now so try again! Follow woodenpotatoes YouTube guides for a build to do it too if you're struggling
+---
+They also spoke about essence manipulation specifically, not masteries in general. That's obvious from the context.
+---
+I never killed the Lich, Shiro Tagachi, or Abbadon, so... :P
+---
+Speaking of EU I basically pug every other day and it’s just fine and fun ... just look for grp nearly full and join
+---
+Balthazar was very hard; but if you got killed, you didn't have to start from the very beginning!
+---
+I killed all of them. :)
+---
+You can do it slowly, instead of rushing the steps. As I said, most events that you do need usually have enough people. But yeah, it's quite a long road, so take your time.
+---
+Your comment was not very positive. Not very thoughtful or constructive.
+---
+I shared my honest opinions but I guess you'd rather people don't do that if you don't agree with them, for whatever reason.
+---
+Now we're talking about gaming addiction? What kind of a backward BS is that? Is this you trying to paint me as an addicted weirdo? Cause if I'm an addicted weirdo my opinions matter less, and it's less likely that someone else would side with me? That's social engineering 101. That's not how to have nice dialogue about something we should all care about. You just want to sow discord.
+---
+So how am I, by trying to communicate better with other members of this subreddit "negative". Logically it isn't, but your snarky remarks fall apart when observed logically.
+---
+But sure, be my guest, be sarcastic about stuff you don't agree with online and respond to honest opinions with condescending snark. That's  a very attractive personality trait.
+---
+Ah! Right. That explains it.
+---
+Have fun with Zhaitan, it's solo now, and you already got an offer for help with Mordremoth, so enjoy killing both finally, after all that time. :)
+---
+Ok zoomer.
+---
+I was just about to post asking if this pattern was available for others to 3d print.
+---
+I do understand your point and agree with it.  That's why I said the two weren't exactly analogous.  The products and purpose are different but the goal is the same - to continue to provide a service to people in exchange for money.  Turnover affects both projects in a similar way based on the response I get from my stakeholders and from what I read here on the forums.
+---
+&gt; Dont tell me that company will be executing their plans just slightly slower when they just lost 143 people, an ceo **and** few people on the key positions. 
+---
+Well, aren't they still executing their plans but just slightly slower?  Maybe slower could be replaced with quantity.  The Living World stuff is still coming out (even if the size of the updates aren't to our liking), they're continuing to make changes to the systems of the game.  We haven't had new Raids or Fractals in a minute but they've been replaced with Strike Missions, so I guess that's a substitute in some ways.  So, yea, I do say that they're still doing what they were doing despite the setbacks.  As time goes on and the teams refocus on GW2 I expect things to pick up a bit more.
+---
+Before you mention an expansion -- I think an expansion is delayed not because of any business decisions but because of the story cadence.  Expansions are all about rushing into a big confrontation with some big-bad guy and they can take that pace because the previous Season of the Living World set the stage.  Season 4 ended on a good note.  We need Season 5 to build up to the next expansion.  I suspect we'll hear something by the end of the saga -- a big selling point, like Cantha or something, once they can announce it without spoiling where the Season 5 content will be heading.
+---
+WvW was one of the main marketing and selling points of GW2 back in 2012. The game is diverse and has multiple endgame aspects as the top comment on this thread states.
+---
+Gawd what I'd pay to be able to ride a dolphin underwater in Lion's Arch
+---
+But a LOT of other players feel the same way. In any case, I was speaking for myself. You claimed "Sigh, you fell so hard for that lie that it's honestly sad." I am telling you that it is no lie. It is the reality for myself and many many others. I was telling people that this was what I wanted from an MMO more than a decade before GW2 existed, and GW2 is the best game I've found at delivering it.
+---
+Sorry bro, I love WvW and all, but saying it is the endgame is just wrong, it may be for you, but it's not for everyone, saying it's "fun" is also your opinion, some people may not like it. Your post is just another rant based on your opinion with barely any valid points to claim the title.
+---
+That said, yeah, I would love a new borderland, I'd love to see eotm reworked into a more valid choice to play on, and I think that refreshing WvW would bring some players back, my hopes for alliances are high and I believe we will see some form of event when they release (like the WvW tournaments we had ages ago, good times).
+---
+As of right now, WvW isn't as played as generic PvE and their focus is sadly on what's widely played (same reason other hardcore content like PvP, Raids and even fractals are suffering from droughts).
+---
+Keep your hopes up for alliances, they will eventually get here, just don't adopt this mentality that your favourite game mode should be their priority based on your opinion when your opinion is far from the general opinion.
+---
+&gt; Adding to that, the instance is difficult to get to so you really have to go through the previous mission first.
+---
+You just go to Dragon's Stand and talk to an npc near the northern waypoint who directly ports you to the last story instance.
+---
+Ok gw2 Is the only only one fantasy
+---
+But even if there were many I love gw2 what is your point ? I should change game since u want it to change to do things you like more ?
+---
+My point isn't necessarily that they always made the *right* moves, but that they at least invested plenty of time and effort into *trying.* So the argument that they just got lazy on WvW is not relevant. 
+---
+&gt;as an afterthought, only obtainable through insane time investment, which in turn is "justified" by a piggybacked reward system that had its reward pace almost doubled and still feel unrewarding because it's so poorly thought through.
+---
+It's still better than the current PvE option, which is "you don't get anything." 
+---
+As for things like the EotM and Mount which you dismiss, these are exactly the things that stood the best chance of increasing the WvW population, by drawing in people that don't enjoy WvW, which is what people have been claiming they *should* be doing. So which is it, should they allow WvW to die off, or should they make it PvE enough that enough players will want to be there? 
+---
+&gt;TL;DR: thanks for proving my point, showing how little you know about the mode, and that you reside within a very peculiar sort of bubble.
+---
+It's called "being a person who plays GW2." Most GW2 players are in this bubble. And will remain so. If you want WvW to happen, then you have to figure out a way to make WvW appeal to people who are content in that bubble.
+---
+No GCD is easily the best thing you can think off.
+---
+I actually like Ranger traps. There's some good utility from the combo fields that they create. 
+---
+Water Trap may not have a lot of healing or a good cd, but it's 10 second water field with condition cleansing is situationally useful.
+---
+Fire and Snake Trap both give useful combo fields and are useful for Condi builds. 
+---
+Frost Trap similarly is good for Power builds as well as providing an ice field.
+---
+I think Spike Trap is pretty bad though. There are situations where unblockable cc is good, just not in pve and especially not with a 45 sec cd.
+---
+Need more stun break.  That'll teach you!  (Or maybe it didn't.)
+---
+&gt; The problem here isn't the system. It's people who don't make their own groups to play how they want.
+---
+This.
+---
+For an example, a while back I was messing around in raids lfg and got a group together.  Then one of the randoms came up with a crazy idea...an all necromancer raid clear.  While we had different necro builds, we were far from being the "holy trinity" and meta...but damn it we cleared wing 1 with nothing but necromancers.  It wasn't fast, efficient, or even easy but it was a fuck ton of fun.
+---
+This is one reason I want to see "easy mode" or "story mode" raids.  An easier version of the same encounters to learn the encounters with reduced rewards.  This could open up the raids to more casual players to learn them and bump up the numbers so there are more players to do various fun and off meta runs.
+---
+&gt;finally someone found it! /s
+---
+FTFY so people can stop being an asshole to you and OP
+---
+I agree that it is way to easy, even things that is said to be hard like the latest one about the boneskinner is just a walk in the park. I might have missunderstood but i thought he would roam the forrest and be very hard and you would kind of feel uncomfortable with it around but it is just a champion doing nearly no damage to you at all.
+---
+I also play other games on the side, but i have not found another mmo that suits me. Mostly the combat system makes me cringe or the mmo's out there are either too old or too much P2W or way to grindy. I tend to turn to moba games for PvP. There is a ocean of them to pick from and i have my favorites. But a good MMO to play on the side have been hard for me to find.
+---
+How did you get your character inside Anet?
+---
+Theory: Reddit is now mostly populated by forum goers who were tired of being ignored on the official site. This is why it's only been getting saltier here for months.
+---
+for what its worth: this is the first time i see it :)
+---
+ESO hasn't a monthly fee either. ESO Plus is a thing, yes, but you can play perfectly fine without it.
+---
+"but the problem is no reassurance for future releases."
+---
+That's funny, I feel pretty assured that we have *an entire season* ahead of us. That *at least* 5 more releases, judging from the lengths of previous seasons.
+---
+&gt;  more interesting boss fights, and no PvP component.
+---
+I think you are very very confused.
+---
+*BWOO BWOO BWOO*
+---
+If by ignored, you mean banned, then yes, I can imagine that.
+---
+anet: nope
+---
+And you missed my point with about 100000 meters or more. 
+---
+But i repeat my self how will it help the game to shit on it 24/7 for months and repeating the same thing over and over every day? 
+---
+How does it help the game when people sit in starting area spewing out the same shit and telling new players to leave when they can?
+---
+How does it help the game were devs actaully make changes or give us things we asked for over the soon to be 8 years, and yet they get shitted at that too. How would you feel if your work that you put in so much effort too knowing that this is what players asked for since long, like for example during the years people said do expandble maps, we liked the silver waste!!!! And they give us this, and what happens, a new horde of players tell them they suck.
+---
+How is anything of this helping the game to move on? Or is it that you actaully don't want it to go on? Do you want NCSoft to pull the plug on the game?
+---
+Less interesting than that. Sort of "medium" interesting. "Like raids, but with less wipes."
+---
+low cd stunbreak, it's really powerfull, and now that it gives more berzerker time, it's kind of really usefull
+---
+Have you tried games with procedurally generated maps ?
+---
+Im hoping for dolyak mounts. Not for speed, but for the endurance of the sheer cold our current mounts cant handle
+---
+Even those are quite lacking. It's fine for a while, then it becomes stale. As every game that does not renew itself.
+---
+Sure but changing maps are not good for exploration since they keep on changing
+---
+You have thousands of hours of playtime if you play everything the game has to offer but if you rush through it with a narrow mind of what the "end game" is to you then you will be right here with the Reddit. Having a preferred game mode of any competitive mode you will feel neglected. I am jealous of where you are in just starting because I'd love to start fresh over not knowing everything I know about the game.  So GLHF, explore and learn all the game has to offer and you will feel like the Reddit in 7 years or so lol.
+---
+Sure but I was playing gw2 when it was still with a fee. Too late to change but Ty for the suggestion
+---
+Why should I change game while it is slowly becoming perfect ?
+---
+I agree totally with this. Arena Net is not a victim at all. WvW and PvP have been the step child for all this years and now it it bleeding over to PvE. After they added raids they kind of gave different promises (as we in wvw been used too for like over 7 years and know not to read in to much too it) and could hold very little too it.
+---
+So i get why people are mad, i get why they complain or give feedback and i even get that they are angry. 
+---
+But at some point we also have to step back and let them work. And when they give us something that we actaully asked for or improved something we moaned about then you should probably be ok with that. But at this point it does not matter what they do, it will be twisted around to be a bad thing even though you can find post after post about it were players want it. It have to work both ways from us too. We can not just shit on them that is not how life works. Give and take.
+---
+I never did Zhaitan, fractal, strike mission, raid...
+---
+Until they keep on adding maps and stuff to do it is ok to me
+---
+ You just want too much
+---
+Plot twist of the plot twist, they are all Xehanort
+---
+If you are looking for the full experience, lore wise, get the whole pack with all games included. But be warned that GW1 is way more difficult than GW2... !!
+---
+I mean i admit that i nodded about WvW being a dimond that many other game wish they had, but when you got to EOTM and replacing a borderland with it then i wanted to downvote you. We already have the red border as a punnishment. People in general do not like it and many severs are dead the weeks they have it. 
+---
+Adding the EotM map as another borderland in which WvW players already spoke out how badly they dislike it as a WvW map would be yet another disaster.
+---
+You are deluding yourself thinking I am defending ArenaNet. I do not even disagree with you globally. I am not seeing things as you do either, however.
+---
+&gt;Those are contradictory statements how?
+---
+Seriously... they are not contradictory and this is exactly my point.
+---
+You are part of a voice that inhabits this reddit since its creation. There is nothing new in the raised issues apart from the very new things that ArenaNet produces that are used, time and again, as evidences of their incompetence of 'consistent inconsistency'.
+---
+Now if you cannot understand that some people feel the fatigue after seven years then the understanding issue is on your side I am afraid.
+---
+OK; going to try Zhaitan first.  Had NO idea you can do Zhaitan solo now.
+---
+So, I had no idea what I was doing when I killed Balthazar?
+---
+nice, allthough this shows how much we are lacking cosmetic wise in game when talking about regular armor.
+---
+most holiday themed looks are all locked behind gemstore , as in outfits etc. which is a shame.
+---
+imagine having plenty options for holiday themed looks just from basic armor? that would be sweet!
+---
+Did you see the warthog, too? Sometimes they march across the dirt road in a line.
+---
+Knew what this was going to be from the thumbnail...
+---
+Okay D'x
+---
+The mods hff ere are not consistant and just seem to follow tge upvote fownvote trend more than their actual rules. 
+---
+Posts like this are harmless fun though, and I'd rather the community and mods not shit on peoples fun when they find it. Your post should not have been deleted and the people who called you names are dicks.
+---
+Well, as you said in the comments, you abused checkpoints.
+---
+Yes.
+---
+All are equal in Jormag's eyes xD
+---
+I play with a notebook keyboard and mouse and routinely get mistaken for a bit.
+---
+I think it's more about new encounters going forward... gw2 was touted as not having the trinity, but it basically feels like it, but instead of tank and heals its quickness and alac (one of these heals)
+---
+because now it's completely dumbed down, pof specs have the most stupid designs i've seen so far in all my years playing gw2
+---
+they are really easy to use, completely overpowered mechanic wise compared to core or hot specs and they are dumb, spammy, unfair, that's why almost every meta build in pvp/wvw uses pof specs, and thats why we veterans feel the game is getting worst every year, meanwhile new players argue that the game is awesome
+---
+for example i played gw2 for 5 years straight, i only used to enjoy pvp and wvw, a bit of pve like fractals or meta maps, but ever since pof was released, combat in those mods felt like shit, so i was "forced" to leave the game, either that or play some class and build i don't enjoy or like just to remain competitive, and i know tons of people who feel the same and also left the game, it's sad, if they kept the combat as it was in core or maybe hot post nerf, the game would still be enjoyable but i simply can't enjoy the massive flaws in designs of the new classes
+---
+I admire your optimism
+---
+In PvP there will be always other person to beat, which play different.
+---
+Some have speculated that its the lack of keyboard/mouse inputs during a lengthy cutscene that has some impact on connection.
+---
+Try just every so often press your move or ability keybinds and see of that helps
+---
+&gt;Why should I change game while it is slowly becoming perfect ?
+---
+Ok, you're just trolling now. Good to know.
+---
+&gt;But a LOT of other players feel the same way
+---
+A lot of people believe vaccines cause autism, does that mean they're right? You DECIDING it's real doesn't make it real for you and others, it means you're all deluded.
+---
+Well, it's a weird thing because sometimes it won't happen at all no matter how long you linger in the instance, other times it happens repeatedly. I think it's something to do with certain servers, but I haven't managed to find anything that fixes it on my end.
+---
+La sigh, sad. Good luck being you bud.
+---
+At the same time! (well, Lich/Shiro)
+---
+They can just teleport out via waypoint....
+---
+My guess is that you're thermally throttling.  Modern CPU's have the ability to "sprint" to higher frequencies for limited amounts of time based on performance requirements and heat limitations.  Imagine that you're sprinting while you're out on a run; you can't spring forever -- you get hot, tired, and sweaty.  Eventually, you slow down and so do PCs.  
+---
+The guess here is that your PC is boosting to a higher clock speed and then getting hot and slowing down.  What that other person is suggesting is that you artificially limit your processor to something like 70-75% of its potential and sustain that speed vs. "sprinting" that way you you avoid performance discrepancies such as major FPS loss. 
+---
+It's important to monitor your CPU &amp; GPU temperatures on a gaming laptop unless you have absolute faith in your machine's cooling system.  Gaming laptops get pretty hot, and especially amongst discount laptops, this tends to be one of the reasons why they're cheaper -- they don't manage their heat as efficiently, and it can be a performance headache.
+---
+A whole season of tiny open world maps that contain zero challenging content and have next to no replayability? Count me out bud.
+---
+[Some random ideas here, in case you're interested.](https://en-forum.guildwars2.com/discussion/23149/how-would-you-redesign-the-necromancer/p1)
+---
+Dear WvWer,
+---
+WvW is old, boring  and no one likes it
+---
+I love how you take the "my way of thinking is the right one other is bad negative and should be changed".
+---
+How mature of you. Rest of this comment will be written in the same way.
+---
+I think the way you describe it your understand of enjoyment is pretty dry and i'd ignore any recommendations someone like you would give me knowing this fact.
+---
+Good for your wife and you though, some people simply have a very low bar for enjoyment and glad you found one like yourself to marry. Sounds pretty boring to me.
+---
+Can't recommend RA enough. After Raiders in Training went into a decline, Valk and her team did a great job in accommodating both newcomers and veterans alike. 
+---
+Hope this event goes well again for you guys.
+---
+I haven't gotten the griffon yet actually.   Don't have the gold.  I'm on the casual side when it comes to playing.   Skyscale, we're stuck at the resource gathering that you have to do to build the saddle.  All account bound resources that we never really collected.
+---
+Did you make the title of the post something about how anet ruined wvw/pvp/raids/fractals/endgame?  That is the trick to getting upvotes.
+---
+I wish there was an "opal" dye for the crystals on the blossoming mist shard armor, like Aurene's crystals. 
+---
+I'm thoroughly entertained by each new episode, but this time I decided to fill in the holes in the armor and give her a cape lol. I'm not home right now, but when I get home, I wanna earn those new shoulders :)
+---
+&gt;  a key writer leaving can impact the quality of that story.
+---
+We can only hope.
+---
+I have a question I was playing guild war 1 with a 3rd party software on my Mac OS, but it became too expensive and I stop playing. can I use my game code on steam to play it or do I have to buy the game again on steam.
+---
+The bot should just declare that its team sucks after first death, and stay in spawn. That way they’d just blend in.
+---
+But the male gingerbread Norn is *wider*.
+---
+51% upvoted? Haters.
+---
+Just check them occasionally, or they'll be Ash Legion cookies.
+---
+Victory or death is as easy to kill as pressing 1.     
+---
+Literally. In an almost tragic literal way.    
+---
+You press 1 to raise the shields and reflect giant attacks, you press 1 to throw the flaming orbs to the mouth, you press 1 to defeat Zhaitan itself.  
+---
+Even when outnumbered on the ship you can run back to Destiny's Edge and they will fight the risen, but they do so little damage that they won't kill them, so the dragons won't spawn more, taking them off your back.  
+---
+The hardest fight there is probably the Champion Bloated Creeper at one of the ship wrecks at the start because it hits rather often and spams high damage aoes, so it gets annoying in melee range. 
+---
+Hearts and minds has an introduction, 2 blighted ally phases, then a fight vs the avatar phase, and finally finishing the avatar. That's 5 phases, each with its own checkpoint. They were added later after release, tho, and many more story missions still need more checkpoints like that.   
+---
+They created a better instance system that allows more and better checkpoints sometimes around Season 3 chapter 6, but although that was used extensively in PoF, they didn't use them as much later, and they never bothered updating old instances to that system.  
+---
+These fights were nowhere near as easy as Personal Story, but unless you are going for migraine they should be doable by anyone with a basic grasp of the combat system.
+---
+To get a group going for personal story, you will need patience or friends since there's no repeatable rewards for it or some sort of 'strike' or 'dungeon' mode for story to keep those missions rewarding. So you will have to set an LFG and leave it open for quite a while. Depending on your schedule, you may not get enough current players to join.  
+---
+A newbie-friendly guild that helps in such things may help more than the LFG for these cases. 
+---
+I would appear to me that you are not used yet to GW2's combat system and are still stuck playing the way you would do in other less active games, and that you may be undergeared or standing still near enemies for too long.
+---
+I'd start giving a 4th mastery to those mounts that have just 3, and eventually give 6 to all of them.
+---
+This is fantastic. I need to learn Condi classes.
+---
+* Get used to quickly target enemies with right click. You won't lose track of targets that way. A few quick taps on the Tab key also works when facing a single enemy or few enemies. 
+---
+* Set a button to quickly toggle action camera on and off. Sometimes it's better to do a quick switch to revive or finish someone amount a group of stacked enemies an allies than waste time moving around waiting for the F you want.
+---
+That's actually the reason they gave. Apparently removing the target cap causes servers to melt and entire maps can DC.
+---
+Zhaitan and Mordremoth are both easy to solo if you bother to learn their mechanics and go in with a build designed for the encounter. What profession are you trying to use?
+---
+Most of the heavy negativity comes from people who are sad that new content hasn't been as enjoyable as past releases, for a long time. If you're a solo player making it through the story is worthwhile, probably even dipping your toes in some end game stuff. If you play with a group of 5 or so, you'll definitely get some good time tackling fractals. Enjoy it until you dont, then stop.
+---
+I've never encountered a bug in the Zhaitan fight. I mostly did the old version but just this morning was finishing core story on my Rev and did the soloable version. I agree it's a bit early, but it's super easy.
+---
+People letting other people enjoy things? Not this subreddit.
+---
+If you could actually read, you would have known that I haven't tried Zhaitan since it was a dungeon, when everyone deserted.  I never even made it very far, much less being defeated by Zhaitan.
+---
+I never mentioned 'rez-rushing,' much less complain when it didn't work, or demand ANET do ANYTHING, so that just makes you a liar in addition to being a troll.
+---
+&gt; and world bosses, raids or living world
+---
+Yeah I guess.
+---
+Most of out play time is spent in Hard Mode.
+---
+I defeated Zhaitan.  It was easy, and even worse, boring.  The party after in Ft. Trinity was better.
+---
+I want to thank everyone who let me know Zhaitan wasn't a 5 player dungeon anymore.
+---
+The trolls can crawl back under their bridge.
+---
+See, if you actually played WvW and PvP you would understand .. in fact in a way raids and fractals too. I bet you also say Living story is crap 2h every 3 months content? 
+---
+In a game so much about switching builds and professions, not having said professions viable in the pvp game modes where it matters the most sucks. WvW has had the same meta for 2 years now .. you login into WvW and always play the same 3 classes or else you get rekt. Changing the meta around, as long as the base game is good (which is, pvp and wvw are pretty good game modes) is content. 
+---
+Look at league of legends .. that game barely puts out any actual content over the years, but because they are always chaging the meta and reworking some classes or something, the game stays fresh. This is the nature of competitive game modes, the players are the content, you just need to keep it fresh and with a healthy rotating meta.
+---
+I'll try this, thanks!  I've had this issue for years on and off.  It seems to happen to my elementalist the most, but not sure why.  My main character, the ranger seems to get through the most reliably, but when i try and do it with my ele, I almost always have issues.  Still haven't completed Lake Doric story instance because of it on that character lol  Got tired of retrying it, but maybe with your tip, I'll give it another go :)
+---
+can't belive how some people are blind to the disaster anet has done with class balance since they released pof, how about we demand they fix all the bullshit thats going on before adding even more ....
+---
+the game is a complete mess right now compared to a year ago maybe two
+---
+It's not once? The founders of Anet were 3 people. Qutting after almost 20 years is like ?? at this point it's usually too much personal investment to quit? It's not like qutting a job you've been doing for 4-5 years. Anyway..
+---
+Isn't cdkeys one of the key resellers?  I wouldn't trust it if it is.
+---
+Strongly disagreeing.
+---
+It's funny for that I sometimes not do wvw but do world bosses, living world and raids?
+---
+You sound like someone who doesn't even play the game.
+---
+The first half(ish) of your "relatable" example is filled with so many exceptions that it essentially renders the entire rest of your post irrelevant.  It's like saying "I am a truck driver so I can relate.  Except, I don't drive a truck, I live in a different country, we have no roads and most people ride bicycles.  I do, however, ride a bicycle so this is a fair comparsion."  Doesn't work.  I have been a software developer for over a decade and all of my own experiences, plus those of colleagues and friends, is 100% the exact opposite of yours.  If someone experienced leaves, there is a noticeable impact.
+---
+Here's the short of it: if you are doing something that is low skilled, you are easily replaced.  If you are doing something that is specialized or highly skilled then replacing you is incredibly difficult and while the new person is ramping up productivity drops.  For example, replacing someone who mops a floor is not the same as replacing the lead designer of Apple.  How could it?
+---
+Do a little research of your own instead of taking either mine or OP's anecdotal evidence and you'll very easily see that people in specialized jobs like game development or software engineering in general are NOT cogs that can be swapped out quickly and easily.  High turnover rate is a sign of a major problem at a company and it leads to longer term issues 100%.
+---
+To even say that people in specialized roles are easily replaceable completely demeans them and essentially says all of their expertise and experience is worthless since they are easily replaced.  It just isn't true.
+---
+WvW is my much preferred game mode. The friendships that are built in wvw by joining a wvw guild and organising and working together to kill the enemy are the best and makes for great entertainment. I guess the difference is that you need to take the effort to actually learn how to wvw, play your class or classes really well and contribute to a team. It can be playing for the team or playing for yourself but you have to know your class. Roaming is also fun to fight another player....not a programmed npc with predictable moves. To go to wvw for participation/pips/reward track only.....you are never going to have a fun time.
+---
+Most of my favorite, episodic shows from my childhood were ruined when the writers left. So Weird Season 3? A far cry from the first two. Gargoyles Season 3? Declared non-canon by the creator. Heroes? Disrupted by the writers strike that crippled the shows narrative and sent it in a direction it was never intended to go, which ultimately proved to be a massive drop in already shaky quality. 
+---
+GW2 losing writers and narrative leads is detriment, especially when they have given the impression that the script for each season is pretty loose to begin with. It means the replacement writers just don't have a lot to build off of and it leads to noticable differences in quality.
+---
+On Zhaitan:
+---
+&gt;If you could actually read, you would have known that I haven't tried Zhaitan since it was a dungeon, when everyone deserted. I never even made it very far, much less being defeated by Zhaitan.
+---
+vs
+---
+&gt;Not through lack of trying... I have had this game since it came out. I must have tried to kill Zhaitan about twenty times, but then people start dying and they just bail. They don't even wait fro someone to res them. I have never finished ANY dungeon because of that.
+---
+On Rez-Rush:
+---
+&gt;I never mentioned 'rez-rushing,' much less complain when it didn't work, or demand ANET do ANYTHING,
+---
+&gt;Balthazar was very hard; but if you got killed, you didn't have to start from the very beginning!
+---
+&gt;I used the checkpoints with Balthazar twice. I suppose not everyone can be a god-like player like you.
+---
+Mordremoth Complaints:
+---
+&gt;And then there's Mordremoth... There are six phases, and if you die in any of them you have to start over in phase one. Adding to that, the instance is difficult to get to so you really have to go through the previous mission first.
+---
+Another interesting thing is the direction they took further development.
+---
+Anet started out with 50 fractal levels and expanded it to a 100, making grouping harder and the content seem more daunting to get into.
+---
+Blizz started out with 15 Mythic+ levels (well, scaling is infinite, but rewards scale to 15) in Legion, deemed it too much and scaled it down to 10 in BfA.
+---
+Anet wanted to do fractal leaderboards but then abandoned the idea (can't have competition in carebear wars 2).
+---
+Blizz is now pushing mythic+ as an e-sport. Anet could've done it before them and gain recognition but they chose mediocrity.
+---
+True, they made a lot of ambitious statements about HoT that ultimately could not be followed up on.
+---
+Isn't enjoyment the point of a hobby while being "good at" is the point of a profession?
+---
+It's definitely at least a third of the players that play pvp during the night. They're usually pretty easy to figure out and stall if you can have a ledge near them, [like in this](https://gfycat.com/eageresteemedafricanporcupine)
+---
+&gt;  There was 3 more seasons after that
+---
+No. Pro league was cancelled after season 1.
+---
+https://sf.reddit.com/r/Guildwars2/search?q=DAN&amp;restrict_sr=on&amp;sort=relevance&amp;t=month
+---
+Exactly.
+---
+well,meta is already played without any heal and basicly everyone in that comp have nice DPS.
+---
+ESO also had one thing that GW2 never did: Skyrim. It was an infinitely bigger predecessor than GW1 ever was and even to this day I hear people call it the Skyrim MMO
+---
+Any level of experience is always welcome so come check it out! We have cookies.
+---
+Nope.
+---
+ [Actually we are both wrong, it was cancelled after season 2.](https://wiki.guildwars2.com/wiki/Pro_League)
+---
+The pace of new content is fine when compared to other MMO's. FFXIV for example has also a 3 to 4 month update cycle with roughly 1,5 to 2 hours of new story. The difference is, that they implement content that is worth repeating for a while like raids (8 or 24 man) and new dungeons with new gear sets.
+---
+If you ask me, GW2 could do the same every patch. But they decided that dungeons are not a thing and fractals have an unfitting reward system for new armor sets because of the loot structure. But they could, for example, implement one of the story instances as "expert" content after completing the story, that pretty much functions like a dungeon with the chance to earn special rewards only available in this patch.
+---
+But who am I to suggest things like this?
+---
+Yep.  I'm a whitewater kayaker.  I enjoy paddling Class III/IV water.  I am not interested in doing Class V water (except the occasional waterfall if I know it's easy on the approach and low on re-circulation).
+---
+A new player won't be getting into Hard Mode until probably hundreds of hours into the game.
+---
+This might surprise you, but phasing is a technology Arena Net uses for some time already, but not to it's full potential. Map's don't need to be frozen in time and phasing done right also doesn't mean that you split the community.
+---
+Fact is, if a decision like this prevents the world to change over time, and with that limiting the possibilities for new additions, then they probably should get rid of that idea.
+---
+THE LION SLEEPS TONIGHT
+---
+Zhaitan is soloable now.
+---
+You’re comparing apples to oranges. I’m not going to entertain you further.
+---
+The best choice varies, the higher the tier typically the more action you will have. Head on over to https://wvwstats.com/timezones and find a server with high activity during your timezone/when you play the most. Be sure the server isn't full, you can also transfer to a linked server but keep in mind links get reshuffled every 2 months so a link typically is less stable than a host server but sometimes a link is all you are able to get into.
+---
+Take a look at this  [https://wvwstats.com/timezones](https://wvwstats.com/timezones)  it gives a relatively current breakdown of activities on each NA server at different time zones so you can pick what is best for you in your chosen playtimes. Good luck :)
+---
+look at strike missions. reddit told me, that people are actually able to fail them
+---
+I mean I get your point, but you said it yourself that you’re designing something that doesn’t require the same vision or creativity that an mmo does. I mean in this case, the individual does kind of matter.
+---
+Assuming everyone watched the stream. Which I am betting many did not. I don't watch streams as a rule, I don't find them particularly entertaining. So I have no clue what even you are on about here
+---
+This has been a persistent issue for me as well for years. Recently I reformatted my PC and couldnt get the stock wifi adapter working right, so I bought one of those USB Wifi adapters for like 20 bucks. Haven't had a single frustrating disconnect since then. Maybe it's worth a shot.
+---
+&gt;If I want advice on Mordremoth,
+---
+So this thread isn't asking for advice on Mordremoth. You were just complaining, possibly with the intention of a nerf. 
+---
+&gt;I'll take it from someone who isn't arrogant and condescending like you.
+---
+Your definition of arrogant &amp; condescending:
+---
+Telling someone to not rely on res for the literal final boss:
+---
+&gt;Maybe you should actually learn the game you play instead of just rez-rushing
+---
+Suggesting nerfing Zhaitan is more comparable to a movie than a game:
+---
+&gt;The bar set for GW2 cannot be any lower. At that point, you'd be better watching a youtube video instead of playing video games.
+---
+Claiming some of us like challenge:
+---
+&gt;some of us LIKE when video games challenge us in the slightest, and that by demanding ANET reduce the difficulty further, you ask to take away that fun from us
+---
+On the importance of teaching players mechanics before fighting the literal final boss:
+---
+&gt;I have to blame ANET for letting you get this far in the first place without forcing you to learn how to play the game. 
+---
+I mean, the things GW2 is asking of you really isn't that much in 2019. I wouldn't call it condescending just because someone can beat Balthazar or Modremoth without having to rely on respawn.
+---
+Wrong.
+---
+&gt;So I have no clue what even you are on about here
+---
+It's literally a question. Not that hard to understand.
+---
+I gave a pretty reasonable argument as to why decent balance changes can change the game .. and before you say I'm the only one on this, some content creators that play the pvp regularly, such as Sindrener, Vallun, Teapot even, share the same point of view. Decent balance patches are exciting.
+---
+He hasn't quit
+---
+There has been no constructive criticism in anything you have posted; all you have been doing is insulting me and lie about what I have posted.
+---
+If you are good at something, never do it for free.
+---
+And if you can't get paid for something that you are good at, you probably aren't that good after all.
+---
+And done.
+---
+Too late.
+---
+I have to play with no sound most of the time; it annoys my wife. :(
+---
+He's not wrong.
+---
+Yea, he was saying how Living World is a better model than Expansions.  Kyle fucked that up.
+---
+This question sounds like something from r/teenagers.
+---
+Yeah, but you should be allowed to have weapon swapping if you give up enough kits or attunements.  Not everyone wants to be forced to play the same way because their weapon options were taken away.
+---
+Tempests are even built around focusing on a single element, and they're still shafted on weapon swapping.
+---
+That's why it sucks to see what direction they took the game in. As if they had this big meeting where they discussed what's the one type of content to focus on that brings out none of the game's strengths and makes it entirely unappealing to anyone interested in an MMO, then went all in on that.
+---
+Wait, they're banning people for being ignored on the official forums now?
+---
+Herpa derpa LeArN hOw YoUr ChArAcTeR wOrKs
+---
+Get new material someday
+---
+My post:
+---
+&gt;You can't deflect criticism by insulting people who point things out, and by quote at that.
+---
+Your response: 
+---
+&gt;Then quit 'pointing out things' I never said.
+---
+You did say:
+---
+&gt;You are just being a lying troll
+---
+&gt;Reading is not your strong suit.
+---
+https://www.reddit.com/r/Guildwars2/comments/e3fppa/i_have_a_confession_to_make_i_have_never_killed/f93o48w/
+---
+&gt;you a liar in addition to being a troll.
+---
+https://www.reddit.com/r/Guildwars2/comments/e3fppa/i_have_a_confession_to_make_i_have_never_killed/f93gx2r/
+---
+&gt;The trolls can crawl back under their bridge.
+---
+https://www.reddit.com/r/Guildwars2/comments/e3fppa/i_have_a_confession_to_make_i_have_never_killed/f93hkw9/
+---
+It would need a lot more than just "some" balancing.  It's a 3-way map like EBG, not a borderland-type map which favors home BL.  It would need a major rework, they might as well just create a new map at that point.
+---
+They're in combat.
+---
+nope. and the option to kick doesn't even appear in the context menu
+---
+Because my work often leaves me tired. Because my hobby is drawing and creating, so when I'm not working and not tired, I'm pouring my time into those real-life skills. Because when I'm doing neither my work nor my hobby, probably because I'm too tired, I launch a game I'm comfortable with and get enjoyment from being efficient enough in a relaxing manner.
+---
+It's not really work, it's just paying attention and getting better at doing something that you do over and over again. 
+---
+I cook for fun, not to be a professional cook, but doesn't mean that my meals always have to be burned or taste awful.
+---
+the fraenir version of the construct also doesn't trigger traps for some reason, unlike its grothmar counterpart 🤷‍♀️
+---
+Saw nsfw tag + GW2 subreddit, was not disppointed.
+---
+Huh, fascinating how I managed to skip over that...
+---
+this is just wrong
+---
+gadgeteer along with rocket boots and AED are part of a version of pvp holo that's still quite good and used to be THE go-to build a couple of months ago
+---
+yes, the superspeed on rocket boots is that good and so is 8s duration aed that also has shocking aura
+---
+also your suggestions for turret changes are idiotic but at least that can be chalked up to personal opinion, unlike the first part of your comment
+---
+WoW definitely did not do fractals better. It is gear based and incredibly difficult to find groups for without both massive inflated item level and raider io the bfa version of wotlk gearscore. 
+---
+It's just a trash farm simulator with much more boring combat. Gw2 fractals focus more on bosses than endless trash and that makes then more fun. Anet develops way less dungeon and raid content but the quality is far superior . But the amount of content is what matters in the case of an mmo.
+---
+Anet never go all in on features they should and let shit die for no reason because terrible management and 0 vision. That is why a trash game like WoW can still exist and be popular , despite much better options being available in terms of gameplay.
+---
+ Blizzard focuses on it's strengths and ignore their shitty parts like questing hasn't changed and is still as awful as it was in 2004.
+---
+I guess anet believes their strength is only living world and will ignore the rest of their game. Fractals are a billion times better than m+ god awful grind
+---
+The mordy fight isn't bad.  The instant immediate DC during his death scene is.
+---
+It's partially completionism but I enjoy the story (outside of LS2 and pre-Claw Island retake) and hearing the voice actors for my different characters actually having a conversation
+---
+Only a problem because you never accumulated currencies in the new map when they were available. By contrast I had virtually all the currency before I started. 
+---
+Farming currencies is possible, but if people were playing the maps they'd generally have at least some of that currency just from playing.
+---
+At any rate the new map lets you farm ice and buy any of the Season 4 currencies if you don't want to play the maps themselves.
+---
+I mean, I was just thinking any part of this game is more fun when you're not staring at the sky 90% of the time.
+---
+But hey, just my opinion.
+---
+Probably as another way to increase the difficulty?  The first one was intentionally kept in the baby mode
+---
+I think he means something like “Kappa afdghd” 
+---
+Kappa (or other common names) + plus a string of random letters
+---
+Don't these scale with the amount of players? If not a lot they become vets, if a lot it will become a champ.
+---
+Was it a veteran from the beginning? I noticed that Starcaller (legendary hydra bounty from the Sandswept Isles) had the same bug some days ago, today I saw that it startet as a legendary and turned into a veteran after it lost it's heads.
+---
+Cooking is a great example. Almost every player learns to not stand in bad stuff or what different utilities do just as most cooks learn how to not burn things or how much salt to add.
+---
+However everyone who cooks doesn’t and shouldn’t need to learn the difference is varieties of paprika or cinnamon. Most people don’t spend time practicing making rouxs. It is a gradient and what is not work for you, might be work for someone else. I have a passion for cooking so making a meal or leaning a technique is fun for me but my girlfriend finds not following a recipe or learning a new technique stressful.
+---
+none was needed xD
+---
+I'm not disputing that.
+---
+But is it *necessary* in order to answer the question? It's neither hard nor controversial. 
+---
+I'm sure if OP led the post without mentioning the stream, people would've answered anyway.
+---
+End game is MMOs is what you do at level 80 to keep playing. For some people that's collecting every skin or mini. For some it's raiding and T4 fractals. For some it's playing the trading post or farming gold to get stuff from the gem store for free.
+---
+WvW is one possible end game out of many. If it was the only defacto end game you'd lose more players than you'd gain. There are far more PvE'ers in this game than PvPers including WvW.
+---
+I doubt it. As someone who has trouble seeing certain colors, I often notice the tell circles more than the people I group with. sometimes they are really bright and visible. Other times (for example Liadri in queen gauntlet), they are really faint. It can even be different in things similarly close in time/function--ex. deepstone gusts, bright orange; sirens reef gusts, faint orange. It just seems like it depends on the encounter, and I wouldve figured if they cut and paste it, then it would have the same attack indicators.
+---
+d912pxy somewhat solves that issue, but you can't use gw2hook then. I think the game is pretty enough on its own.
+---
+Maybe Destiny 2, but that's pvp focused from what I know.
+---
+U play pvp without a mouse?  
+---
+Are you an incarnation of god?
+---
+Without a mouse mhhh q,e,r,t,y,x,c  but idk  ive got mostly everything on my mouse
+---
+well yes but no
+---
+We did it guys, mods close it down GW2 is done.
+---
+No, I mostly play pvp on my PC with my mouse. However im trying to find a keybind setup that I can use on both my PC and my laptop. I don't use a mouse whenever I'm playing gw2 on the couch :)
+---
+When i started raiding i didnt know that such an opertunity exists.  
+---
+So if you havent done raids yet/ arent very experienced yet   take the chance!!
+---
+Good to see ppl do such things   thx NA
+---
+The boss is reused and has increased difficulty because it's supposed to.
+---
+Arenanet wants to give players a sense of familiarity, they want you to remember boss attack animations and patterns from previous Strikes so you can progress and deal with them in a harder scenario and improve.
+---
+I can't explain the color changes of the telegraphs, but all of them are present and visible.
+---
+[Dagger Strike] has very thin lines that form a cone and can be missed if there is a lot of visual clutter, but other attacks are very visible to me.
+---
+He can't quit, like all of us :(
+---
+Well they clearly did NOT copy paste the boss... It's entirely different.
+---
+Insults are not criticism.
+---
+"I wonder why..."  Because they died.  Reading really helps.
+---
+"Because you complain, when everyone else just... found groups to do it with."  I wasn't complaing.  Again, reading helps.
+---
+"Are you wiping on the nerfed version of the instance?"  Again reading helps.  I have already posted IN THIS THREAD that I beat Zhaitan today and that I thought it was easy and boring.
+---
+"You don't know me."  I don't have to
+---
+That doesn't apply to event bosses. If an event specifically spawns a champion or legendary, it will always be that rank.
+---
+&gt; A lot of people believe vaccines cause autism, does that mean they're right?
+---
+You're comparing medical science to personal opinions about what video gmaes are more fun to play. I don't need to explain how stupid that makes you.
+---
+I'm not the one trying to make fetch happen.
+---
+All three are supposed to be legendaries.
+---
+Out of combat weapon swap only.
+---
+One thing i like to do daily is using alt chars parked in specific location to get some mats/gold. This would take only a few minutes to do it :P
+---
+This site has some suggestions about where to park them:  
+---
+ [https://gw2fullguide.blogspot.com/2019/10/where-park-alt-char-farm.html](https://gw2fullguide.blogspot.com/2019/10/where-park-alt-char-farm.html)
+---
+Not 100% true. There are some events which will scale the rank of the "event boss", but they only scale up if there's a high number of players at the spawn point (same with any first wave of enemy spawns in any event). These, however, are supposed to always be legendaries.
+---
+They say that, but there's no *reasonable* amount of effort that ANet could have put into them that would have produced any significant results. The ex-players may have been a bit happier with the systems, but there still never would have been enough of them to matter. The issue is not that it would have been *impossible* to please the populations of those modes, the issue is that it would not have been *worth it* to ANet to do so, because the costs would be way higher than any potential of returns.
+---
+Yes, there are a few people out there that really seem to enjoy WvW, and that's great, but most players do not, and there's nothing you can do to change their mind about that.
+---
+Design wise.. GW2 is an amazing game. When you look at all the things that work design wise - ah beautiful.  
+---
+It's a shame a lot of the bad things out shadow it
+---
+Again, not everyone enjoys that.  Talking down about players who do it isn't productive in any sense other than to vent your frustrations.
+---
+He did, but didn't, did and didn't.  
+---
+Like most gamers with their main game.. we quit, don't quit, quit but still kinda don't.
+---
+Seeker of wisdom..........
+---
+It's in the story of the newest chapter and on low settings.
+---
+&gt; There have been tens of thousands of completely WvW centric guilds over the years, and hundreds upon hundreds of thousands of dedicated WvW players
+---
+Lol.
+---
+&gt;The map is poorly designed and plays like a PvE map that got changed into a WvW map halfway. We didn't even want the mount! It introduced a whole host of problems and has overall made the mode play worse.
+---
+These are both at least semi-intentional. They weren't done to make WvW players happy, because there were never enough of those for anyone to care what they thought. They were done to attract PvE players into the map, because there *were* enough of *those* to care about, and if even a fraction of them could be convinced that WvW was *fun* then WvW might stand a chance of viability. 
+---
+A fraction of them could not be convinced that WvW was fun.
+---
+But it disn’t happen just like that. It took him 19 years to say goodbye to his company. That’s an insanely long time.
+---
+\^ this!!!   
+---
+And some of us just plain don't have the time to commit to being "hardcore" in games anymore. I play games to escape the real world, so feeling pressured to basically have to complete an arbitrary set of tasks every single day, maintain a digital economy when I have real world finances to pay attention to, etc. isn't fun these days. Neither is the great min/max struggle. Maybe if I had 10 hours a day to commit to a game it'd be one thing, but a lot of us have day jobs that only afford us a couple of hours of game play per day/night - and we'd prefer that game time to be enjoyable, not more work. On top of that, a lot of us also play more than one game, so finding time to dedicate to everything we enjoy isn't always the easiest thing to do. Just as an example, I also play Destiny 2 - which, for the last week I have more or less ignored because of GW2, but, next week might be the exact opposite for me, or maybe I'l ignore both games to play Battlefront 2. Or maybe I'll ignore games altogether in order to catch up on some movies I want to see. The list could go on and on...
+---
+How are you comparing destiny 2 to gw1?
+---
+Define casual.  Can you not be casual and a good player?
+---
+Ive noticed that lately some legendaries can get downgraded in UI to be veterans while fighting them.
+---
+For a hydra boss I could idk maybe make sense with its heads coming off, but kind of confusing for everyone else.
+---
+I take it that nothing showed up in patch notes for this to be intentional so we can only assume its a bug.
+---
+&gt; that is highly debatable, and the argument that you don't play raids is not relevant.
+---
+You could say the same thing if complaining about a feature that sPvP gets but WvW doesn't, "why don't just just do sPvP for it?"
+---
+The fact remains, raids get Legendary armor, PvP gets Legendary armor, WvW gets Legendary armor, PvE gets none.
+---
+&gt; anet didn't just add a mount. they announced one and showed off the incredibly incomplete concept for it, ignored all the feedback and released it in that state anyway, proving all the concerns were very reasonable and then some, and after over half a year they still haven't cleaned many things up.
+---
+They didn't take player feedback on any of the other mounts they released, why should the WvW mount be tailor-made to the WvW community's specifications? Again, it is not worth their time to do so. The goal of the WvW mount was to get PvE players to play enough WvW to unlock it, no more, no less, and it seems to have achieved that goal as best as could be expected. 
+---
+&gt;wvw is a playground, and an amazing one at that. but instead of getting a new coat of paint or some repairs every now and then, someone's dog comes in every now and then and shits all over the place. ofc the people that need to play around those piles become frustrated and pessimistic, and ofc that whole image isn't motivating to any outsiders. the proper solution to that is not to demolish the entire playground, but to take care of that dog.
+---
+Or, just bulldoze the thing and replace it with a McDonalds. 
+---
+&gt;"i speak for the majority and thus i'm right". nice ego you got there.
+---
+I'm just pointing out the reality of the situation. If WvW was actually viable, then ANet would have paid it more attention. The last five year of "progress" in WvW is the *result* of how unpopular WvW has been from the start. 
+---
+&gt;neither do i live in your bubble, nor do i have such a hate boner for any particular game mode that i need to disregard or deny any event in order to force my narrative.
+---
+Also you, "wvw is a playground, and an amazing one at that."
+---

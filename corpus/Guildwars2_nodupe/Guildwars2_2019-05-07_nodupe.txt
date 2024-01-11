@@ -1,0 +1,2280 @@
+I mean, did you expect an infusion on the first hours? You got a rare skin, that's already pretty cool...
+---
+---
+---
+Yes. Remember when Anet said they wouldn't have you plugged onto 24/7 farm but instead provide a daily structure so you can play healthily and frequently? Well time to turn on your whale drive and happy farming
+---
+Letting them out of chrono jail is good for them tho!
+---
+That's awesome man!!! What set pieces, noob to that 80 life here
+---
+I'm still hoping that we'll get a Magdaer reforging mini-quest similar to the Caladbolg one.  Last I recall the fragments of it were sent off to some smith by Eir.  He's got to have been done with the bulk of the work, and Braham is back on good terms with the PC, so there's no reason to not let the PC have the reforged sword (or whatever other form it takes).
+---
+&gt;new subject matter in order to have fresh ideas, as the subject matter has drastically shifted every couple iterations since. The lewdness is still subtly present from time to time though.
+---
+
+---
+It is not entirely uncommon elsewhere, but may have a higher presence here in particular due to a certain someone formerly of ANet calling a certain beloved streamer a "rando asshat" and getting fired for it.
+---
+Maybe, but would you rather a 0.00000000001% chance of something? Or a flat 0% all together?
+---
+In order to properly test whether Force is working or not, you have to use the same ability many, many times to get a large enough sample size. This is because your weapon's Weapon Strength value causes each hit to deal a random amount of damage within a fairly wide range, a much bigger range than the 5% you get from Force. In other words, it's possible for you to hit something without Force and do 2000 damage, but when you put in the Force sigil and hit the same thing, you only do 1900 damage, due to this random selection.
+---
+In order to truly see whether it's having an effect, you need to take the average damage over many hits without Force and compare it to the average damage over many hits with Force.
+---
+But I promise you, it works. If it didn't, someone would've noticed by now, and done extensive testing to prove it, and it would be a current complaint you'd see on this subreddit until it got fixed.
+---
+You can still see the smile underneath the miniature sun that he radiates?
+---
+Well, there's a reason why the items are under the category, "super rare".
+---
+&gt; And he did isolate himself - he outright states that he could leave the cave, but chooses not to so as to avoid hearing Joko's orders.
+---
+Yeah, my fault. I guess I mixed up something.
+---
+I know a great spot to trio farm them for t5 drop majority of the time
+---
+I pretty much only ever gone for achievements with rewards attached to them and I've been playing since release.
+---
+YOU may not get the items you seek, but I promise deflation can still happen. All the players that can and HAVE gotten the uber rare drops will list them for cash, others will undercut. Undercut always happen s and you can just BUY fusions u want...u less they are account bound, then ur screwed
+---
+Thread removed: Do not use this subreddit to try and contact the customer support.
+---
+See full rules [[here]](/r/Guildwars2/wiki/rules)
+---
+Sounds just like Obama. 
+---
+I can't even tell the difference.
+---
+Triumphant Armor, Legacy Armor, and Crystal Desert reward tracks all have one or more full sets of stat-selectable exotic armor at the end (yes, even the desert armor box gives access to things like Viper's if you own HoT).
+---
+Also, almost any reward track for a Living Story episode has at least one piece at the end that can be stat-selected, but if you use those you have to be more careful to pick one with the right piece of equipment (most of the tracks only give you helms, gloves, or shoulders, and at least Jahai Bluffs only gives non-selectable helmets). They're great if you don't have the skins yet from achievement completion, but once you have them they're mostly just more micromanagement for the same reward.
+---
+Gender topic 2019 in a nutshell.
+---
+those invisible boots are like 4k gold or something
+---
+I would love tempest healer to become viable again.
+---
+&gt;i.e. dps
+---
+And that's the issue with this game. DPS is needed too much.
+---
+I main a scourge, I have a DH, reaper and condi ranger. I could tweak those characters and practice. Thanks!
+---
+Right that's what I did! And vaettir farming
+---
+You are missing the point they wanted. They just want to get back to gw1 original events, since people kept asking for pve too like how wvw kept having them. They are trying to do some testing grounds first before doing something very big. 
+---
+And come on now, if they were handing over free chag eggs then the items would be worthless. It has to remain rare and them dropping it is just a nice little bonus extra instead of having to do a specific meta or chase a naked mushroom
+---
+This whole DX9 vs dx12 thing rides on a misconception. It helps a bit, sure. but the real problem isn't the API. it's that the game isn't multithreaded properly. No amount of DX12 or Vulkan will fix this. It'll minimally mitigate API/Driver overhead which gives the 5-10% improvement we see. 
+---
+What really needs to happen is a full technical revamp favouring multi-threading in the engine. That would not require migrating from DX9 but it would require them to fund a team to clean up a lot of code and rework it. which they won't. 
+---
+DX9 isn't the real problem here. Bad tech is.
+---
+I set the arguments to windowed mode for all of them and this was the first time that I didn't encounter the issue when cycling through the accounts.  Thank you again for the advice on getting around this.
+---
+We are not gods.
+---
+1. Resurrection was (in GW1) an uncommon but not rare or unique magical spell. Something happened in the past 250 that made the magic cease to work, but what the Commander did was ultimately little different than Shiro Tagachi's method of resurrection (except he had to make a new body while the Commander didn't).
+---
+2. Balthazar was not a god when he died. He was stripped of his divinity, power, and title before the events of GW2. His strength during Path of Fire came from the Bloodstone he absorbed at the beginning of Season 3, and from the magic he absorbed via Taimi's Machine at the end of Season 3.
+---
+3. Unbound magic from Season 3 originates from the overflowing ley lines; Volatile energy comes from the same, but with Balthazar's warped magic mixed in. Neither is divine in nature - it's technically all Tyrian magic. And we have not been absorbing that magic personally. For unbound magic, we have [a device](https://wiki.guildwars2.com/wiki/Ancient_Mursaat_Relic) obtained to channel that magic, while with volatile magic, we're actually only able to touch it thanks to Aurene.
+---
+They should notify you, just try to reply to the latest email you got with an update on your issue.
+---
+Nah, it has to be Liquid Aurilium Infusions of 8 different stats, like Kormir.
+---
+&amp;#x200B;
+---
+I wonder if Grenth is ever added to the game, will they just put 8 Ghostly Infusions on him for the effect?
+---
+More or less, though it's three Tyrias fighting on the borderlands between the three alternate realities. It's never been added to the game (just said in interview), but also never debunked by the game yet.
+---
+But there'd only be one Commander per world, and they're too busy fighting the Elder Dragons and fallen demigods to fight in the Mists War.
+---
+Haha fair point. I also think that a lot of new players have more gold than they think they do. With how many crafting materials they've collected but knowing that they add up quickly.
+---
+The mind controlled minions probably falls into the territory “plot convenience”.  Rather than dedicate pages of writing on who the enemy soldiers are, where they came from and what their motivations are, it’s easier for the writers to say they’re being brain washed.  
+---
+As a side note, this is the complete opposite of Guild Wars Nightfall.  In Nightfall, the entirety of the story largely focused on Abaddon’s minions and their evil schemes.  Abaddon himself didn’t appear until the very end of the story.  Characters like Varesh Ossa got far more screen time and plot development than Abaddon.  It was an interesting twist on the classic “evil tyrant” storyline. 
+---
+Personally I think Arena Net need to hire some new writers and potentially “soft reboot” the story.  If it was me, I’d do something like a 5 year time skip.  The Commander has an epic final battle and defeats the Elder Dragons (without using a Deus Ex Machina).  The story immediately skips 5 years into the future where the Commander is enjoying a peaceful retirement (in their respective racial home city).  A new enemy threatens Tyria and the Commander has to come out of retirement to stop it.  To patch up some pre-existing plot holes, the new enemy would be the reason why the Human Gods abandoned Tyria and the reason why Balthazar rebelled.
+---
+i dont wanna waste my time and money by grinding for  mew gear every 3 months, which is still locked behind rngesus.
+---
+Make it as more profitable as SW and More Anet staff laid off
+---
+Probably a reason I’m missing but why didn’t you wall lupi and use feedback on the wall to reflect him to death?
+---
+The AI in GW1 are so good, they make excellent foes out of a regular pack of mobs. That always makes me weep about how bosses and general mobs in GW2 are way too easy.
+---
+ [https://www.reddit.com/r/GuildWars/](https://www.reddit.com/r/GuildWars/) is still fairly active. Veteran players are helpful and can answer you everything from newbie's builds to market price. They also give things for free (mini, hero armors, etc.) to help people fill their HoM quickly.
+---
+Imagine if they gave all armors a tail flap for Charr. Now that would be really something.
+---
+Really appreciate it, thanks.
+---
+Yes exactly. The friend I have does it out of her love for the people she does it for. She is adamant that she cannot be paid and vehemently refuses to accept anything in kind for her work.
+---
+So if you're not lucky enough to hit the lottery, each box is only worth about 30 silver? Really disappointing.
+---
+I'll eat my hat if we see more than 4 chak eggs drop throughout this entire event across all servers.
+---
+Correct, this is a mid murder shot.
+---
+&gt; She outright discounts Balthazar as "one of the Six". And this wouldn't just be a habit of calling the group "the Six" since all her mortal life and most of her immortal life she would know the group as "the Five" if Balthazar was not part of the group and had no successor.
+---
+Well but Balthazar was never part of "the Five", he was part of "the Six". Just like how people talked about Russia no longer being part of the g8. I think the wording here is ambiguous.
+---
+Norn using form of the ferret
+---
+its amazing how an item worth 3 gold on tp is consider super rare?  what a joke.
+---
+Without the full specs of your computer, it will be really hard to tell to be honest. There are a few factors to consider. We really need to know what your motherboard is for example.
+---
+Likely much less than that.  You can get a single Green Wood Log or Mithril Ore.
+---
+1 key 1 action on multiple accounts count as 1 action or multiple actions?
+---
+Why did I think they shut the gw1 servers down? Did they and then reopen them? I wonder how hard it would be to recover my old account
+---
+Well, only one other class, and that was Revenant. Every other class has no native was of generating alacrity.
+---
+&gt; 1 key for 1 action *on 1 account*
+---
+If you use 1 W key to walk on more than 1 account you are breaking TOS
+---
+I came from Blade and Soul, TERA, And Black Desert Online. Trust me when I say horizontal is much better for keeping a growing player base. BnS is P2W and practically dead. TERA is a grind, until it’s no longer fun, but you can’t move on at all because you’ll be one shot. And BDO is notorious for having an unreachable level (full PEN) of gear with the highest level player on the world at level 68 (apparently max level is 100, but even in Korea where the game has been put as long as GW2, no one is even close to that level), BDO and TERA require your life to be even the slightest bit competitive and to get out of leveling zones. BnS is practically dead. 
+---
+GW2 is still alive. One of its draws is the casual friendly gameplay. Most hardcore players won’t want to play fashion wars or achievement hunt, and want a gear-based goal like in other games, so won’t enjoy this game. However, that’s one of the main reasons that GW2 is special. 
+---
+Rant over.
+---
+The Dev has to take a stance like that, but in reality, there's absolutely no way they can tell you're flipping through multiple accounts, and using skills every few seconds. Not only that, but you may(probably) in fact be doing more damage on those accounts than someone with a poor connection or PC. Saiyan was trying to push the Dev too far in that thread.
+---
+Well, gods die but we are unkillable. We keep coming back alive.
+---
+Players are the master race.
+---
+The only thing I had about Mirage is the people that play them think they are actually skilled.
+---
+Their job is very stressful, okay? don't judge them.
+---
+I thought someone else got it. Oh well, according to the wiki you're right.
+---
+Ah I see. Thanks for the clarification!
+---
+you're going to have to define danger, because in my perspective we have been the most single entity in constant peril and pain in the story. we do lack a sense of finality due to the nature of being the vehicle for which the game is played and story delivered.
+---
+You know your comfort place is gonna be crazy popular now right? It sounds awesome, and everyone is gonna at least want to check it out! Btw, good luck to you OP, you can do this!
+---
+Easy, we know we cant die or get permanently injured. The story and characters would be more engaging if they were the focus, not the commander.
+---
+Foefire doesn't exactly have a staple look to it (besides, it's just candles on some rune-inscribed ribbons really; plus, it's magical fire). Night skies are a different matter.
+---
+Have you heard about system of cat tunnels? Sometimes they go for miles.
+---
+Not gonna lie, I did gem-to-gold for Catmander tag
+---
+Yes!
+---
+Snekmander when?
+---
+Theory: if you have to hashtag your shitpost as a shitpost, it’s not a good one
+---
+Do the bonus chests from world bosses have loot that scales with your level, or is it fixed regardless of level/progression? All I have on my account is a level 21 Thief, so I wanna know if I need to hold onto them until I hit max level or not.
+---
+if you want to risk a couple of your accounts for a bunch of crafting materials, go right ahead
+---
+This would be a better ending to GoT than whatever they have planned currently at least.
+---
+You are probably right. The title war eternal and the nature of tulhe mists suggest so. We gonna timelock him like Dormammu
+---
+The premise of this event is to make less people leave waiting for new content. It was never supposed to reward you.
+---
+Yeah exactly lets just crush everyone's will to play by handing everyone boredome everytime they manage to... actually do whatever, the whole event is built on boredom.
+---
+What's the point in even having an event like this if there's no meaningful reward for a player to make them interact with it?
+---
+ANey definition of **huge** rewards: 2 blues + 1 green
+---
+ASUS B85M-G Intel B85 LGA1150 mATX with 8gb of ram
+---
+Also, very very soft and fluffy.
+---
+[ARENA NET] [Chris Cleary.8017 posted on 2019-05-06 23:50:15](https://en-forum.guildwars2.com/discussion/comment/909229#Comment_909229):
+---
+&gt; Reading through your comments so far since the event has started, the main feedback that I'm seeing since the World Boss Rush started is that the box doesn't feel rewarding, with most players calling out that they "only got a few mats". I do want to point out that a Piece of Rare Unidentified Gear is a guaranteed drop unless you get a Rare/Super Rare drop.
+---
+&gt;
+---
+&gt;Going into this event we know that we have a lot we can improve on, and making repeatable rewards that feel rewarding is one of them. There are a number of designs internally to accomplish this, and getting rewards right is a critical part of making these events fun.
+---
+&gt;Thanks for your feedback everyone, keep it coming!
+---
+^(Beep boop bleep. I'm a bot. Message me or /u/Xyooz if you have any questions, suggestions or concerns.) [^Source ^Code](https://gitlab.com/networkjanitor/docker-polarbytebot-gw2-submission-transcriber)
+---
+I think what bothers me most is that this even has been going on for a few hours and I have seen nobody get an ultra rare item. I know the drop chance must be really small but atm I have seen nothing on reddit, discord, or gw2exchange so it is disheartening to see nobody be rewarded for this event.
+---
+This rose has thorns, and here they are!
+---
+Kralkatorrik: "maybe *I* was the illusion all along"
+---
+Commenting so I can go visit
+---
+Yeah, pretty much. The teeny tiny chance at an ultra-rare infusion (or in my case the gold from selling it) just isn't enough incentive to bother with it I'm afraid. 
+---
+What I wouldn't have minded seeing is some new, rare (but not stupidly ultra-rare) ascended weapons, one for each world boss, and your only shot of getting one is during these boss events. Maybe throw in a new collection for them as well, so AP hunters as well as skin hunters are encouraged to participate consistently.
+---
+Entitlement and/or false hope that Anet slotted in a rework to rewards somehow &gt;!LUL!&lt;  
+---
+People seem to think that every time there's an event that involves a super rare reward like infusions or skins, that Anet magically increases their drop rate.
+---
+There is no way you can tell if it is from a chat code anyway so why does it matter?
+---
+What can I give to the person that has everything? I met someone who decided to craft me some very nice gear for free and doesn't want gold for it. I want to give him something as thanks, but he seems to have quite a lot already. Is there anything I can give him to show my thanks withiut breaking my bank?
+---
+Closer to the salamander, probably.
+---
+Every second mount would be called Your Mom.
+---
+Probably not, honestly. Anything you could send to them as thanks, they'd be able to buy off the trading post if they wanted it. The best thing you can give them is genuine thanks.
+---
+Not really true. You can preview the contents of champion bags, and those do scale.
+---
+3 cats tonics : 2 as reward from scarab races, 1 that cost 100 laurels :)
+---
+Charr are big cats :)
+---
+Cats will rule both Tyria and our world !
+---
+Haha ye xD i was lucky af ,  glad you like it
+---
+It rejects it when i agree to the terms and after that the paypal window should pop up but it doesnt.
+---
+Nope I think we will kill it setting up season 5 where either someone evil takes the power maybe another god returns (which I won't like) or they are going to use the imbalance of magic to emm justify and give a reason to expand existing maps
+---
+I play the game since launch and since i travel a lot for work i never had the chance to grind/farm silverwastes or whatever to earn gold, plus i find it reasonable to invest some money to the game to keep it alive and provide us more content and since its not a subscription based game.
+---
+Look, man, if the players are able to do something that isn't intended, that's ArenaNet's fault (or the developer of any game, Digital Extremes for Warframe, etc.), *especially* if it is so blatantly easy to do.
+---
+ArenaNet took the correct stance with Auric Basin. It's not the players' fault and should not be punished while Anet works on a fix. If it was truly critical to the game, they would have fixed it in the first week.
+---
+In this case, ArenaNet *DESIGNED* the bosses to give endless loot.
+---
+ArenaNet hasn't lost any integrity. In fact, they've gained a ton since the early days of banning people for *accidentally* getting a lot of an item that was only supposed to drop once; or hell, when they started banning people for *turning karma into gold, without knowing this was an unintended mechanic*. ArenaNet used to be *vile* for what they banned over.
+---
+Far from dead,.. just get on the right server, if you want to do WvW.
+---
+"Investing"? LOL :D
+---
+It is a game, not a car or even a PC rig.
+---
+Because there are more events coming, and getting sudden best farms in game every week will make our gameplay equal to event filled mobile games. 
+---
+People did bosses before, whole chains and not because it's a profitable farm. You want to tell us that it's never worth to do them unless they will shower us with loot? What about fun?
+---
+These events are meant to offer slightly better rewards worldwide for events that are being done any way. Making something a farm removes fun, adds pressure, generate more problems (imagine all players running bosses because its faster, easier and can be afked) and burn players out. 
+---
+I have a recurring problem of constant burnout during very profitable festovals. During halloween I farm labyrinth because its ready, quick and efficient. Gives me stuff I can't get other way.
+---
+Then comes wintersday and karma farms. I slowly lose interest because there is another farm but it's too boring now, yet I should do it because its efficient and easy 
+---
+New Year comes and in our of game for few months. I don't even want to see another farms, getting envelopes, stressing myself to increae MF and open stacks of them. I'm slowly coming back after SAB.
+---
+Now imagine how many new players will be put of game because they will participate in weekly lootshowering farms, making whole gameplay a hardcore loot grind with slightly different goal every week or so.
+---
+More gold it is still worth it , just run for fun bro
+---
+Laughter.
+---
+No one is forcing you to do world bosses as well. Go back to your regular gameplay if you dont like it and stop complaining for a BONUS reward.
+---
+i mean what you're saying is true, but then again you don't necessarily need those to be a compelling story that just so happens to focus on your character, and in gw2 it's actually not spent entirely on the commander at times, heck we don't even have any meaningful relationship arcs apart for aurene, everybody else kinda had season crossings arcs on their background, take braham or Marjorie, the commander has been mostly a conventional protagonists that I myself can't really relate to until we got aurene as an egg. lastly i think that criteria is bit of a broad brush, good story telling games with your character as the focus is a thing, like the recent god of war which many celebrate for the protagonists (re)characterization.
+---
+It draws quickly. Right after S4E5 ended.
+---
+People like that just don't understand or appreciate the loot system that they've benefited from in the past.  I sympathize a little bit because you see something like, "GW2 is having an event?!?!" and then nothing really feels different.
+---
+Feminists don't like dogs, so they will not be accepted at Anet. I know this will be downvoted to all fuck, but typically dogs are "mans best friend" and feminists can't stand that they are not no.1 in all things. Anet has repeatedly shown that they create content, characters and employ staff depending on their sex, sexual identification and political approaches to be "open minded" and "broad spectrum", ironically they only tend to employ the ones that make the loudest noises. So whilst I would love to see dogmander or pugmander it just won't appeal to the audience or people they want to apply to, nor will it make the staff happy.
+---
+To be fair when you are lagging like crazy maybe bringing minions may be more efficient that bringing a skill that you won't even be able to cast :p
+---
+I can understand if the super lucky section is 0.000001% drop chance but putting in stuff not even worth 100g at the same tier with those that are worth 10k+? Its like they purposefully left the rare section barren to reduce any chance of someone getting valuable from either sections.
+---
+People just expected that the egg sac drop chance would be higher. But instead you just get more chances of the same chance. Seems OK for me. Don't know why people expected that anet changed their loot system. I much prefer my individual loot chance above the system wow has.
+---
+this boxes are the same as zephurite boxes.. last time i checked, it takes avarage of 100k zephurite boxes per infusion.. quite sure no one has farmed 100k boxes yet.
+---
+Balthazar rebelled because he wanted more power. Thats it.
+---
+This is the attitude that makes people quit GW2 as well
+---
+But the event is double loot with a chance on rare stuff that normally doesn't drop from these bosses. It's not "different more valuable loot every time you do this old boss". Anet also said they want to listen to the feedback and adapt in future events, so people expecting a shit ton of loot and different bosses have misread the assignment.
+---
+I didn't really expect anything and I find the additional loot even with resources quite good.
+---
+Maybe when they quit it, its for the greater good, you never know
+---
+negative feedback has no value? 
+---
+From a quick glance it seems people would love to participate/ possibly return to the game for this event, but the incentives dont seem good enough. 
+---
+They love the idea of the event but disagree with its tuning.
+---
+Seems like alright feedback to me.
+---
+I just did yesterday behemoth and it was lagging havely. After the kill I received the box and Achievement popped up. I asked in chat and got trolled. Maybe they could implement this in to the Newsletter. I submitted but never received anything. Also just reading Reddit if I have time and every evening the gw2 page. But for some reason I had to look twice to see that. A calendar like IN Wow would be nice in-game with events or some other sort of reminder.
+---
+did you read my post?
+---
+i think not. that was not my point.
+---
+so please read it again. only 3 lines.
+---
+that was my point.
+---
+or you go kill 500 pirates instead and get the same amount of rusty cutlass to melt into the same number of ingots?
+---
+I want to see underwater or the Mist expansion. I think those could be really interesting. If they will update the Underwater combat so it would be viable in the game that would make the game a lot more complete and polished. It doesnt need to be an expansion just overall update of underweter. 
+---
+As it comes to The Mist I feel it ha so many possibilities. We have Fractals wich are shards of the past and future wich we can see and experience ourself. We were in the Mist in the story with Glinth. We could make a device and build a whole city in the Mist. We could live there. Imagine a city hidden from others where only some have access. Even Aetherblade were in the Mist before. Or any other "dimension". We have the lands of the dead with Judge. We had Kormir Library and so on. If we would find a way how to stabilize it enough for us to work there that would be awesome ! We know that The MIst is breaking down because Kralk is taking magic from there. Killing Kralk in the Mist would realese the magic into the Mist giving it more then enough power to be stabilized for few years. Maybe thats the way we can deal with all the Elder Dragons ? Those possibilities should be explored !
+---
+&gt; And the selection should stored for each character instead for the account, and permanently instead only for the current play season.
+---
+this annoys the shit out of me; half the time its not even worth the effort to change from green
+---
+It was said before. There will be no new weapons, and no land underwater weapons, no offhand weapons as main hand and no two handed weapons as one handed. No new races or classes.
+---
+Whole economy, material prices, even legendary weapons are meant to be as it is right now. There won't be more underwater legendary weapons, and many new weapon sets don't have underwater weapons included.
+---
+Making any changes will either require insane amount of work or will break economy. Or will make players riot because they don't have this and that skin for their land spear.
+---
+There are more important features to be done than breaking stuff.
+---
+Game is going forward with great things yet to come, we all await how will story unfold. Please, be realistic with all you ask for.
+---
+&gt; Definitely an EU thing
+---
+ on deso and ive never heard of it; open tags can be any colour (and invite only tags can also be any colour)
+---
+I’d second this place. Found it recently, and beyond a few people doing a quest item pick up, its quiet and peaceful. It also looks beautiful which is added bonus
+---
+I don't assume I'm ever going to get an infusion drop, but it would be nice if the basic rewards were at least competitive with the other meta farms like RIBA, Istan (is it Sandswept now?), AB, or whatever else it is people are doing these days. It would have been a cool opportunity to revitalize some old content for a week and make it worthwhile to farm instead of the same old stuff.
+---
+I guess another way to phrase it is the rewards should be worthwhile even if you don't get lucky with a good drop. If it's a complete waste of time for everyone except the 0.1% who get something good, then the odds of it being a complete waste of my time are way too high.
+---
+Sad to hear that they wont be adding a Spear as a weapon but ah well. We will see what the future holds :)
+---
+How dare people be optimistic and disappointed. 
+---
+Ugh those entitled paying customers.
+---
+But we have precursor and legendary crafting that uses basically the same approach. Its just that you can buy most of the mats on TP and for gen 1 the precursor can drop randomly.
+---
+I have no idea what this meant to be
+---
+I was never going to be a SUPREME LOOT GUARANTEED thing anyway
+---
+Except if you're an ele, you don't need to pick up anything here ...
+---
+Yea 2 invissible boots and 3 infusions so far
+---
+I think that's actually 5:4 resolution
+---
+Appart from the preview we got last week?
+---
++1
+---
+Yep, there’s a lot of crap to do in the game if world bosses don’t float your boat go do something else xD
+---
+I can´t think of anything else that is more boring than world bosses, no matter how much reward u get. It´s neither challenging nor fun, just boring.
+---
+Are Mist Talisman worth it? I can buy two of those to get ascended accessories, or would it be better to farm living world season 3 and using my pristine fractal relics on something else?
+---
+Pugs are a terrible crippled and deformed breed that should not be endorsed. It's bad enough they added a scottish fold cat to the scavenger hunt.
+---
+Shut up he’s literally giving feedback which is what Anet wants stop defending every little issue with this game. Anet literally recognised that they have to work on repeatable rewards in this game in their posts, which honestly makes me so happy, but that also means that this event was a chance for them to do that and it didn’t turn out too well.
+---
+People like you prevent games from improving, every little criticism is responded with “just don’t play it”
+---
+Potential loot they will never get is the bait
+---
+While it's def slower, if ur having a lot of trouble finding groups, you could just do the TA pvp reward track
+---
+https://en-forum.guildwars2.com/discussion/comment/909229#Comment_909229
+---
+This is what I’m talking about, they’re finally implementing or working on good repeatable rewards after like 7 years, so criticism and feedback is a lot better than “go play something else”
+---
+Yeah, 900g is what I’ve been seeing. Almost wondering if I could find a less established/reputable guild who might do it cheaper using a middle man...
+---
+The thing is, this is an event. Even if the price goes down for the moment, after the event ends prices will go back up. The event is not a permanent change.
+---
+Thanks!
+---
+IMAGINE someone taking this guide serious lol
+---
+Well the daily structure is kind of weird. Play the game how you want! Unless you want to grind it
+---
+Ooof I meant that if he’s hoping into pvp anytime soon, thanks xD
+---
+If it worth it to world boss train 24/7??
+---
+It’s called Exordium
+---
+The jetpack engagement skill is just the jetpack faceplanting you into the ground and blowing up.
+---
+The place in LA is really nice as well. But it's on the west side of the Map and has under water access between tall water seaweed
+---
+2 egg sacs Aha
+---
+You can go to PvP lobby (Heart of the Mist) to try all Class vs golem dummies or NPC sparring, your Character will auto scale up to lv 80.
+---
+The Merchant also sell all kind weapons.
+---
+Just a reminder no one gives a fuck. Anet plz make more mount skins
+---
+Going off of account-based rewards, why not gold drop increase? Raw currency drops from enemies is already small so it shouldn’t break the economy. But I’m a fan of incremental bonuses that individually do almost nothing but stack up to be meaningful.
+---
+Criticism is good for this event as Anet plans on using feedback to implement good repeatable rewards (or so they implied). Better than saying the events good, helps nobody.
+---
+2 egg sacs welp guess there goes my luck for the year
+---
+Hoping? T6 mats. What to expect? T1-5 mats
+---
+Play mirage. They are op as shit
+---
+The photoshop pics are so misleading in this post, everyone is worrying and curious about the nsfw things. *sigh*
+---
+The star texture of the armor skin won’t be removed if it’s dyable since it’s “Zodiac” which must be “starry” theme, and the dye change of skinnish color to the blueish part won’t make it even a bit nsfw since the starry texture is there. The reason why anet don’t make it dyable is not they afraid of “nsfw” or other kinky stuff, they just want to save money on labor or have other more important things to do.
+---
+I honestly prefer easy to implement/change bonus weeks (with accepted feedback, which you can see in the forums) over yet more permanent content that still disappoints apparently everyone because it deviates from what they imagined it would be.
+---
+I have the feeling people treat this event as an equivalent to a 4 week festival. Ir doesnt have to be. Having the occasional low effort "5 extra linen scraps per day" event is not a bad thing as long as we still get all the other stuff.
+---
+They did. Those 4 trinkets at the start of the super rare section are worth nothing, have ‘infusions’ which go for like 2-4 gold on the TP
+---
+I am past this already. Also, full time work, uni AND leading a theater of performers and circus artists.
+---
+I literally went half bald before I changed job, left theatre for my successor, left uni because of lack of money to get diploma and finally I migrated. And it all happened in my half twenties.
+---
+But I hope you can do it!
+---
+I like the idea of progressing some kind of reward track with boss kills during the event. Could have things like mystic coins, obsidian shards and a few clovers for example.
+---
+Yes, but do you agree with me that there is constructive criticism and negative criticism, what I meant by “go do something is xD” was if you didn’t like this world boss event this go play something else that you like in the game I didn’t mention anything about not giving feedback or constructive criticism at all.
+---
+Found Thanos' account
+---
+I also have a great experience with the waiting parties, always a fun goofy time :)
+---
+I only have a little over 200. I didn't really see anything else I wanted, so I figured I might get some more ascended gear. What are augmentations? I don't think I've heard of those yet.
+---
+You should go with whatever feels good to you.
+---
+Mesmer is not particularly out of reach of a casual players. You might not push it to 100% effectiveness at the high end but who cares ? We're not talking 20% effectiveness, more like 60-80%.
+---
+Simply spamming all your phantasms on a core mesmer/chrono power build will annihilate close to everything you can meet in open world/story and will be pretty effective in dungeons and fractals still. I doubt this kind of playstyle presents any difficulty.
+---
+Mesmers get trickier when you try to play support (offensive boons supplier), tank+support or playing axe mirage :
+---
+* Support/tank chrono : need to use continuum split which can be quite confusing to use at first even though it is mostly spamming skills and triggering F5 at the right times, well positionning, aegis sharing, ... lots of little tricks.
+---
+* Axe mirage : positionning, dodge management, weapon swap, shattering while recreate 3 clones in an instant, finishing auto attacks...
+---
+So if you stick to power DPS mesmer/chrono you should be fine. Note that this is a rather selfish build just like power reaper (necro) but to be fair most pure DPS builds are.
+---
+It's objectively a complete waste of time for me. In the time it takes to do World bosses, through waiting and pre events, I could've honestly made more money doing fractals or raids, and probably enjoyed it more, too.
+---
+Out of classes you listed I would only like to comment of my main, necro.
+---
+It used to be extremely selfish, I'd say It was shellfish (hurr durr) with no place in team content.
+---
+Lucky you, not any more(ish)!
+---
+Currently necro is in his best spot since game release. 
+---
+You get easier solo class to faceroll story. You get good enough and easy dps roles, you can even be a healer pug-saver. Necro is weird because it benefit mostly lower skilled parties to a degree where you can literally carry others. 
+---
+While not speedrunning, necro is a beast currently. Also, great spot in pvp/wvw. Enough said that in pvp necro is first target to be killed so figures.
+---
+Optionally ranger is second, with perma pet and also endgame-meta-speedrun capabilities if you ever ascend to hardcore content.
+---
+That's hot
+---
+&gt;Now you have full maps and almost all players are at the world boss.
+---
+Which is curious, because we have full maps during HoT metas too and they don't lag for me.
+---
+You know this event is there to try and get people to play the game more right.
+---
+Because people who aren't playing aren't spending money or encouraging spenders to spend money.
+---
+This is literally the reason anet are doing these events. To keep people playing between the longer gaps.
+---
+Tail Plug for Human feemales? :°)
+---
+&gt; From what we know? No. Time does not stop in the Mists,
+---
+Then how you can explain that Dessa and Ark are the same age yet Dessa is his preancestor ? Ofcorse she cant leave but yet the time stoped for her. Harness this power , aim it for what you need. Yes we do not know how to do it but it could be possible. 
+---
+&gt; Nothing should be able to "stabilize" the Mists. 
+---
+If nothing is able to stabilize it then how it is that something can destabilize it now ? When its containing all things.
+---
+Your company and attention.
+---
+It's only there so we can fight something along the path. Considering we mostly fight elder dragons who do nothing but consume. We fight mindcontrolled minions. 
+---
+Remember scarlet was a thing
+---
+Damn
+---
+i think people get too worked up on idea that its a farm and not just something they can be like hmm i have 5 mins oh this boss is up lets go do it.
+---
+boss rewards from this would of had to have been crazy to make it worthwhile as a farm for any veteran player nowadays.
+---
+also want to add that if they give better rewards those better rewards become pointless because they are no longer better.
+---
+a token system could work but it needs to not just be for this week but instead overall as a thing for world bosses maybe just during these types of events you get even more tokens. 
+---
+maybe throw some of the really old black lion chest weapon skins as rare chances in the boxes we open and for a large amount of tokens so people could work towards them? these are skins that are no longer in use and would be a good way for some of the new players to get a chance at getting some very old skins no longer available.
+---
+Tbf the relic weapons in 14 are just for glamour (basically a skin) and only intended to be bis at the end of the expac.
+---
+/r/guildwarsgonewild leaking? ôo
+---
+Well, THIS is what i call a quality content!
+---
+Butt-cape
+---
+A lot of it is the ability to buy and sell almost everything in the game.
+---
+If I had to farm 2500 powerful blood, that would be a serious undertaking, but buying it from the TP isn't a huge deal at all.
+---
+It's one reason that D3 was infinitely better when they removed the auction house. You can get better loot because you can't trade it.
+---
+I joined a train today doing Claw of Jormag and there was a guy in map chat that said he’d give the first person to type “JORMAG” 100G. Me and a couple others did it but I was first. Then he actually mailed me the 100G! Needless to say I was pretty stoked  as a casual player that hasn’t ever gotten a pricey drop. I’d never seen something like that until this event.
+---
+Neither did I, but when I saw someone with a SAB chair bounce into the air, I knew immediately what I had to do and started rolling my fractal tonic to try and get the tentacle.
+---
+It was actually a lot of fun trying to land on the launch pad so I could do it again!
+---
+This may not be special for some you, but it is to me because The Juggernaut was actually the very first legendary I crafted, now The Colossus dropped as my first Pre.
+---
+Ok I change the 'semi-valuable' to 'mostly trash'.
+---
+Here, take this karma, all of you
+---
+I hope you're right, the massive amout of people at the bosses sure makes it seem that way :)
+---
+Chris Cleary! \o/
+---
+Happy to see him again.
+---
+&gt; Then how you can explain that Dessa and Ark are the same age yet Dessa is his preancestor ? Ofcorse she cant leave but yet the time stoped for her. Harness this power , aim it for what you need. Yes we do not know how to do it but it could be possible.
+---
+I *did* explain it, in the second paragraph of my previous post. That's not the original Dessa or Arkk. Mistlock Observatory itself is a fractal of the original lab. The original Dessa, like the original Arkk, are lost to time. The entire plot of Arkk's arc is that they're part of a fractal without realizing it.
+---
+The reason why time stopped for her is because time never started for her. She's a creation of the Mists who's existence relies on being within an endless loop like all the other fractals.
+---
+&gt; If nothing is able to stabilize it then how it is that something can destabilize it now ? When its containing all things.
+---
+What Kralkatorrik is destabilizing is not the Mists itself, but the barrier between the world and the Mists. Meanwhile he's outright consuming the Mists.
+---
+Theres always happening so much random shit in the waiting space for bosses, its a fun social event to me
+---
+Lol, eggcelent
+---
+So fail the event to get good stuff?
+---
+Sounds bad
+---
+Sigh, the Halloween's necklaces are account bound so I doubt that.
+---
+I'd argue that mesmers *used to be* hard to play, but they were changed quite considerably. I'd say they're pretty average in diffictulty, now. They're a bit love-or-hate, and some people *really* don't like them.
+---
+There's a difference between high end and acceptable. You can be a decent player who can hold your own in raids and other end-game content without being top tier. Lots of the guides online are really for speed-runners but people take them as gospel. 
+---
+I am a mesmer fan, partly because they're quite easy to be okay at and have a lot of variety in their skills. Play mesmer if you want to and you'll be fine in everything but speed-runner groups.
+---
+Obvious comment about being too stupid to make a real screenshot
+---
+I don't think he meant fail the event. I think he meant a failed super rare drop.
+---
+got so excited you forgot how to make a screenshot
+---
+it will be greatsword. legendary greatsword
+---
+Soon we will find out he doesn't even play the game. He just likes to whine about it :P
+---
+Wow! That's quality ass!
+---
+!RemindMe 7 days
+---
+I will be messaging you on [**2019-05-14 10:49:43 UTC**](http://www.wolframalpha.com/input/?i=2019-05-14 10:49:43 UTC To Local Time) to remind you of [**this link.**](https://www.reddit.com/r/Guildwars2/comments/blhbx0/so_has_anyone_gotten_anything_good_out_of_the/emq7fbl/)
+---
+[**CLICK THIS LINK**](http://np.reddit.com/message/compose/?to=RemindMeBot&amp;subject=Reminder&amp;message=[https://www.reddit.com/r/Guildwars2/comments/blhbx0/so_has_anyone_gotten_anything_good_out_of_the/emq7fbl/]%0A%0ARemindMe!  7 days) to send a PM to also be reminded and to reduce spam.
+---
+^(Parent commenter can ) [^(delete this message to hide from others.)](http://np.reddit.com/message/compose/?to=RemindMeBot&amp;subject=Delete Comment&amp;message=Delete! emq7gh7)
+---
+_____
+---
+|[^(FAQs)](http://np.reddit.com/r/RemindMeBot/comments/24duzp/remindmebot_info/)|[^(Custom)](http://np.reddit.com/message/compose/?to=RemindMeBot&amp;subject=Reminder&amp;message=[LINK INSIDE SQUARE BRACKETS else default to FAQs]%0A%0ANOTE: Don't forget to add the time options after the command.%0A%0ARemindMe!)|[^(Your Reminders)](http://np.reddit.com/message/compose/?to=RemindMeBot&amp;subject=List Of Reminders&amp;message=MyReminders!)|[^(Feedback)](http://np.reddit.com/message/compose/?to=RemindMeBotWrangler&amp;subject=Feedback)|[^(Code)](https://github.com/SIlver--/remindmebot-reddit)|[^(Browser Extensions)](https://np.reddit.com/r/RemindMeBot/comments/4kldad/remindmebot_extensions/)
+---
+|-|-|-|-|-|-|
+---
+&gt; Its basically a double rare loot event, one rare from the boss chest and one from the event's bonus chest, with a chance at an infusion.
+---
+[This gentleman can explain](https://www.youtube.com/watch?v=ch3X5WrhwGM&amp;feature=youtu.be&amp;t=243)
+---
+And you are free to feel that way, not all content is fun for all people :) That doesn't mean this is a shit event though imo
+---
+wut?
+---
+I'm not even looking for a guild..
+---
+I understood that reference.
+---
+please make it 3k gold so good commanders can have it without trolls mimicing them
+---
+LaunchBuddy never died, it just couldn't provide the logging in the same way it used to when the change was made, it has since been updated for this change and is working fine now.
+---
+That Butt-Commander?
+---
+Let's have actual dogs and not misbred little balls of suffering?
+---
+Archaeopteryxmander
+---
+&gt;You are allowed to search for people to play with
+---
+Isn't that what I'm doing?
+---
+Need to go check this out.
+---
+Living in the afterlife in the Hall of heroes is most likely not so bad. Grenths realm on the other hand is not my favorite vacation place.
+---
+The wiki states they even created and finished a map of the hall of heroes for PoF, but then cut it. Reusing the map for something would be awesome.
+---
+Two questions: 
+---
+Just got my engi to level 80. Is there any benefit to taking her through season 2 again (did it a couple months ago on a necro, but I don't remember the rewards) or can I hop into HoT without worrying about missing anything. 
+---
+How does engi rank as far as raid DPS? Probably going to go condi scrapper.
+---
+I completely agree. If the drop rates were better, they'd be complaining about Arenanet ruining these items that "mean something" and lessening their value. 
+---
+Anyone expecting to have one of these items needs to realize they're very rare (hence the category in the loot table). 
+---
+The purpose of the event is not for anyone to get all the drops (as they're accustomed to) and be finished on the first day. The idea was to get players together, which has been very successful.
+---
+He means a failure as in a successful completion of the event but no rare drop, not failing the event
+---
+And here I am not liking pugs because they're misbred and shouldn't be endorsed.   
+---
+   
+---
+And how do you explain the dog flute?
+---
+http://www.vgcats.com/comics/?strip_id=66
+---
+Haha, loot bingo, great idea! :D
+---
+I hope it will become a trend
+---
+lmao, I actually have problems the way tts says some words, like usually for it to say Asura kind of properly I type in "Azura", and ironically to say "boons" properly I have to type in "boonz" 😂
+---
+I can tell you from my experience that you dont need to pick a main on purpose. By now I have amassed almost 3000 hours of playtime with 50% on my necromancer and the other 50% distributed among 7 other characters with varying amounts. You can try as many classes as you like but you will notice that you naturally spend more time with a more select amount of characters. Thats at least how things are for me. Necromancer was my first lvl 80 character and just keeps getting the most of my playtime somehow, no matter what content. 
+---
+Other than that, I would argue that there is no shame in being an average mesmer. If you cant play mesmer optimally, play him suboptimally. People wont care in most cases if you manage to play your class at 100% efficiency, 70% or even 20% (this is actually where I would expect most players to be) as long as you stay a pleasant companion. In the worst case you can later salvage him for ascended weapons and armor to gear a class you enjoy more.
+---
+By Ogden's hammer! What shaving!
+---
+Put a guaranteed currency in the chest, keep the bad rng and sell rewards too for that currency (maybe not the infusions, their value is partially tied to their rarity, if you take that away people are less likely to show up for things like the piñata). Keep the currency consistent throughout different the events to give people something to work on but rotate/add to the big prizes so the event doesn’t get stale. And this is also a suggestion for non-legendary bounties, they are the majority of bounties and they reward you with champ stuff even though they have random effects that make them more difficult. Not all the rewards added have to be worth gold as long as their is some cool stuff, like with the casino or beetle racing.
+---
+I feel sab is hitting a better balance it has tonnes of stuff for new player to chase but with the weekly rewards it also gives players who have everything else something to get too, since before the mystic coins and legendary shards were available, I was just buying sab boxes of fun I will never use.
+---
+I enjoy world bosses. The BONUS event is just extra for me.
+---
+Some people keep forgetting is not always about loot. If the game is fun, well dammit play for fun.
+---
+For some reason I can’t change the flair, can a mod change it to [Fluff]
+---
+If content sucks, it continues to suck even if there are "good rewards."  Not everyone only does things for rewards...the gameplay should be reward in itself.  Just sayin'.
+---
+Demand has plenty of room to expand to meet the supply in the case of chak egg sack.
+---
+Its working now, just need to set it up in LB
+---
+This event is not something which competes with existing farms, like fractal 61, SW, Istan or gathering materials in terms of gold/h. This event is just something which is currently going on in the game to spicy things up, for players that do WBs and for players which forgot about them long time ago.  In terms of the drops, I think that such design is the best for the economy and enjoyment, because most joy comes from small potential that something will drop, even tho it wont, while constant income from reliable farms is a different form of joy.
+---
+Who cares, I need muh loot! &lt;/most mmo players&gt;
+---
+Because evil survives by controlling minds and lying.  If evil looked obviously evil, few would accept it.
+---
+Yes... If you checked recent update news you'd know about it.
+---
+you can go straight into HoT if you want if you don't feel like doing the LS2 story again. although you may want to hit the ls2 step 'tangled paths' just because it's short and gives a black lion chest key (you don't need to go all the way through ls2 just activate that particular chapter)
+---
+Now I‘m wondering what the front looked like 🤔
+---
+Boss Bonus Week is nice... just ignoring the entitled ones complaining about rewards or that this is ruining their usual fun for the long, long, long time of an entire week... I mean, their idea of "fun" is running SW over and over and over for the most rewarding farm.
+---
+Last night was one of the first times I've seen Claw of Jormag rip through first phase to below 50%, and then nearly a full map pug TT... with Crimson (would you believe it!) being the wurm group that failed it... lol. Nice to see world bosses in all maps tackled by tons of players, and the only thing I am now left with as an afterthought is...
+---
+"Modniir Ulgoth really knows how to talk a good fight, threatening everyone over and over. But when he gets to put his money where his mouth is, he's dead in 10 seconds..."
+---
+The added bonus is completely unworthy of "activity event". :(
+---
+The chance of a rare drop is similar to Zephyrite Supply Box
+---
+Haven't had a closer look at the footage, but i think no words are imprinted on the skin
+---
+Fine. Don’t. 🙄
+---
+I definitely thought it was going to be more rewarding that it is - I'm not mad, but I am also no longer going to participate, and I will wait out any verdicts on future events before I dip a toe in.
+---
+&gt; What Kralkatorrik is destabilizing is not the Mists itself, but the barrier between the world and the Mists. 
+---
+So we need to support this barrier ? Makes things a bit more complicated with another step but still doesnt change anything. We knew how to repair it before and we dont know it even now. At least we know what to repair. 
+---
+&gt;I did explain it
+---
+Yes but Dessa will then react in the lobby after. That means she isnt lost in the time.That she can still continue to learn more things. Yes she isnt able to leave but yet she is able to think forward , live forward stucked in the Fractals. She doesnt know what Sylvari even is wich means that she is there for a long time yet she is able to addapt and evolve in the means of thinking.
+---
+She might not be living, its more of her consciousness projecting her body as she was before, but that consciousness can communicate and help us.
+---
+Thanks, I'll grab the key. I know I can get some Vipers gear from doing the HoT story, wanted to make sure I wasn't missing any chances at Vipers in season 2.
+---
+I enjoyed playing too as there were more people. I pretty much expected nothing from boxes anyway.
+---
+The event is fine, it's just that world bosses in general are just boring.
+---
+Just started, have a level 11 Guardian, but I enjoyed the game enough to buy the green expansion.
+---
+Should I use my level 80 boost now or save it? And if I do use it are there any recommended professions? I really enjoy high mobility characters
+---
+If you have both tags unlocked, the default becomes catmander pink.
+---
+no
+---
+Can we please just delete the universe? We've ventured too far.
+---
+Omg... I clicked thinking it was just a joke... xD
+---
+( ͡⚆ ͜ʖ ͡⚆)
+---
+&gt;WTF? It's just an extra rnd roll to improve a chance to get something shiny for those who do bosses anyway.
+---
+Do you realize what the point is of events in general? The whole point of an event is to get people to play that wouldn't otherwise play and get people to play specific content they wouldn't otherwise play.
+---
+If their goal is to just give a bit more loot to people who already play that content then their understanding of what an event is supposed to be is off.
+---
+But your feedback is not about the game it is about you. You left the game long time ago with your bags full. And now when you are back you are mad because your bags are full and you don't know what it is. That is not a GW2 problem, that is a you problem.
+---
+I mean how can you even call that feedback? What should GW2 do about it? Move in to your account and clear your bags whilst you are gone? 
+---
+For you to give feedback you have to play the game again to see if the issues you had in the past are still there. If you manage your bags as they should be and if the issues that was back then have been adressed or not, and they have.
+---
+You do not get runes/sigils when you salvage (unless you use a special kit that because you really want that rune/sigil). You mostly get unidentified gear boxes which removes most of the clutter whilst playing. They moved all the tonics, toys and other fun things in to a novelty section. They gave us the opertunity to get bigger bags and as always you can still deposit crafting materials no matter were you are and they also added the accountbound bag space with access from all your characters. 
+---
+It is not perfect but as soon as you learned and understand how it works it is at least 80% better bag managements then how it was in the past.
+---
+ken doll
+---
+Dafuq is a CF
+---
+Chest Farm?
+---
+Same. There goes my risky click of the day
+---
+Chest Farm
+---
+door to door sales
+---
+This, + there were more alternatives until launchbuddy released an update for the change, like [Gw2Launcher](https://github.com/Healix/Gw2Launcher).
+---
+Imo go to the PvP lobby and to the training dummies, and you will now have access to everything you would have as lvl 80. If you own the expacs you will also be able to try the elite specs out.
+---
+Playing at lvl 20 or 50 or what ever will not show the potential of your class. Mobs are too easy and die too fast without you having to do much more then autoattack. In expansions it does not work like that. You will have to counter mobs and know what they do or they will kill you. At low levels you also do not have all skills and traits unlocked. You don't have the stats to play around with or proper builds with sigils and runes. All this change everything.
+---
+So try it out in the PvP lobby and read up on the tool tips and you will see a lot more then you can when leveling. And don't judge the game from leveling. Endgame is more then leveling a character. Endgame is something that GW2 have a lot of and the expansions makes it more challanging.
+---
+If two swords is specifically what you want to use, it's definitely Chrono.
+---
+Depends on the game mode..pve I guess chrono, pvp or wvw it would be revenant, specifically herald
+---
+Chest Fam
+---
+Ben only plays tempest though :/
+---
+I think the bonus rare unids alone make it pretty decent and the chance of an infusion or such is always nice. The biggest annoyance is the wait time between bosses, which is partly due to them dying so quick from the mass of players.
+---
+That said, some of the ideas I saw like a reward for so many bosses during the week or some AP don't seem like bad ideas. Like the Boss Rush achievement that gives the bonus chest could also give 1 AP per kill and cap at whatever is deemed reasonable. Then there could be a rewards at X bosses (e.g. 10, 20, 30, 40, and 50), maybe with some AP tied to it as well; they could just be some extra bonus chests rather than a unique skin or anything too useful so players wouldn't feel forced to grind X bosses.
+---
+So I have to download it again to make it work ?
+---
+I enjoy the fact that they are making this sorts of events. I belive they are on the right path here because it give players something to do during down times. The Tyria bosses are however pretty boring for me (read that i said for ME) and i hope they will make this type of events in the HoT and PoF expacs too. They said something about it so i think they will and i will probably be less bored then. 
+---
+But again good addition to the game and great if they make several different to swap between.
+---
+Depending on the version you have it should ask if you want to update when you open it, otherwise yes, you'll need to go to the GitHub page and download the latest version (1.9.3 I think)
+---
+If you're feeling comfortable with the game mechanics and generally know your way about MMOs, or if you're just fed up with leveling normally, go ahead and use the boost. If you're new, you might want to hold off — GW2 doesn't have a lot of structured content paths, so it's easy to get lost about what to do if you hit 80 without knowing what's going on in the game.
+---
+If you enjoy high mobility, I'd check out Thief and Mesmer. Thief starts off with high mobility, while Mesmer really needs the Mirage elite specialization before it takes off (that's from Path of Fire, the other expansion). Warrior is a solid option as well.
+---
+If you end up saving your boost for an alt character instead of using it on your main, Mesmer and Revenant are both good options to boost. Both classes are notoriously awkward to play before they unlock most of their skill and traits.
+---
+My theory is the same. Kralka saw a « prophecy » (I forgot the real word in english) where is not on Tyria anymore and Tyria live without him, and it scares him. But at any moment they mentionned that he saw he was dead or be killed.
+---
+And with the death of Aurene, we just can, I don’t know how we can.
+---
+But I’m sure that Taimu have a suggestion like : « Let’s trap him in the mists ». (Like Baltha did with Joko… or even human gods with Baltha)
+---
+But I’m worried about something that everyone have forgotten.
+---
+Aurene ATE Joko. Joko the immortal. And she’s kind of an elder dragon. So she might have absorbed Joko’s power. 
+---
+I though she will be turn undead. But … it seems like it’s not the Anet’s project.
+---
+However, Kralka may have absorbed Aurene’s power, which contain Joko’s one.
+---
+I love theory, always have a lot of them. I’m a Guild Wars 1 veteran.
+---
+But here, I’m like the commander : « what’s happening next ? » I don’t know.
+---
+if you do not play raids or high level fractals: it doesn't matter, pick what you want.  
+---
+in terms of meta: diviner rev in fractals plays with souble sword, but even with this gear more of a support role which doesn't dish out big burst dps and scales of the team...if your team is not bursty AF your dps will automatically drop down more then it could be.  
+---
+dps power chrono is a really good dps spec right now, but has the advantage on longer fights which favors power damage...the burst damage is not that good compared to other classes.  
+---
+overall, you will have an easier time with chrono probably, since illusions can tank quite a bit if you position yourself right. ontop you can selfsustain might and other boons without a big fuss and got good cc capabilitys.  
+---
+doesn't mean rev is bad in all those terms, you can probably build him too to be self sufficient enough to be easly played in openworld / story content.
+---
+People will farm mussels and plants in maguma jungle for low chances at pearls and lilly's which cos 5g or less, but farming bosses for rewards that could get you like 10000g isn't rewarding, even if you don't get any after this week at least you had a shot at it.
+---
+Personally I'm just enjoying the throw back to the old days when these bosses were the content that you did every day, talking shit and trying to make people laugh while we wait for boss spawns and you know there is nothing I enjoy more than 10 fps and only seeing nameplates :P
+---
+Also imagine you a new player and see so many people randomly while you leveling, what an awesome experience.
+---
+I'm not complaining about not getting rare loot. I'm complaining about not getting even an uncommon drop with huge lag spikes during the fights.
+---
+Thank you so much! If you don't mind I have a few other questions.
+---
+First, how do I find a guild? I asked in map chat but no one responded. I'm just looking for any guild to have people to talk to while I grind.
+---
+And second, are there any "must have" cash shop items in your opinion? I'm not talking about P2W I just mean must have in terms of convenience.
+---
+I always hoped we'd eventually get to the Depths of Tyria from there.
+---
+I think people have way to high expectations here. The drops are the rarest drop in the game. It is not gonna be showered over us but a extra way of getting those things we wanted by giving more easy access to the chance of getting them.
+---
+Bit of a broad question. I'm learning to play the Alacrigade. In some raids, keeping to the recommended rotation seems easy enough but in other and fractals, when I have to move between mobs and mechanics, I sometimes experience a surge of energy. It is a little problematic because I don't wanna switch legend above 10% energy in order to make use of the trait. This naturally means I need to fill in extra things for the rotation to bring energy down. I usually use sword 3 for filler but I don't really know if it's a good choice or if I should do something else altogether. Any advice on this and on general approach when out of the normal rotation.
+---
+Damn what a shame :(
+---
+Is the key limited by any factor or we get one each time we complete that step?
+---
+Metabattle has quite a few holosmith builds:
+---
+[https://metabattle.com/wiki/Engineer](https://metabattle.com/wiki/Engineer)
+---
+Looks like he is playable in all game modes.
+---
+Damn, you got a bright future behind you!
+---
+I would really like to know
+---
+Take a look ( ͡° ͜ʖ ͡°)
+---
+Well, it was not risky. It's what you'd think it would be.
+---
+Yes, Power Holo and Condi Holo are both viable classes. This is true for Fractals, Raids, PvP and WvW roaming. Not so much for WvW Zerging/raiding imo.
+---
+For Condi, most people run Pistol/Pistol. For Power, you will see either sword/shield for those who want damage and some defensive skills or you will see Rifle.
+---
+Choice is yours really and the Holosmith is quite a cool class.
+---
+ugh thatd be worse; im a dog person
+---
+In open PvE you can play almost everything. The viability of a build depends on the gamemode you want to use it for.
+---
+For raids snowcrows.com is a good source. There are builds for power and condi holosmith.
+---
+discretize.eu offers builds for fractals. You can find a build for power holosmith there.
+---
+metabattle.com displays a variety of different builds for different gamemodes. Holosmith included.
+---
+Check those resources out if you like to. In the end you are the ones who have to play the build. Just try whatever seems like the most fun for you.
+---
+I love it 3000.
+---
+By Occam's Razor
+---
+It's good they doing something, but...
+---
+I don't care about rewards, additional loot won't make me play it again. For me gameplay must be enjoyable to put my time into something and world bosses aren't, not matter how much loot you get from them. They are boring (you can just autoattack them) and because of all those players doing them I got 2 fps and can't see shit. 
+---
+I wish they did more. For years now I've been waiting and asking devs for options to get rid of other players visual effects and reduction of visual noise. For years I've been asking for more intersting challenging world bosses. For years. I'm just sad that devs are focusing on things that didn't make this game enjoyable for me. I'm glad other people are having fun with event, I do. I just wisz there was something for me too.
+---
+Chrono is more of a damage dealer if playing as a DPS is specifically what yu want.
+---
+Revenant as DPS is only really dominant when placed in PvP, because it is a very versatile class with great sustain. 
+---
+This is if we are speaking of Sword/Sword builds though, because Mesmer in general is a very good class for both PvP and PvE, and Revenant is great for both PvP and PvE too, but Revenant tend to take a supportive role in PvE.
+---
+i do like the event, i get a chance to roll on a chak egg sac every 10 to 20 minutes instead of every 2 hours.
+---
+Is pessing 1 at 10fps for 10 mins the kind of "rewarding" gameplay you're after ?
+---
+The NPC are not a bad idea. But having devs rampaging around with new elites would not be that good of an idea. It'll require their time and not that many players would see it.
+---
+For pve endgame there are generally 3 holo builds
+---
+* Power holo rifle
+---
+* Power holo sword
+---
+* Condi holo
+---
+Rifle holo has more burst than sword holo and uses bomb kit for "autoattacks". Why? Because rifle autohits are low dps, if you want ranged damage you might as well use grenade kit and in melee you want to use bomb kit. Rifle is great because your 4 5 3 has quite high burst and if you have crystal configuration: eclipse traited your rifle4 doesn't knock you back because you gain stability from photon forge 3. This build uses berserker pieces. You get a lot of crit chance modifiers with this build so even with full berserkers you get 100% crit chance in instanced endgame pve.
+---
+Sword holo is more focused around the autoattacks in sword (aside from photon forge, of course). As i said, it has much less burst than rifle which makes it inferior to rifle holo in most situations. You have slower and less reliable vulnerability application, less slow cc and utility. Just like rifle, this build uses berserker items. You can use either shield or pistol off-hand. Pistol is a small dps increase but shield gives you more cc and safety.
+---
+Condi holo uses 2 pistols but be prepared to swap between kits permanently. Engineer in general is a very difficult class to master due to the many different skills that you get from your kits. On condi holo you constantly swap between grenade, bomb and flamethrower kit or your damage will be very low. Using carrion pieces is fine for the start but you want vipers eventually as it is simply best in slot on pretty much any condi class. If all you are about is open world you can run grieving as you don't need the expertise but since grieving isn't neccessarily easier to get than vipers you might as well go vipers.
+---
+[The first thing that came to my mind as an answer to that question.](https://youtu.be/bhNQ9cv5K7Q)
+---
+It is viable in every game mode. It can fill a dps role in PvE. In WvW roaming it's a beast, you will win most duels and easily escape those you can't win. In WvW squad play it's useless. In PvP now the meta is scrapper, but a holo can still be good.
+---
+"Entitlement"
+---
+Extra rewards are pretty boring even if it was a viable farm.  I would have rather them scaled the bosses damage to make the events crazy hard for a week.
+---
+gw2 has a soft trinity. there are support / dps / healbuilds for all classes.  
+---
+the main thing is: its not needed and also many builds can be self sufficient if needed. but overall, you will get more damage + utilitie with a team ouf of it then without a team setup.  
+---
+as an older example without some raid or dungeonboss since most people can't relate anything to them, [legendary wyvern from first HoT map](https://www.youtube.com/watch?v=T6t2HnKiSfo).  
+---
+now think again: if this is possible, how much more HP / armor would content need to have to not be able to end fights in 14 seconds or faster and on the other hand: what would this do to normal players. they straight up wouldn't be able to clear any content anymore, which is sad but yeah, you'll get the message.
+---
+Kinda meh to me considering spawn phases take so long but I do love how every th ing is event based in gw2 and wouldn't have it any other way. 
+---
+I'm just glad they are doing more events! (:
+---
+r/guildrecruitment is a good place to start. Otherwise, try asking in a more populated map. Lion's Arch is a good choice if you can find your way there!
+---
+The biggest "must-have" convenience item is by far the copper-fed salvage-o-matic. It helps a ton with keeping your inventory clean without having to go to vendors constantly to buy salvage kits. Infinite gathering tools can be useful, though they're vastly more useful if paired with some extra account inventory slots so you can easily transfer them between characters. Some amount of bank/material storage upgrades are very nice as well, though you'll probably not need them immediately.
+---
+stunning. Good job.
+---
+yeah ive never set mine up with LB but because LB launches in admin mode, launching yolo in admin allows it to work as well. 
+---
+Glad you got it working
+---
+Deceasing the price doesn’t necessarily mean increasing demand. Increasing perceived supply has the same effects. The price went down to 20k just with this being announced and will likely go a bit lower.
+---
+&gt; people don't interrupt its heal when it is kneeling
+---
+Not sure about other professions but Necro-Reaper's Grasping Darkness on greatsword can nicely cancel either elemental kneel or suit stow stance
+---
+I got 20 invisible boots but I can't show you proof because they're invisible.
+---
+launchbuddy was down for less than a week
+---
+No chance. The rewards can't get any worse lmao.
+---
+annoyingly shiny... but i dont hate it; its fairly cohesive
+---
+afked 15 minutes to wait for fire elemental, got 3 rares totally worth XDDD
+---
+The mists isn't any realm, they contain everything that exists and keeps memories or echoes of it even after it has stopped existing.
+---
+The mists themselves are atemporal, but it appears that there's bubbles of space and time closer to Tyria's, and those who enter the mists are likely to end up in one of those.  
+---
+The Mistlock Observatory can create bubbles like these, garnering memories of events recorded in the mists coagulating them them into unstable fractals that fractal explorers have to stabilize so Dessa can research them. 
+---
+The only ones that remain unchanged in the mists are those made out of the mists themselves. You have demonic creatures that can change, but also people made of condensed memories that can reset, respawn, come and go and their memories are unchanged.
+---
+Arkk and Dessa eventually realize that they are not the real Arkk and Dessa, but memories of the original ones stored in the Mists. And then they reset, so they will have to realize it again, trapped in an endless loop forever.
+---
+What do you mean? Mirage doesn't exist.
+---
+I have a mathematics degree and I never thought this through.
+---
+I have to rethink my life.
+---
+good old afk 20 minutes, tag for 30 seconds, move to next boss :D
+---
+Didn't Ben leave Anet?
+---
+now i have to wonder why you took down the original post.
+---
+Well, if players cannot clear content solo anymore then they need to team up. That's actually the idea of a multiplayer game. Remember GW Prophecies - you needed a team, and it was good.
+---
+DPS rev is fine in raids, particularly if you are new or lazy.
+---
+Easy rotation, with renegade it brings some support and CC, with Herald you drown in CC.
+---
+Lots of people raised this even before the event started. and it took them until now to make a post about it?!
+---
+That looks really awesome!
+---
+more stats on a character every patch / addon to be "more powerful" sounds less appealing to me then building arround a set statlevel which doesn't change anymore and then actually get good in the game based on that.  
+---
+funny enough that there are stat resets ("stat squish") in wow because damage numbers are getting too high, so they have to scale down the whole system from time to time.
+---
+yes, patiently awaiting the code
+---
+As far as I know, HoT maps have a cap of only 90 people, while core maps go up to 150.
+---
+Well I just think that GW2 appeals to a different demographic - namely very casual players who don't have that much for endless grinding/gearing up. It's found its own niche. Would the game be more popular if it appealed to more 'hardcore' players? Hard to say. If Anet added more vertical progression, we'd probably lose some players and get new ones. But it's hard to say whether the game population would increase or decrease overall.
+---
+This isn't really a theory anymore it's been scientifically proven above.
+---
+I just did the story mode. It doesn't seem to give any tokens except unlocking the reward track. 
+---
+What do you mean by Forward and Up?
+---
+You can actually extract the gem that gives you the aura with a BLSalvaging kit. The ones that make you glow Black, Orange, Green and teal are not infusions and thus are super cheap on the TP.
+---
+Bored of WoW, fell off the BFA train hard after my computer decided to die and I'm just too far out of the loop now to get back into Mythic raiding.  Jumping back into GW2, which I haven't played since the original release.  At what point in level progression should I consider dropping the $50 on the expansions, and when should I pick up the Living World content?  All I'm really worried about right now is making sure I'm not missing out on any storyline on the way through while it has relevant rewards (I'm not sure how the level scaling affects gearing, if at all - it didn't hook me enough at release for me to get that far into leveling).
+---
+Yup that's Tyria's ass
+---
+It'd be nice if they added some kind of guaranteed token drop that you needed a bunch of to get a mini, skin or something similar, or you could just buy some crafting resources with each token so they don't end up being clutter. Some people love RNG, but others appreciate the sense of steady progression that accumulation of tokens toward a goal provides.
+---
+The infusions are worth that much sure, but the necklaces that you can get from these boxes do not contain infusions, but just [these](https://wiki.guildwars2.com/wiki/Polyluminescent_Undulating_Refractor) and are dirt cheap.
+---
+Its like noone checks wiki here
+---
+You should know better. If it has a serious fanbase you know theres gonna be a porn subreddit of it. Classic Rule 34.
+---
+ [7 gold 65 silver  ATM](https://www.gw2bltc.com/en/item/67372-Polyluminescent-Undulating-Refractor-Orange)
+---
+Personally really enjoying it, but trying to stick to doing mostly one full rotation "all bosses" and don't repeat, not enough time and I already noticed after selling everything my gold income after full run is pretty good.
+---
+Why not use Gw2Launcher?
+---
+After opening 20 of the boxes...yeah you're right lol.
+---
+Ded gaem
+---
+Casual meme since everyone is on all out defence about this topic.
+---
+Lol that's totally false, if that were the case why do any event ever?
+---
+Even if it is effecting other game modes there's a reason for it. People have been running circles in silverwastes for years.
+---
+Different Ben
+---
+You seem to be implying that that would be a catastrophe.
+---
+The guaranteed/common rewards feel kind of bland, to the point where I would believe you if you told me they were going to be a permanent buff (e.g. part of the daily bonus chest, so not infinitely repeatable) even once the event is over.  I totally understand the super rare drops being kept super rare, but I do feel like there has to be a middle ground there where, regardless of the actual value of the rewards, the common/guaranteed rewards at least feel more interesting to the point where it's worth shifting gears to make time for this event while it's running.
+---
+Whether that's making the guaranteed rewards more lucrative to the point where its competitive with other farms (this might be unreasonable) or just making the event a reliable source for a unique item or currency (black lion currencies?  Festival tokens of various types? I presume they want to keep the workload low so they would not create a new currency tied to new rewards), at least something like that would give the crowd a reason to take time this week to participate.  The more people participating, the more super rare drops will pop up, the more this will be worth remembering.
+---
+That said, this is a problem of degree, not of kind.  I definitely prefer those - you can always balance rewards and at least the structure of the event seems pretty clean (UI could be a little more descriptive but, well, everyone probably uses wiki anyways) and its a solid foundation for them to tweak in the future.
+---
+I’m ok with the super rarity drop rates. But I am bummed with the common items. Getting a jute scrap isn’t fun. Would of been nice to get maybe a T6 mat as common. Next step have exotics? And rares have like elonion leather square or the like.
+---
+The map chats that have come out of this are superb. I like it a lot. To the dorito party!
+---
+[Desert Highlands, through sand jackal portals, only visible at night.](https://wiki.guildwars2.com/wiki/Night_Lights)
+---
+Guess I'm too naive for the internet. Thought it was a joke
+---
+Mesmers aren't hard to play.
+---
+For a beginner's primer on all profession, including some basic skill priorities, [try this guide](https://en-forum.guildwars2.com/discussion/72254/a-leveling-guide-early-builds-and-tips) on the official forums.
+---
+College classes has been keeping me from the game lately, I plan on taking some time today after I get home to try out the event. Sounds exciting!
+---
+Fuck me, it's been a minute.
+---
+it is. because they only added a box that always drops. Thats not even an event.
+---
+Then you get 3 items out of that box what you can farm in 30sec on every map.
+---
+And the only thing why we playing this is hoping for the big lottery win.
+---
+[more relevant](https://youtu.be/lS9s8csExmM?t=94)
+---
+Tasty Carrots anyone ?
+---
+Had a better idea for background compared to just snapping a shot while in town. By chance I was in that area during game night time showing a friend around.
+---
+yes its fun with server lags, standing around 15min, no one doing pre events and not getting any reward for that.
+---
+what did someone wrote on the forum "i watch TV between bosses".
+---
+Why even playing the game when you play it like this? Thats wasting lifetime
+---
+&gt;I hate that world boss by far because of it's unending cc abilities.
+---
+It'll always do 3-4 fears first time after landing. Just don't stand on the hill, go wait by the side. Bring a couple of stunbreaks/evades for the wall phase. Simples.
+---
+And for the love of gods, TRIPLE DAMAGE SPOT. Between head &amp; foot. I'm amazed that after all these years it still needs explaining every time, it's the difference between getting below 50% first go or not. 
+---
+Even if you only get to ~55% when Clawmag flies off, just stay there and keep dropping damage, it still hits
+---
+Is there some sort of fashion website I can use to get complete looks for characters?  I need to do a full revamp on my char's looks but I lack creativity. I just want to copy from someone lol. I need a place I can see how the armors look and their names so I can look up how to get them. Ideas?
+---
+There's a save button!!
+---
+I haven't willingly gone to that map since perhaps 2015. My first thought for the gif was catching some updraft somewhere, and I couldn't think of what CF at SW was in HoT or PoF terms.
+---
+What the dick am I looking at? Also Cobalt
+---
+I think ideally, if you're keeping the event around for only a week, it should feel a little closer to "gamechanging" than it does.  This feels like a small buff that would almost be appropriate as a permanent change (albeit not infinitely repeatable in that case I'm sure), which is fine.  But creating a special week-long event feels like it should be more substantial than that.
+---
+And that's still fine.  It's a first step that they can refine whenever they come back to it.  It's a good framework, at least.
+---
+These guys, [Dust Mite Twisters](https://wiki.guildwars2.com/wiki/Dust_Mite_Twister) are so annoying
+---
+&gt; who'da thunk
+---
+Im not meme enough to understand your grammar
+---
+There is a lot of waiting though, for some farmers that downtime is unacceptable so they go back SW or whatever they were doing before.
+---
+For me, I do them if they happen to coincide with the dailies and for the odd socializing situation but the extra rewards are  rather weak imo, coming from someone who is a casual farmer.
+---
+We have a ancient lore it is called Guild Wars 1
+---
+Separate ranked queues, there's no reason to only have 2 PvP options when GW1 had so many options.
+---
+por que no los dos?
+---
+I like how lightweight this one is (though I only have a second account for login rewards).
+---
+[removed]
+---
+of course i'm not taking any merit to your edits.
+---
+I still remember when in the early stages of the game anet had to "retouch" one of the designs of the female arah armor because it was too revealing. Allowing the blue to be a different color would force the them to cover a lot of parts and i don't really see it happening. However i'm also of the opinion that the forced blue color limits a lot of the combinations for the armor. For example green would allow for a more "necromantic" style of armor, and purple for a more "mesmerlike" themes.
+---
+No achievements, no collections, no thanks. The fun isn't there.
+---
+There was actually a pug dog in gw1
+---
+Sylvari can already be saladmanders..
+---
+There aren't really any P2W items in the gem store.  Most of them are either cosmetic or convenience items.  I'd suggest getting a set of infinite gathering tools first, as that will be a big time/gold saver.  Then enough shared item inventory slots so you can rotate those tools through multiple chars (if you have them, and want to do that).  The salvage-o-matics are nice, but I've always been fine making stacks of mystic salvage kits instead.  And finally, the bank/inventory/mat storage expansions, based on your needs.
+---
+*lifting you up in joy*
+---
+Would you mind explaining how you build/play Necro to feel that way about it? I'm a very on-and-off player, mostly playing my necro working through HoF story right now, and since Living World 2, I feel like it takes me an eternity to kill and die to a stiff breeze.
+---
+My equipment isn't optimal, I'm sitting on mostly 80 exotics, and a couple 80 rares. Doing reaper GS+Axe/Dagger with minions.
+---
+Killing three random mobs nets better rewards than waiting 15 minutes for these events. Quality job as always.
+---
+No wvw builds and gear offer much more customization and build variety/roles. I'd be very disappointed if that happened. That and you have to earn the gear for it!
+---
+Thanks! PvP it is, i guess.
+---
+wat
+---
+Future what?
+---
+I have no doubt about that. At least i have a title inherited from GW1 that precisely says that :D
+---
+You need to tell us the Elite Specializations that you use as well, and preferably the builds as well, since they use very different weapon sets. I can't tell if you're using base Ranger, Soulbeast, or Druid, and in what type of PvE. Same with Warrior. Only Necro and Guardian are assumed because there's only one meta build for each (Marauder Scourge and Minstrel Firebrand).
+---
+I did a tour of world bosses yesterday just for the novelty, but I'm seriously considering not doing them today or the rest of the week. It's the same old events (just with extreme lag, to the level of not being able to cast skills or switch weapons for several seconds at a time), and the extra 3 or so mats is not worth going out of my way to do them. Plus the infusion lottery holds no attraction for me - I would much prefer reliable rewards, like the tickets in Queen's Gauntlet.
+---
+At this moment in time no new expansion or even plans for it have been confirmed.
+---
+No, WvW allows for more build diversity than the PvP system does.
+---
+its not poor design its just disliked by some people. RNG loot has been staple of games for a very long time and should be expected. now can they improve upon this system to add say an alternative where you can work towards something along with the RNG loot like in other events sure and that would be the best thing so we have the big lottery chance and then something to work towards from credits from the events(doesnt have to be exact same rewards just something that people may want)
+---
+I think it’s nice. I do wish it had w non-repeatable reward of some sort, to have a goal instead of just farming mindlessly. But it’s still fine. It highlights world bosses which are something to do. But once I’ve done them all for the day there’s no reason to repeat it. 
+---
+I love the idea of a reward track. The event and any pre-events could process the track to reward those who do the pre as well. 
+---
+Hell, just having a rotating “EVENT” reward track was be fucking cool. Change from world bosses to HoT metas to PoF metas to dungeons to Fractals to PvP to Orr Metas to WvW. Would be a nice way to highlight different content, give some extra rewards, etc. 
+---
+This could coincide with those different “festivals” they want, which would add even more, or they could just be normal, but a good way to change up the daily grind as most don’t have time for all the world bosses+dungeons+Fractals+Orr+HoT+PoF+PvP+WvW+LS3+LS4 dailies.
+---
+it's a photo from End Game.
+---
+Devs are much more open with communication after Gaile Gray left. Seems the memes about her mentality for player communication werent exaggerated :)
+---
+Guardian dragonhunter.  ultimate glass cannon
+---
+For me (a very unlucky person) tokens are always something I like. Anything that imply RNG mean that I will not get anything.
+---
+https://www.reddit.com/r/Guildwars2/comments/9c7w6j/how_to_change_the_arcdps_hotkeys/
+---
+Not dying
+---
+“4x the power” What bullshit. Been playing this game on the laptop I use for my studies and I get a solid 35 frames on medium settings. 4x the power of WHAT exactly?
+---
+I saw a theory on the official forums about how we'll kill Kralk in the Mists, but the ungodly amount of magic liberated will not only mess with Tyria, but also with all the other worlds, like the new "garden of the gods". The threat the ED represent for the Mists will force the gods to intervene. I think it'd be pretty cool plot for S5!
+---
+Except if you want to get a mount for nicer/easier time walking around Core maps, all expansion content is for max level characters (level 80). For the expansion buying part I would recommend checking the official (online) retailers on Gw2 website as they often have nice deals.
+---
+As long as you have an account (even without expansion iirc) and you unlock the episodes of Living Story as they roll out for your account and you will have them available for free to play later on. It is also possible to buy the episodes/seasons you miss with gems (so using either in-game gold or money).
+---
+Story order is as follows: Core game --&gt; Season 1 (this one nobody can play anymore) --&gt; Season 2 --&gt; HoT --&gt; Season 3 (need HoT) --&gt; PoF --&gt; Season 4 (need PoF, current one, last episode is supposed to come out soon).
+---
+Since all the Seasons and expansions are for level 80 characters you are not really missing much by not playing new episodes right away (except for the occasional new very good farm that may get nerfed at some point in the future :p).
+---
+Since leveling is kinda fast in GW2 I wouldn't recommend bothering about "gear" while you level: just equip random stuff that you loot since you will outgrow that gear very soon. When you can, it's usually a bit nicer to level up with gear giving you Power as a main/secondary stat bu that's about it.
+---
+I think I covered most of what you mentioned, don't hesitate to ask more questions in this thread!
+---
+or RPing as a quaggan (ghost)?
+---
+Legendary Bounties also give Elegy Mosaics, which are needed for various gifts when crafting a Legendary via PoF. Though the drop rate leaves a lot to be desired.
+---
+LOL
+---
+You don't have that many. I would just keep them. In any case in my opinion the value of a spirit shard value is less than 1 gold each. The main problem you will find is that you need to spend gold in conjunction with the shards to make specific items in the MF to sell in the TP. And it has to sell.
+---
+For example, gw2efficiency states that you can get a value of 2 gold per shard by making and selling a triforge pendant, but good luck trying to sell one of those since it's basically a remnant of the past that only retains it's collectors value, and chances are a collector that wants one finds it cheaper to craft it himself.
+---
+What i mean is, make sure what you craft in the MF sells.
+---
+Are great sword warrior viable for raiding?
+---
+I certainly want to play my Mesmer now.
+---
+Danm you spoilers :D
+---
+I would advise waiting for a sale then. Anything over 35% off is a decent deal as the highest they've been on sale for is 50% off.
+---
+Heroes were added because they couldn't fill all the different maps with enough people to find teams in time. I never had as much fun with bots than I had with people. Admittedly, there were also fails with people. But the bottom line is that it is much more interesting with real players.
+---
+Agreed
+---
+eh im fine with how it is currently.... though i wouldnt object to a bit of a health nerf
+---
+Hmm .... what is the cooldown if you use the guild item to start the event? What if you just ran Teq repeatedly like that?
+---
+Interesting concept
+---
+Well, you can still get a precursor drop, or one of those super expensive infusions. And people complained that the drop rate was very low.
+---
+No matter what system gets implemented people will always find a reason to complain.
+---
+Right.... now.
+---
+Now that is super weird. [That daily window](https://i.imgur.com/gCxplzc.jpg) only appears after clicking on the chest!
+---
+Arc is a PITA (i have Dodge in left shift... Not pretty
+---
+i have nothing
+---
+\[Open World, General Shenanigans, Power Chrono\]
+---
+sword/sword - GS vs. sword/focus - GS
+---
+I get the extra block with sword4, at the cost of the pull from focus4.  However, I'm thinking focus5 is superior to sword5 on its face, but then you've got the fact that Signet of Ether resets sword5.
+---
+I'm conflicted.  Your thoughts?
+---
+Half-capes!
+---
+&gt; It's just an extra rnd roll to improve a chance to get something shiny for those who do bosses anyway.
+---
+I don't think that's what it was supposed to be or pitched as.
+---
+In a few minutes
+---
+Change maps
+---
+just got it thanks
+---
+Focus for when you need pulls, sword for everything else
+---
+Because I assumed you were saying the necklaces are sold for 15g 😅 you really gonna drag a misunderstanding out
+---
+&gt; When I log in first time a day, I get a daily quests window. 
+---
+If it opens on its own seems like the chest opens for you automatically, puts log in reward into your inventory and disappears. Do you have maybe some (many?) unopened chests wiggling above your map?
+---
+Exactly this. I received a couple Rugged Leather sections last night. Whoo! Except, I can use my Glyph of the Leatherworker-imbued harvesting tools in a mid-level region for that half hour I sat and waited between events and get 30x that. So...why show up? The "chance at super rare infusions?" Please, I'm Irish but my luck has never been great.
+---
+I wonder if he he already has max chests sitting there, so the daily chest auto loots.
+---
+last time i played gw2 i think there were no seasons.  How long does a season last? how many pvp matches do you have to do to get a legendary?
+---
+It is weird. I saw this window just when I logged in today.
+---
+PvP team isn’t responsible for balance.
+---
+If only I could live my life in such blatant ignorance as you do. I'm honestly jealous.
+---
+Of course!
+---
+The first piece of Ascended armor is almost always the hardest to obtain. What do you have against assisting new players in meeting that benchmark easier/earlier than they might have, reigniting some interest in dungeons, and even getting another piece of Ascended armor yourself in helping?
+---
+I guess the best question to pose however is in what way would their obtainment of an Ascended armor piece impact you in any rational, negative way?
+---
+I tend to disagree here. In all MMOs I've played, groups wanted to be as stable as necessary and then usually put all remaining resources into more dps. Once progress was done and you reached farm status, a healer or off-tank would often be replaced by a dps, the tanks would go more offensive or whatever.
+---
+In GW2, I don't think that the dps aspect itself is too strong, but rather that the relevant other aspects require too little investment that would come at the cost of dps. A "real" tank (being tanky, not just using +5 toughness for mob positioning) is hardly needed anywhere, real healers are just optional (druid being there mainly because of might/spirits) and buffing happens in parallel to your primary task anyway.
+---
+I'm not really sure how this issue could be fixed and whether I'd like the fix. Simple fixes will probably just lay bare the many gameplay problems GW2 still has when it comes to defense and healing.
+---
+i like the warclaw.. it was the main reason i found a little bit fun again in wvw
+---
+Gold, asc equipment but also infusions - you can buy stat infusions with magnetite shards and I'm pretty sure it works out cheaper than buying using stabilizing matrices from fractals.
+---
+You do realize the event was meant to generate more interest among the playership than the small group that regularly engages in World Bosses, right?
+---
+Friend got the monocle then stopped moving/responding. I suspect she may have ragequit.
+---
+Comment just above yours is asking for a t6 mat like an ancient bone, that's a wee bit different to a set of ascended armor.
+---
+Its not misunderstanding when its miscommunication
+---
+I do not have any unopened chest. Also, I did not find anything from a login rewards list in my inventory. It is weird. I am going to check it tomorrow again. I remember a daily guest window. I don't remember seeing any login rewards mentioning. I know how it looks because I received it a year or so ago.
+---
+It's at least *something*, but 99% of the worldbosses in this game are AFK auto attack simulators, its so boring doing this
+---
+No. Skipping out on the rest of the boss events. No real profit or anything to gain. Drop rate for good items is way to small. I'm not angry or displeased with the event. Actually, I think they should do events like this all the time. I don't need the normal loot and it's too much work playing the lotto when I already know it's not going to happen.
+---
+Is the daily reward screen stuck with the Mystic Coin Bag highlighted every day?
+---
+Made in the Abyss , good choice of music
+---
+No. I do not see anything related to the login rewards except what a hero achievements window shows me.
+---
+I know I wouldn't. I spent real money on gems to support the development of the game. I couldn't care less if they start allowing you to earn skins and gliders end game. For the sake of the shop though I'd reccomend allow people to earn the less popular stuff. So player would be more likely to still want to buy stuff on the shop.
+---
+I deleted the comments because I made a mistake and realised it.. What is this conversation even
+---
+Was honestly expecting to see a screencap of map chat with lots of "Got some mats"
+---
+I just love how he says "Guys, how can you say the loot is bad? You get ONE RARE ITEM per boss. INSANE!"
+---
+Thread removed: Low-effort/-value post.
+---
+We have a trailer, don't we?
+---
+I thought we got it last week.
+---
+Why do you always spell you as yu? Its bugging me in every thread I see you.
+---
+If you put a scrapper in a fridge, that’s a native way of getting it
+---
+Right, but the hero achievements window shows the Mystic Coins highlighted in your screenshot. I'm wondering if tomorrow the Mystic coin will still be highlighted or the next reward (laurels).
+---
+This was part of my intention, imagine a world where no more awkward pugs hanging around squads not sure what to do and just tagging along at a distance. Not speaking from personal experience of course.
+---
+I have too many characters and really want to cull them. I'm having a hard time focusing on any single one and feel like it's hurting my enjoyment of the game. Any tips?
+---
+In that case the only help you can get is support team.
+---
+\*reads\*
+---
+\*re-reads\*
+---
+\*triple reads\* 
+---
+wait a minute...!
+---
+Yes. Sorry. I did not get it first. 
+---
+It highlights the same reward(first in a second line) third day in a raw.
+---
+I mean warrior can also dual wield swords and its definitely the most warrior-type class with minimal magic.
+---
+Are the glowing purple masks being distributed slowly still? I confirmed I subscribed to the newsletters (well before the deadline) but I haven't gotten my mask yet. I've seen other people with them.
+---
+I already made a bug report.
+---
+I was surprised to read all the negativity about the event, I'm not sure what people expected. Meta bosses give crap loot, as they should, but now you get a limited-time box with the slim chance of getting something amazing.
+---
+I fully expect nothing but junk but it's giving me something else to do this week. I'll take it.
+---
+No GPU?
+---
+I couldn't have said it better myself. 
+---
+Theory crafting in WvW is one of the few things keeping me playing the game. Trying weird builds, meta builds and everything in between keeps things interesting for me. Removing build/stat options would probably make me quit GW2 for good.
+---
+Indeed, play Illusions/Dueling/Chronomancer and get high burst and self-boons (Quickness/Might/Fury/Vigor/Alacrity), with the option to play full melee (Sword/Sword/Focus) or use a Greatsword for some ranged combat, I also like the Greatsword for the Mirror Blade burst.
+---
+This question and misspelling sets up a perfect Harriet Tubman joke.
+---
+Can someone remind me what time do they release trailers for episodes?
+---
+And tons of Zephyrite Supply Boxes were purchased. The lottery is fun. This event is basically an extra Choya Pinata or Treasure Mushroom for each world boss kill. If you do those already, then this is a nice bonus.
+---
+key the first time you do that step on each character, no other limit
+---
+Learn to use search bar.
+---
+I like the event, the chat it creates and bringing me to world bosses I haven’t done in quite sometime. I only wish the common reward was a bit better than what they are.
+---
+?
+---
+Holo alongside ele is one of the weakest classes in the meta.
+---
+It loses like all 1v1s. You can’t play it as sidenoder.
+---
+It’s worse than rev in team fights. 
+---
+It has next to no ability to deal with mass conditions (as you would get in team fights from scourge corrupts).
+---
+It has fewer invuln frames than rev, so it can’t even dodge most of the pressure.
+---
+How can you say Holo is broken lmao?
+---
+It’s so easy to counter its not even funny.
+---
+Sounds like either an axe or a staff then. You have very little overlap in your weapon sets. Staves can be used on Harrier Druid, Marauder Scourge, Minstrel Firebrand. Axe can be used on Power Warrior, Power Spellbreaker, Power Soulbeast.
+---
+Pseudo rng I think, right ? Stacking a smaller percentage of the overall until it becomes either 100% chance or you get that 'crit'.
+---
+Iirc dota 2 uses this for crit chance. You might have 50% chance to crit, but you initially start with like 12.5%,and for every attack that doesn't crit, it adds another 12.5%.
+---
+Heal Firebrand and Heal Renegade are both legitimately good, and both use Harriers heavy armor. I guess it depends on what you enjoy playing more or what your group needs from you. The Firebrand can provide the greatest amount of defensive support, and that may be appreciated for safer fractal runs, for example. On the other hand, Heal Renegade provides very nice healing, permanent Alacrity, and unique buffs such as Assassin's Presence.
+---
+I like cats but thats messed up. I'd hate to be defualted to a dogmander tag.
+---
+Do you want to play as support firebrand or support renegade? Or both interchangeably? Seems like that should answer your question...
+---
+Also don't forget that you can build either as support without harrier trinkets. i.e., get Magi's or Cleric's trinkets instead.
+---
+A Human, a Norn and an Asura dive into Mount Maelstrom..
+---
+They die!
+---
+Cause it burns them alive?
+---
+/laugh
+---
+According to the [wiki](https://wiki.guildwars2.com/wiki/Selfless_Potion) there is another way, I have never tried it though.
+---
+How often have trailers/announcements dropped any other day than the Tuesday before release?
+---
+same. everytime I open it I dodge in or out.
+---
+probably because zafirah is just a human
+---
+The last few lines may indicate the episode will start with Caithe contacting us. Apparently, the commander kind of disappeared ever since Aurene died.
+---
+I really liked getting more insight on her relationships with Faolain, and her motives for "kidnapping" the egg in HoT.
+---
+The sprockets are the only way to obtain them at the moment. There was an [event](https://wiki.guildwars2.com/wiki/Mordrem_Researcher) two years ago that allowed you to get it too, but the vendors are no longer here so you can't buy the potion for them anymore.
+---
+Episode 4 and 5 both dropped on Wednesday. Episode 4 was because the Tuesday was September 11th so people believe it was pushed back out of respect. Episode 5s trailer released in December before the company went for their christmas break.
+---
+What the actual fuck is that art work?
+---
+*Skrittlock
+---
+I think it's great, y'all are just whiney each times an artist tries something a little bit different
+---
+how much is caithe's face different from a human?
+---
+Yellow tag is usually guild only.
+---
+Okay, so it has happened two times, due to specific reasons. 
+---
+What specific reason would they have to drop it any other day than today this week, if the release was next week? 
+---
+That is also a very low amount as opposed to how many releases they have had.
+---
+I would prefer more events like the Roller Beetle race. Participate and earn tokens. Use those tokens to buy unique things.
+---
+#( ͡° ͜ʖ ͡°)
+---
+Caithe is a human with extra bits.
+---
+Thank you for the reply. Well, seems that i'll have to change my gear again then to be even more optimal. My current chrono solo build has base 80% crit chance, so i don't have to rely on slow to get my crits.
+---
+Fully realizing I should have bought the Glint's Gaze mask back during the March sales, I wonder when it will come back up again. I *now* have someone I'd like to use that cosmetic on
+---
+nice-looking?
+---
+Vendors were moved to Durmand Priory afaik.
+---
+What reasons well they might not want to release the short story and the trailer on the same day but do want to release them on the same week so they release the story today and the trailer later this week.
+---
+[That artwork reminds me of something ](https://www.dailydot.com/wp-content/uploads/2018/10/olli-the-polite-cat.jpg)
+---
+I want to say this idea was floated around recently by Chris Clearly on the main Gw2 forum.. at the very least, they're reviewing ways of making the bosses rewarding in terms of how we have earn x to obtain y (is how I understood it)
+---
+Caithe will make her way to the Grove - where everything began. Where we found out about the Egg, where the Sylvari were born. Where the Pale Tree sings her song yearning for the Hope, yearning for Aurene....
+---
+I hope they will take at least one to 2 months to release it, so we get a complete and perfect release, instead of an too early bumped out one  :(, since they told us, it will have some delay, due to the layoffs and size of this ls, i didnt tought they will release it before july
+---
+Claw of jormag has a triple damage spot btw
+---
+I like that this gives a lot of insight on Caithe's past and her relationship with Faolain. I know how it feels to be in that kind of relationship, and I'm glad Caithe was able to move past it. I also felt really sad when Caithe is referring to Aurene as her child. It makes sense that she would feel Aurene's death more than anyone else except for maybe the Commander.
+---
+Total Makeover Kit -&gt; Male
+---
+I'm... not sure I like the direction of Caithe, and her relationship with Faolain. This is probably the weakest story of the three.
+---
+Two awesome things:
+---
+1. Multimapping is back on the menu, boys
+---
+2. Everyone being active and good old fashioned tag parties.
+---
+I enjoyed it last night, my first login in weeks. Bosses die hella fast. I'll probably hop on a few more times, we all know we're gambling for those infusions anyways.
+---
+Expansion late summer or early winter
+---
+Well considering that they have already announced that it will be released in May it seems weird to think they would release it in July. 
+---
+And lets be honest, regardless if they spend 4 months or 6 months it will not be perfect. Nothing is every perfect in the world of software development.
+---
+Caithe's story felt the least interesting since it covered events and feelings that we either knew or could guess at. Still, I appreciate the intent to lightly address how bad an abusive relationship can be.
+---
+I suppose it doesn't help that the story ends in a rather depressing manner unlike the other two stories. Caithe has yet to find that inner strength and resolve. I hope we'll get to see more of Caithe's character growth going forward when she contacts the Commander. I assume that's how the next episode will start out with a mail from her.
+---
+I'm not even going to talk about the bowls of cool, clear, glistening water, in the middle of the desert...looks so refreshing...
+---
+I can't talk about the artists other works since I don't know them, but this one looks very weird. If I had to point out why it'd be because the hands seem too big and not like a female Sylvari at all. The face is another issue, it doesn't resemble Caithe but seem more like an old asura and the mouth is way too wide.
+---
+It's about half the size of the original soundtrack, but I decided to stop where I did due to heavy constraints of the availability of keys. Hopefully one day they will add an actual piano with at least 5 octaves..could do so much more.
+---
+all im seeing is a dwarf and the chick from frozen
+---
+&gt; the commander kind of disappeared ever since Aurene died.
+---
+Obviously just drowning his sorrows in the Super Adventure Box
+---
+Guys I think the announcement of "in May" was setting us up for May 28 lmao
+---
+Sexy gauntlets, they matched my outfit perfectly
+---
+She's one of the sylvari characters with the most human-like faces, but there's subtle leafy details in her face, embossings and such. Some can only be seen with max textures and shaders.
+---
+But I can remember if they remain in her Crystal form.
+---
+We do not have a Codex with a bestiary and NPC profiles to be able to check models in detail, so it can be a bit annoying to revisit stories and instances and fiddling with the camera settings to look close enough.
+---
+OMFG! you are a godsent! thank you! it just hit me! thank you very much!
+---
+I'm picking one that has a back that matches one of my character's color schemes, since we can't dye backs.
+---
+Yea, I'd agree with you there. I'm personally disappointed by the seemingly nanoscopic drop rate of the 'shinies', but it would be a lot less insulting if the common drops weren't so...pointless or unrewarding?
+---
+Which one is that again?
+---
+I didn't say it's not, I just said it's hillarious.
+---
+After I just convinced 2 of my friends to upgrade over the weekend!!
+---
+Heal Firebrand for quickness, Fury, Regen and on-demand Aegis / Stability, Heal Renegade for Alacrity, Might and on-demand high-CC, it's a choice between what you want/need, the playstyles are fairly different. Heal Firebrand being more defensive but reactive/proactive based, Heal Renegade having a higher APM but simple rotation with not much variation or choices when it comes to some situations.
+---
+I'm always very disappointed when the line bugs out. For some reason it is rather satisfying to hand out the aid to people waiting in line.
+---
+but what does that have to do with a tshirt
+---
+Looks like the artist likes drawing wide lines for mouths. That's too bad. Caithe has lips in every artwork.
+---
+It's like GW2 ASMR
+---
+How do they mess it up again xd
+---
+Works well for drawing asura, I guess
+---
+Speaking of kas and jory, where the FUCK have those two been
+---
+Is there a list of which can be selected up somewhere?
+---
+So glad they're not in a chest.
+---
+my theory is that the next maps "mists convergence bubbles" will be areas of the old FoW, where the Eternal War always was except now it will be us against Kralkatorrik instead of The eternal army against Menzies.
+---
+I use Melandru on my Chrono in CS to do immob on Gorseval spirits phase if there are no druids
+---
+Gem Stores 2
+---
+I think eventually they get updated, just takes a long while between updates. I'm holding my outfit redemption ticket too.
+---
+Captain America or Guild Wars did it better?
+---
+That’s an extreme and not what I’m wanting at all.
+---
+The fact they gecko mount skin returned when I don’t have the gems is saddening. It’s been one of the mounts I’ve wanted since checking the skins out
+---
+I'm pretty sure that trait has a cooldown iirc?
+---
+I mean an internal release schedule. A release schedule doesn't imply what we're accustomed to. 
+---
+You seem to be questioning why they didn't release the trailer today, instead doing the Requiem. Well, perhaps the trailer is next Tuesday? There's nothing to compare requiem releases to as they're new since the previous episode, there's no detective work to do here, it releases when they're ready, all we've been told is May.
+---
+&gt; I hope I see you soon, little one, when the end comes.  
+---
+  
+---
+&gt;  
+---
+&gt;We need to be with you for this, all of us. You brought so many people together, touched so many souls. We should face what comes together, one last time.  
+---
+&gt;I can't do this alone—I need someone else to help me meet the end of all things, and the failure of all our plans and dreams. Someone who loves you like I do.  
+---
+ 
+---
+It's kind of funny that Caithe is even vague in her own damn stream of consciousness, but...This doesn't seem like nihilistic acceptance that the world's going to shit. Or, like, maybe it is, but it also carries the undertone of...practicality? Like, 'I will see you again before reality dies -- but I need the Commander's help to find you, so we can stop existing together." Yeah, definitely a BIT of nihilism but...hey, it's the best plan we have?
+---
+f l i g h t j u i c e
+---
+Ummm, Daenarys doesn't have shiny, glowing horns.
+---
+Yeah, I'm really looking forward to the first instance, I want it to get reeeeal emotional
+---
+Works fine for me, I get no crashes when spamming dive
+---
+Really good question. I think I get bored and ADD kicks in. I've been playing so long that most of my old guilds are barely active. It's just do some cool event grinds for gold, upgrade my gear a bit at a time, clear some account achievements, and every few days swap classes and keep doing that. Maybe I should focus on group content instead and find a more active guild - except this can be a bit of a challenge as a working adult.
+---
+I'm down to three choices: Bat Wings, Forged Wings, and Largos Wings.
+---
+Guessing I'll end up with Forged though - I always thought it looked pretty damn *rad* watching those Forged Forerunners 'surfing' the desert ;-P
+---
+No? I am arguing that since they DIDN'T release the trailer today, the release is almost certainly NOT next week. While the person I am replying to keeps saying that it can still be next week, because they can have the trailer any other day of the week.
+---
+Oooh I like this idea!
+---
+How did you manage to convince them?
+---
+Ah the "nicest community anywhere" is at it again. An artist does an amazing piece of art (like it or not, it's very well crafted independent of style preference) but the grouchy inhabitants of the subreddit - once again - cannot find joy in anything but grumpy complaints about anything that is not quite as they would have liked it best.
+---
+I've always wanted some sort of event timer in the game, and this seems to be a good start. Clicking the events takes you to the closest waypoint on the world map.
+---
+The rewards for doing these events suck. 3 gold per hour. omegalul
+---
+I got the scaled dragon one. Got a punk-themed Sylvari and it looks great on her.
+---
+It's just annoying that clicking it opens the map, goes to the area, circles it, then goes back to your character.
+---
+So useless. How about just opening the map to the boss area and staying there so I can choose a wp?
+---
+Autobots, roll ass!
+---
+Ow.
+---
+[deleted]
+---
+Wow. Downvoted for liking the art. wth o.O
+---
+[ARENA NET] [Stephane Lo Presti.7258 posted on 2019-05-07 15:58:03](https://en-forum.guildwars2.com/discussion/comment/909893#Comment_909893):
+---
+&gt; Hi! I wanted to share a quick news that you can join us today on a special livestream (on [Twitch](http://twitch.tv/guildwars2), [YouTube](http://youtube.com/guildwars2) and [Facebook](http://facebook.com/guildwars2)) and in game as we play the World Boss Beatdown! We’ll be playing on EU worlds beginning at Noon Pacific Time (UTC-7). See you in game!
+---
+You can doubleclick any unlocked waypoint when map is open - if you're not in combat you will be teleported there.
+---
+Check out this great [In-Game Content Guide UI Mockup](https://www.reddit.com/r/Guildwars2/comments/8p2fsc/ingame_content_guide_ui_mockup/) by /u/Limonium. 
+---
+Sneak peak: [pic](https://i.imgur.com/FwuarDn.png)
+---
+Yet I can't use any of its waypoints. Disappointment ensues.
+---
+Just move the file in the in Applications folder to the external HD.
+---
+Harriet is not a stat type.  Harrier, however... I would actually do a Renegade first.  Both are really good, but Heal Rev has even more uses with it.
+---
+As people have already said, an in-game bug report and a support ticket are different things. Bug reports are for general bugs that likely affect multiple players (things like art issues, events stalling, etc.) You do not get a personal follow-up or response from an in-game bug report. For account specific issues or things where you do need a personal reply, you must submit a support ticket via the support website. You can find it here:  [https://help.guildwars2.com/hc/en-us](https://help.guildwars2.com/hc/en-us)
+---
+thank you !
+---
+I think Faolain joined the "Nightmare Court" before it was the Nightmare Court - before anyone really knew what they were.  Caithe just knew she didn't want to hang out with them while Faolain knew they were useful.
+---
+Those were her "Shadowy" allies during the No Refuge chapter.  They weren't labeled as Nightmare Court bc they didn't have that name/reputation yet.
+---
+I expected this to destroy me and it absolutely did
+---
+What hurts more is what Caithe says at the end, that it's been DAYS since Aurene died and apparently we've been just....doing nothing
+---
+Just waiting for the end now
+---
+I got the sense that Caithe placed her self-worth from Faolain onto Aurene, which I don't feel is all that healthy. With Aurene gone, she's lost and depressed once more.
+---
+I'd love to see Caithe find a way to build up her self-esteem over time rather than relying so much on someone or something else so much. It's okay to turn to others for help and love, but at least to me, the way this story was told, it sounds like Caithe is too dependent on external factors without having a strong, personal foundation of her own.
+---
+They are going to get trolled so hard every time they open a bonus box of shit.
+---
+At least Zafirah's one looks hella good imo.
+---
+The commander was doing daily fractals and played dressing up. Don't worry about it.
+---
+Nothing Kormir said or showed indicated that the gods left in fear, partially or more. Balthazar did proclaim this, but he was a spoiled man-child who wanted the fight of his lifetime and didn't care about the consequences to mortals this fight would bring. He was proclaiming them cowards in a fit of rage because they were refusing him the fight he wanted _out of pure boredom_. Zhaitan and his risen are pathogenic liars and are beyond untrustworthy - hell, most of the gods left well before Zhaitan's awakening by all indication, and even then they were in the Mists bordering Tyria where Zhaitan could not reach, so how could Zhaitan even know?
+---
+Everything that we have been told from the more reliable sources tell us that the Six Gods decided to leave to find a new world in the hopes of returning to bring Tyrians to that world as refugees. This sounds like a logical decision not born of emotion.
+---
+But even if they were afraid of the Elder Dragons: So what? It's natural for conscious beings of intelligence to fear their own demise. It's part of what separates sapience from mindlessness.
+---
+Ignoring all that though, that has **nothing** to do with what I said. It has nothing to do with Balthazar's change in personality. Balthazar going into a rage because he couldn't get the fight he wanted due to his boredom of idleness is not a cause of his change of personality, it's a show of his change of personality. Going from defender of the weak and seeker of honorable combat, to spoiled manchild who'd want a fight regardless of who he hurts in the process.
+---
+I wouldn't say finished. It doesn't cover the whole Hall of Heroes known from GW1, but rather seems more like the entrance to it, and it's in total ruins for unstated reasons - not hospitable anymore, in other words.
+---
+Besides, the Hall of Heroes is perhaps even more unnatural than the Underworld, given that its lightsource is a pillar of light in the center of it. So to me it sounds like it'd have an even more unnatural sky and feeling than the Underworld, which while similarly lacking a sun, seems to have an otherwise natural looking sky.
+---
+https://wiki.guildwars2.com/wiki/No_Refuge
+---
+What our team did was we stockpiled crystals in a safe area (usually by quickly clearing out one tentacle). This makes it easier to pay attention to the laser and manage health. Characters with shadowsteps help out for this task.
+---
+I picked GS mesmer so that I could pull golems (unblockable ranged attack) so that we could kill them without having to worry about running everywhere or getting hit by tentacles. Killing the golems quickly to get to 2nd phase as soon as possible to speed up the Maw’s attacks.
+---
+Did I say it needs vertical progression or even mention WoW?
+---
+No.
+---
+Not all sustainable progression needs to be vertical progression.  As I mentioned, AP is a cop out for progression.  Also, trigger much?  Someone suggests GW2 needs something more or some "long term progression" and you jump right to WoW and vertical progression.
+---
+depends on what you're going for. Warrior is just a brutish dual sword fighter. Rev has a magic flourish to the fighting.
+---
+The thing is this mount is so slow that even if you did reach a JP from a high point, you’d get dismounted closer to the borders of the JP than a griffon and you’d fall to your death. If the JP allowed gliding then that JP more than likely can be cheated with the griffon in a more broken way already. It really makes no difference and I don’t think the flight should be made with that in mind. They could just change the shape of the borders of JPs to be more of an upside down Pyramid to avoid getting super close from a high point and dropping to the end.
+---
+&gt; So we need to support this barrier ? Makes things a bit more complicated with another step but still doesnt change anything. We knew how to repair it before and we dont know it even now. At least we know what to repair.
+---
+I don't think any Tyrian ever knew how to repair the barrier between Tyria and the Mists.
+---
+&gt; Yes but Dessa will then react in the lobby after. That means she isnt lost in the time.
+---
+I do not recall this, and wiki has no dialogue of Dessa reacting to the Shattered Observatory Fractal. Besides, she is lost in time. The observatory itself resets - and it seems the Shattered Observatory Fractal is the end of that "loop" now, where everything resets after it.
+---
+You probably missed it but in Season 1, Kiel tried to get Dessa to leave the observatory and it just reset itself, Dessa forgetting everything that had transpired beforehand. [One member of her krewe](https://wiki.guildwars2.com/wiki/Dessa%27s_Krewe) doesn't even know that her laboratory once looked different.
+---
+And her lack of knowing what sylvari are - despite YEARS of interacting with them - shows that she's been stuck in the loop for a long time. Yes, she's able to adapt and evolve, but so are all fractal inhabitants. But they still reset after a set period of time. Being "stuck in a loop" does not mean you'll do the same thing over and over and over, it is more like the movies Groundhog Day or Happy Death Day where the actions of other people (not the looper) are altered based on the actions of the looper (who is the only person with memory of the loops). In fractals there is no "looper", no one to retain memory of the loop while trapped in the loop, instead you have the players who are external to the loop interacting with the loop.
+---
+In other words, those stuck in fractal loops - and this does include Dessa - would only repeat the same things without evolving or adapting if they never interact with forces external to the loop. Once an external force comes into play, those stuck in the loop react as their original counterparts would have.
+---
+And if you need any more proof that she's a fractal in a loop, besides the Shattered Observatory Fractal *outright stating it*, the Warclaw lore also states it:
+---
+**Arkk:** ...Unless the targeted entities...are...inanimate...
+---
+**Dessa:** Yes. We're stuck in this time loop, too. We can't leave because we're not real.
+---
+**Arkk:** Neither of us...is alive. Not really. We only exist in the Mists...echoes of ourselves.
+---
+https://wiki.guildwars2.com/wiki/Shattered_Observatory_Fractal#Dialogue
+---
+We have long believed that these battlegrounds exist in a repetitious "fractal state." This term was coined by the asuran Mistlock Observatory, which is itself trapped within in a fractal state.
+---
+https://wiki.guildwars2.com/wiki/The_Warclaw
+---
+Can't really get much clearer than Arkk saying "neither of us is really alive".
+---
+&gt; She might not be living, its more of her consciousness projecting her body as she was before, but that consciousness can communicate and help us.
+---
+It's more of an exact copy of her original self at a specific point in time that will eventually reset to that specific point in time.
+---
+But sure, that echo can help us... has been, in a way. Except there's still the fact that **everything** we have seen shows that the movement of time on the self remains unaltered in the Mists.
+---
+If you've seen Endgame, think of it akin to the MCU's take of Quantum Realm in terms of how the Mists' flow of time works. One may enter the Mists and leave the Mists in what seems like 5 hours to the self for it to just be 5 seconds from Tyria's perspective, but it's still 5 hours for the self. There's no cryogenic stasis capable just by entering the Mists, or time on one's body slowing down from the rest of the Mists, to spare someone from bleeding out from a wound.
+---
+Gorseval is hot
+---
+Crystalline Wings because *I wanna honor my daughter goddamnit*
+---
+Shame you can't dye them tho
+---
+Yeah, they are so low you can't buy much if you are not running whole trains of bounties. But even then, it's slow as hell. It's not fun.
+---
+Yeah, sure that's why you deleted your "sigh, I don't believe it because they are account-bound" comment. Thanks for the laugh
+---
+They have different max players per map. You can join Blodtide Coast with around 150 players, TD on the other hand with under 100. At meta maps are full with less than 25 players per lane. 
+---
+Also the Design is different. For HoT Metas players are split up to 3-4 lanes, so you have only 1/3 or 1/4 or the whole map fighting at one spot. Actually at VB most players run to the Wyvern Matriarch and there *are* skill lags as well, sometimes. 
+---
+But for core Tyria world bosses, there are more players per map *and* the whole map fighting at a single spot. 
+---
+When Anet designed the Triple Trouble event, they even said, that they put the heads so far from each other to prevent performance issues.
+---
+Which one?
+---
+oh god, its like a zkill guide.
+---
+this is beautiful.
+---
+I absolutely love the grass up there in the garden&lt;3
+---
+That shit's buggy to hell, and just adds more clutter, so how about no.
+---
+&gt; we're doing refunds on a case-by-case basis
+---
+FYI: *digital delux upgrade* for the expansions is what is 50% off.  So ***if*** you bought the base expansions or the ultimate upgrade then iirc support can’t refund you because it wasn’t the thing you bought.
+---
+&gt; Also the art is just so great
+---
+We must be looking at different art
+---
+I was trying not to drag the original post out too long, but that is exactly what I asked them to do. I haven't destroyed the items because that seems like a $30 dollar gamble.
+---
+Why have an "event" they didn't really reward you with participation?
+---
+I understand that. But two days seems reasonable. Maybe I am wrong.
+---
+&gt; "Why should she care?" I said. "She has thousands of children now, Cadeyrn. You're either firstborn...or you're simply sylvari."
+---
+Can't decide on a class, huh? There is so much to choose from, I know...
+---
+Buut due to our new rules the questions must be left in the [&gt;weekly QA post&lt;](https://www.reddit.com/r/Guildwars2/search?q=title%3Aquestions+thread+author%3AAutoModerator&amp;restrict_sr=on&amp;sort=new&amp;t=week). We have plenty of experienced heroes of different classes there that can guide you to the right direction.
+---
+Alternatively please check out this [class guide](https://metabattle.com/wiki/Guide:What_Profession_Should_I_Play).
+---
+If you think your thread should be allowed to stay or if this was a mistake do report this comment or send a modmail and Pact commander will come take a look.
+---
+-------
+---
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Guildwars2) if you have any questions or concerns.*
+---
+generic garbage
+---
+Prolly fall under different rules since they were bought with direct money and not gems
+---
+That's a good point. I agree, that would have been much better. Hopefully she plays a role soon and gets that personal growth that she lacks.
+---
+I actually got the "smash the dragon" achievement last night and the branded backpiece, so its worked out pretty well for me, and I used up all my rng before opening the bonus boxes as a random mob in the MegaDestroyer event dropped me a BL key. pretty good evening if I say so
+---
+Me 2
+---
+To be fair, Raids are also pretty important for saving the world. Dhuum or Qadim controlling the Mystic Forge would be a problem as well.
+---
+I don't think it's meant to be chronological. If we take it without the break:
+---
+I wish I could say I escaped her in the end, little one. But she escaped me. In the Nightmare Court, she found a community of sylvari desperate for change, for something they could believe in. And she used them, too.
+---
+My freedom lay in staying behind when she left. I used the Pale Tree and Ventari's Tablet to give me the strength I didn't think I had, and they helped me move past her. The Pale Tree helped me to live well and fully, to never leave a wrong to ripen into evil. Those teachings gave me the peace I needed. They gave me a purpose where I had none.
+---
+But that was all a lie, too. 
+---
+When Wynne revealed the truth of the sylvari to me—that we were created only to serve Mordremoth—I felt hollowed out all over again. The Pale Tree's words healed me and brought me out of the darkness, but they had been empty. A convenient lie she spun to give us meaning where there was none. We were not pure—we were simply tools to be directed at a target. I was meant to be used. Again.
+---
+I was so angry at the Pale Tree, at my mother. But now...now I understand why she hid the truth from us. A mother does whatever she can to protect her child, even if it means lying.
+---
+It seems to be talking about one event to me, it's just it focuses on what Wynne said as a backtrack to keep the flow of thought more realistic.
+---
+Didn't we find out about the egg in Glint's Lair?
+---
+I don't know about that. It was fun running maw every hour though, THAT I do have fond memories of. Back when I wad levelling my first character and there weren't guaranteed rares for completing each world boss, it was such fun exp and loot!
+---
+you can just buy them and they're not a BL chest RNG fuckfest? radical.
+---
+Your best bet is to wait for CS, I'm affraid.
+---
+But why? It's useless unless it points (and stays on) a viable TP next to the boss. And it doesn't tell you anything even remotely helpful.
+---
+**o o f**
+---
+Which is fairly reasonable to assume. Baring Kralkatorrik consuming it upon Aurene's death, then her soul should go to the afterlife like Glint's and those sylvari we saw in Domain of the Lost.
+---
+From the first link you provided:
+---
+&gt; evtc logging is available in instanced content only.
+---
+:(
+---
+Researched a bit more. Koss just used the short form to explain his situation. 
+---
+https://wiki.guildwars2.com/wiki/Champion%27s_Dawn_(story)
+---
+&gt;    Elder Priest: Mind you, this is gossip from 200 years ago... But I heard when he was Awakened, he put up a real fight.
+---
+    Elder Priest: Joko and his stooges had to say every order just so, or he'd find a way around it.
+---
+    Elder Priest: Most people just give up, accept it. easy to give in—be a mindless slave...
+---
+    Elder Priest: But a few keep a bit more... personality.
+---
+    Elder Priest: The Archon at the time, he didn't like this one's personality. So the Archon ordered him to "guard that cave." Forever.
+---
+    Elder Priest: Since that's the only order he was given, it's the only one he's bound to. Seems content to brawl the years away..
+---
+It's exactly what I said.
+---
+You can, but it's not effective at all. It doesn't do so well in terms of AOE, sustainability, range, etc. Comparing it to a true zerg class, like necro, it's really weak.
+---
+What was the reason you convinced them to upgrade?
+---
+The only benefit **now** would be if you want the account restrictions lifted, and get daily login rewards etc. However if you had an account before you likely have the old grandfathered account that's not an issue.
+---
+If you do have those unlocked, I would suggest waiting and buying at the next good sale.
+---
+Otherwise.. I like the daily logins and it's nice ot have the f2p restrictions removed.
+---
+That being said: content wise it's intended for you to be lv80 for all the expansion content.
+---
+Can someone sparks notes this for me? I hate Caithe and the thought of reading about her in a positive light is vomit-inducing.
+---
+Well, that's not really going rogue or what I got out of it. Sounded more like Caithe wanted to be with others when the end inevitably comes by Kralkatorrik.
+---
+Zafirah sounds like the one who'd go rogue and try to kill Kralkatorrik:
+---
+&gt; Fate dictated I be there at the end of the world. If it is to fall to dust, then I will speak the tenets of Balthazar until the ground crumbles beneath my feet. I will shout the story of Aurene and her champion until the breath leaves my lungs and I fall into the void.
+---
+&gt; 
+---
+&gt; All the things I put my faith in have left me.
+---
+&gt; Now, in these final moments, I put faith in myself and in fate.
+---
+&gt; Nothing else matters.
+---
+Both believe the world will end now that Aurene's gone. That there's no hope. Caithe's ending sounds like she intends to seek out Aurene's spirit if possible and be with those she and Aurene cares for as existence ends. Zafirah sounds like she'd prefer to be defiant and stand against Kralkatorrik to the bitter end since win or lose there's no true victory.
+---
+Personally I'm with Zafirah. Kill Kralkatorrik and Tyria dies. Don't kill Kralkatorrik and the multiverse is at risk. Better to get sweet revenge and save the multiverse at the expense of one's own world than to sit by and watch the fireworks.
+---
+yea dude, ruining someones match sounds like a great idea! showcasing power creep that makes other builds irrelevant is even better idea!
+---
+Well all the #leftside classes are all the easiest to play. Necro, ranger and warrior are good basic professions to pick. They have good rotations for high end PVE content and are pretty good in PVP later on.
+---
+I would say the hardest "role" to play would be a really good wvw roaming thief. Rr a support/tanking and even to some extent chrono-power dps mesmer in pve..
+---
+If you want something not repetitive you need to expand your horizons, do wvw, pvp, raids, and fractals.
+---
+Wvw, pvp, and raids/fractals are like 3 different game types within the game, even different from world content.
+---
+I would say ranger or necro are a good start for any player who wants a chill ranged class and if you want melee go warrior.
+---
+I would say your paths lead to ranger/mesmer.
+---
+No, we got a BL chest update less than a month ago.  Perhaps you missed that one?
+---
+Read the whole story (or play it again). 
+---
+&gt;     Elder Priest: Mind you, this is gossip from 200 years ago... But I heard when he was Awakened, he put up a real fight.
+---
+&gt;    Elder Priest: Joko and his stooges **had to say every order just so, or he'd find a way around it.**
+---
+&gt;    Elder Priest: Most people just give up, accept it. easy to give in—be a mindless slave...
+---
+&gt;    Elder Priest: But a few keep a bit more... personality.
+---
+&gt;    Elder Priest: The Archon at the time, he didn't like this one's personality. **So the Archon ordered him to "guard that cave."** Forever.
+---
+&gt;    Elder Priest: Since that's the only order he was given, it's the only one he's bound to. Seems content to brawl the years away...
+---
+This makes sense. Thank you. This has been the only response that clarifies things.
+---
+This would be a much better solution for both people who own the world boss portal, and for people who don’t care about world bosses and don’t want their screen cluttered with that info.  Not sure what to do for folks who both care about world bosses and don’t own the portal device, though.
+---
+It would need to be toggle-able in Options menu so folks who don’t care about world bosses don’t have to clutter their screen.
+---
+&gt;rewards are not available to free accounts, maybe your account status is somehow stuck flagged as that despite you having
+---
+No. I bought it two years ago.
+---
+We found out about the Egg in Dragon's Reach Part 2 ( [https://www.youtube.com/watch?v=JObh\_lj5O4A](https://www.youtube.com/watch?v=JObh_lj5O4A)), then there was Echoes of the Past in which we traveled to the Glint's Lair by the hourglass in Durmand Priory's HQ.
+---
+Ah yea RIP :(
+---
+The power build is not good at 1v1 if you don't have much experience with it. You will die against any decent duelling class.
+---
+Your primary role for power shatter is to +1 fights. Say there is a 1v1 going on home or far, you use your mobility as a mesmer (blink, sword ambush, jaunt) and rush there to +1 your team mate, get a fast kill (with burst if done right) and then return to +1 mid or somewhere else. You basically need to keep rotating like a sd thief. Apart from that when you see you're getting killed run, there is nothing worse than dying and wasting time, run and get far or some other node decapped, it is kinda important that you check the information on who is dying, because if say  1 or 2 members of the enemy die, they will be back at far in 10 secs and you will die 1v1 in most cases, so just decap and run mid or home so that enemy wastes 15 secs to cap far and if they come 1 by 1 mid you outnumber them mid. Now if the roles were reversed and your team loses mid while you were decapping far, you can try for full cap but keep an eye on enemy coming. It's kinda the basics, but as a mesmer you need to be good at rotation.
+---
+As for improving in 1v1s you need to learn sword for kiting better and then cc skills, gs5 and focus 4 since you're using focus instead of torch. Auto attack with sword and gs, many times I find new players in unranked keep wasting skills and won't auto attack, trust me it does more damage then randomly pressing skills :) GL!
+---
+&gt; you remove any ability for players that aren't interested in the rewards to get anything out of it
+---
+Usually many of these events allow you to cash out the tokens if you don't want them. Maybe even for random chests.
+---
+Just be glad Anet isn't Valve and we don't get our update on May 68th.
+---
+Exactly. On big world boss fights I’m relieved if I can just tag the boss once and not DC.
+---
+Portal was nerfed ages back and scepter 3 with the latest patch, are there people still using it much? I don't see them in recent matches.
+---
+You can rest now.
+---
+Reddit says there are 4 comments (now 5) but I only see the bot response.
+---
+I wanted the glowing balls (can't remember the name of them and are to lazy to look it up) but they are not a part of this so i guess i save mine and hope it will be added later.
+---
+Eu. Pugs suck everywhere, not just NA. I dont raid at reset though since I have uni during the week. I fc with static on monday and then pug for shits and giggles throughout the week
+---
+That's why Balthazar came back anyways.
+---
+I was previewing the tier 3 Norn armour and I ended up buying it and equipping it while I had the preview menu still open, and it stole my pants
+---
+Already covered that first one :p
+---
+No worries, appreciate the effort. Guess I'll have to wait for support to reply then.
+---
+Let’s not make one of the hardest world bosses easier. It’s hard intentionally. 
+---
+Also use a skimmer.
+---
+HoF? Is that HoT or PoF?
+---
+What's your IGN? I'll help you :) won't be able to play for like 7 hours but I'm happy to help
+---
+it should absolutely not. apart from it invalidating any purchase of the world boss portal device - which in itself has very limited value - having *this* abomination be a permanent addition to the 95% uncustomizable and already way to cluttered side bar is a strict no. judging by how many people complain about the lack of rewards and "fun" *with* the event, i really cannot see too many people being pleased by this being a permanent eyesore.
+---
+Has defiant glass been added to it?  I really like the skins from this set, but they outfit wasn't an option from the unlock token last week so I'm not sure about this.
+---
+Honestly I think 15-20k should be their price. It's one of those items that if I see on a player I wanna be genuinely surprised and start wondering if they were extremely lucky or extremely rich.
+---
+I just don't want any of these items to be like dhuum throne, a really exclusive item at first, but as soon as I heard that you could buy it from the tp I was broken inside :(. Why can't it be like xera portal, or any of the raid skins where you just need to dedicate yourself to the gamemode, and showoff your dedication(or extreme luck :D) through the drop.
+---
+When you double the rewards and the rewards are still shit. Feelsbadman
+---
+Its not meta in fractals or raids
+---
+Well I mean the griffon has 3 skills testing them would take what 3 minutes? Then no purpose? First of all if the games allows it I should be able to do it without crashing my game. Secondly I do this quite often to get the small speedboost and for precise hight adjustment. Just normally I don't do it this quickly which is why it took me a few crashes to realize what is causing them.
+---
+Contact support.  See these recent threads: [One](https://www.reddit.com/r/Guildwars2/comments/blcm0a/cant_buy_gems/), [Two](https://www.reddit.com/r/Guildwars2/comments/bkduw1/cant_buy_gems/)  And this [dev response](https://www.reddit.com/r/Guildwars2/comments/b62066/any_fixes_to_not_being_able_to_buy_gems/eji0aph/).
+---
+Thanks for sharing! Once again, Alex Kain has delivered a solid piece of writing, this time with Samantha Wallschlaeger's contribution to add a bit of a woman's touch to Caithe's story. I wonder how detailed this collaboration was as Alex handled the previous Requiem stories solo, but I'm definitely happy to see Samantha providing her narrative skills for this experience. In case anyone has trouble reading the story on the webpage for whatever reason, I've created [a wiki page with hyperlinks for the Requiem: Caithe story](https://wiki.guildwars2.com/wiki/Requiem:_Caithe) for your reading pleasure. :)
+---
+As with the other Requiem stories, I like how the story uses Aurene's fate as a way for the characters to reflect on their past actions and choices. Caithe's motherly instincts suit her well, as we've seen a few other nurturing sylvari out there in Tyria already (some more benign like that one sylvari looking after orphans in the Shiverpeaks; and others far darker like Fyonna, the Countess of Spiders in the Nightmare Court, who tried to care for human children but left behind corpses before she adopted spiders as her new "children").
+---
+It's always fascinating to learn more about how sylvari view the world and the roles of parent-child as they lack a proper childhood and find the whole concept of growing up difficult to comprehend. Hearing Aurene call Aurene a little bird is both hearwarming and bittersweet given the events, and I'm glad that she finally found some solace upon letting Aurene's mind touch hers to become the dragon's willing minion. I find it curious that Caithe seems more critical of the Pale Tree and the sylvari as a whole, though, but it makes sense given the heavy burden of the horrible truth of origins she has had to carry after Wynne's passing until recently.
+---
+It was nice seeing the story delve a bit deeper into Faolain and Caithe's backstory and even include Caithe's remorse towards how she handled poor Cadeyrn's issues (oh how I wish he had been used for more than just being a throwaway dungeon boss given his complex backstory, but I was very glad to see the Requiem story at least reference the thoughtprovoking Cadeyrn story from Ree Soesbee's old [Dream and Nightmare](https://wiki.guildwars2.com/wiki/Dream_and_Nightmare) blog).
+---
+What's curious to me now is whether Faolain always had that narcissism and abuse in her blood from the moment of awakening (making her a bit similar to Scarlet Briar/Ceara who showed extreme levels of sociopathy from her first days on Tyria), or if her and Caithe's first encounter with Nightmare during their travels abroad (whether that was in Orr or somewhere else is still something I'm trying to find out as I distinctly remember hearing something about the Orr connection but I haven't been able to track down those old dev comments to find the exact quote for wiki) made Faolain turn more abusive than she would've otherwise been.
+---
+It was likewise welcome to have clarification for what Caithe said in HoT and S3 and what many of us had been speculating long beforehand: how Mordremoth's whispers and Caithe's Wyld Hunt mixed, and how Mordy abused this connection and Caithe's insecurity, hope and feelings of loneliness to manipulate her to travel deeper into the Heart of Maguuma while making her question even the Commander. This time we learn Wynne's last words had a part to play in Caithe's decision too, adding even more weight to Caithe's remorseful words for her dead sister, "I'll bear your burden", which caused her to adopt more conservative clothes and adopt the fallen Firstborn's hairstyle for her current look.
+---
+I'm glad that Caithe finds some similarities between herself and the Commander given their intimate emotional ties to Aurene, and the sad story's ending gives a bit of a hopeful vibe even if Caithe's motivations seem to be about as grim as her mission to end Mordremoth was regardless of how she perceived it might affect the sylvari race as a whole, and how it brings the whole story together as we understanding Caithe's point of view better with the examples and regrets from her past. I'm curious if Caithe has been granted dragon champion abilities to "corrupt" others into Aurene's "minions" so they can gather magic for her, or if Aurene's more benevolent corruption prevents such an outcome. The Commander has certainly shown some signs of being a dragon champion in some sense, so comparing and contrasting that with Caithe's more physical change should be interesting as we move forward.
+---
+(Continued below.)
+---
+(Continued from above.)
+---
+Despite all this wonder and sadness that the story evokes, I feel it could've touched two topics a bit. There's not really any mention of Destiny's Edge and what belonging in that guild meant for Caithe. As we learn in personal story, she was the catalyst for trying to bring them together and in turn inspiring the Commander to carry on her work even when she faced one of her darkest moments in Twilight Arbor as her other allies abandoned her one by one in Faolain's trap.
+---
+I would've imagined some heartwarming reminiscing of the time she spent with her guildies and how she came to love them as siblings and close friends, getting drunk with them, opening herself up to them (particularly the team dad Snaff who provided him with fatherly counsel and support after her meeting with Faolain and her despairing over losing her to Nightmare, arguably one of the most touching scenes in the Edge of Destiny novel), and fighting alongside them for a common cause as she came to care for the Tyrian races' plight in the process while growing strong enough to resist Faolain's venom (both literal and psychological):
+---
+&gt; “I’ve been following you,” Faolain said, standing in her black-orchid dress, leaning in so that her warm breath wafted across Caithe’s ear. “I’ve watched you risk your life to kill a dragon champion. Foolish girl.”  
+---
+&gt; Caithe stared quizzically at her. “You act as if it is nothing.”  
+---
+&gt; “It is nothing. Your life is too precious for this.”  
+---
+&gt; Caithe pushed Faolain back. “I don’t belong to you.”  
+---
+&gt; “Don’t you?” Faolain’s black fingernails flashed to pull back the collar of Caithe’s shirt. There, above her heart, a black handprint marked her skin. “Your heart belongs to me.”  
+---
+&gt; “No!” Caithe said, prying Faolain’s hand loose and turning away. “I reject the Nightmare.”  
+---
+&gt; “But you love me.” Faolain nodded toward Eir and Rytlock within the hunting hall. “Do they love you, as I do?”  
+---
+&gt; Caithe scowled. “I don’t know what they feel. They are a mystery to me.”  
+---
+&gt; “But I am not. There are no mysteries between us.” Faolain’s black eyes grew suddenly intense. “Join me! The Dream is only a dream. The Nightmare is the reality.”  
+---
+&gt; “Leave me.”  
+---
+&gt; The dark sylvari took an unsteady step toward Caithe. “My love is poisoning you. You cannot be without me.”  
+---
+&gt; “Go!”  
+---
+&gt; Snaff was in the middle of another retelling when Caithe staggered into the hunting hall as if drunk—except that she had tears running down her cheeks.  
+---
+&gt; Snaff broke away from the group he had been entertaining and approached Caithe. “Tears?”  
+---
+&gt; Caithe dashed them away. “They’re nothing.”  
+---
+&gt; “Nothing? They’re everything. They’re what you feel. Why are you crying?”  
+---
+&gt; “It’s nothing,” Caithe averred, rubbing her hand on her cheek.  
+---
+&gt; Snaff said levelly, “You wouldn’t cry unless the world itself was in danger.”  
+---
+&gt; Her eyes glistened. “It is!”  
+---
+&gt; “What danger?” Snaff asked.  
+---
+&gt; “The dragons. No one is fighting the dragons, but we must. We stopped a dragon champion, but what about the power behind him?”  
+---
+&gt; “You’re right,” Snaff said gently, “but that’s not why you’re crying.”  
+---
+&gt; Caithe stared at him, her eyes wide but searching, trying to decide if she could trust him. “It’s that someone I care about has chosen the wrong path.”  
+---
+&gt; Snaff bowed his head and pursed his lips. “Anyone I know?”  
+---
+&gt; “No.” Caithe shook her head. “Another sylvari. She has gone to Nightmare.”  
+---
+&gt; Snaff nodded. “I’m sorry. Every creature must choose her own path.”  
+---
+&gt; “But what can I do? I have to save her.”  
+---
+&gt; Snaff smiled sadly. “You can’t save anyone but yourself. I can’t save my own apprentice, though she means more to me than the world. I can only be good to her and hope she notices, hope she learns from me.” His expression clouded. “She will outlive me, as she should. She will face horrors that I will not. And in those moments, I hope she remembers my strength, not my weakness.”  
+---
+&gt; Caithe stared at him for a searching moment. “She will. She will remember.”  
+---
+&gt; “And this one that you care about—she will remember, too.”  
+---
+Another scene I wish had been discussed was the very end of Edge of Destiny which showed Caithe gathering Kralk's crystalline blood in the desert after the battle with Glint:
+---
+&gt; Caithe walked along the Dragonbrand—the wide swath of destruction laid down by Kralkatorrik. Every once in a while, she would bend down and pull a large green crystal from the sands.  
+---
+&gt; "Dragon blood," she said, staring gladly at one such stone before sliding it into her pack.  
+---
+&gt; It was lonely work, wandering these desolate places, searching for the secrets of Kralkatorrik and the Elder Dragons. But it was even lonelier when she traveled to Hoelbrak or Rata Sum or Divinity's Reach or the Black Citadel only to find that her onetime friends had become strangers.  
+---
+&gt; But they would be friends again. Someday, they would join her. Someday, they would fight the dragons again.  
+---
+The ending left a bit of a hopeful hook for her attempt to reunite Destiny's Edge and use the blood for something, so it was curious that the blood was never brought up in Ep5 where we instead lamented that our lack of Kralk's blood prevented us from creating a proper Dragonsblood Spear replica. The battle of Thunderhead Keep could've gone very differently had Caithe brought the blood with her to the forge. While devs mentioned on stream that they're unlikely to address this issue as novel events are only considered semicanonical compared to game lore, I still hope this plot hole is explained via Faolain stealing the blood from Caithe, or some other reason why Caithe neglected to take the blood with her to the battle where that blood had been needed the most.
+---
+Other than that, I thoroughly enjoyed this Requiem story as much as I enjoyed the previous ones. They're well written, provide some nice insight into the characters and their backstories, and even advance the game's plot a bit with a few hints sprinkled here and there. I hope the narrative team will remember (or be reminded of) the success of previous short stories and how such stories as well as the launch's racial blog posts have been instrumental in fleshing out Tyria and its denizens' lore in ways that can't always be done in game (as far as backstories are involved), and that we'll see more of these stories as we move forward. Thanks to both the narrative devs and the marketing for this lovely collaboration, and here's to more such eye-opening narrative experiences! :)
+---
+Any warrior build thats good for fractals, and raids? other than condi berserker
+---
+Negative feedback in the wrong place has no value.
+---
+And reddit is the wrong place.  Dev's won't read it here.
+---
+Power Core warr for Fractals and maybe power berserker after recent balance patch. Check discretize and snowcrows websites
+---
+spb is still meta in fractals, but only when you need boon stripping and have no other means for it. otherwise you run core power
+---
+https://discretize.eu/builds/warrior/banner-warrior
+---
+I'm stupid and mixed them up. I meant HoT.
+---
+For wvw, [https://metabattle.com/wiki/Build:Spellbreaker\_-\_DPS\_Spellbreaker](https://metabattle.com/wiki/Build:Spellbreaker_-_DPS_Spellbreaker). You're looking to group up and provide massive boon rips with winds and disenchant.
+---
+For Fractals and raid, [https://snowcrows.com/raids/builds/warrior/berserker/condition%20banner/](https://snowcrows.com/raids/builds/warrior/berserker/condition%20banner/). Not really spellbreaker, but alot better for pve content
+---
+lol mad AND sad
+---
+1. Finish unlocking Reaper.
+---
+2. Farm up a full set of [Exotic Berserker gear](https://wiki.guildwars2.com/wiki/Equipment_acquisition_by_stats#Level_80_exotic_equipment).  Use [this build](https://metabattle.com/wiki/Build:Reaper_-_Power_Minion_Master) (more defensive) or [this build](https://metabattle.com/wiki/Build:Reaper_-_Power_DPS) (more offensive).
+---
+3. Once you’ve got the Exotic gear, farm up a full set of [Ascended Berserker gear](https://wiki.guildwars2.com/wiki/Equipment_acquisition_by_stats#Ascended_equipment) (weapons + armor + trinkets).
+---
+Once you have the full Ascended Berserker set, you have options:
+---
+1. Start working on a full Ascended Viper set of gear for condition builds (Scourge, Reaper, and vanilla Necro all have useful condition builds). One nice thing about Ascended gear is you can share it between alts of the same armor class. So if you want a Mesmer or Elementalist, you just have to level one to 80 and they can also wear the Ascended light armor you made for your Reaper.  Both Mesmer and Ele have strong Power and Condi builds that Berserker and Viper gear are best for.
+---
+2. Level and gear alts.
+---
+I appreciate it, but I think I'll refuse your offer. As I get gold or story quest rewards I'm upgrading a piece or 2 here and there, and since this is my first time through GW2, I'm trying to keep it as mostly self-sufficient until I finish the stories, or I hit a wall I need to outgear.
+---
+Wow thats quality armor
+---
+This is so f*cking cool!
+---
+Ass is the german word for Ace and the "Roll" is actually wrong, it should be "Wurf/Würfelwurf" for throw or role.
+---
+:)
+---
+Oh good, thanks. Wanted to open a ticket, but I wanted to check reddit first just in case there's an issue going on currently.
+---
+Also it should be written together without space.
+---
+Thinking on this more, I realized I may have made it sound like I was underselling the story and Caithe's character. The story told here isn't bad despite my want for more information and how somber the tone was.
+---
+Caithe has previously undergone in-game character growth and undergone it here in the Requiem story as well. Understandably she's had to deal with a lot of pain in her life. She's faced things such as an abusive relationship, personally felt betrayed by her mother, she had been placed under a heavy burden to keep a monumental secret, failed to kill an Elder Dragon twice resulting in a schism with her first group, she has faced an identity crisis with deep-seated trust issues that lead to a schism in her second group and now she's lost her figurative child and hope for the world. (I'm sure there's more I'm missing, such as anything from the books as I've never read them.)
+---
+Point is, she's been hurt, and I feel for her. I'm glad she made amends with the Edge of Destiny group and with Dragon's Watch. That's growth. And here in the Requiem story, we see she's made some personal amends with her relationship to the Pale Tree. More growth.
+---
+Going forward, while I do hope she learns to love herself more, I also hope it isn't treated as a simple process. In my mind, this is something she'll probably struggle with for the rest of her life. She can at least learn to cope better and to express herself better to others, which is what I hope will continue to happen with her reaching out to the Commander.
+---
+Stat-swapping is only worth doing for items with:
+---
+* (1) expensive recipes - Marshal, Grieving [account bound wtf anet], Harrier, Zealot, Nomad
+---
+* (2) stats using Jeweled Damask Patches (waste of obsidian shards) - specifically Commander, Vigilant, Wanderer, Viper, Seraph, Trailblazer, Minstrel.
+---
+For core (such as Berserker) its not worth doing imo since you can buy the recipes for a bit of gold and a few laurels from the NPC Craftsmen. If you're being a super-cheapskate I suppose you could stat swap from the cheapest recipe (looking at Verata's or Svaard's atm), might be a cheaper one but I can't think of it.
+---
+But even then "Roll Ass" would never be used because that is a command and not an answer of an action. That would be comparable to say "Wirf Ass" which doesnt really work that way, since its a game of chance and you cant command the outcome.
+---
+Therefore i would rather go with "Geworfenes" or rather "Gezogenes Ass" since and Ace is a card and not a dice face.
+---
+But i agree, it just doesnt sound correct, roll doesnt even make sense for an Ace unless its about a dice with one dice face showing an ace which in itself would be rather weird.
+---
+I mean. We had a dragon on our side, the entire pact, the desert, a shitload of awakened, fucking everything we could possibly imagine.
+---
+And we lost. 
+---
+Completely. 
+---
+Of course people aren't optimistic. This was our everything, and it wasn't enough.
+---
+the THINGS ppl are able to call EVENT is amazing,its waiting fiesta with 0,0001 change to drop something good,not even with 1 ap reward.
+---
+They don't actually have memories, just a list of directives compiled in a neural network
+---
+You are right! I forgot that 
+---
+a) Aurene is most certainly in the Mists atm
+---
+b) that Kralk is threatening the living and the dead alike
+---
+So it does make sense that Caithe is talking about a final stand together! 
+---
+I also hope we do get a story instance with the Pale Tree. Players have wanted word of her for such a long time now.
+---
+And no, I do not believe Tyria will be destroyed. Maybe in part, but not in total. All future maps would have to be set in the mists, or we'd have to resort to some strange time travel shenanigans. 
+---
+However, I can picture a story instance in which we get a glimpse as to how a "dissolving Tyria" would look like.
+---
+Looking at the recipe cost for Berserker direct vs Rabid and switch, the Rabid route is about 1.5-2g more expensive per piece.  The upside though is if I ever want a second set with say Harrier's, I don't need to buy any more recipes because I've already got the cheap one.  Is that even worth it?  I think I would be more likely to craft each of the three armor types before doubling up on one.
+---
+Hey, I don’t know if you’ve found a guild. My advice is to not feel bad about leaving.   If the guild isn’t a good fit there are many others.   You may have to jump around to get the tight one for you.
+---
+I want it to be either a reward track with a higher chance at the rare to super rare pool, or like a daily, complete 4 and get a higher chance at said loot drops. Right now, we are all waiting around for 15 mins, doing content for 2 - 6 minutes, getting small drops, and rinse repeat. You get 10 times or more drops doing silverwastes, that makes the off chance that you are one in a thousand to get something other than a rare a waste of time for me.
+---
+There should be both.  I think getting a rare drop is an amazing feeling (i got a pre drop and told everyone for about an hour it was amazing) but there should be shit luck preventing. EVENTUALLY you can earn the rewards with currency
+---
+Might be useful to you; I've assembled a table with some of the info [wiki sandbox table](https://wiki.guildwars2.com/index.php?title=Guild_Wars_2_Wiki:Sandbox&amp;oldid=1874613)
+---
+I just saw on official site of gw2 that there will be sale of HoT and PoF from May 10 through May 16, but will that be only on deluxe package or there will be sale and for standard one?
+---
+I'm getting this ominous feeling from Caithe's words like we might just be heading for another suicide run against Kralkatorrik. Go down in a blaze of glory
+---
+Heart of Fire didn't sound bad lol
+---
+I think the story is just drawn out. If we do finally defeat Kralk then maybe we can progress to a new story or even region with a new expansion. 
+---
+And as far as GW3, there’s no indication that that is something that’s even gonna happen, let alone soon.
+---
+Not built in but you can do it with https://www.autohotkey.com/ 
+---
+and the macro is simply 
+---
+    #IfWinActive ahk_class ArenaNet_Dx_Window_Class
+---
+    ^LButton::
+---
+       return
+---
+     #IfWinActive
+---
+Changing rewards is cool and all, and I think its needed...but the skill lag on every single old world boss is embarrassing in 2019
+---
+My game just crashes to crash lately
+---
+How is that question even supposed to make sense?
+---
+Lets just take armor textures as an example. There are 6 pieces of armor with separate texture files. How do you propose squishing that into a single file? What difference would that even make?
+---
+We have no way of knowing if they actually cancelled all other projects when the layoffs happened so they might still have something else around.
+---
+Y.I.K.E.S
+---
+In the past DLGamer had the pack at 47% off ($32), HoT has gone as low as 67% off ($11.41) on GamesPlanet and PoF has been 50% off on many sites. You can check sites like [isthereanydeal](https://isthereanydeal.com/search/?q=guild+wars+2#/) for more details. Never know when they'll do another major 50% off sale, maybe the August anniversary but we never know for sure.
+---
+No, I don't want that shit on my screen, and the world bosses really aren't worth the effort with the craptastic amounts of greens and blues and a single low tier mat..
+---
+Good to know! Ta :)
+---
+Eyes of Kormir are government surveillance drones.
+---
+World boss farming is some of the most fun I have in the game. They're spectacle fights. They're not mechanically challenging, but it's so enjoyable to see an entire community come together in one zone and take something down. World bosses and meta events in general are experiences that I don't really get in other MMOs and something I treasure in this game.
+---
+I might actually do dailies now! Thank you!!
+---
+Shatterer in Jahai?
+---
+What average fps did they have?  Yesterday I was in a map doing a boss beat down getting about 6fps.  My client crashed.  When I got back into the game I was in a near empty instance getting 60fps.
+---
+It was undoubtedly Guild MM
+---

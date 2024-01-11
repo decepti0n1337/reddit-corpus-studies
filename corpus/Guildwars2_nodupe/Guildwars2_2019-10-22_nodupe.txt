@@ -1,0 +1,2740 @@
+I was banned for not washing my hands after I went to the bathroom. Fuck ANet. You should all boycott.
+---
+---
+---
+I am an old school wvw player. I read all the negative, but came back anyway. No regrets other than the server I am on now is inactive in wvw. Spvp is about the same as always.
+---
+Then cantrip one is more useful as you can cleanse instantly. You also have regen cleanse from water spec which triggers on skills 3, 4 and glyph heal in water attunement.
+---
+
+---
+Shout doesn't even do that better.
+---
+this is such an MMORPG moment- just exploring and stuff, keep on enjoying the game ;’)
+---
+Fractional reserve banking.
+---
+I tell everyone to go Power Tempest in Open World. However, just keep in mind that even with a full zerk build, soloing hero points may still be difficult in HoT, especially if you don't know what they do.
+---
+Not just that but maybe you don't even have any specs at all because you're doing the hero points. If so, as a new player it's best to find a hero point train. I don't think you would have the necessary mechanical skill (Maybe you do but I think it would be unlikely) to pull it off with base ele.
+---
+Later on, if you truly want to solo pretty much everything in HoT, running a modified WvW Weaver build can work wonders for easy solo, you can solo Balthazar, Mushroom Queen and, Itzel, probably the three hardest hero points in HoT.
+---
+Power Tempest is great for normal open world, but hero points in especially HoT are pretty unforgiving compared to PoF, for weaver the amount of dodges, extra hp, stability, stunbreak, 25 might + condi cleanse whilst using fire 1, 2, 2 etc would just be great for general open world and completely soloing things as a newer player. Note that weaver is a fair amount of button pressing though.
+---
+Gw2 is a bigger source of drama than nextdoor.
+---
+You may want to ask Chris, and not Dorn. Chris is the one who’s probably the guy to give an “okay, this, as long as it doesn’t change, is okay”.
+---
+Yup. Karma helps as well.
+---
+There's a few spots in which you can go up a shallow cascade if you go with a skimmer, but other mounts can't walk up that same cascade even if the water is shallow enough for them to walk there.
+---
+Grothmar has 1 or 2 of those.
+---
+But it doesn't work on all cascades and waterfalls., only those slanted low enough for the extra skimming speed to overcome the slowdown from the slope.
+---
+It could have been an interesting mastery for skimmers to have: "Upstream Skimming". 
+---
+Imagine being able to go upstream in the huge falls at Desert Highlands.
+---
+Love me some furry art, consider posting this in furry irl
+---
+I think they said as long as 1 keystroke = 1 action, they're ok with it, as far as scripts go
+---
+I've been using AutoHotKey for a few years to open bags or consume things - but only rarely when I needed to, and haven't had to much lately due to things like consume all etc.
+---
+My script was just one scroll down = one left click. I have G500 and wearing out the switches is a huge problem, so  I needed a solution that wouldn't destroy my mouse.
+---
+    WheelDown::Click left
+---
+[deleted]
+---
+I am also comfortable in my raid build, but I do sometimes change traits and skills depending on situation. Generally for soloing more difficult things like balth HP.
+---
+E.G on weaver, I'd say that either changing runes or simply changing trait for Pyromancers Puissance can really help with might generation or Smothering Auras if you have trouble with condi.
+---
+On Tempest, you can switch Soothing Power to Cleansing Water for lots of cleanse on water warhorn skills. Or take Gale Song instead of Unstable Conduit for an auto personal + group stunbreak + superspeed.  
+---
+It's just small things like this that you can change for better performance instead of sticking strictly to a raid build.
+---
+Ehh i like deadeye more because it lets me attack from farther away
+---
+Wait Rifle Deadeye in lab farming? Why? Short Bow Trickshot is what makes Thief so insane for lab farming.
+---
+P/P deadeye
+---
+Well whatever floats your boat I guess ma dude.
+---
+It's a bit more complicated than just "extra skimming speed" vs. "slow uphill" - the skimmer checks multiple points to determine its height above the ground and then uses that height to calculate the vertical force, but it always casts directly downward to determine those heights even it it's on a slope, so if your slope is strep enough then it doesn't really see you as being _on_ the slope so much as _next to_ it, more or less.
+---
+What, just because I logged on your computer?
+---
+https://en-forum.guildwars2.com/categories/arenanet-guild-wars-2-policies
+---
+As a weaver, I use my sword. Boom! Anecdotally working as intended.
+---
+People here are answering your question, but you're solving a problem that doesn't exist.
+---
+&gt; but don't want to grind out to get caught up to everyone.
+---
+Because the game has no gear grind, the pre-BiS tier (exotics) are incredibly easy to get through just simply playing, and ascended (marginally better, BiS stat-wise and only pre-BiS utility-wise) are earnable through playing endgame content itself.
+---
+My mistake, I gave a really bad description of the phase traversal thing.  The part that doesn't work is teleporting to people out of range.  With regular camera you can use phase traversal on something at super far range and as long as you target it, it will teleport you 1200 range.   With action cam, it won't teleport you if you are out of range.  It just goes on cooldown and uses energy.
+---
+Oh - then yea, agreed.
+---
+So I've played GW2 before but I don't remember anything. I'm level 80 Mesmer. What is there to do day-to-day? What do people do who play close to every day? I know this game has a lot of content I just don't know where to go.
+---
+Only if you consider looking up/asking how to craft things in Minecraft to be cheating too.
+---
+And you can party with the Choya afterwards...  :)
+---
+Use shadow step and unhindered combatant. Don't get left behind
+---
+[removed]
+---
+Never, it is always the same song and dance. There were some blatantly obvious cases where it was clear that OP weren't being truthful, and some in the community still fell for their act. 
+---
+I remember reading a comment in which the poster said that he/she will always side with the party that files the complaint, such gullibility.
+---
+In GW2 I don't understand it.  In a game like overwatch it makes sense.  In low elos your teammates are frequently brain dead orangutans. If you play support you frequently get ranked lower.  For example i placed with friends all 10 matches as support  and got ranked 10 ranks lower than them (season 1 used a different system). I solo q'd for one miserable night, got matched with morons and now I'm so low i can't play with my friends
+---
+I got banned 9 times from this game lol, for gold begging and insulting people/spamming. Never perma banned tho. Longest ban was 3 months. Quit the game long time ago
+---
+Eh that's more like SoS / Ar/Fa rn. They have a 6th sense to zerg the shit out of you if your roaming. BG has too much downtime and prefers holding their keeps and calls out that instead of what you imagine. Fa are damn cockroaches though kill 1 and 2 appear. kill 2 and and zerg appears. SoS seems to have adopted their strategy and AR did so later as well. Though with mount additions AR has a guild called RUIN which hunt the map for roamers and gank them.
+---
+For zerg fights most servers avoid bg as bg tends to organise our zergs to be meta and strong so only AR and FC fights else they run. FCs STRM guild though will zerg roamers but always runs from a blob of 10 even when they outnumber them with 40.
+---
+no pls.
+---
+Hammer rev with perma swiftness and heals. Switch to staff for 8xcc for boss fights.
+---
+let me know if you have an actual point to make
+---
+Yeah, there's too many possibilities. Could have even been using those 60 accounts to give himself AFK opponents.
+---
+I despise jumping puzzles. I'd starve first...
+---
+Ah, don't have a rev to try that, but with GS at ~500 MF (450 to 550 depending on boosters etc.) I'm getting 750-800 bags per hour with it.
+---
+One incredibly useful tip is to identify spots for bigger jumps. One big leap &gt; several small ones, it’s a huge time saver and makes your run more fluid. 
+---
+It was Clock Tower jp that trained my nerves for these near max distance jumps, which proved useful in Wintersday jp :)
+---
+you don't even use the tool or do content where people would use it... so you don't know squat. besides seeing reddit cry (they cry about everything)
+---
+*if you think anet should base every decision on whether or not reddit will be mad... lol
+---
+Really? I find it to be the opposite actually. I feel like my abilities are really valuable and if I don't use them correctly I noticeably perform worse. Might be that there are specific meta-builds that promote spamming but I don't play those.
+---
+*"Relax", said the ANet dev,*
+---
+*"We program to receive".*
+---
+*You can log out any time you like,*
+---
+*But you can never leave*
+---
+No, it does not. As long as the clock on your phone is correct it can be used without data.
+---
+Holy 3 hour repost
+---
+As somebody who hasn't had any issues with the jumping puzzle, what the hell is an action cam?
+---
+SAB World 2 Zone 2 tribulation mode flashback suddenly occurs.... noooooooooooooooooo! :'(
+---
+At least this cat is not rubberbanding... probably another Charr conspiracy to achieve world dominance...
+---
+In other games maybe. But when you're talking about a company who is so bad at their job they banned a ton of innocent people because their anti-cheat was programmed by monkies. Well you lose all credibility in your bans actually being reliable and within reason.
+---
+The skimmer water slide! Get your skimmer today to ride in the river.
+---
+Also ever time I see one of those harpies I get anxious bc they could've ended your fun.
+---
+Why would you even want to do six of the same one?
+---
+Check your spam folders, my first reset email ended up going into my spam folder for whatever reason
+---
+Idk mines butter smooth on default settings. Try low detail i know people with pc performance issues hate jps i used to be one of them.
+---
+&gt; (arc dps does breed toxicity, it enables you to judge someone by the dps and not how good they are with what they know and love to do)
+---
+Im of the mind those players use anything to be dicks to other people. If arc didnt exist they would kick you because you are running a flamethrower engi (or some other silly reason). Those kinds of people will use any way they can to judge others and make them selves feel superior to others.
+---
+I chose to populate the artist tag with GW2MB because the format you proposed is not followed consistently. as far as the database is concerned I don't store artist information so I simply populated it with the site name. It's easy enough for people to modify it if they want the artists to be accurate.
+---
+Only Dragonhunter, Scrapper, and Herald lack Snowcrows builds using their weapon, and all of those weapons suck. Honestly, I'm kind of impressed by the balance team.
+---
+Elite specs are good because no class has more than two DPS specs per DPS type. Thieves, for example, have:
+---
+* Deadly Arts - mixed DPS
+---
+* Critical Strikes - power DPS
+---
+* Shadow Arts - stealth buffs
+---
+* Acrobatics - PvP trash
+---
+* Trickery - more initiative
+---
+So if you're building core Thief for pure deeps, you'll take Deadly Arts, Critical Strikes, and...*Trickery?* Since most elite specs have good damage traits, swapping the last out for an elite spec is guaranteed higher DPS regardless of its intended weapons or mechanics. Dagger Deadeye (rifle can't move for mechanics), power Berserker (torch is condi so it runs axes) and the like still get more DPS from the elite, despite ignoring the weapon. This is also why non-elite weapon skills have been getting buffs the last few patches - to try and push core builds.
+---
+I've only opened like 4 bags one-at-a-time :P I usually just fill like half the inventory with bags, try to sell a bag in order to confirm the count, then "open all", then add the totals to an excel sheet as I clear the loot from inventory :P no idea about past years; that's my usual routine every year. sorry I couldn't help more :P   
+---
+but, I just opened 1 bag and got 1 chattering skull and 1 piece of candy corn almond brittle.  so definitely not always 4 items.
+---
+Might want to double check that. Gophers are in the Geomyidae family, while ground squirrels are in the Sciuridae family. Specifically the California ground squirrel is classified as Rodentia Sciuridae Otospermophilus.  
+---
+The mistake is understandable since a lot of squirrels (like the 13 lined ground squirrel native to the rockies) are also called gophers. The California ground squirrel is relatively harmless unless left unchecked given they give birth to liters of 5-11 a year, While the state of california has rescinded the $0.25 bounty placed on them in 1918 most farmers and ranchers still have a deep seated hated for them.
+---
+The tankiest firebrand or Chrono can be is full minstrels with rune of durability. There’s food and utility to make you tanker, but that shouldn’t be necessary.
+---
+It got removed, probably because of the ban wave going on ;)
+---
+I enabled 2FA the last time I logged on and only after that the account was suspended. I didn't change my telephone number or anything.
+---
+Yes it goes on sale. [Check the history at the bottom](https://wiki.guildwars2.com/wiki/Character_Slot_Expansion#Gem_Store_history). We don't know when the next sale will be though possibly in December again.
+---
+I should really turn up my ambient sound more..
+---
+Your logic surrounding arcdps and toxic discussions has a causation fallacy. 
+---
+The same discussion exists with gear checking, yet there is no tool (as allowed) as arcdps. Just because the tools exists, does not mean it’s the cause of the discussion.
+---
+Arcdps is a TOOL, nothing more. The people who use the tool for toxic reasons, will be toxic regardless. An example, when I was a young player (before mega servers, back when LFG still had “beta” on it), I was kicked from an AC clear path group, because I didn’t have 3k achievement points, regardless that I was wearing the full set of skins for the dungeon, was the class they wanted (guardian at the time), and knew what to do for that current meta. AP has nothing to do with AC, yet people used it to be toxic.
+---
+People will be toxic, regardless if there is a tool or not. Do not blame the tool.
+---
+As for your question at the end... BGDM’s meter. Was fantastic for boons and whatnot, had an “opt in” system for dps, was based on what went to the server, so ticks were different... yet had a gear checker in the Chinese version. Massive controversy when ARC was fine, but BGDM wasn’t... and the ARC vs BGDM crowd was loud.
+---
+/r/agedlikemilk
+---
+if you take it as a service to the community, then I am more than happy that people gamble :D
+---
+&gt; I don't play pvp, but wouldn't that put you in harder matches that you're just going to lose more often?
+---
+You don’t get it man. It’s not my fault that I’m in low tiers it’s everyone else around me dragging me down. Matchmaking is busted and always placing morons on my team, making it impossible to win. I just need to get some help getting to my *proper* ranking so that I’m not playing with a bunch of idiot teammates anymore. ^/s
+---
+That’s one of the biggest reasons why people get boosted. They’re not diamonds but they think they are and they just can’t get there because of how bad their teammates are. If they were actually so much more skilled than their opponents they’d easily carry their way up the ladder - like the guy doing the boosting is doing.
+---
+Oof, I don't think my PC's even capable of having performance issues with a game like GW2.
+---
+If it can run something like Elite: Dangerous VR or Skyrim VR while also playing youtube videos and barely crack a sweat, GW2 is a breeze.
+---
+OP asked for the tankiest subclass. If OP wants something that can kill stuff it would have to be trailblazers(or something similar) or toughness with berserker(power, precision, ferocity stats
+---
+I don't remember anything like that happening in XIV. They're even more lax with banning for cheating/bots than Anet is.
+---
+judging from the past, this is a fuckup too and they're just lying about it again.
+---
+For slow people advise them:  
+---
+1. Equip a weapon that has range, all professions have them  
+---
+2. Set options to auto target.  
+---
+3. Move along with the group and just hit the 1 key every second.  You tag a shot and the rest of the zerg does the rest -- instant karma (literally)
+---
+Does ryland have a cub of his own who works in some farm.
+---
+Thread removed: Low-effort/-value post.
+---
+See full rules [[here]](/r/Guildwars2/wiki/rules)
+---
+So youre saying find the most expensive one on wiki and sell it on the trading post? Makes sense, im not big on customization.
+---
+Well im kinda dual minded:
+---
+If it is true I might consider switch since easy catch but based on other replies it doesn't appear i should need them
+---
+On false end it makes me happy because it literally appears Anet themselves are bottling out guild wars 1 to try and justify ending the servers. So I want to find game that bans that shit regardless of who is doing it.
+---
+If you're banning an entire group of people, yes. Why is that unreasonable? If it is a PvP corruption crack down, why wouldn't they want to be the hero here? I'm not sure why you're not sure what I think Anet should do, I've only outlined it several times...
+---
+or do I just want to boost a guardian?
+---
+I think you haven't read my post nearly at all, and frankly I don't appreciate the patronizing "advice" as if I haven't been making perfectly clear I don't engage in these practices. If that's indeed all you can say I don't think it needed to be said.  
+---
+I have seen them make announcements on the weekend, at least when they had Gaile Grey. And this brings us to exactly what I'm saying- you can't fire your customer relations and expect customer relations to maintain itself. It has imploded.  
+---
+Again, please do not tell me to relax. This isn't YOUR money I've spent, it's mine. The amount of innocent people that have been banned are exactly enough to warrant the concern I have, as I've already stated. It was absolute 20 days of hell to get them unbanned, I had to advocate and help them learn what to say. I know about all of this first hand so please and kindly don't try to minimize my experience. I lost friends over this the last time, this game is how we kept in touch. And again, kindly, do not refer to my trauma or anyone elses as a tizzy.
+---
+It's data-mined content. Any data-mined stuff cpuld appear tomorrow as well as in 6 months from now, or even never.
+---
+&gt; You can edit it if you want to. If its arc dps or dps meters in general the point I brought up would remain the same imo. The players that use arcdps in a "toxic" or divisive manner are the problem not the tool.
+---
+see, I am not even talking exclusively about players who are being toxic in game due to the usage of dps meters, I am talking about all members of the community that participated in the numerous discussions, regardless of them being for or against dps meters.
+---
+&gt; They exist in all game modes, and in every community. Casual, hardcore, pvp, wvw, fps, rpg, rp w/e toxic players exist in all of them. These players will be dickheads with any tool (or lack of) available to them.
+---
+please feel free to point out any other 3rd party app or kind of tool that is legit to use and its existence sparked as much controversy within the community as arcdps or dps meters in general did and still do.
+---
+I do manage to fall down at least for once while doing Uncategorized and Cliffside every single fucking time even tho there are no monsters on the road.
+---
+Well, IMO the big problem with native templates is that they fail to replace one of the most important aspect (at least in my use case) of ArcDPS templates.
+---
+In GW2, Ascended and legendary gear have a particularity: they are account-bound, which means that savy players can share weapons/armor pieces that would be duplicates across multiple characters, which is really useful for less wealthy players.
+---
+The problem with the native templates is that if you remove an item from a character, it removes this item from all existing templates.
+---
+So basically, there are two features of GW2 that will be conflicting. And it is a straight downgrade for ascended but especially legendary gear.
+---
+&gt; your logic surrounding arcdps and toxic discussions has a causation fallacy.
+---
+&gt; 
+---
+&gt; The same discussion exists with gear checking, yet there is no tool (as allowed) as arcdps. Just because the tools exists, does not mean it’s the cause of the discussion.
+---
+well thats actually the point i am trying to make. I would agree that discussions about gear checking tools would spark similar controversial and toxic discussions across the community as arcdps and dps meters in general did. The difference is that Anet never allowed any kind of gear checker to be used while they green-lighted arcdps and its still fine to use.
+---
+&gt; Arcdps is a TOOL, nothing more. The people who use the tool for toxic reasons, will be toxic regardless.
+---
+Again, I am not arguing that arcdps users in general are the most toxic, it sparked the same level of toxicity in members of the community that argued against it in those controversial discussions.
+---
+&gt; People will be toxic, regardless if there is a tool or not. Do not blame the tool.
+---
+I didnt blame the tool, I blamed Anet for allowing it in the first place.
+---
+&gt; As for your question at the end... BGDM’s meter. Was fantastic for boons and whatnot, had an “opt in” system for dps, was based on what went to the server, so ticks were different... yet had a gear checker in the Chinese version. Massive controversy when ARC was fine, but BGDM wasn’t... and the ARC vs BGDM crowd was loud.
+---
+again, I agree and this example kinda proves my point. BGDM isnt legit anymore and the toxic controversy between ardps and BGDM users is basically non-existant these days, while we are still here arguing about arcdps and its added feature of build templates sparked another shitshow when Anet announced you wont be allowed to use it anymore.
+---
+That's fair, you're entitled to that thought process. And in fact, I envy it.  
+---
+&gt; I understand this happens with every MMO, I get that, however- the fact  that people are so lightning fast to distrust and concoct conspiracy  theories based on coincidences that happened in the same timeframe and  past happenstances should indicate Anet's and NCsoft's relationship with  the community is responsible for the skepticism. 
+---
+(Can I just say this is the first time I've quoted something on reddit and I am patting myself on the back)  
+---
+I did say I understand this is the case with all MMO's, except the ones I've had experience with had open lines of communication. It's a little like knowing a bad experience/bad management style because you've had better. I've had better, and I love this game and want the staff/player relations to be what they used to.  
+---
+&gt; There are many well known reasons as to why they don't announce bans,  and what I'm hearing from you is that they should've ignored these in  favour of predicting that people would use this to stir up the build  templates hate train. 
+---
+I don't know why that's what you interpreted, I didn't even vaguely hint at or come within a mile of saying that no one should be banned, I think if you cheat then get banned. That's not the case with the previous encounters. I'm saying I don't understand why they wouldn't want the recognition for accomplishing the task that people have literally been begging them to address for years. While it likely would have given them something new to post about, it wouldn't have been this.  
+---
+This is the internet, specifically this is reddit, they should have known the drama llama grazes freely in the fields of our woes.
+---
+&gt; I've only opened like 4 bags one-at-a-time :P I usually just fill like half the inventory with bags, try to sell a bag in order to confirm the count, then "open all", then add the totals to an excel sheet as I clear the loot from inventory :P no idea about past years; that's my usual routine every year. sorry I couldn't help more :P
+---
+yeah, thats what i thought as i usually do the same, thx anyways
+---
+It's a good idea to level crafting when you get a chance since you will want to max them out at some point. Just use the guides [on this site](https://gw2crafts.net/) and hopefully use the guild crafting bonus (or crafting booster if you want). While following the guide expect to need to craft slightly less than it suggests since you get critical exp and bonus from the boosters etc.
+---
+Here have an upvote to balance your past misfortune
+---
+You're... not understanding me at all. Or reading what I'm saying. There's some form of communication barrier here that you're not breaking through.
+---
+About community.
+---
+Here is my original comment again:
+---
+&gt; they should never have allowed arcdps or its templates in the first place.
+---
+&gt;
+---
+&gt; No other add-on created more toxicity and divide in the community.
+---
+I dont know whats so hard to understand.
+---
+I blamed Anet for allowing it in the first place, not the tool itself.
+---
+I stated that the community in general got toxic about it, regardless of them being pro or con arcdps/dps meters.
+---
+Good question
+---
+He mean that low quality art gets more attention than player problems.
+---
+&gt; if you made it so you had to opt in, people would STILL be toxic, just like the AC example.
+---
+if I can opt in, it gives me the opportunity to run the content in a party that opts out of dps logging and i can be sure that no one logs my dps. 
+---
+Right now I can only opt out of someone logging my dps by avoiding the content (or joining a party) completely.
+---
+-_-
+---
+Sweet, thanks!
+---
+As we learned in many, Many, MANY cases including this one there is always a good reason. Yes mistakes happened, GMs are also just people, but I'm sure 99,9% of those bans were justified. Anet isn't dumb, why would they ban paying customers without good reason?
+---
+It seems you are also lost in the world of memes. Bottom text should be: "fuck me, right?"
+---
+Their official stance is that if two people share accounts, there is no way of actively identifying who is the correct owner of that account.  It doesn't usually come up, but if there is a problem with one of the people who could in theory claim ownership, then they shut down all related accounts to the problematic one.  Basically, if you share an account with someone else you've essentially eliminated your ability to ever get support for your account.  It's not a great idea.
+---
+low quality is subjective and literally everything is a problem to somebody. anet could make the update equivalent of the second coming of Christ and somebody would be whinging in a zero effort post that the game is dying so pardon me if player problems don't really interest me anymore.
+---
+&gt; but you can’t be angry at those that run ARC...
+---
+where did I say I am angry at arc users?
+---
+Na, it is old code they are too afraid to touch.
+---
+I know but trying to be polite xD
+---
+Go to any PoF map, take a bounty (better if legendary) and kill it without any help.
+---
+You can also try that Djinn event in Vabbi, or Deadhouse.
+---
+See if you can kill it quickly before you die.
+---
+You all missed the fun were you had no idea where to jump because of all the large charrs when other players were still visible.
+---
+What in Dragonfall gives that kind of profit?
+---
+&gt;see, I am not even talking exclusively about players who are being toxic in game due to the usage of dps meters, I am talking about all members of the community that participated in the numerous discussions, regardless of them being for or against dps meters.
+---
+I guess im confused here. Are you saying talking about arc dps, or build templates or the use of any kind of add-on is bad? or toxic? Imo discussion and wanting better tools to aid gameplay is not a bad thing or somehow inherently makes players "toxic" for wanting such things.
+---
+&gt;please feel free to point out any other 3rd party app or kind of tool that is legit to use and its existence sparked as much controversy within the community as arcdps or dps meters in general did and still do.
+---
+If I understand you correctly (broad strokes here) you want to hang all the bad things on a addon for the game. To me that doesnt make much sense. People were "toxic" before arc existed. With out arcdps people will continue to be "toxic". You can re-read my previous comment to you highlighting just 2 instances of players being "toxic" to each other with out the use of a addon. Just because there is friction between people and controversy does not mean arcdps is bad and should be outlawed or anything of the sort. Some people just want to play the game with out a care in the world and thats fine. Its also fine that players who want to get better and improve at a video game have tools to help with that. 
+---
+I see players being "toxic" with or with out the use of a addon.
+---
+&gt;...or...people can NOT panic and blow everything out of proportions based on blind assumptions and blindly trusting everyone claiming they were unjustly banned
+---
+If only we could blindly trust ANet now, after having developed a relationship of openness and commitment, standing firm on the solid foundation of communication and understanding.
+---
+Yes let’s not have any surprises in life.
+---
+EVEN PLAYERS THAT HAVE NOT YET PLAYED THE GAME ARE CAUGHT BY THIS MASSIVE BAN WAVE 
+---
+ArenaNet. You've stolen this man's dreams. How dare you?
+---
+Nice pics. There was a lot of dev activity changing the maps for DT and SW. I can't recall If I first broke these maps with void jump/log method or just a hole, but I remember things where one day I could drop into the abyss/void at one spot then all of a sudden they added floor all over the place and various geometry. I always joke there is a Bob and a Bill at Anet. Bob leaves us nice places to get to while Bill fixes everything and cant stand pesky holes where players get out of the map from.
+---
+Sorry, my trust in Anet has gone down that much, that i just don't trust this.
+---
+IIRC there was a personal dps meter that wasn't accessing data through dll manipulation, it made screens of your "opened" combat chat and parsed the pics via image to text, it even was able to connect to a "server" to share your personal dps with your group...
+---
+Their official stance is:
+---
+&gt; [Each Account may only be used by one person. If a minor has been allowed access to an Account under Section 9(c) below, only that minor may use the Account thereafter. Except as provided in Section 9(c) below, You may not make any assignment or transfer of rights, obligations or liabilities related to this agreement and any attempt by You to do so is null and void.](https://www.guildwars2.com/en/legal/guild-wars-2-user-agreement/)
+---
+They may not make it a priority to ban shared accounts because it's difficult to prove someone's sharing an account versus traveling or through a new VPN service or something like that, but the last time I looked at it was when I wanted to buy a 'demo' account for my friends to show them what GW2 was before the base game went F2P and it looked like a great way to get banned even knowing none of my friends would do anything but play the game normally and politely.
+---
+Then stop talking out of your ass, outside of some small instances no decent sized selling guild does this.
+---
+But that raises the question: what are the culinary applications of bloodstone?
+---
+I’ll always laugh at the Risitas meme, even if I’m not all pitchforks and torches over what it’s meme-ing
+---
+And yet, not all classes are equal, chances are you will have more difficulty playing on a elementalist or mesmer than on a necromancer or warrior, so to OP, necromancer warrior and ranger are 3 very good survivable classes
+---
+Generally if you are refering to HP pool Classes like Warrior and Necromancer have the highest possible base Health pool with 19k not including any equipment followed by rev, engineer, ranger, mesmer with around 16k followed by guardian, thief, elementalist with 11.6k, again not including vitality stats on equipment.
+---
+Regarding Armor defense heavy classes on a full ascended set have 1271 base armor, medium 1118 and light 967, again not including toughness on equipment.
+---
+Now these stats are helpful but I think whats more important rather than just picking based off of these stats and looking to maximize them with gear is looking for the right traits that compliment your playstyle because tank builds are a pain in the ass to play in open world because every mob takes forever to kill. Traits such as [Invigorating Precision](https://wiki.guildwars2.com/wiki/Invigorating_Precision), [Soul Eater](https://wiki.guildwars2.com/wiki/Soul_Eater), [Parasitic Contagion](https://wiki.guildwars2.com/wiki/Parasitic_Contagion) and [Impact Savant](https://wiki.guildwars2.com/wiki/Impact_Savant) have a huge impact on survivability without sacrificing alot of damage, so these are really what you're looking for, not just flat out defensive stats, even stuff like [Unholy Sancuary](https://wiki.guildwars2.com/wiki/Unholy_Sanctuary) and [Eternal Bond](https://wiki.guildwars2.com/wiki/Eternal_Bond) can help alot.
+---
+Any type of Summon, Minion or Pet can take aggro and distract enemies so they don't hit you this works very well for Mesmer related Specs, Necro Minions and Ranger pets, only downside to this is they are annoying to control and sometimes get you in combat even if you don't want to, but if that doesn't bother you, this is a good alternative.
+---
+[Blocks](https://wiki.guildwars2.com/wiki/Block), [blinds](https://wiki.guildwars2.com/wiki/Blinded), [dodges](https://wiki.guildwars2.com/wiki/Evade) and [CC-chains](https://wiki.guildwars2.com/wiki/Defiance_bar) are worth more than a defensive equipment.
+---
+Last but definetly not least find a build that provides you with aggressive and defensive boons, you're aiming for stuff like protection, might, regeneration, vigor, fury, quickness, stability but also try to have boon removals on hand
+---
+if you are having difficulties to find what you're searching for in game, i'd suggest using the Wiki, it's very well maintained and intuitive to get around, it includes all information you need and is therefore very helpful, don't hesitate to use it, you can access it even ingame by using the "/wiki" chat command
+---
+Once you find a build that contains boon coverage, survivability, cc, cleanses, strips, and stunbreaks, what i always do is to go to Southsun Cove and fight the [Champion Reef Rider](https://wiki.guildwars2.com/wiki/Defeat_the_champion_(Champion_Reef_Rider)), that thing is quite annoying to deal with on a non optimized build, it has boons, cc, quite a bit of HP and decent pressure. If you defeat it alone, with ease, in a reasonable amount of time, your build is probably ready for almost any open world encounter
+---
+And only a small part of reddit is active
+---
+For all the negativity lately, one has to recognize GW2 does *a lot* of things right. No other MMO has ever scratched my exploration itch like GW2.
+---
+What if you keep the bags for a few months and Zell them 12-13s/ea. It is also possible to farm 750 bag/h @ 600+MF.
+---
+On Windows GW2 stores data in the following places:  
+---
+* The game folder (were the gw2.dat is)  
+---
+* Settings and login info in "%APPDATA%\Guild Wars 2"  
+---
+* Screenshots and some logs in "%USERPROFILE%\Documents\Guild Wars 2"  
+---
+* Your Desktop if you've created a shortcut during install
+---
+You can enter the the paths with the variables (like %APPDATA%) directly into the "run" windows (Windows Key + r) to open the explorer in that folder.
+---
+I feel retarded for not knowing this...
+---
+And not all who are active are going to vote.
+---
+&gt; Does this upgrade ever go on sale on the gemstore?
+---
+Very very rare. One day in March and usualy for a short period in autumn
+---
+Using widt and hiht from now on.
+---
+They can make it useable at lvl 2
+---
+Go for P/P Deadeye with Invigorating Precision. Keep staying on range, you shouldn't die.
+---
+Funny how people sometimes just refuse to try and play the game. I made a thread complaining about the ease of fractals due to the optimized "heal+support" comps. Where you just outheal and block everything, while the dps on your team just facetank and dish out dps.
+---
+Well yesterday daily fractal was Taumanova reactor, less than ideal PUG group and we could not properly burst the slime down. People would rather try to burst it 9 times rather than try and do the encounter "as intended". Salty people left, flaming. We had to launch LFG a few times.
+---
+Last try, failed to burst again. Two of the party go down. And *finally* my other party members turn to doing the encounter as intended. We clear the healing slimes. Dish a chunk of damage. go back to clearing the slimes once, kill the thing.
+---
+Easy as balls, just the 3 of us. It took a minute longer than bursting it. People are stubborn.
+---
+Anyways I had way more fun than usual, too bad it takes ten tries to convince people we should try and play the game instead of "break" it.
+---
+&gt;  that it would be a grind in a half ( not like wow grind) but serious game commitment time to get top tier optimized gear comparable to everyone else.
+---
+It actually is contrary to what many tell you. You can get exotics easily but not in optimised stats and not ascended.
+---
+"don't gamble kids"
+---
+Good advice.
+---
+Also, don't gamble, kids.
+---
+and Jalis as second legend for mob doors, just turn vengeful hammers and stand still in the spawn.
+---
+*Apples, apples for sale, come and get a nice quiet apple!* Psst! Over here Initiate.
+---
+Starting your journey to take down the Elder Dragons, huh? But due to our new rules the questions must be left in the [&gt;questioning session&lt;](https://www.reddit.com/r/Guildwars2/search?q=title%3Aquestions+thread+author%3AAutoModerator&amp;restrict_sr=on&amp;sort=new&amp;t=week). We have plenty of experienced historians there that can guide you on your first steps.
+---
+If you think your thread should be allowed to stay or if this was a mistake do report this comment or send a modmail and Pact commander will come take a look.
+---
+-------
+---
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Guildwars2) if you have any questions or concerns.*
+---
+Well, honestly, bans could been around few days, but many people just don't have time to play during weekdays, and they get to it at friday/weekend...
+---
+Thief is a viable power class and you already have good gear fo it mostly, so that's convenient. You can just jump back into fractals, you should be fine. 
+---
+As for raids, exotics are good enough, but obviously more ascendeds you have the better. It's probably best that you find some raiding guilds, so you can get some experience and stuff. They are really helpful.
+---
+Lws2 is just story instances. I love them, but it might not be enough value for your buck. S. 3 and 4 chapters come with a map each and more rewards, so those have more value to them.
+---
+As for builds, just copy Discretize or Snow crows.
+---
+If they make only True Shot unblockable (as the name kind of implies) then LB would be pretty good in WvW
+---
+Honestly, being subbed here makes me take hiatuses from the game and not want to play. I've noticed every time a new release comes around, I follow the same pattern; unsub so I can avoid spoilers, go 1-2 months without anything GW2 related, check out new stuff on a whim and then get back into the game.
+---
+It's important to tell devs when you're unhappy about something, and this game is far from perfect. But the constant _whining_ about **_every damn thing_** makes me briefly resent this game on occasion.
+---
+Thank you for the prompt reply! Yeah I'll just jump back into fractals, i always see it mentioned on here as being worth it. Discretize / Snow Crows are raid builds im assuming?
+---
+I've done lw s3 for the trinkets luckily. If lw is mostly story I'll do it for fun maybe.
+---
+Other than that I'll start with training in raid groups :)
+---
+Thanks!
+---
+You know....mad realm portal won't work outside halloween...
+---
+What? You can access waypoints in the tutorial zone?
+---
+I really need to start playing around with my builds - kalla on renegade is doing me quite nicely, though I'm sure I can do better. Main downside is the lack of swiftness. I tried thief with bow when I saw people talking about that being the best lab build, but went back to Kalla as didn't get nearly as many bags as thief as I got with renegade.
+---
+Maybe its the same drama as ban wave was. And it was caused by 1 player. I remember similar drama with shared bag slots. After launch I will buy some with money, some with gold and thats it. And after some time I will buy more. Maybe its time to buy some gems before price skyrocket. Hardcore players have a lot of gold to spend...
+---
+Don’t bother this community is just as toxic as every other community. Anyone who says otherwise is a liar.
+---
+You can cite the few examples of people being “nice” and “helpful” but those exist in every other game.
+---
+Anet is pushing this game in mobile-type monetization and the community is worse than it’s ever been.
+---
+If you haven’t tried FFXIV that’s a different change of pace and the community there is actually much nicer. They don’t mind newer players and often help out if you ask.
+---
+I think they should implement the dps meter. When I started the raids, it helped me a lot to improve and immediate feedback was important to me. Many players try a raid and then stop because they think they are doing everything right and don't want to install an unofficial tool to show them it's not as good as they think. The more experienced ones who try to help them are then called elitists, because according to the inexperienced player everything is subjective and there is no official source of truth.
+---
+yes, A and D to be turns are default layout. Granted, you can "fast-switch" to straffing by holding right mouse button, but I don't think that's enough (especially you can't control the character by one hand if necessary)
+---
+You have encountered some of problems GW2 has.
+---
+Story tells you to play dungeons, but that content has been abandoned and most people who play it are experienced players who want to rush it. Plus, as a new player it's not like you know by default how to advertise your group in the right way (as you said). 
+---
+The talking/explaining thing is not really GW2 related but it's also kind of encouraged because you play by yourself or with someone silently beside you all the time, except when you do high end content. I have been part of groups in T4 fractals (almost top tier end content) wiping because of mechanics and just restarting the fight without asking if somebody could understand why we had died. But you also meet people who are running the content with somebody they know and you have to wait until their friend has explained or they try a different strategy; it depends a lot on the person but it's not the standard behaviour in my opinion. 
+---
+This is probably also a result of pugging (organized groups of course don't have this mentality) but the problem is that all new players pug the content while majority of people who have a static are already experienced. 
+---
+TL;DR The game doesn't encourage enough talking with your group when pugging and most people just use the most common strategy/path and don't think others don't know it.
+---
+OP is right. I play casually Guild Wars 2 since day one (I do story mostly, some unranked PvP, having collected every elite spec, some T1 fractals, tried some raid wings but never succeded, no legendary weapon/armor since I do not have time for this end game content) and yet this kind of behavior still happen to me.
+---
+\- Create a group for me and a friend to do a dungeon
+---
+\- 3 people joins us
+---
+\- I say Hi, noob here, want to help a friend do his dungeon, you know basic introduction and to let people know our expectation (even though it's written in the description of the group)
+---
+\- Those 3 people insult me and vote kicked me ...
+---
+\- Friend leaves and join me in a new group
+---
+That's the kind of things I only see in GW2, not even in WoW (playing it since 2010 too). Maybe the fact that the game does not require a monthly sub makes it more accessible to kids badly educated, but it is not fun at all to start a game to play for fun, to tell people you are trying to play for fun, and yet encounter people like this.
+---
+Dude, this is just stupid. ‘Really important issues’? Your lack of cyrillic support issue is only important to like 5% of the playerbase at best. And anyway, you bought and are playing the game as-created, means you accepted all the conditions, so you are in no right to demand anything from the devs. If people have been playing this game for seven years and somehow survived without cyrillic chat, then how important can it be?
+---
+By now it should be obvious to you that ArenaNet does not care about your issue or they would have replied to you long time ago. You did not even get a standard template reply.
+---
+Besides, to them it is just not worth investing time and money (yes even tweaking chat code will cost dev paid hours that they can spend on smth else), since they will get no/hardly any payoff from it.
+---
+GW2 is a seven year old game with unclear future perspectives (no expansion in sight), half the dev team has been laid off this year and devs are leaving almost every week. Even Mike O’Brien left. You really think supporting cyrillic is their main priority now that they should be focusing on?
+---
+Basically just stop your circus. No amount of parading around LA with 30 people from your guild will change anything, because guess what? Not only arenanet does not monitor get-togethers, but all devs are on NA servers (if they even play). So you are just parading for yourself honestly.
+---
+Spamming on reddit on the same topic will just make you more and more annoying.
+---
+Or spring rolls!
+---
+Classic pick-any-variation-of-engi (non-DPS) with flamethrower and spring rolls always works.
+---
+I always wrote something like "Path x, slow and relax run" in LFG and never had any bigger problems.
+---
+I saw queues longer than that years ago. It is just a hit or miss on when people want to do it.
+---
+You don't
+---
+Does that mean it's possible to smuggle a level 1 character into the open world?
+---
+nothing unusual here, this is always the case in older games, especially if there is no frequent new content (which is the case for gw2)
+---
+just face it, people won't slow down for you
+---
+Full nomad warrior is almost indestructible with quickly regenerating health, shield, warhorn for condi removal, condi-removing sigils and long-lasting stances.
+---
+and nobody is obligated to actually give advice
+---
+2:15 am, hmmmm?
+---
+Yes, once you are level 2'
+---
+Don't see problemo, it's epic. This game really has all that small (or not so in this case) details, sometime you just chill in middle of nowhere forgetting all your serious in-game business. Strangely I wasn't aware of all such stuff when first time played somehow (early 2013). Probably was distracted with all other new things.
+---
+I logged off after a total of 20 mins wait. le sigh
+---
+Well yes but if you kick me as soon as I ask where the dungeon is because I am new, you are quite a dumbass.
+---
+Also, if I ask for advice before a boss and you shut your mouth but then AFTER the wipe you complain, not only you are rude but also quite dumb
+---
+Thanks for double-checking. Would you mind if we uploaded this data to [the wiki's ToT research article](https://wiki.guildwars2.com/wiki/Trick-or-Treat_Bag/research)?
+---
+Some people just aren't there to guide new players. I don't think it's neither your fault or theirs, they were a bit rude in just kicking you without saying anything but they have no obligation to play with you. Move on and make your own group and you will have a better chance in finding likeminded people.
+---
+Anet says that they think the accounts were accessed with permission from the owner, if that is the case then probably  [https://www.reddit.com/r/Guildwars2/comments/dka7hc/megathread\_october\_2019\_ban\_wave/f4lgjva/](https://www.reddit.com/r/Guildwars2/comments/dka7hc/megathread_october_2019_ban_wave/f4lgjva/)
+---
+I am a newb. Does season give out more rewards?
+---
+&gt; The community deteriorated over time.
+---
+Nah, the shitty "rush dungeon or GTFO" mentality has been there from day 1. It was the reason I quit the game when it was barely released. You'd had 10-15 lfg groups for Ascalonian Tombs. Join one, wipe on spider and everyone would leave without a word being said. You want to play dungeons? Better learn the mechanics by heart via youtube before joining - no time for beginners!!
+---
+This mentally sucks ass, you still see this in fractals today. Although I do find the odd group that is willing to play through a few wipes.
+---
+[Its always uno](http://awesomeradicalgaming.com/wp-content/uploads/2010/04/how_to_get_banned_on_xbox_live.png)
+---
+Well you met the worst part of the player base because of "No communication, no interaction" but also from your side, you say "I do not even know what “explorable” or “path 2” is and I don’t really care"... And all of this would be avoided if you cared to read their requirements first, or communicated yours (on lfg, listing your entry), just say "new", "want explanation" anything that would hint the "community is great" crowd that it's their time to shine.
+---
+&gt; no advertising, no groups
+---
+The reason is, groups get automatically un-listed once full, and that happens quick in case of dungeons. Feel free to list your own groups, and let us get back to this discussion next time; I am on EU servers, can join you around evenings, jlmk.
+---
+W to move forward
+---
+I'm pretty sure spellbreaker is one of the better things to play in t4 fractals. Besides this, even if it "less good" than berserker builds, compared to other meta builds spellbreaker is still fairly high up in the ranks, no?
+---
+Basically: Spellbreaker is very far from beeing "shit" at PvE. How dare you, lol. :'D
+---
+&gt; I have a modem/router combo and my PC is connected to it directly (not on wifi or through a 2nd router) 
+---
+and my internet speed is around 60-80mbps so should be fine
+---
+Yes
+---
+&gt; what you are looking for are fractals
+---
+With level 69? Tell me more about this new low level fractal system they stealth introduced
+---
+One of the saddest parts about this is I was reading map chat at the Orrian tree farm where some dude was bitching about "innocent ArcDPS users being banned by evil empire Arenanet" while PvP cheaters were going about their business unpunished. Fucking LOL.
+---
+The various reworks to Deadeye actually made it more non-rifle friendly and is the reason why OP is seeing a dagger Deadeye build in the first place, though
+---
+gankdara is worst laggers, anytime you go agains them. it often even just de-connects me from my client - thats what usually follows the skill-lag.
+---
+&gt; ArenaNet say that they don’t know how the rumour started that it was ArcDPS. Here’s how the rumour started: you gave generic, useless error messages for those that were banned. How about explicitly stating on the log in page why a user was banned? Without that, you leave room for rumours and screw yourselves over. 
+---
+Don't fucking cheat. Don't share your account. This is the fault of the people who cheated and shared their accounts. The rumors are the fault of the people who started and shared rumours. ArenaNet did nothing wrong here.
+---
+GW2 doesn't have a "friendly pve community" and never did. This lie was fueled by anet back when still communicated with their playerbase. In reality, GW2 has one of the most toxic pve communities I've seen in my 20+ years of gaming. Doesn't even matter if it's some hardcor-ish content like raids or an entry-level content.
+---
+Care to elaborate please?
+---
+/r/doesanybodyelse
+---
+That guy made Avatar - Last Airbender. I will never forgive him.
+---
+As a P2/P1 player who reached Top250 this season for the first Time :). I can agree, i get sadly rly often matched with top20 player what makes the match unfun to me too. What means we deffentliy need more player in the higher ranks espacilly p1+ to get the matches more fun for both side.
+---
+Not as bad as pugging T4 fractals. You only get extremes there: leeches who die at most encounters or elitists who wait to kick you until the end of the fractal. It’s the wild west out there.
+---
+NO! You are just a newbie. Ignore these toxic idiots.
+---
+3 per node is highest ive got and i think its max
+---
+I did Dhuum for the first time yesterday. Cool fight. Happy I played DPS.
+---
+EU. Gandara
+---
+That's one person less unless he was playing 60 accounts at once... which he wasn't.
+---
+This meme is prevalent in just about all Guild events as well.
+---
+Just one more thing that soured me on GW2.  Guild events are a jumping puzzle race and if you fall behind your screwed as 99% of any guild just wants to get to the finish as fast as possible.
+---
+Forgot your /s
+---
+He was accessing 60 accounts of other people with their permission and those accounts where banned, so if the played pvp there are now 60 player less.
+---
+Interesting. Maybe just a bad day. Might've been a difference in culture between NA and EU, but since you're on the same region as I am, karma is the only explanation I got.
+---
+But then again, I usually start my own groups and specify that it's no rush and that noobs are welcome.
+---
+Give that a try.
+---
+As an anecdote to the contrary: I can't actually remember the last time I had a bad experience. Joined some group like two days ago, and we even managed to get a frenchman to talk two words to us during an Arah run for the collection.
+---
+The Ascalon run before that was almost sociable even.
+---
+Most activity is after 5 pm till aboout10-11 pm GMT.
+---
+I play 1(-3) games after 1 AM sometimes for the daily (most fun daily in my opinion) but never later
+---
+That sounds like T3s, not T4s. I pug T4s and even CMs I've never had a "kick at the end" the dying? Absolutely and if the lfg was calling for exp or fast I'm out if we have 4 people dead at mama.
+---
+Ok, but when does the Boo saga start?
+---
+1k games played "newb".
+---
+X for doubt.
+---
+Imagine if the game had an icon near your name telling others you're a new player.
+---
+The horror.
+---
+&gt;EDIT: why the downvotes?!
+---
+Because your post doesn't make the community look "the friendliest".
+---
+So the friendliest community is gonna downvote you.
+---
+I had an aneurysm reading that.
+---
+Open a new lfg with something like "\[insert dungeon\] story mode, cutscenes, all welcome" and attract other players like you. Dungeons are abandoned content, so the majority of people doing them are just trying to farm tokens or something, and are interested in a fast, efficient clear with no lollygagging. This problem will only get worse if you enter raids, but calling this toxicity is a misnomer. It's just a skill gap and a misalignment of interests.
+---
+First of all why do you wait for a group? Make one and add it to the lfg-tool. In the message you write what path you are gonna run and i would add chill run all welcome. This tells speed clear players that your group is not for them and you don't have to have them in your party. 
+---
+This way you get your group in the way you want and they get it in the way they want. The answer to your issue is to be clear in your group message. 
+---
+And then it kind of also goes both ways regarding info. If this was me being new in another mmo i would also tell them hey i am new. And then before each boss i would ask them if there is something i need to do to be sure it will be a easy fight. If there is they will tell if they don't tell i will refer to me asking before and it could have gone smooth if they just gave me a few hints.
+---
+But also the dungeons are as old as the game is and have never been improved. It is old content abandoned by the devs in favor for Fractals which is this games dungeons. Dungeons you use for xp, skins, some gold and achivements and currencies for gifts toward your legendary weapon if you make one.
+---
+Another good thing to do if you thinking of doing instances were you are in a group is to look at some guides to make it easier for you.
+---
+https://youtu.be/jLhWVTG1nas This guide will give you all the basics and it does not matter that it is old since as i wrote above the dungeons in this games are the fractals which you can start at lvl 80. But don't take that is if you dont do them at all, go for it if you enjoy them but be aware of that it can take some time at off hours to get people in to your group.
+---
+https://wiki.guildwars2.com/wiki/Dungeon This is the wiki page that give you some reading about the dungeons.
+---
+https://wiki.guildwars2.com/wiki/Looking_For_Group This wiki page tells you how our lfg tool works sometimes it can be hard to understand what it is you need to write and were and then this can also help.
+---
+And last, don't let a few players ruin your fun. You will run in to such people in the game every now and then GW2 have less people being very toxic but we do have them. So shake it off and when you are ready come back and make a new try :)
+---
+I literally had my partner do that JP for me one year. And now I never have to try it again. Worth it.
+---
+\*gets ganked by harpies\*
+---
+U should start ur own lfg and state that u are new and look for other new ppl to explore the dungeons. Those few groups that pop up are usually some veterans just wanting to rush them thro for dailies or tokens or whatever.
+---
+exposing truth about "friendliest community"? enjoy your downvotes
+---
+Passive defense: warrior/necro
+---
+Active defense: mesmer/guardian
+---
+Yes HoT is now free with PoF
+---
+HoT comes free with PoF now.
+---
+You get HoT for free when you buy / already own PoF now.
+---
+[Here you are](https://lmgtfy.com/?q=gw2+hot+free)
+---
+I think they made that if you owned pof but didn’t had hot before season 5 started, you automatically got hot with season 5 start
+---
+Yes when they announced the Icebrood Saga in August they announced that anyone who buys PoF gets HoT for free and if you already had PoF HoT was automatically added to your account.
+---
+Oh, the pun. Just take my upvote.
+---
+Oh, cool
+---
+What? Meta open world is sword/shield [protection holo](https://metabattle.com/wiki/Build:Holosmith_-_Protection_Sword/Shield), and meta frac/raids also uses [sword/shield](https://metabattle.com/wiki/Build:Holosmith_-_Power_DPS).
+---
+Unless you mean scrapper. In which case, yeaaaah.
+---
+You are right but he was not expected to know what you said.
+---
+For whatever reason I was convinced that it was a blood drop. Until I realized that it could just as well be sweat.
+---
+They already did a rework, and I think that's that. Underwater content feels clunky to many for the sole reason that it's an underwater environment with different altitudes. They can't just put a ton of resources into something so unrewarding, something that the majority of the playerbase has already decided to joke and not care about. 
+---
+Relevant underwater content won't be part of the future of the game. At best, we're getting a living world map with some of it.
+---
+...you do realise you are upscaled in fractals to lvl 80?
+---
+"The friendliest community" meme is one of those few things left for fanbois and white knights to cling to.
+---
+So they will protect it at all cost, even it makes them unfriendly, kek, oblivious to reality and how the things actually are in other games, especially to how new players are treated in other mmorpg. 
+---
+They always state "we are the friendliest community", rarely making any **actual** comparison to other games.
+---
+You see it in every piece of endgame content in every game in existence, because lots of people like to try and do things efficiently instead of just doing them after they've completed a few times. It keep the content fresh to try and do it well instead of just doing it. I agree that groups disbanding too quickly is a problem of whiny babies, but that's a different issue. When dungeons were active, people often did training/teaching dungeon tours. Unfortunately they no longer are active, so those are sparse if they exist at all. Just the way it goes. No one wants to waste their only dungeon run of the day teaching someone new.
+---
+I actually just made another comment to another user, which should clarify my point of view:
+---
+https://www.reddit.com/r/Guildwars2/comments/dl724e/how_arenanet_should_have_handled_this_whole/f4q2lpx/
+---
+Well you get short end of the sticks. Even vet doesn't escape some of the bad part of community.
+---
+Basically if you run dungeon with Pug now you will mostly get these reaction. Because not everyone got time to takecare of newbie which is same as any MMO
+---
+ \- You need to be lvl 80 for explorable path  . Stroy path easier in term of mobs power and numbers and less trap
+---
+\-Most players are in ascended gear which is the best tier . They can take a couple more hit than player in Master work gear and twice the DPS. Exotic a tier below ascended gears are now obtainable with just a couple day of doing daily to get gold for the equipment. 
+---
+\- If are not sure about enemy buy some mango pie for the run. Health Regen help a bit for taking normal hit but a telegraph attack will likely instant down you.
+---
+You clearly are just of a different mind than most people who play endgame content. To them, it's not about making friends and having conversation. It's about playing the content. There are tons of extremely friendly people doing open world all the time. That's just a reality. They don't care to explain to you why they're kicking you because they're not trying to make friends, they're trying to do a dungeon. I always tell people who are new that it isn't a training run and that they should try one of various methods to become more experienced first, but not everyone does and you will simply have to get used to that if you want to play endgame content in any MMO.
+---
+Isn’t HoT the first expansion? I finished my vanilla story, lws2 and now I’m well into HoT.
+---
+[It was added in 2014 by a user who did their own research.](https://wiki.guildwars2.com/index.php?title=Trick-or-Treat_Bag&amp;diff=903494&amp;oldid=903492)
+---
+It's not clear if this info was correct back then and has since changed, or if it was wrong this whole time, but hopefully we won't run into this issue in future, as I've created a research page for [regular bags](https://wiki.guildwars2.com/wiki/Trick-or-Treat_Bag/research/drops_per_bag) and [personalized bags](https://wiki.guildwars2.com/wiki/Personalized_Trick-or-Treat_Bag/research/drops_per_bag). Feel free to add your own data if you wish.
+---
+This person is one of the most prominent hardcore PvE players, they are so above you or other mere mortals in every aspect of PvE that there is probably no point in trying to find any sense in his comment, better to ignore it.
+---
+downvotes are because this community is protective of the fucksticks that make dungeons a miserable slog for anyone but speedrunners
+---
+&gt; Also can we talk about pocket raptors for a second..
+---
+Okay, but only just for a second. Any longer and they'll have already eaten you.
+---
+similarly, walking dead should've ended with season 5 but kept going...
+---
+I didn't say anything about whether your experience is positive or negative. I quoted one line of your post to answer your question about the downvotes, I didn't say anything about the rest of your post. Why are you conflating separate things?
+---
+That doesn't even look remotely the same.
+---
+Seizing this topic to make a question, how do we fight sword/dagger thieves with DD running that health/condi clean on dodge trait as condi necro? I swear that single trait hardcounters me because he just cleans everything i toss while seemingly having infinite evade/initiative. I take a good while to die, but they always beat me with the massive movement and all the damn heal to full from low hp.
+---
+Stop projecting.
+---
+more like they have good programmers/artists but shit designers and leaders
+---
+don't forget the unused invuln
+---
+&gt; EDIT: why the downvotes?!
+---
+You did not post sylvari art
+---
+u/ZoveDM let us know
+---
+-Hopping over from the other thread- this brings a question to my mind... if Anet was to add a 1st party dps meter... how would you feel? (Say for argument, a direct copy of delta’s arc)
+---
+I’m wondering basically, if you’re avoiding ALL parties on the *possibility* of someone using it to be toxic... or if you feel it’s a “violation of privacy” (so to say) for others to read your combat data. 
+---
+Since you mention the following:
+---
+&gt; The main issue I have with arcdps is that it basically robs me of the opportunity to run or joina party or squad without a dps meter.
+---
+It leads me to assume, you’re *required* to have a meter running to join these... which isn’t really the case. I ran raids for a long time without using one, never had an issue...
+---
+This has always been possible with the home instance node.
+---
+Yeah. Despite what I believe about underwater content, I would love an underwater mount and a reason to use it someday.
+---
+I'm a developer and I'm pretty sure at least one person would be fired following something like that. When a team fails to produce a tool that literally removes clients from your game, and you fail to check for something as simple as a hash produced by an empty file, and that slips through the original coder, the reviewer, the manager, the rest of the team, QA and all the way into production, heads ***should*** roll.
+---
+If you have any characters from when you last played they'll have birthday gifts so you'll have some level up scrolls to get you started. Like others have said it's more skill based than gear based. Just play the game and enjoy it for what it is. Things have changed tremendously since launch.
+---
+Thanks! I am at work now, will give you my ID soon!
+---
+You've put more effort into including the song than into dodging, using your heal, not attacking someone with retalation, having a proper build, and not afking in a random spot that's not really safe.
+---
+&gt;Stop projecting.
+---
+I think I heard a voice from above.
+---
+Can't tell what it says though because it's too thunderous.
+---
+Fortunately T1 fractals so easy that you can solo them even in green gear.
+---
+I m sure a bow ranger and a low level can still pull their weight
+---
+Enjoy your free stuff! They will cover all the costs with build templates later.
+---
+To add to this, also putting in the LFG that you're a new player and/or not skipping cutscenes will (for the most part) weed out those that want experienced vets or just want to rush.
+---
+I stand outside SMC on a set marked trap with my chat set to combat log all the time, and I just hate it when a random DE nobody knew was around shows up to mess up my day.
+---
+It's due to the light source in he preview window being directly by you
+---
+It is very difficult, my characters die to almost anything they come across in WvW solo roaming (unless I manage to escape).
+---
+Other players are amazingly fast while I am still thinking what button to press next, spinning camera to look around, can't see anything, "where that hit come from?!", spamming dodge button, getting damage from retal because autoattack and in next split second my character is downed. Always lost what is happening around my character. Everything goes so fast.
+---
+In small groups or big blob fights everything go much better and much slower, there is time to react and other players help.
+---
+That doesn’t change the fact that money ruins everything. Oh, and RNG ruins everything except Dn’D
+---
+To an extent yes. Why waste it on "Scarlet" when you can be "Permafrost."
+---
+Do you know Horn of the Abyss?
+---
+A lot of people seem to want his stance on a hot button topic right now.  Monetisation is a big reason right now but we don't even have specifics on prices so is it really worth a video. He's also said many times in older videos that Anet should monetise then.
+---
+&gt; but it all reads like you’re hating on people who use arc.
+---
+Not in general, no. 
+---
+I dont mean that arcdps users are generally more toxic than users of other 3rd party apps or tools (in relation to their total user base).
+---
+A toxic player is as likely to use gw2efficiency or the gw2wiki as they are likely to use arcdps.
+---
+what I mean is that in my opinion no other (ToS-compliant) app sparks so much controversy and toxic discussion between different groups within the player community than arcdps or has caused such a long term rift between its users and non-users.
+---
+You dont hear non-users of gw2crafts, taco or gw2bltc campaigning for others to not use it or hating on the users, either.
+---
+&gt; Why not run with them if you’re not angry with them? Your issues seem to be on Anet for allowing it..
+---
+Of course my issues are with Anet.
+---
+Even though I was originally against dps meters and definately part of the often toxic debate wether arcdps should be allowed or not, I have accepted their decision to allow it long ago and drew my conclusions, which are that i simply wont play any content (raids/fractals) where I am basically forced to at least submit my personal combat data to a tool that I have no interest in using myself.
+---
+And that is, first of all, sad for the game because a player (me) is basically locked out of plenty of content. Raids and fractals could be hundreds, if not thousands of hours of fun content for me (and I already spent 14k hours in game) which I wont experience simply because Anet allows dps logging from 3rd party tools.
+---
+I am not moaning here that poor me cant experience all the story and lore and loot from raids and fractals. If I really wanted to, I would find enough in game friends to carry my sorry ass through all wings and have enough gold to an LFG as well. Or I could just watch a walkthrough on youtube for the story.
+---
+But I dont do that because thats my way of talking through my wallet, I just talk through my time spent in game.
+---
+If I get a carry from friends or pay for it, i will complete plenty of achievements, which becomes data that tells Anet that I like playing raids, which I dont.
+---
+If I would have played raids despite disliking Anets policy about 3rd party dps meters, I probably would have contributed to a longer period of time until Anet finally realized that raids isnt a popular part of content for their user base any more and stops wasting resources on it.
+---
+&gt; Knowing that Anet has green-lit the ability to read combat data, as acceptable behavior.
+---
+IIRC, arcdps got green-lit some time in spring after HoT release, after it has been used from parts of the community for many months.
+---
+My point of view at that time was that it is against the ToS and I disliked the concept of a dps meter for this game anyways, so obviously, I was heavily against it. ANd the discussion between the player base at the time between arcdps being released and it finally getting an approval was just awful and way too long.
+---
+It derailed into a circle-jerk that was going on for months.
+---
+But after Anet decided to approve it, the discussion eventually boiled down and the grand old debate only pops up sporadically these days because people like me accepted Anets decision. Because it was a clear decision, even though we might disagree with it.
+---
+But that decision took months too long and in my opinion fractured the game community as a whole far more than it should have.
+---
+I mean they dont ban actual bots, why would they ban a macro ))
+---
+Anet said they want to do something every month and they said Episode 1 will come in 2019. This month we have Halloween festival, December we have winterday so Episode 1 will probably come in November.
+---
+Try it. Better than Wake of Gods. Has some balance changes too.
+---
+Huh not really. Look, we know that the next one have templates
+---
+Our best bet is that S5E1 will be released when halloween ends. Can’t remember exactly when that is, but halloween runs for 3 weeks. Iirc, that’s two weeks from now, but that’s not aligned with the «update every other week» schedule, so it might be 3 weeks away, too.
+---
+&gt;me playing scrapper
+---
+Wtf is a weapon? I only know flamethrower
+---
+Wait for Anet to announce an even more braindead elite spec. Probably one that removes your dodges and gives you automatic invuln and resist instead.
+---
+Bags doubled the price in 7 months (5.87s on 29 Oct 2018, 12.23s on 27 May 2019)
+---
+Herpa derpa he must be cheating he killed me
+---
+I predict November 12th giving us 2 weeks to get used to build templates when they release on the 29th of this month.
+---
+A sneak peek of a Norn on their twitter would go a long way
+---
+I find this whole sentence incredibly sad
+---
+Never had much of a problem with them, honestly. The trick is to get the jump on them. Pull, aoe cc, kill.
+---
+Can see why single target builds would have a field day, though.
+---
+On the contrary... for my taste waypoints in gw2 has made this so far the worst exploding/immersion mmorpg... there’s no sense of the big open world and the cost of courage one need to gather to go out explore somewhere... go on an expedition! No! You can wp back at anytime! Gw2 has been nothing but an farming and collecting simulator for me... but it worked kinda well until recently so I guess it’s still a nice mmo world that I wish to come back into sometime
+---
+Hey OP, we were all once new players! I'd definitely pick you up and explained everything as we go. We focus on exclusively that. Please don't generalize all GW2 players as few "veteran" players can be a bit toxic while forgetting they were once noobs. But the rest of us aren't. So if you are in NA server make sure you hit me up "Azazel Drakon".
+---
+It's not even a burst Deadeye. His DJ didn't even do 9k.
+---
+I remember playing MMOs back in 2004, people would throw similar fits on the game's forums about unfair bans, and then the admins would show why they were REALLY banned.
+---
+Every week there was a similar thing.
+---
+Okay.. fair.. what's the company stance on building a proper DPS meter into the game so we don't need 3rd party tools?
+---
+Damn, at first I thought you were kinda new to the game, then I proceed to see the wvw rank, haha haha...this is sad for you.
+---
+Don't use waypoints.
+---
+thanks for the info, i will keep your research page in mind, if I happen to make larger research samples in the future but unfortunately, I didnt do much of those this year and dont really plan it either, unless new tradeable containers are being released.
+---
+Best theme in the game. Any other opinion is inferior.
+---
+This is obviously a bait comment to make you post what your favourite GW2 theme is so I can go listen to them
+---
+Oh I did better than that lol
+---
+I play something else :)
+---
+That's not a bad point. Other mmo's do feel "bigger" but most of the time it's a vast space of nothingness.
+---
+In GW2 I fell you easily get sidetracked and that's ok because you can hop back on to your original track anytime. In other games you'd walk for 25 minutes, see something interesting and go "fuck that noise I'm not risking having to walk another 15 minutes". And even when you do visit that odd looking cave you discover it's just another odd looking cave.
+---
+but how would i be able to afford my drugs if i cant gamble?
+---
+What I personally do it is hover over it &amp; use AHK to constantly auto click on pressing F12  
+---
+   
+---
+F12::domino66Click()
+---
+&amp;#x200B;
+---
+domino66Click(Interval=10){
+---
+   static Toggler
+---
+   Toggler := !Toggler
+---
+   TPer := Toggler ? Interval : "off"
+---
+   SetTimer, ClickClick, %TPer%
+---
+   return
+---
+   ClickClick:
+---
+   Click
+---
+}  
+---
+I could probably clean that up a bit but it works so I don't really care
+---
+[Bait taken](https://www.youtube.com/watch?v=NdWpgnOVncg)
+---
+i feel you, theres a huge sense to rush in the game, not a lot of people like to stop and smell the roses.  If you play at your own pace you'll feel a little left out, and if you play at everyone elses pace you'll feel like you missed a ton of lore and story and the loot and experience feels hollow.
+---
+It's best to try and find a guild or group who like to do what you do.  Take their time and explore and find cool things.
+---
+or there's RP, if you like tat sort of thing
+---
+Well I can't say I blame you
+---
+I haven't played myself since that awful announcement event
+---
+Ah yes, that assumes a certain amount of situational awareness (oops) ;)
+---
+&gt; Whatever. I didn't grow up in a country that celebrates it.
+---
+3 out of 6 gw2 festivals don't exist IRL. We still enjoy them. Same goes for whichever of the other 3 don't have an IRL counterpart in your country or culture. I personally don't care about halloween irl at all, still enjoy playing it in gw2.
+---
+what no screenshot?
+---
+Fail bait tho, cuz Tarir music destroys all who oppose it.
+---
+This beat claps
+---
+I have not played with the music volume turned up since before the first expansion. I only recently turned it back up when I realized that music must be playing during the metal concert event. I may have to go check out this HoT music.
+---
+Opposite problem.
+---
+*Come ooooon guys, catch up already!*
+---
+I can't remember the last time trash mobs in pve stopped me from anything longer than cool downs. 
+---
+Yall need meta builds
+---
+With tastes like that you wouldn't survive 10 minutes in the jungle!  
+---
+Here's some real survivor music! [https://www.youtube.com/watch?v=atb0fvjrM5U](https://www.youtube.com/watch?v=atb0fvjrM5U)
+---
+Quaggans are great and where is the screenshot?
+---
+As a casual, I only care about the skill/trait template... far more than the monetized equipment template.
+---
+it's almost as if his response was bullshit and nonspecific. he was very dodgy when people asked him directly about modified arc templates dll. "use at your own risk XD" is not a fucking answer
+---
+That makes sense.  I do wvw, so we get to pick our team. :)
+---
+I actually enjoy all tiers of wvw, ranging from tier 1 to 4.  Currently, it's in T1, and if anything, it seems easier to get more even fights at lower tiers.  Too much of the ranking in wvw seems to be based on who has the most round the clock coverage.  The pugs aren't as good at getting in teamspeak or discord at lower tiers, but there's some good guild groups at all levels imo.
+---
+And what is the use of that? We know that the Norn are in the story, just a picture of a Norn says nothing.
+---
+You mean how many players who are also redditors who are also subscribed to this sub who also see this post who also like entering polls who also don't lie play in NA?
+---
+These kind of polls have so many variables they're less than useless.
+---
+This was all a huge wasted opportunity. 
+---
+Story and dungeons should have been to sides of the very same thing all along.  
+---
+All dungeon story paths should have been like how Arah story is now, a story mission that can be soloed.  
+---
+Then, have 'dungeon' versions of the instances that are long enough. 
+---
+So every dungeon explorable paths would be the 'dungeons' of the 'story' paths.  
+---
+Here's some examples of instance maps that could have been refurbished into new dungeons with at least 1 path:
+---
+* Claw Island
+---
+* The temple of Abaddon.
+---
+* The Aetherblade Retreat
+---
+* The Molten Facility
+---
+* The Nightmare Tower
+---
+* Fahranur, the First City. 
+---
+* Rata Primus
+---
+* Gandara
+---
+And now that we also have strikes, there could also  and 'Strike' versions of short instances with interesting bosses.  
+---
+Here's some examples of bosses that would make decent strike missions with some improvements in their mechanics: 
+---
+* Blightghast the Plaguebringer
+---
+* The Sobereign Eye of Zhaitan
+---
+* Zhaitan felled at the bottom of [The Elder Dragon's Lair](https://wiki.guildwars2.com/wiki/The_Elder_Dragon%27s_Lair).
+---
+ * This would become the actual end of Zhaitan. After he falls from the tower, players go fight it again on the ground with the rest of the pact. 
+---
+* Canach under Southsun.
+---
+* The twisted marionette.
+---
+* The watchwork Assault Knights. 
+---
+* Scarlet's Prime Hologram.
+---
+* The Winged Teragriff.
+---
+* The Shadow of the Dragon.
+---
+* Mordremoth's mind.
+---
+* The Ice Beast
+---
+* Caudecus
+---
+* Tegon and Temar
+---
+* Lazarus
+---
+* Balthazar's War beast and Balthazar
+---
+* Joko
+---
+* Kralkatorrik
+---
+* Kralkatorrik's torment
+---
+This way we'd have more than double the content for less than double the work.
+---
+Most random news we got are just leaks, and those include unfinished model of certain character, spoilers. And some info about the strike evolving update. From datamines we know there will be new phase, additional achievments, and challange mote.
+---
+He's not using any cheating programs of any kind, he's just exploiting bad balance and overstacked damage bonuses that allow too much damage in too little time.  
+---
+And he's not doing that much damage, compared with even worse things out there.  
+---
+It can only be countered with staying alert so you can quickly twitch-evade and use defensive skills like those that give barrier or invulnerabilities.
+---
+Man sorry you had this experience. I know that these kind of people are in the game, however I don’t really meet them usually. My wife started playing recently and so of course we did all the story dungeons and some of the exploitable ones as we played through the vanilla campaign. We only had one negative experience playing through P2 of Caudecus Manor and two people just didn’t listen at the bomb the gate phase, they didn’t talk, then they just left. But then we got two new people in and it was great.
+---
+totally agree on this one :D
+---
+You're the one I've seen complaining about this the most.
+---
+welcome to the reddit page. you get used to this shit
+---
+Been keyfarming for years and never knew this, just rushed along the left side. Thanks!
+---
+I intend to pair it with Bolt and Incinerator. The whole fire and lightning look, which goes well with the power weaver rotation.
+---
+Can't you get banned for that?
+---
+this item only works when this festival is active though, so you might only find it useful for 2-3 weeks each year.
+---
+It's obvious that the item (among many others) was created with the main pourpouse of having people fill their shared slot inventory and tempt them to purchase more :D
+---
+All elite specs weapons are used somewhere. Reaper, scourge, Tempest, Weaver, Chrono, Mirage, SB, druid, Daredevil, deadeye, berserker, renegade, FB have meta builds that use their weapon in PvE. Scrapper, Holo, Spellbreaker use their weapons in PvP to some degree. Least used is herald shield (idk if it is used in healer?), And maybe Holo sword.
+---
+I'm starting to suspect that the brigading that has become the norm on every gaming related subreddit is less actual players complaining and more rival companies attempting to sabotage each other through fan forums. Wouldn't be a first for reddit.
+---
+Nice. My incinerator is getting rusty ever since scourge came out and I swapped to torch.
+---
+[Battle On The Breachmaker](https://www.youtube.com/watch?v=nl_rsTre628) remains my favorite masterpiece from one of the best LS moments: Even despite the giant hologram burning a hole through my retinas so deep it still hasn't healed.
+---
+I was just about to post this. It's an amazing piece!
+---
+FOR THOSE WHO KEEP ASKING,   
+---
+I am currently playingon EU: Gandara   
+---
+Zove.4539
+---
+For some reason, on my laptop, I had to use a VPN for part of the download. No matter what i tried before that, the download would eventually slow to 0b/s 
+---
+Turning on a VPN seemed to work around what ever the issue was. Weird that my desktop had no problems either... Only the laptop.
+---
+if anything it's illogical to believe that anet are not lying this time.
+---
+I love [Asura Environment](https://youtu.be/Zm1HRk4jTS4).
+---
+Taimi’s game and Scar are the best songs from Guid Wars!
+---
+The comment you linked isn't wrong though. Lots of love, a toxic raider.
+---
+Did you ever so subtly insult Halloween?
+---
+If he found dungeon elitist then fractals would blow his mind
+---
+Glint's Legacy on par with the golden city for me
+---
+Source on the 2019 comment? I hadn't heard of this. Last I heard was eculation from a german magazine that Ep 1 would drop in November in the gap between Halloween and Wintersday.
+---
+Sabetha’s battle music is s close second for me
+---
+[Don't make me laugh](https://www.youtube.com/watch?v=gnn4gVO5f14)
+---
+Are you referring to Tarir's main theme or the Tarir defense theme?
+---
+There is always outrage no matter what, people love a conspiracy.
+---
+Your history shows you're not a very logical person; so, I can see why you'd think this.
+---
+[WHO DARES DEFY MY ETERNAL WILL?](https://www.youtube.com/watch?v=418_HKUuzz4)
+---
+I'm not going to ask how you know that the person had shared access to all the accounts, but would you please be willing to confirm that it is NOT related to a shared IP? I travel for work and often log on to the game at hotels where any number of other people log on with the same IP, and I am paranoid that someday I am going to get banned for sharing a log in IP with someone who decides to use hacks.
+---
+The number of salty replies to this post and the number of people looking to attack the person instead of their argument is, like this meme, a perfect representation of what so much of this sub has sadly become.
+---
+I'm going to go with someone was banned then started spreading FUD because it's almost always the case.
+---
+so mirage
+---
+I’ll always love Xera’s theme and how well the music matches the timing of the fight
+---
+[BLOG] [The Guild Wars 2 Team posted on October 22, 2019](https://www.guildwars2.com/en/news/burn-up-the-night-with-the-mad-king-mounts-pack/):
+---
+ 
+---
+&gt;    
+---
+&gt;### Mad King Mounts Pack
+---
+&gt;[[https://d3b4yo2b5lbfy.cloudfront.net/wp-content/uploads/2019/10/75138t_MadKingRaptor.png](https://d3b4yo2b5lbfy.cloudfront.net/wp-content/uploads/2019/10/75138t_MadKingRaptor.png)](https://d3b4yo2b5lbfy.cloudfront.net/wp-content/uploads/2019/10/df4b2MTX_MadKingRaptor.png)
+---
+&gt;[[https://d3b4yo2b5lbfy.cloudfront.net/wp-content/uploads/2019/10/e6435t_MadKingGriffon.png](https://d3b4yo2b5lbfy.cloudfront.net/wp-content/uploads/2019/10/e6435t_MadKingGriffon.png)](https://d3b4yo2b5lbfy.cloudfront.net/wp-content/uploads/2019/10/d0e82MTX_MadKingGriffon.png)
+---
+&gt;[[https://d3b4yo2b5lbfy.cloudfront.net/wp-content/uploads/2019/10/23b3et_MadKingJackal.png](https://d3b4yo2b5lbfy.cloudfront.net/wp-content/uploads/2019/10/23b3et_MadKingJackal.png)](https://d3b4yo2b5lbfy.cloudfront.net/wp-content/uploads/2019/10/93f05MTX_MadKingJackal.png)
+---
+&gt;Before you set out to trick-or-treat, dress your loyal friends up for the season! This pack of five skins includes a creepy costume for your raptor, springer, skimmer, jackal, and griffon.
+---
+&gt;### What’s in Stock
+---
+&gt;[[https://d3b4yo2b5lbfy.cloudfront.net/wp-content/uploads/2018/12/37d96MTX_HauntedArmorOutfit-590x332.png](https://d3b4yo2b5lbfy.cloudfront.net/wp-content/uploads/2018/12/37d96MTX_HauntedArmorOutfit-590x332.png)](https://d3b4yo2b5lbfy.cloudfront.net/wp-content/uploads/2018/12/37d96MTX_HauntedArmorOutfit.png)
+---
+&gt;**Returning Today**
+---
+&gt;* Haunted Armor Outfit
+---
+&gt;* Halloween Appearance Package
+---
+&gt;* Hovering Mad Mirror—30% Off
+---
+&gt;* Haunted Gramophone—30% Off
+---
+&gt;**Returning This Week**
+---
+&gt;* Wings of Love Backpack Glider Combo
+---
+&gt;* Winged Headpiece
+---
+&gt;* 
+---
+&gt;### Available Now in the Gem Store!
+---
+&gt;Log into *Guild Wars 2* and press 'O' to access the Black Lion Trading Company for these great offers and more!
+---
+^(Beep boop bleep. I'm a bot. Message me or /u/Xyooz if you have any questions, suggestions or concerns.) [^Source ^Code](https://gitlab.com/networkjanitor/docker-polarbytebot-gw2-submission-transcriber)
+---
+So you choose to use waypoints but blame Anet for it. You're special.
+---
+I mean sure, but at the same time there are a lot of people just looking for peace of mind that a build template is not a bannable offense yet. Or want to know if it will be in the upcoming future.
+---
+[BLOG] [The Guild Wars 2 Team posted on October 22, 2019](https://www.guildwars2.com/en/news/pvp-league-season-19-begins-october-29/):
+---
+&gt;    [[https://d3b4yo2b5lbfy.cloudfront.net/wp-content/uploads/2015/09/d45b26c66404-PvP-1920x1080-590x331.jpg](https://d3b4yo2b5lbfy.cloudfront.net/wp-content/uploads/2015/09/d45b26c66404-PvP-1920x1080-590x331.jpg)](https://d3b4yo2b5lbfy.cloudfront.net/wp-content/uploads/2015/09/d45b26c66404-PvP-1920x1080.jpg)
+---
+&gt;The weather may be getting frosty, but the battlefield is heating up! PvP League Season 19 begins October 29 and will end on December 23.
+---
+I played most of my games back in 2013, and took many breaks between then and now without playing pvp. I have no idea what seasons are.  I really thought people played pvp all the time regardingless of timezone and seasons.
+---
+Here's her setup for you and others interested!
+---
+I use a Mesmer/Chronomancer, as it's a class that can use Staff and Pistol, and the light armour is really good. So my setup is Staff and Scepter/Pistol. 
+---
+Weapons:
+---
+Plasma Staff
+---
+Plasma Scepter
+---
+Ultra Shiny Pistol
+---
+Armour (Light):
+---
+Head - Luminous Light Crown
+---
+Shoulders - Warbeast Mantle (no show)
+---
+Chest - Warbeast Vestments
+---
+Gloves - Warbeast Gloves
+---
+Pants - Mist Shard Breeches
+---
+Boots - Illustrious Footwear
+---
+Dyes: 
+---
+Eternal Ice (will replace with Permafrost when I get it)
+---
+Shadow Abyss
+---
+Sulfur
+---
+Pumpkin
+---
+Poor beetle and skyscale
+---
+I'm just going to tell you I have to regularly play against a Ranger hacker in sPvP that literally FLY and teleport all over the map. The guy doesn't hide himself at all, naming his pet about the fact he's a hacker.
+---
+Been going on for 2 weeks, everyone see the guy, nothing is being done.
+---
+10/10!!!
+---
+Show me a competitive game that banned premades of every size from ranked and was better off for it.
+---
+Yea all those lw3/4 trailers that showed what the new legendary would be, or the new mastery would be, or the new mount....those didn't show anything
+---
+I am not sure after the nerfs a long while back. I haven't run Lake Doric with any consistency in a couple of years now. I would think it averages out to be about the same. More would do it if it was higher, and less would run it if it was lower. However, I do think that Lake Doric is a great way to target farm leather. Though with the introduction of Volatile Magic crates  that's less a thing since you can target almost anything with those.
+---
+Mad King says "threaten"
+---
+I am queueing in NA.  Is "shadow ban" a known thing?
+---
+[Clearly the superior edit](https://www.youtube.com/watch?v=ZGLyIHrQbeQ)
+---
+This subreddit literally steers away a lot of newcomers who simply try to enjoy the game.
+---
+First of all, I was not blaming Anet. I was simply stating my personal opinion that the implementation of hundreds of waypoints around the map would harm the sense of exploration and immersion from my experience. If that is not okay to say then the player base of gw2 is in huge trouble. 
+---
+Secondly, I love gw2 and I’ve played hardcore/casual on and off for 4 years, and there is absolutely no intention for me to blame Anet of anything. 
+---
+Thirdly, please clarify what did you mean by ‘you are special’.
+---
+Definitely the [Mouth of Mordremoth](https://open.spotify.com/track/3Wou4OwIhBHpDLEvRcN71X?si=MqT6FVLJSlCXSGh24H4uSw), it's just that badass
+---
+Thanks a bunch. Hope you get permafrost soon!
+---
+You mean 2 weeks to farm all the gold to buy a load more. Right? 😂
+---
+&gt; Even the cheater, as they receive a valuable lesson.
+---
+Press X to doubt.
+---
+Nope. Just guessing possibilities.
+---
+Since when do comments get as many likes as actual posts? Unless you're EA and collecting dislikes that is.
+---
+Also, people are obviously (rightfully) upset by the whole template thing, anything that enforces the idea of this being a bad move is gonna get upvoted regardless.
+---
+It's also possible by just... not accepting the XP reward for the first instance. You get the boost to level 2 in a popup once you get moved to the main map.
+---
+They do, but they play in unranked outside of seasons as there will be less people playing ranked due to those that only play ranked for season progression and placement not playing. This decreases the number of players for ranked substantially and can make matchmaking within your rating range far harder.
+---
+If you want to play at odd times, unranked is the far better option normally.
+---
+That outfit looks better than the entirety of medium armor skins.
+---
+Time for someone to make a meta post, using the posts in this post and also posting about this post.
+---
+just no-season doesnt suffice? :D
+---
+Don't just blindly believe everything ArenaNet says. This whole thing is a very convenient "coincidence" for them that they could easily dodge by telling half the truth, and still technically not have lied about it.
+---
+Omg, Dolphin mounts
+---
+Missed opportunity to have a roller beetle that's just a giant pumpkin.
+---
+Because one is a picture that you can look at, read, and upvote in 5 seconds, whereas the other requires you to spend exponentially more time actually reading through the Dev response and understanding what happened. 
+---
+Memes get more upvotes because more people interact with them, in turn because they're content that's fast and easy to consume.
+---
+Do I have to remind people that there was a very strongly upvoted post by someone feeling bad for Anet bc they keep doing these “little mistakes” like monetizing and limiting build templates “on accident”. Must be the same clumsiness that makes EA keep accidentally exploiting people. 
+---
+This subreddit has no subtlety either way, just people with strong emotions regarding the game, positive or negative, constantly yelling at each other without self reflection.
+---
+This is the kind of posts I browse this sub for, to be honest. In any other game, I'd assume this is an intentional shitpost... It's just "too" perfect of a meme.
+---
+Ranger in WvW? Check
+---
+Camping next to their own structures? Check
+---
+Using not a single dodge or cooldown to avoid dying or running into the portal? Check
+---
+Have a video showing what skills damage you? Check
+---
+Don't watch the video at all, blame condi damage and cheats? Check
+---
+Contemplate if they could do anything to prevent dying, like reading what their skills do or keybinding the dodge button? That would be elitist, prick.
+---
+You're always out of ideas if you never had any to begin with \*taps forehead\*
+---
+Did they confirm that build templates are coming on november 12th?
+---
+No roller beetle and skyscale? :(
+---
+I wish they took a look at WvW someday...
+---
+and for some people the takeaway from all of this is just that outrage is the best way to get a response from Anet on anything
+---
+Not going to touch on the rest of your post. But the edited points.
+---
+https://wiki.guildwars2.com/wiki/Signet_of_Stone
+---
+“You and your pet are still susceptible to conditions and control effects.”
+---
+Signet is stone wouldn’t have helped much against the condi. 
+---
+https://wiki.guildwars2.com/wiki/%22Sic_%27Em!%22
+---
+“Cannot be used without a valid targeted enemy.”
+---
+Your other points are valid but at least know what you are talking about if you are going to give them suggestions.
+---
+They had a chance to fix it all with HoT and then they still made 4 iterations of a leaderboard designed to be grindable and hide true rank / skill. 
+---
+In fact, in season 2 and season 3 MMR and rank were so de-coupled intentionally tanking your hidden MMR was beneficial for climbing. Needless to say that's never going to work. 
+---
+Took them years only to come up with the "hey lets make a leaderboard based off these hidden MMR numbers we've been using for matchmaking the last 3-4 years". 
+---
+Then after that season ended - we get a long period of off-season with no meaningful PvP (except player initiatives). Next season that starts doesn't come with meaningful balance changes either. "Hey PvPers, wanna grind another PvP season that's the same as last one, after we forced you to play other games for the last month?" 
+---
+I assume anet's PvP decisions are made by someone who played MMORPGs on PvP / PK servers yet hated fighting other players with a passion.
+---
+prob released when new ep hits in gemstore, as ap reward, or vendor with whatever new currency. Hopefully.
+---
+The community is better than most MMOs, I'm sorry you had bad experiences with the dungeons. Bed thing to do is find a nice and friendly guild to join, and make friends. The game will get ten times better for you. If you want a friend in game and you are on NA servers, I can send you a friend invite.
+---
+Oh thanks so much man! I wasn't sure if we can dye the flames. That is amazing!
+---
+You can use winauth on your computer too...
+---
+I feel sorry for NCSoft for accidentally laying off 141 people at ArenaNet. Must be really tough. Poor NCSoft.
+---
+What's your relevance to "top tier" PvP? Do you play there? Have you ever? 
+---
+Because you like to make suggestions but you usually have no idea what you're talking about.
+---
+Really wish they'd update old packs and any future ones to include ALL mounts available.
+---
+Thank god. I did not want to quit this game lol
+---
+are you really surprised a reddit-tier meme did well on reddit?
+---
+John Oliver:"...cool."
+---
+Yelling at a particular side of the world never felt so epic.
+---
+Moral of the story; people lie on the internet.
+---
+Why the downvotes? Because you represent the worst kind of GW2 players: the toxic casuals. 
+---
+Your kind are clearly clueless, arrogant, selfish, and feel extremely entitled. You think the entire game cater to your personal needs and everyone should be there to serve and guide you for free. If they refuse to do so, you will come yapping on reddit and accuse the community of being "toxic" and "elitist".
+---
+You keep crashing into experienced speed-run groups that only intended to get their things done efficiently. Instead of leaving and making your own "First Time Dungeon Run" LFG like a decent human being, you demand them to change their play style to suit your needs. You have absolutely no respect to other people's time or choices because you think your play style is the only "fun" and "interactive" way.
+---
+Don't be ridiculous.
+---
+The fact that you care so much about some arbitrary internet points further demonstrates how pathetic you are.
+---
+Oh hey, this one's mine! Thank you for sharing it!!
+---
+Fuck you idiot. You dont know me and you are really clueless. Go back to school kiddo
+---
+Nono, they want to make things fair and duo's are the issue!!!
+---
+Not years of neglect, monkey levels of balancing, constant harassment towards PvP modes by the "friendliest community", etc. 
+---
+In all fairness - duo's are an issue and do decrease the competitiveness in a vacuum. It's just that removing them won't solve the issue, it'll only make the amount of capable players decline even more and thus harm integrity more.
+---
+Notice how many of the people that advocate for this stuff were never actually rated highly enough to notice the differences. GW2 - where everyone has their right to have their opinion validated no matter how uninformed.
+---
+That's the unfortunate place where most devs, not just ANet, fail. They have to acknowledge player tendencies and work with those rather than just assuming ideal conditions.
+---
+A simple prompt, button, tutorial or whatever else could fix that for everyone, but that'd require acknowledging that parts of your community are dicks.
+---
+meh........
+---
+I can't do this jp for the life of me.
+---
+:(
+---
+With green leafy vines as the beetles arms (...what's the term?)
+---
+Teeny tiny little shoutout to a personal favourite [Auric Wilds](https://www.youtube.com/watch?v=x41Pes8Z2so)
+---
+Parsec can do that
+---
+Dont got a link rn, but if you want, just message me on discord. Martie#6699, and I can send images. Alternatively do a bit if search on Shamans gallery
+---
+On the bright side it is good that our community can come together to support those members who they *perceived* to be treated unfairly. Where would we be if we could not protest unfair acts?
+---
+Except the reason there's no signs like those in Vegas is because 20% edge is a fantasy number lmao.
+---
+Funko-pops devoured all the marketing budget for current century.
+---
+Many players here are "jaded" veterans so there tends to be a lot of negativity. As always, people tend to focus on what isn't there, rather than what is there. It's true gw2 has less content relative to other big mmos like wow or ff14, but what it does have is very good.
+---
+&gt;Cyborg
+---
+If they tell me! I am Nyooom, but yes.
+---
+However I am ADD like mostly erribodi
+---
+Memes in general will always have more upvotes than in depth posts on similar subjects just based on mathematics. It takes less time to consume the media of a meme compared to reading something more detailed, which means more people will have time to upvote it before moving on to something else.
+---
+I like Mad realm pack more tbh. Those sound effects are just too good!
+---
+[I stole my ranger's look](https://imgur.com/a/GIvMGED) from gw2style after spending an hour on the wardrobe looking for a good combination.
+---
+Welcome back agent, it has been a while! Did you remember to bring the apple cider?
+---
+Due to our new rules the questions must be left in the [&gt;weekly QA post&lt;](https://www.reddit.com/r/Guildwars2/search?q=title%3Aquestions+thread+author%3AAutoModerator+subreddit%3Aguildwars2&amp;include_over_18=on&amp;sort=new&amp;t=week). If you think your thread should be allowed to stay or if this was a mistake do report this comment or send a modmail and Pact commander will come take a look.
+---
+Makes sense that they put about as much effort into the trailer as they did into the templates themselves.
+---
+"Explore thousands of possible combinations!" 
+---
+:V alright
+---
+And yet if Anet just properly communicated then this sub would be (as it has been I cannot the past) one of their most powerful marketing weapons.
+---
+They’re getting lazier and lazier. Reaching my limit on supporting them.
+---
+\&gt;Make some of the coolest looking skins in the game
+---
+\&gt;Add stupid looking pumpkin heads
+---
+I guess they just can't do Halloween skins without making them look silly. Same thing happened when they added those tiny little wings on last years skins.
+---
+&gt;"Explore thousands of possible combinations!"
+---
+L O L
+---
+Yeah on LAN... They're not going to magically make light go faster, you'll always experience significant delay.
+---
+Thanks for taking the screenshot. It's much appreciated. =)
+---
+In today's episode of Reddit Nitpicking GW2 to Death, we will whine about barely-noticable issues with a twitter teaser, wax hyperbolic on the state of the game, and parrot generic complaints that haven't been relevant in years.
+---
+Who would win? A post with two days worth of exposure, or a post one with less than a day's worth of exposure?
+---
+Nice, it look close to her.
+---
+Big if true.
+---
+No I am saying that posts that voice constructive criticism generally don't get traction. They aren't visible due to how people vote and how less people are informed or care about specifics of issues. Since these posts generally don't do well, writing these posts is also futile. 
+---
+I'm sure people legitimately disagree with me and that I post inflammatory stuff. The sub could downvote every inflammatory post I make and focus on nuanced debate and opinions - but they don't. The way I post on this sub has no influence on the lack of nuanced opinions, constructive arguments or debate on this sub.
+---
+Nah, I enjoy PvP but I am not good enough at it to merit the titles. I like actually earning the achievements!
+---
+I have, however, been in plenty of raid statics where people would suddenly switch accounts to do CMs on a friend's account or would boast of having bought PvP titles. The former is quite amusing when you see said friend in pugs using the CM title as KP and then being kicked after a few attempts where it is clear they don't know what they are doing.
+---
+I'm really not a fan of account sharing and it happens a hell of a lot in PvE, particularly raids.
+---
+Maybe his time is set to Tyrian time. Only valid excuse OP could make...
+---
+Wait what? Are you high on something? 
+---
+Dev, ANET employee, marketing employee, whatever the F you wanna call it. Someone WORKING there was paid for that shit lol
+---
+Fractals are raids are still in the works. There will be lot more open world and story content as we already learned, theres crazy amount of stuff to do in the "small" prologue. And theres new featured called Strike Missions being added. They are supposed to work as evolving stepping stone into raids, and they are the bosses from story with some new mechanics and dialogue n rewards. To put an example, they already released one with the prologue. It released very simple and easy. But with first episode coming next month, there will be new phase added to the battle, more achievments, and a challange mote to satisfy the hardcore players. Second episode Anet also confirmed to add a triple trouble like world boss to the first map, meaning it will require group coordination and be more challanging than usual world bosses.
+---
+Except no. You can blindly white knight anything that doesn't deserve it, it's not only a term for guys who stand up for girls.
+---
+Fanboism, white knight, whatever you like to call it. Unnecessary nitpicking is not what's going on here.
+---
+You say that but the one map they tried with deathmatch was a huge fiesta.
+---
+The issue is, the combat doesn't work when you don't have some kind of objective.
+---
+Think of WvW roaming. Why not just stealth-abuse and one shot cheese as say, a Deadeye without the worry of map mechanics or capping a point?
+---
+Conquest wasn't a mistake, but it being the ONLY mode they invested anything into was a mistake.
+---
+&gt; You can't post nuanced feedback because whiteknights will bury it. 
+---
+[That isn't true.](https://www.reddit.com/r/Guildwars2/comments/dd5m88/equipment_templates_offer_less_for_those_that/) There are constantly critical posts that get upvoted and discussed. Stop spinning a false narrative.
+---
+I agree. But redeemed once pointed out to me that high rank usually means being with a zerg so much they hardly know how to fight xd
+---
+Yea that is my point :/
+---
+It feels like it was made by some guy at home. And personally I can’t excuse such editing for a teaser/trailer. A post on the forum for an announcement would be better than this. It’s about the overall picture of what this effort reflects really.
+---
+What are the armors in the last screenshot?
+---
+Uhh, someone on their social media team maybe did. Gotta agree with them, it definitely feels like the community is actively seeking things to dig in on, this would be nothing if people weren't looking for further outrage.
+---
+How people can still defend them ? It's worst than amateurism at this point.
+---
+I just call them corporate bootlickers
+---
+You're either a "white knight/ANet fanboy" , or a "toxic whiner", there is no in-between in the community anymore. Any nuance or discussion of middle ground is out the window, and it's impossible to think something is bad or good without being labeled as one or the other.
+---
+Bye
+---
+&gt; Anyone here is more of a nolifer than the majority who play the games
+---
+Hmm, not so sure about that
+---
+&gt;218,815 Happily theory crafting
+---
+Good case for introducing more pvp bots.
+---
+Because apparently I’m nitpicking and it’s just a Twitter teaser - or a last second video edit release or something.
+---
+What discussion of middle ground? Please show me a middle ground in this. The trailer is lazy, that's the discussion. Build templates have been handled so poorly that it's outrageous. 
+---
+It wasn't a reply to someone giving a good thought of middle ground, it was someone saying that complaining about how amateur this trailer looks, along with the context of everything else to do with build templates, is "nitpicking".
+---
+Any source thats not Twitter? I don't have an account and i can't see it :/
+---
+(one guy in the back) *Woo!*
+---
+Or they outsourced it
+---
+do you ever read comments?
+---
+People are both downvoting your comments (ie like calling players who still play "monkeys"), and also participating in nuanced debates. The nuanced debates just don't involve you because you're too busy posting inflammatory shit, which is why you believe that it doesn't happen or that people are being censored for voicing criticism.
+---
+Guess they're talking about it being a bit offcentered. Just let it go, ''Anet marketing bad'' will prevail whatever they do
+---
+What do you mean? He's the leader of the pact now; we saw him in Ep 6. And as a character, he (or at least his main arc) has been done for ages now. He made peace with his decision back when Destiny's Edge disbanded, his friendship with his old guild (and moreso Rytlock) got reignited and he took stewardship of one of the most powerful military forces in the world. There's not a lot more story to tell about the guy.
+---
+Find out in a day - or extrapolate. I am pretty certain you can place a *very* safe bet on the outcome at this stage. And that safe bet isn't going to be the dev post.
+---
+Then F
+---
+Oh I do, it's a very fantastic piece of software.
+---
+There is no mana or any other comparable system. If your attack does not land you activate it again after it is of recast. You missed the damage, but that's it. The amount of players interrupting your key skills is very low - even in P2-P3. Maybe a heal gets interrupted or so, but that's usually it. 
+---
+There are few skills which are having a strong impact. As example is in other games blind often permanent. Apply it on a warrior without condition remove and he won't hit anything for 20 seconds. Such strong effects don't really exist in GW2. GW2s attacks are mostly (some exceptions as moa exist) "pressure damage". You avoid some, you get hit by some - in the end it usually doesn't matter too much which attacks have hit. There are differences, but they are relativly small. There is no 30 second stun or so.
+---
+On top of that is GW2s combat fast. In a 4vs4 combat you can't really keep track of every single players animations. -&gt;clusterfuck.
+---
+I main ranger and I hate how this is true. Gives us a bad look
+---
+I recognize sunspear gloves, the new shoulders from strike mission and order of whispers headpiece.
+---
+What about purging 1/3 of the staff?
+---
+I think there was a major rewrite of the end of season 4 at some point.
+---
+In one of the interviews they gave after All or Nothing came out, they said that they originally intended for both Aurene and Caithe to die at the end, but left Caithe alive since they felt it would draw attention from Aurene's death.
+---
+If the story had played out that way, there would've likely been a lot more dialogue from Logan and Rytlock.
+---
+But because it was originally written that way with the Icebrood Saga in flight, I'm guessing we probably won't see much of Caithe in the future either.
+---
+I literally have no idea what point you’re trying to make lol
+---
+First he was blighted in the pod and slowly recovered, then they put him in charge of the Pact. We still see him occasionally in that role, but he's not running around being a loose cannon like us anymore.
+---
+I thought we decided as a subreddit 1-2 years ago that this moron wasn't worth paying attention to. Seems a lot changed while I was away.
+---
+He isn't getting paid for making the comment, unlike whoever made this video.
+---
+I really liked the HoT there from character select. I wish/hope they'll give us new character select music with the first official Icebrood Saga episode.
+---
+&gt; Do I have to remind people that there was a very strongly upvoted post by someone feeling bad for Anet bc they keep doing these “little mistakes” like monetizing and limiting build templates “on accident”.
+---
+What. Excuse me. That's a thing that happened?
+---
+Holy shit.
+---
+[probably like this](https://wiki.guildwars2.com/wiki/Customized_soundtrack)
+---
+I think the diff between your point and mine is that I’m hoping there is a good reason for the delta in polish of this trailer vs their past work.
+---
+This one isn’t shitty by any means, it is only lacking from what I’ve come to expect.  They (as far as I can remember, so maybe not far at all) have been good in the past with keeping camera movement smooth.
+---
+Well a good number of people drop back into game at festivals.  Next year bloody prince themed pack?
+---
+Hm, art of a scantily clad human female necro with Eternity salaciously nomming on my product would do way more to promote the product than any serious thread ~~or marketing gimmick ANet could do~~.
+---
+Move your character into some light source. It's night.
+---
+Oh my god this video is so poorly put together and is cringeworthy. 
+---
+&gt;Explore thousands of possible combinations!
+---
+Except don't because you get 2 for free and can buy only 4 more OMEGALUL
+---
+Or a core pack and a expanded pack for a little extra
+---
+It'd be nice to have a dragonbash themed mount pack, or a lunar new year one, or a bazaar of the four winds one.
+---
+next year
+---
+might be your graphics settings
+---
+don’t have the outfit personally but since it’s the ghostly effect I can imagine it only working properly on higher settings
+---
+(purpose)
+---
+It's literally just a wingless griffon.
+---
+Cool stuff!
+---
+I've been planning many different build combinations already, this build template update opens so many possibilities. Not sure if I can handle the excitement anymore. Only one week to go. Can't wait!
+---
+Of all the mistakes in gw2, this video is certainly the least important. I swear I'd rather have high quality textures on Lord Farens pants than a high quality video about build templates in Twitter.
+---
+Yeah, it looks amazing. I'd probably have bought the pack if they did that.
+---
+You can easily skip through the asura story this way also. The norn and sylvari both have a timed thing that blocks you (gate or bridge, respectively). I forget about how the charr one goes bc it feels longer and I quit trying to do it
+---
+.      downvote this comment, if you arent able to read it
+---
+It's a problem hard to solve without chaging core mechanics rather than just skills and traits.    
+---
+The more spamminess you remove, like giving short 1/4 activation times and aftercasts to skills with none so they can't be stacked as much, competitive modes become less hostile to new players, but the combat will be less fluent and fun.    
+---
+Regardless of player skill, spammy builds are generally much more fun for those using them than for those facing them.  
+---
+Even if a player with a spammy build isn't skilled and loses anyways, it's still not that fun to fight against, but if they stack with other spammy stuff, they can be troublesome even in the hands of less skilled players. Yeah, you can basically wait them out make them waste their skills and hit them before they can run away to reset, but waiting is not fun.   
+---
+Ideally, we'd have fluent combat that allows spamminess, but spamminess would be less successful when stacked too much.  
+---
+Because of GW2's action-oriented combat, solutions that would work in more passive games like those in which you can't move and attack at the same time would not work as well.   
+---
+So where should we looking for inspiration?  
+---
+I'd say it's better to look at action-oriented games, rather than other mmorpgs that have fundamentally different combat styles.   
+---
+If you stop to think about it, the solutions are hiding in games like FPS shooters with skills (like bioshock rather than like counter strike) and fighting games.   
+---
+For the case of fast attacks in little time, the begining of the solution is in fighting games.  
+---
+2d fighting games of the golden age of arcade fighting games came up with two important mechanics: juggle uptime and damage proration.
+---
+Before someone came up with those measures, it was possible to figure out combos that would keep someone locked in the air and taking large chunks of damage. Very fun for the ones doing it, not fun at all for the ones facing it. 
+---
+Juggle uptime limits how long a character can be held in the air in a combo, and damage proration reduces the damage from successive hits in a combo. The more hits you do within a time frame, the less damage each hit does, but hard strong attacks are not affected.   
+---
+With those to mechanics combined, it's no longer easy or even possible to lock someone in a combo all the way from 100% to 0% HP from the start of the match, allowing the other player to compose themselves and attempt to retaliate, but you can still have very long and fun combos with flashy animations. Overall fights last more, giving more time to either side to make a mistake, which allows players to show their skill better. 
+---
+Something similar can be implemented into GW2's core mechanics, rather than constantly changing skills and traits, before doing any further changes, new core mechanics could be added to address such issues, and then continue balance from that.     
+---
+If done right, we could have a wider range of attack speeds in weapons, like warrior hammer or necromancer greatsword on the slower side getting increase damage but getting a tad slower, to contrast more to faster weapons like thief and ranger daggers.  Daggers would be more of an attrition weapon to keep pressure on enemies with constant attacks before finishing softened enemies with a stronger strike like a backstab or a Worldly Impact, while hammer and reaper greatsword would become a fearsome deterrent weapon you don't really want to approach head on because they hit like a truck even if they are slower.   
+---
+If you are familiar with guilty gear, it'd be like comparing Chipp Zanuff and Potemkin.    
+---
+And of course we'd also have an entire range of attack speeds inbetween.  The range would just widen.
+---
+I didn't join internet to talk about my life. I joined internet to play games and watch porn.
+---
+It has such an amazing art style. I think that's why I've come back to the game often even though I don't particularly enjoy the game.
+---
+Clean up your inventory.
+---
+I work 6 days a week, with 1 day off in the middle of the week. I play games when I'm not working. GW2 is installed but I haven't played it in like a month.
+---
+nothing wrong with posting from a public library.
+---
+also i don't really play the game very much and mostly work. my life aint perfect but i think its ok.
+---
+Eh, doing alright. I've been married for three years, no kids, but a stable job with an awesome boss. Medical issues suck. I'd like to go back to college at some point to finish my BA but I currently can't afford it. I play GW2 casually, more often when a new LW episode releases, but I play D&amp;D on wednesdays. My wife enjoys gaming with me so I probably have more gaming time than your average husband, but there's still the house to tend to. Need to finish filing and shredding.
+---
+In july we did a big 2,500 mile road trip which was a lot of fun.
+---
+Are you using d912pxy?
+---
+Yea and it reminds me of that guy who got banned but used the EU privacy law to expose Anet false banning of him.
+---
+"I can't believe they used a dead meme that last peaked in 2013. The team truly is out of touch with today's player base."
+---
+Especially since there’s people on here who hates the game, doesn’t play it, and is just here to tell people that the game they’re enjoying is shit. Why are those people even here.
+---
+You can really hear the Skyrim similarities in this track.
+---
+sure
+---
+but their low engagement on newsworthy discussions, such as all of the build template feedback, is also part of that. so when we see they don't engage with honest feedback or constructive criticism (no, I'm not saying all of it was constructive), yet they do pop up for controversies like using LFG to sell raids or offering some clarification on a recent banwave... They're just signaling that drama is the only thing they will respond to.
+---
+so those who seek attention know the way to find it
+---
+I bet they had a team making over 5 years worth of mounts and they just release them slowly over time.
+---
+I don't.
+---
+1:15 makes me NUT
+---
+Spanish guy, 29yo, living in Spain.  
+---
+I am addicted to this game. now it's "a bit" better, but 3-4 years ago I spent literally 15 months without leaving home. My routine was just wake up, play gw2, eat with family, play gw2, go to sleep. I was 26yo at that moment and I know it's a problem but I just don't have anything better in life to aim for. No job, no girlfriend, no friends, no dreams. I'm going to a shrinker at this moment but I have no motivation to live anymore (neither to die). All I really have is this game so I just play it and do random things (today I was just walking on queensdale) while I seek for a true connection with anyone, or the meaning of life.  
+---
+  
+---
+That's how embarrasing is my life. I guess I am indeed a nolifer.
+---
+What colors are you using?
+---
+That guy makes a post sucking up to anet every other week, like cmon how much do you get paid for this shit
+---
+I member when we had an active community full of constructive feedback
+---
+&gt;Anyone here is more of a nolifer than ...
+---
+Maybe I'm wrong, but I read it in the context of being more dedicated and invested in a game rather than being a literal loser in real life, i.e. "I am *no-lifing* this game when the new expansion drops."
+---
+Rumination refers to the tendency to repetitively think about the causes, situational factors, and consequences of one's negative emotional experience (Nolen-Hoeksema, 1991). 
+---
+:) I didn't come here for petty back and forths about the English language and you shouldn't either, because this happens. The mountains of links in the parent thread and subsequent comments replaying the past negative actions as evidence of personal wrong doing is ruminating. I know exactly what it means 'cause I was doing it.
+---
+Well if you need that stats that it has then keep it, if not store it until you need them or get rid of it.
+---
+I'm in mobile so pardon my short reply...
+---
+I appreciate your comment, and I get the frustration from the ongoing template debacle (full disclosure, it wont affect my playstyle much). I am in the camp that we cannot and should not
+---
+Regarding wanting a detailed why-you-got-banned report for banned users... anet has said in the past they will not provide details as to why people got banned because it gives hackers/cheaters feedback on what got them caught. It helps them reverse engineer the anticheat software anet uses to circumvent it.
+---
+If it was a simple message saying "you were banned for using malicious 3rd party software" it still would have left room for speculation as both arcDPS and cheating software fall under 3rd party stuff.
+---
+I get that you don't want to back down  on the templates issue, and I respect that. A different angle may be appropriate though. Most of the criticism I've read hasn't been very constructive.
+---
+Looks like he is living in the future
+---
+God forbid we hold them to decent gaming industry standards
+---
+That little Asura boy...I miss him so much. T\_T
+---
+Lol raids too
+---
+For two things:
+---
+* Make a meme about anything outraging and you'll get thousands of upvotes, no matter the sub.
+---
+* People don't like to accept when they're wrong. The people who upvoted the rage threads won't go and upvote something that will make them look wrong.
+---
+What's up with mobs often regenerating when I play around with Deadeye in open world? Isn't the point of the rifle to utilize that huge 1500 range?
+---
+It's incredibly annoying when a Veteran mob starts regenerating its health after closing on me from 1500 range + after I do a single back-step evade. It feels like I'm playing against the game too.
+---
+Edit. A moment ago I saw [this perfect spot for me to take out these grubs.](https://i.imgur.com/FJnY6ym.jpg) Feeling appreciative of DE kneel ability and range, I started taking shots at the Veteran grub. It started immediately regenerating, out-healing my shots. You can imagine how defeated I felt. Elite specialization advantage taken away, just like that. I love the theme of DE, but it just doesn't work in the open world when situations like these happen way too often.
+---
+i don't have much to say about the actual "quality" of the video because it's...whatever to me, really. it's a quickly put together teaser highlighting the functions of a new feature, i don't care if it's perfect. what i'm hung up on is "explore thousands of possible combinations", it's incredibly misleading. it comes across as desperate to me, but maybe i'm reading it in bad faith.
+---
+You don't need "secrets and details," they're hackers, they find those themselves. They'll figure out the pattern and then be able to know when a ban wave is coming and prepare for it. We don't want that.
+---
+Every game has hackers, but a lot of other games you can't even use map or trade chat because they're CONSTANTLY and I mean literally CONSTANTLY being spammed with gold seller shit. It's easy to forget how much better anet tends to be about this when you don't play pretty much any other mmo, especially ftp ones.
+---
+I've had bots whisper me in the past, and I've seen obvious botting behavior, but I haven't had a single gold seller whisper in several months now. Wanna know why this happens? Because of BAN WAVES!
+---
+And you know, it's really weird you seem to know so much about hacking and hackers despite you earlier saying, "My entire guild is comprised of disabled 40 to 60+ year olds who barely know what the internet is."
+---
+Good bait.
+---
+I also, personally, love the soundtrack that plays on the last step from Hearth of Thorns instance, when you are figthing Mordreth.
+---
+[https://www.youtube.com/watch?v=JEggQjJPAAk](https://www.youtube.com/watch?v=JEggQjJPAAk)
+---
+I just went to dig a comment I have left in youtube, years and years ago, about this one soundtrack:
+---
+&gt;  
+---
+&gt;" I've missed you, Tybalt. Grab an apple and let's finish this!" Loved that line when I was doing this fight with my sylvari. 
+---
+Honestly, I still get chicken skin when I am listening to this, especially if I close my eyes and listen from the 1:40 mark...
+---
+Just remember that whoever wrote that was doing what he was complaining about.
+---
+Probably a mini. New ogre model maybe?
+---
+Some frosty themed ogre models.
+---
+A lot of classes gain crit from their builds/traits, with food and full zerk gear I think a lot of classes can cap crit with a couple assassin pieces. If you let us know what class/spec you are trying to run we could help more
+---
+Oraoraoraoraora...
+---
+He's the Marshal of the Pact, and it's a desk job now, because the last Marshal got himself killed by going to the frontlines.
+---
+In group content, you might have Warrior Banner buff to Precision and the Ranger Buff.
+---
+Otherwise be sure to always take into consideration traits that increase crits chance under certain condition (those arent added in the hero panel) and you could have food that increase your Crits chance too.
+---
+Charr triumphant is still better though.
+---
+Wow, I didn't know this. How do you do that?
+---
+oh i didnt realize it was worth so much, now i want it even more, lol
+---
+oha, thanks for the info. gonna be opening them in any case then, makes sense. awesome heh
+---
+Dungeons and Dragons.
+---
+You can preview the royal flame coffer and look through the skins and check them out. It wouldn't consume it till you click accept. So try to preview them before selling
+---
+* Traits (lots of classes get a ton of crit chance from these. 10% are common, but some have 20% or 50% increased crit chance subject to conditions, this is huge for guardian and reaper)
+---
+* Food (+100 precision = \~5% crit chance)
+---
+* Sigils (+7% crit chance for Accuracy, or \~12.5% for max Perception stacks)
+---
+* Runes (more +precision, like Eagle)
+---
+* Skills (certain classes have signets that boost precision, like warrior)
+---
+* Group buffs, if relevant (Spotter + warrior banners most importantly)
+---
+&gt; Memes get more upvotes because more people interact with them, in turn because they're content that's fast and easy to consume.
+---
+so fast and easy to consume content on reddit is cool with us but fast and easy to consume content in game is not.
+---
+And while we bemoan not enough community interaction from Anet, we dont really care, once they do.
+---
+It makes all sense now and we can all go back complaining about some writing on a twitter video that is off center.
+---
+Screencaps and/or videos would certainly help to report him
+---
+Very casual player here: I remember being able to sell Tot bags to the trading post.  
+---
+But this year I just don't seem to be able to despite my buddy saying he got the option.  
+---
+Additionally the "store all materials"-button seems to be broken too.
+---
+Do you have them in an "Invisible Bag"?  
+---
+Also, are you trying to sell regular Trick-or-Treat Bags or Personalised Trick-or-Treat bags?  
+---
+&amp;nbsp;  
+---
+Either case could prevent you from selling / depositing.
+---
+mh, im only lvl 18 rn so i wont open it until i can actually use it anyway, in case i change my mind when it comes to which weapon i d pick or sell it alltogether. appreciate the hint
+---
+i assume the bags dont expire and could be sold half a year later as well for example?
+---
+It's just a video of a thief walking around swapping equipment sets and builds, showcased by their transmog and weapons changing, with a little bit of text briefly explaining build templates are coming at the end of the month. Nothing spectacular, but apparently it's triggering the angry mob because some text was off center or something.
+---
+Never^^
+---
+I find it more disturbing that instead of actaully focus on what just happen and how rekt all of you guys who are on the baby rage train and maybe put an afterthought in how you deal with it you try to bring up a new subject... no wait a old subject hoping to brining some life in to that... *facepalm*
+---
+You can combine different pieces of gear with different configurations of traits in thousands of combinations. That’s all that means.
+---
+condi renegade with leech torment runes
+---
+Yo where is the Vampire Bat Skyscale skin?
+---
+WP is incorrect to state that you should maximise crit chance in open world. On some classes that is true, on others it isn't.
+---
+It was made for clicking stacks of items before "Consume all" was an option. Don't really see the point in changing it
+---
+While I agree that GW2 is more comparable to FPS: problem of too many too meaningless skills stays. Same as clusterfuck: https://i.imgur.com/0RqzjG2.png
+---
+Too much visual noise, especially in teamfights. In a 1vs1 GW2 combat works much better, but in teamfights it's out of control.
+---
+A possible fix: reduce the amount of "spamm" attacks and instead add more hard hitting attacks with long cooldowns. Same for effects. No might every 2 seconds on hit anymore, instead a large amount of might for using skills. Same for boon remove on autoattack: instead a strong boon remove on skill. A player puts lots of might on him? Better remove it! You fail? You die.
+---
+But this would require a complete rebalancing and especially would Anet have to cut all those passive traits and "on hit" effects. This is not gonna happen.
+---
+Idk if this was sarcasm or not, but I'm old so just in case, I meant everything I said. I honestly don't have the reflexes anymore.
+---
+I recently installed GW2, after having it in my humble bundle library for almost 2 years, I'm hooked, which edition should I buy? 🤔
+---
+I'd bet mad cash that they already made these around PoF release and have just sat on it for that long. So they didn't think to make the other mounts.
+---
+I really like the new vibe of Icebrood Saga, especially themes like Let's Go Get Ourselves a Dragon or The Construct.
+---
+The constant clanging of metal just makes it so Charr and the rumbling bass just showcases ominous nature of the Far Shiverpeaks
+---
+As long as you're not doing anything malicious then AHK is fine (Still UAOR)  
+---
+It's when you start to add keypresses to a Macro that it becomes an issue
+---
+Except I could already do that without build templates? Advertising this as a feature of build templates is just factually incorrect, embarrassingly so.
+---
+Buy Path of Fire, standart edition, comes with Heart of Thorns for free, you can get em cheaply for 20€ on DLGamer (approved retailer). For full content you then also have to buy lws2,3,4, which together cost around 30€, but you can skip 2 and simply watch story recap online.
+---
+Selling them after 6 months is generally the ideal time, if you want to get the most gold out of it.
+---
+Prices start to slowly go back down after the 6 month mark, since the next Halloween event is coming up and people can just wait to get their own coffer then.
+---
+To be fair there was also the megathread where the original post was made.
+---
+So because you could already explore thousands of combination advertising that you can explore thousands of combinations incorrect, gotcha. Good chat. Like I said its standard hype BS, its a stretching of the truth. We dont have to like it but its a farcry from embarrassingly incorrect.
+---
+Skyscale would be really easy, too.
+---
+Just make it a [Bone Dragon](https://wiki.guildwars.com/wiki/Bone_Dragon) from GW1.
+---
+not really
+---
+I started to watch this series also and changed equipment/weapons based on his recommendations. This made a huge difference and I am now sitting around 65% as well.
+---
+Dying for episodes in this series on Necro/Scourge and Ranger/Soulbeast but sadly it seems to be in a bit of a hiatus. I think having his recommendations on traits etc will make another huge difference. I have an old mesmer character which I really don't play any more, but watched his vid on traits and understand so much more now with such a clear explanation.
+---
+I really hope he plans to continue/expand the series to take in those classes which I like best.
+---
+Okay 
+---
+Builds:
+---
+Discritize.com for Fractal builds
+---
+Snowcrows.com for raid build
+---
+Metabattle for open world
+---
+Gods of PvP for PvP builds
+---
+Addons:
+---
+ArcDPS - DPS meter
+---
+Gw2Taco for overlay 
+---
+ account  info websites:
+---
+Gw2efficiency.com
+---
+Tarir is great but nothing absolutely SLAPS like Mouth of Mordremoth
+---
+You're absolutely correct, but extrapolation (and direct comparison of these things) is ridiculous in the first place. We're comparing a meme (easy to consume, low-effort) to a serious post (requires effort, addresses something), with different timings (weekend versus weekday) and different goals (easy outrage versus informing). It's a stupid comparison to make in the first place, but of course it's an easy way to farm karma points in the same manner that the meme the poster is criticizing does.
+---
+HoT theme is one of my favorites. Remember always getting engaged in the log in screen going "bam bam bam bam bam bam bam bababaaaa bam..."
+---
+Maybe after years of watching bots in pvp and wvw , hackers and exploiters not getting ban, we hav some, trust issues? How about anet actually communicating with its player base regularly ? And lets not forget, insta fixes for tp issues while waiting weeks or months for ingame problems ? Im sorry but i hav no faith in anet as it is atm.
+---
+I'd probably avoid placements in the first week of the season. Rating's too volatile and it's pure chaos, wait till things settle down a bit.
+---
+&gt; Build and Equipment Tabs and Build Storage Spaces will be priced in the same range as bank and bag slot expansions.
+---
+So, ~600 gems for a build storage space and ~400 for build/equipment tabs?
+---
+thats a cool looking armor set, is it only acquirable doing event stuff?
+---
+I find it hard to get behind the idea that anet could have avoided all this by not allowing mods in the first place. I think games are better with mod than with out (yes I know you are using only a dps meter as a example). Anet could have avoided all the current upset around build templates if they had them in the game from day one. They didnt for w/e reasons anet couldnt develop build templates for the first 7years of the game. Mods and addons fill the gap for what game devs cant, wont or are unable to do.
+---
+As for your point about consent for combat data collection, I had not thought of that before. Its a interesting thing to bring up. Outside of baking a dps meter into the base game so players can actually opt out of it via a in game setting and have that communicated to other users meters, im not sure how you could go about it otherwise. Beyond that one problem I see with something like that happening is it just moves the goalposts. Lfg would very likely have "must allow dps meters or kick" or something added so you would likely be in the same spot you are in now where you dont want to do raids/fractals because to many players run dps meters.  It could be better, maybe anet will try something like that in the future.
+---
+&gt;The only choice I have is not joining a squad or party at all, which means I wont be able to play any of the content (raids/fractals mostly) where it is commonly used.
+---
+I think this is the only choice you have left yourself because you feel so strongly about having your combat data collected without your consent. You always have more than one choice, even if you dont like them.
+---
+[Theme of this post](https://www.youtube.com/watch?v=9Jz1TjCphXE)
+---
+Thx for the information we already had. ANET you crazy little muffin.
+---
+To each their own of course :) To me they just make them silly/goofy mounts instead of cool ones.
+---
+so nothing has changed, and pricing (particularly for build tabs and storage) is way overpriced for a glorified clipboard. *great.*
+---
+&gt;Frees up bag space
+---
+You mean the bag space we already purchased from the bl store for the purpose of storing our gear? Can't wait to buy storage space that I don't need so I can store multiple gear set-ups.
+---
+&gt;Build and Equipment Tabs and Build Storage Spaces will be priced in the same range as bank and bag slot expansions.
+---
+So the players that need build templates the most are going to get gouged if they want to regain just part of the usefulness of arc templates split across two UIs, awesome.
+---
+So they saw our criticism and changed absolutely nothing. It's just absurd that they expect the cost of bank/bag expansions to store fucking traits/skills and are going to sell us storage space again that we already bought from them. So greedy and is so disrespectful to all their veteran players that want to play a lot of builds.
+---
+I'm going to spend as few gems as possible on this bullshit, it's absolutely shameless.
+---
+Thanks, I got it all except for the feet armor, it's not showing in the Wardrobe if you don't have it unlocked.
+---
+[Alternative](https://www.youtube.com/watch?v=QNJL6nfu__Q&amp;feature=youtu.be&amp;t=52)
+---
+Waited 7 years for official build templates only to get overpriced, terribly designed build "slots". The complete lack of regard for their hardcore community who can potentially have more than a dozen (edit: or more than 6...) builds just for a single character is truly astonishing.
+---
+Displeased Drake: Banning players for using Arcdps
+---
+Pleased Drake: Banning players for accessing other peoples accounts and cheating in pvp
+---
+Hey, last two things here.  It looks like notes are delimited by commas and the Blish HUD musician module appears to expect them to be delimited with spaces (similar to the Music Box Notation above it).  The exports also appear to be missing the numerator for the meter (for example, the the export is showing 8 instead of 1/8).  After manually replacing the commas with spaces and adding "1/" to the meter, it plays without issue.  Otherwise it doesn't appear to be able to load them.
+---
+/u/TrueAndy, does that sound right?
+---
+thanks for collecting our feedback and do nothing with it.  
+---
+Thanks for triple monetization most requested QoL feature in a way and on the scale that will make it pointless as it will not let us use many builds at all or experiment with fun not optimal builds.
+---
+I bought my bags to store loot, not additional gear. Im happy with gear tabs coming soon.
+---
+&gt; So the players that need build templates the most are going to get gouged if they want to regain just part of the usefulness of arc templates, awesome.
+---
+They have to pay the same as everybody else. Its hardly Anets responsibility to ensure usefulness of 3rd party apps.
+---
+600 for equipment slots and 400 for the traits i'm guessing. Absolutely terrible lol. You better off buying character slots to get the 2/2 for free. They really didn't think this for a single minute other than MONEY MONEY MONEY
+---
+Maybe not "dozens" (though it is pretty convinient  to have encounter-specific templates, I'm going to say it as a person who went through the half of raid FC with night sigil on one of the character yesterday), but &gt;6 templates per character? Easily. I think only two of my characters have &lt;6 templates. Other seven? Well, they are fucked.
+---
+Yes. They literally changed nothing.
+---
+Why can't they just say how much they cost. What's the big bloody secret about that. Grrrrrr
+---
+Yeah, great fun to click around in the UI when its a solved problem already. :)
+---
+&gt; Some players aren't sure how it will impact their play styles or how they'll transition to the new system, including from third party programs they've been using.
+---
+That's a nice way of putting it. 
+---
+This 'clarification' just clarifies that 'Yes, we are going to release this heavily monetized system that will not cover most use cases without at least a single purchase'. 
+---
+***
+---
+Pretty much every single profession has at least 3 viable builds that any player that is more invested in the game/their profession will be forced to purchase a slot. For anyone that uses a few of the more extreme cases of 'I have 9 builds just for raiding alone in a single character', this will be objectively a shit time for anyone that plays the game more 'seriously'. 
+---
+Taking me as an example, I have a Ranger (Condi/Power/Healer), a Guardian (DH/Power+Condi FB/ Healbrand [Not even counting those that have quickness variants]), a Necro (Heal/Condi/Power), Thief (Power/Condi/Boon), Mesmer (Tank/Boon/Condi/Power), Elementalist (Power Temp/Healer/Condi and Power Weaver). And I 'only' played fractals/raids.
+---
+Now you may be thinking 'wait a minute, that's a lot of builds'! Yes, it is, because I was invested in the game. However, if any single person out there is invested in only ONE profession, playing all of the 'possible' meta builds on them, they are already going to be forced to buy, because all of the ones I listed above require more than 2 basic gear templates. This isn't a 'the elitists with 9000 minmaxing builds are gonna get rekt'. This is 'every single person that plays their 1 profession in all of the 'meta' builds is going to be forced to buy at least one slot'.
+---
+And the best part is: I didn't even take into consideration more dedicated players that have pvp and wvw builds for their 1 class that they are invested!
+---
+I also like that they mention nothing about the 'auto update' system they have in the system, meaning that if you change anything on your build, you better remember to switch it back!
+---
+I also *really* like that their approach to 3rd party tools is: 'It's as it always was, use at your own risk.' But they specifically told the developer to disable the feature, and if you do in fact end up using a modified DLL, they can simply ban you because you are breaching their TOS, since IIRC, the templates interact with the game to swap things out for you. So as much as they say 'use at your own risk.' They can simply say, 'well, now you are breaking TOS, you weren't for the last couple of years, but now you are since we are losing money.'
+---
+It's light and day playing something like FF 14 (Yes I will compare it since it's the 'hot' MMO out there), when you reach level 10, you have access to 20 'classes' (half are crafting professions). And you can have all these 20 'classes' saved to templates immediately.
+---
+You also get the armoury system, which I will assume is the same as in Guild Wars 2. However, I wonder if Guild Wars 2 will use a shared armoury system accross all item types (like, you have 50 slots for your armor + weapons + accessories) or if it will be divided by type. (50 Slots for Armor, 50 slots for weapons and 50 slots for accessories) like FF 14, which I think gives you 35 slots for each?
+---
+All in all, yikes.
+---
+I told myself I'd come back if they released new elite specs. Now, if they release new specs all I can think is 'Well, fuck, I need to pay even more'.
+---
+What a shame.
+---
+im guessing this is only across one character though
+---
+This is a big middle finger to people with legendary gear.
+---
+have you seen the interface for switching legendary gear?  
+---
+it doesnt get more inconvenient than that.
+---
+oh look. its lordkrall 2.0
+---
+but it doesn't frees up bag space if you have leg gear
+---
+&gt;A single piece of legendary equipment can be customized with different attributes in separate Equipment Templates
+---
+So they thought of legendary equipment and ignored this fact. A full legendary template (where you only save legendaries and nothing else) should not count for the limit up to a big number.
+---
+How about listening to literally ANY of the feedback we've been giving.
+---
+TEMPLATES SHOULD NOT BE MONETIZED
+---
+THERE ARE NOT ENOUGH TEMPLATES
+---
+I mean no, people just used to swap gear and complain about it before arc templates tbf
+---
+But the costs are going to add up *a lot* for anyone who runs a lot of builds. That seems really unfair as those players are who this type of QoL feature was supposed to cater to. Having to spend thousands of gems and still not be able to store all of your builds and variations feels like a rip-off.
+---
+I'm thinking that specific sentence is aimed at wanting to get feedback about the system once "we get familiar with how it works".  
+---
+In other words, they want us to tell us how we feel after they changed nothing.
+---
+Yup. I already have one warrior for power,  one for condi and one necro for PvE, one for WvW etc etc.
+---
+I have a few other spare chars just holding onto ascended boxes and weapons etc. So il just have to utilise them if I get desperate
+---
+You are correct.
+---
+Watch old dungeon runs, swapping gear and mostly traits around was part of the speedrunning skillset.
+---
+Haha you wish, I consider anet to be a failure and its devs as incompetent donkeys. Templates whiners are right n top 10 after that
+---
+don't forget the inventory space compared to buying more bag slots
+---
+Correct
+---
+2 years later: *so we have been receiving some feedback lately that 6 builds per character is not enough...*
+---
+Someone who fool around like that probably have his 20$ fun by the time he get banned. And can do it again.
+---
+Correct. In fact the price doubles eventually, if you're willing to wait that long.
+---
+The offifical wiki is an endlessly helpful source for all the information you might need, it even has an events timer similar to the boss timer you used to use (https://wiki.guildwars2.com/wiki/Event_timers).
+---
+Right now we are in the middle of Halloween, it's similar to when you left but it has a bunch of new things for you to collect or earn (backpacks, weapon skins, armor skins, achievements, mini pets etc).
+---
+You should probably purchase Path of Fire (the second expansion, it comes bundled with the first expansion now) which will give you access to the two expansion stories (Heart of Thorns is the first expansion where you travel into the jungle to take on the jungle dragon, Path of Fire is where you travel into the desert to take on... someone else.
+---
+Aside from two expansion stories there are three Living World seasons (stories which bridge expansions) and it sounds like you played through the first one (where Marjory and Kasmeer kiss after defeating Scarlet).  You will need to purchase the Living World seasons in addition to the expansions (the seasons are sold through the gem store) to experience the full story, although they are not required to understand the expansion stories (they are kind of like prologues to expansions, although Season 4 onwards seems to replace expansions as the primary way to deliver story and major events take place in them).
+---
+If you really care about story continuity you might want to play Season 2 before jumping into Heart of Thorns, but most people skip the seasons and decide later if they want to play them. Because expansions provide new ways to play your characters (elite specs - different roles for the core professions - aka a ranger can become a druid and fill the healing role) and different ways to enhance your exploration of the game (HoT gives you gliders for jumping off of cliffs without falling, PoF gives you mounts which do... everything).
+---
+My personal advice would be to do the first episode of each expansion to unlock gliding from HoT and a raptor mount from PoF. Then work your way through HoT's story and maps.
+---
+If you are struggling with combat after being away for so long metabattle has some good build guides for all classes in any content in the game, including open world/story content (https://metabattle.com/wiki/Open_World).
+---
+Personally I would dig into some of the Halloween content before it's gone (https://wiki.guildwars2.com/wiki/Shadow_of_the_Mad_King) and maybe buy the expansion bundle (every copy of Path of Fire is now bundled with Heart of Thorns) and begin to unlock an elite spec (if you explored all maps, you have enough skill points to unlock your first elite spec already).
+---
+Arenanet I made the 3 legendary sets. Why can't I use them on all my characters? I mean, if I add my legendary armor to my template in the warrior, why can't I use it in my revenant? Why? Explain what it is for me to have legendary armor then. It does not make any sense. 
+---
+With your templates I will have to link the armor with my character and if I want to use it in another I will have to unlink, go to the bank, leave the armor, take it with my other character, Bind it again. Not worth it. This is no better than the Arcdps build template. At least with the arcdps I don't have to link anything. 
+---
+Those of us who have the legendary sets need templates and this does not fix or serve anything.
+---
+And Arcdps build template is free. Why do I have to pay for something that doesn't reward me for spending 8k gold on all legendary armors? You do the same as the arcdps but paying you.I am very disappointed with you and of course i dont pay a shit for your shit.
+---
+Troll Ungent, is a good heal against condi(up to 4 condi clean) or in duells. It has it points
+---
+Two equipment templates can hold up to 42 items (according to the dev stream). 2*42 = 84 and you can keep 100 items on a fresh character without buying bag slots.
+---
+Hahaha of course it was /u/hinawerdan, king shill himself.
+---
+Am I being too pessimistic in thinking it would magically "break" at some point in the not too distant future?
+---
+&gt; **Build Templates (character-bound)** This is the "data" of the build, the information that can be shared from player to player in chat or in text files so others can inspect or use your build.
+---
+[...]
+---
+&gt; We've also been following a related conversation about third-party programs. Our policy on third-party programs has not changed. You can read the full policy [here](https://help.guildwars2.com/hc/en-us/articles/360013625034-Policy-Third-Party-Programs).
+---
+&gt;The best way for you to assess whether a specific third-party program could have any impact on another player is to ask:
+---
+* "Does this program allow someone to play faster, better, longer, or more accurately than someone who doesn't use the program?"
+---
+* "Does this program allow someone to 'play' when he/she is not at the computer?"
+---
+* "Does this program allow the user to gain unnatural or undeserved rewards?"
+---
+&gt;We don't have any desire to take punitive action against players who are abiding by the Terms of Service and Code of Conduct while using third-party programs, but we can't declare any third-party program "safe" to use because it would require us to commit to oversight. If we said, "We won't take action against your account if you use this specific program," we would need to monitor all development, features, and potential uses of the program going forward. We don't have the resources to do that.
+---
+&gt;In the past we've made a few exceptions to our "no review" policy regarding third-party programs that enhance the game without providing unfair advantages to those who use them. Those exceptions took place at the sole discretion of the company and don't constitute an endorsement, or a guarantee of the programs' safety, security, or continued development. If you choose to use third-party programs, you're responsible for making sure you're not doing so in a way that violates the game rules."
+---
+I left the game right after ERP3. I don't have duplicate characters to overcome the free 3 build, 2 gear limitations imposed on my main characters/classes. 
+---
+But given the above, I'm excited for the possibilities with gearcheck and continued development of the community driven build template tools. I will likely reinstall to claim LS episodes and any free slots offered when this launches. Allowing opensource community tools is a huge step in the right direction.
+---
+Who's ready for some fierce bot vs bot matches?!?
+---
+Because local saving will cause bad user experiences for less technically skilled users who switch computers.
+---
+This Halloween parody that we created last year for ArenaNet's Halloween Community Showcase, but it's the first time it has been posted on Reddit.
+---
+I'm already happy you can use one piece differently customized across multiple templates.
+---
+There are versions of it with still work.
+---
+Also arc isnt the only one who has some sort of build template
+---
+Likely storage or DB limits on their servers would be my guess. Another reason storing this data locally like GW1 did (in a fucking .txt doc no less) would be much better.
+---
+Arenanet probably thought the entire hardcore community (five dozens) was gonna spend their salaries on extra slots for their hundreds of builds to cover up the new saga expansion-like episodes™ development. And the funniest thing is that they probably would lmao
+---
+We start with 2 equipment templates, not 3.
+---
+Pails can’t be sold back. So you might as well sell cobs.
+---
+Reminds me of two content creators who went full berzerk in a video because they were banned for "no reason" and all... Actual dev answered that they were banned for their use of a hack that allowed them to unlock all waypoints of the game within a minute. Suddenly their video disappeared and they were never heard of again! Magic!
+---
+Found it: [Suck At Love get banned &lt;3](https://www.reddit.com/r/Guildwars2/comments/3zo9zb/suck_at_love_banned_for_hacking/)
+---
+So, for the minority of players with the need for many build templates, you would have the many have to deal with local storage?
+---
+From a rational human standpoint, there's no reason for ANet to bring the hammer down on arcdps, but unfortunately, legal things are stringent for a reason. For legal reasons, if they were to condone arc's templates, they'd either have to explicitly allow _only_ arc, which causes problems one way, or they allow _all_ addons, which causes problems in a different way.
+---
+So it's easier for them to just say "read the TOS, don't interfere with the game, and don't get mad if you get caught."
+---
+&gt; There's no way they can justify the monetization of this feature. We are talking about string codes than be stored on txt files. You can have hundreds of them. There's no sense to charge gems for this.
+---
+Here's a question for you: how did those strings of code get there? Magic? No. We're not paying to store stuff, we're paying for the time and money they spent to put templates in the game in the first place. That was *not* free for them.
+---
+Any version of it will break next patch no matter what, will probably have to be remade from 0 regardless due to the big changes to how the whole equipment tab works
+---
+It's still one of the stronger arguments ANet should pay attention to: their pricing model and cost model for this are both FUBAR.
+---
+If buying a character is cheaper than your slot pricing, you've priced slots too low, /especially/ because I'm certain a character would take a very large chunk of storage compared to just builds and equipment slots alone.
+---
+Yes, which is how legendary armor has always worked. I'm not sure why anyone would expect new functionality for legendary gear.
+---
+Where is your data showing that the players needing more than 24 is a minority? In GW1 I had something like 30 different builds and a fraction of the characters I have in GW2. I'd certainly like the option to store more than 24. And what do you mean "deal with local storage" What possible downside is there to local storage? We're talking .txt files in the, I dunno dozens of KB range? It's not like they're going to take up a ton of space...
+---
+I have a tutorial on how to change the character select music at this link
+---
+https://brax-was-here.tumblr.com/charselectmusic
+---
+If only the "build sharing" portion included a way to save builds on your computer in text files, it'll at least be closer to GW1's system.
+---
+The paid portion of "Build storage" should be just for what's stored in their servers. "Ready-made" builds, so to speak.   
+---
+But it should also be possible to store templates on disk directly through the game, without having to do annoying things like typing them in chat and copypasting them manually in text files.  
+---
+Without the ability to keep a number of builds virtually unlimited and being able to store in your computer just about any build anyone gives you, limited only by your free disk space, this will not be serviceable.
+---
+And you can do that with these templates. There’s nothing false about that statement.
+---
+Guys, it’s just a stupid advertisement. It’s trying to make this seem like a bigger deal than it is. That’s what ads are.
+---
+Most likely sales tactics, we've seen it with other items (shared inventory slots for instance). You'll max out and keep doing that while they notice people are maxing out.  
+---
+If you're interested in knowing how much it'd cost to develop shoot me a PM - it's not too relevant for this discussion. Considering I don't know the exact workings it'll be a rough guesstimate but should be indicative enough.
+---
+This is how i used to do it with GW1.  I'll just do the same with GW2, just a bummer about the equipment templates.
+---
+Standard edition of Path of Fire is all you need to unlock both expansions, getting the more expensive editions just gets you some account add-ons which don't really change your gameplay
+---
+For example, buying the deluxe or ultimate editions gets you
+---
+* An additional character slot (800 gem value)
+---
+* An identity repair kit (makeover + name change), single use (1000 gem value)
+---
+* Spearmarshal's presence (unique outfit, see [here](https://wiki.guildwars2.com/wiki/Sunspear_Outfit))
+---
+* Lily of the Elon permanent pass, which is an item that lets you teleport for free to a separate hub to access crafting stations, merchants, banks, etc, at any time. This is unique to getting these versions of the game, but you can buy other passes to other locations for 1000 gems
+---
+On top of that, the ultimate edition gives you an extra 4000 gems.
+---
+When you price it in cash, 800 gems is $10, so 800+1000+1000=2800=$35, and the extra 4000 gems is an extra $50, so that's a total of $85 worth of value.
+---
+So you can determine the value yourself if you think all these things are worth it. Otherwise, just get the standard edition, you'll still be perfectly happy.
+---
+On top of the expansions, GW2 also has what we call living world seasons, which are the chunks of content that occur between expansions. Each season comes in at about 6 episodes (season 2 was longer, season 5 might be shorter, we'll see), and each episode costs 200 gems. You also unlock episodes by simply being online during their 3 month release window.
+---
+It's not as much of a priority to pick up the living world episodes yet, unless you really want to. Gems can be purchased through real money or in game gold, so if you farm up enough, you can buy the living world episodes without spending any actual money
+---
+Yes. If anyone's buying slots it's for the convenience of having it in the game already. People are blowing this way out of proportion. You don't have to buy any slots at all in order to have infinite builds.
+---
+Of course just as we though, they dont gonna care about our feedback and just release it at it is, extremely limiting for the people actually using it to the point its almost unusable for them.
+---
+Triple monetized, which is most likely way to expensive for people who used to use 30-50 builds in total for years.
+---
+Oh and it also devalues legendary gear...
+---
+The least we would need is saving stat configurations for legendary gear and all of this would feel much better.
+---
+I like my tutorial better honestly
+---
+ [https://brax-was-here.tumblr.com/charselectmusic](https://brax-was-here.tumblr.com/charselectmusic)
+---
+Disagree, keybinds are good for quickswapping.
+---
+What happens when a non-technical user suddenly finds out that they lost their files when they bought a new computer? Or if they want to use a friend's computer? Gaming is ubiquitous, knowledge of moving files around much less so. Do you want to alienate those players?
+---
+We also don't know of any bundles they may come to offer.
+---
+Maybe it is 400 gems for an Equipment tab and Build Tab and possibly some extra account build storage as well? We just don't know.
+---
+Bummer that the forums were nuked and the vidme mirror is down. I've heard that same story before, but in a different game, though I can't remember which one. It's hilarious how frequently it happens, it's like reading a script.
+---
+Did you legitimately expect them to add a feature that would literally make creating gear for any character of a specific armour weight a redundent part of the game for those with legendary?
+---
+I'll give you this, for what you're asking I can actually agree that it doesn't help your situation, it also doesn't change it at all though, seriously though if you have ALL three leggy sets then why is it such a big deal to have ascended sets for other characters? I mean shit dude, you clearly have either the time or money.
+---
+I am a programmer and have an IT management degree, I can estimate it as well as anyone, which is to say, I don't know their specific infrastructure or code base and cannot estimate it.
+---
+1: Hack in ranked
+---
+2: Get caught and banned
+---
+3: Post on reddit and make accusations against ANet to incite drama
+---
+I am not an Anet employee, I can only speak on the basis of how it worked in the past and my general knowledge. 
+---
+There are cheaters, sure. I'm pretty positive cheaters are everywhere. But they have, let's say... low impact of the important things, like economy or gemstore. 
+---
+*Bear in mind I don't take community as an important thing, as Anet is well known for being shit at communicating with us, picking a question about their favorite quaggan from inbetween 10 questions about balance, upcming raids and stuff, ignoring player feedback and treating their community management as if it was 2004 again and generally being much better at pretending everything is cool than fixing stuff that's not cool*
+---
+But in general, it's much easier to make a banwave than to ban people in small batches. If you keep banning the same people often, you encourage improving their bots. Basically, it hurts more when you see your 20 accounts were banned at once than to see 20 instances of banned accounts which you would reinstate on the way, spreading losses between the 19 remaining ones. With 20 banned at once you have nowhere to spread those to XD
+---
+The trait that gives you heals and swiftness for energy spent is insane for that (rapid flow). 
+---
+One can build a solid 1 min by spamming orders from above, Heroic and the occasional shortbow skills (with piercing shots). For doors, just kalla and dwarf.. I don't know, but now I enjoy this build better than necro or engy. Shortbow auto is so fast and fluid.
+---
+This is honestly why I've never thought about build templates or was that frustrated with the current monetization plans.
+---
+(Side Note: I understand and sympathize with those who do not share my experience and who are upset with the current situation)
+---
+Like you I have alts for a bunch of different builds. 
+---
+As an example for Warriors; I have a Power PvE Warrior, a Condi PvE Warrior, a WvW Spellbreaker. I also have a random base asuran warrior I only really use when SAB comes around.
+---
+To add to it this for Mesmers: I have a DPS Chrono, a PvE Condi Mirage, a Power Mirage I wanted to try roaming in WvW with for shots and giggles, and a base Mesmer I'm holding on to if/when we get a Minstrel/Bard Elite spec.
+---
+I have at least two of every class except for my lone Revenant, each with their own build that I try to keep distinct from each other as much as possible. I'm not trying to show off or anything, it's just that I used to love making and dressing up alts so much that I ended up giving them their own builds for the sake of at least making my play sessions with them a different experience.
+---
+Paging /u/deltaconnected 
+---
+1. Will you continue ArcDPS development?
+---
+1. Will you open source ArcDPS ?
+---
+1. Will you continue Build Templates Plugin development?
+---
+1. Will you open source Build Templates Plugin?
+---
+Antennae?
+---
+Why the hell is there pumpkin heads? They would've been 10/10 mounts but ruined by ugly doodad pumpkin stuck there for sake of it.
+---
+Because legendary gear has *never* gotten new functionality before.
+---
+For many of the things, like crafting, you have the wiki to fall back on.  
+---
+If you're struggling with crafting specifically, you can use GW2Efficiency to break down the steps for you.  
+---
+https://gw2efficiency.com/crafting/calculator
+---
+I believe the open-source question has been answered. In the exchange between delta and Chris Cleary, he was told to never show the code
+---
+Mostly just exotic. I have full ascended berserker but it isn’t worth it to me to swap any of my ascended gear stats
+---
+Yea but I mentioned fury in my post...
+---
+And I understand it isn’t so much about even hitting 100%, but I feel like I want to be over ~80-90%
+---
+&gt;we've collected your feedback about this multifaceted new feature.
+---
+And did absolutely nothing about it. Someday as a company you guys will stop being so close minded and actually listen to the community. Your mentality of 'We are never wrong' is what's killing you guys. That and the unnecessary need to monetize literally everything you release outside of the Living World updates.
+---
+This is just sad.
+---
+This is pretty unfair IMO. GW2 is not the only game that faces similar issues. I have played others where the exact same statement is made with slightly different wording.
+---
+No game studio with half a brain will outright endorse *any* 3rd party software, and the reasons for that *should* be obvious. If they are not, then it is clearly stated above. 
+---
+ANet have neither the desire nor the resources to enter into oversight of the entire development process of a 3rd party provider. And they would *have* to do this if they offered any endorsement. Without oversight/control of development they have no say in what is added down the line. What meets approval today could be violated on the next update through changes made. 
+---
+If that happened ANet would be clearly in the firing line for endorsing something, then unendorsing and potentially banning users. Try to have a little common sense and perspective here. It's not a blanket cover-your-ass statement at all. It is ANet saying what they are and are not prepared to devote resources to. You don't like that, fair enough. Don't call it for something it isn't.
+---
+It's on players who use 3rd party programs to make sure those programs don't cross the line. In any game, not just in GW2.
+---
+/beckon
+---
+Monetization at all isnt that big of a problem, many would be willing to pay if they are actually better then the current tools we are used to for years.
+---
+Its just how aggressive they will do it iand more more so how limiting they will be (because of those freeing up slots noone asked for)
+---
+Added an edit; specifically looking at FB guardian but I’m mostly interested in the “in general” build craft of crit chance
+---
+They fixed it!
+---
+Oh, wait.
+---
+They didn't fix anything. 
+---
+What was the point of this post? This is all information we already knew, and people who were upset were upset *because* we knew this. I wasn't even particularly upset, and *I* know better than this.
+---
+Can't wait to see how EAnet does with this
+---
+"we've collected your feedback about this multifaceted new feature", ok, nice, but then where's the news about feedback collected? What's the changes about this??????????????????????????????w
+---
+Ah, I see, you remember the important stuff. You might be glad to know that Kasmeer got a new haircut on the latest patch.
+---
+Meanwhile us poor Elementalists basically just got our second weapon slot out of this...
+---
+It's not really new though (the only new part is they seem to feel differently about allowing third party build templates after the official ones come out). They've always said, as long as it doesn't give you an advantage (with some exceptions, like build templates or instrument macros) they won't ban you simply for using a third party addon, unless it's doing something suspicious.
+---
+The rule seems to be the same - no advantages from addons seems to be tolerated, but use at your own risk. Even if the addon is functionally innocent, it could be doing something indistinguishable from someone doing something malicious. In that situation, your account is at risk compared to someone who didn't use a third party addon.
+---
+Well the problem are not the trait templates which the ppl are arguing about, but about the limited amount of gear templates. for the gear templates there are no chat codes which you can copy and save in a text file and that is the real issue with this bs
+---
+It's fine if they want to charge for templates, a basic function that should be in-game.
+---
+It simply means instead of spending a few hundred dollars a year as I have since the game launched, that I will never spend another cent.
+---
+Do you even know how much this will at up for people with like 30-50 builds?
+---
+Asking like 100 bucks for this feature, while its and inferior system to what we where used to for years, for how extremely limiting it will be those people who actually need build templates just feels like getting ripped of.
+---
+They have in the past explicitly told addons to remove that functionality.
+---
+A two hour long meta event?  It would probably be fine for the first month, but I don't think that would go over well in the long term.
+---
+Enemy players won't see you on stealth but you can predict some movements to a certain point.
+---
+Also, if you leave AoE effects while stealth, like pistol #5 or kneeling rifle #4, they will appear for your enemies, so you're giving them some clues about your position.
+---
+“Oh cool the game finally has build templates. Now I can save all my different builds.”
+---
+*logs in*
+---
+“Okay, lets do this, oh... these three slots are already filled out with my pve, pvp, wvw, builds. Okay, okay.”
+---
+“Let me buy more! Oh... I can only purchase 3 additional slots...”
+---
+“Well that’s unfortunate.”
+---
+As an example in full maurader armor/zerk trinkets with zerk weapons (force/accuracy runes) I sit at 64% crit which means with retaliation on me and burning on the enemy I have 99% crit chance for open world (if I ran food I could likely drop the accuracy sigil for impact or something else and still cap fine but I don’t often bother with food for open world) there is a lot of freedom to tweak your build around here and there
+---
+At a max of 6, might as well just use ascendeds...
+---
+Character bound build templates - sure. Account wide? Nope. Pure greed.
+---
+You can use legendaries across multiple templates with multiple stat configurations. Not really sure what you're saying you can't do.
+---
+You severely over-estimate how many builds the average user uses per character
+---
+You can also get Pails from WvW Reward Track. That's how I got mine. For someone who doesn't have a lot of gold, those free 20-slot bags are looking very inviting. It's faster just to farm Lab for an hour and buy the bags with the money you make off of ToTs though, but if you're doing WvW, might as well work on the bags while you're at it.
+---
+&gt;Templates were in test client since HoT in alpha state. They werent being worked on due to anet moving devs to work on now failed background projects.
+---
+Joking aside, that's really juicy trivia ^
+---
+From what I gather in the comments, you can't use legendary gear in multiple builds? Is that why? I haven't looked at all on how it's gonna work.
+---
+Yeah, that’s a problem.
+---
+What does that have to do with this ad?
+---
+Unfortunately too many of our German friends who were willing to talk openly about internal stuff of anet was lost after great PoF leak of 2017.
+---
+Sure, if you're never going to change any of those 6 templates. I hate that it's limited to 6, but I was honestly expecting a steamy pile regarding legendary customization.
+---
+Nice
+---
+Most of the 'content' here, for the past 5 years, though, has been fluff.
+---
+It's not as bad as r/wow, but it's not great, either.
+---
+They fixed it with the chef in ls5 prelude. Will he ask to cut ? To bake ? Raw ? You don't know. Mad king could use some dialog cutting to achieve the same.
+---
+The vast majority of people don't have all their gear covered with just legendary gear(especially since you can't yet with some trinket slots) and alot of people, myself included, just have an invisible bag with alternative ascended gear instead. It's going to free up inventory space for a bunch of people
+---
+And as usual, fucking delusional like most of the whiteknights on this sub.
+---
+can you repost that in the form of a picture? :P
+---
+I'm going to have to trash some runes on all my legy armored characters to make them fit, assuming i buy 4 equipment tabs on each (which doesn't free up any extra bag space)
+---
+Nothing new in this post that they haven't already announced. I don't really understand the point of it outside of saying "some addons will get you banned"... Not throwing hate just when I see posts like this I hope for new information to get excited about. Now I am just disappointed this was even made a post.
+---
+Rewarded with ... what exactly ? Truth ? Facts ? Anything ?
+---
+Boy, are we entitled.
+---
+Absolutely. I think gamers in general (not just GW2 by any stretch) seem to lose sight of the fact that games are not actually owned by them. Nor (technically) are their characters. The retail aspect is actually paying for the right to play which could best be compared to a form of rental I guess.
+---
+I think a lot of angst could be avoided if more people understood this simple fact. And also exercised the rights they have as a consumer to pay or not pay for a product based on personal satisfaction.
+---
+You can, but there is no difference between one set of legendary armor and just having two ascended sets. In fact, legendary armor costs like 10x the price of an ascended set. On top of that, you have less functionality with lege armor compared to ascended in that you can have different skins on a different ascended set, whereas only one skin on the lege set, and functionally, swapping/storing those sets are the same. 
+---
+Then there are other factors that make lege armor worse than just more ascended sets. One big one is that it is way easier (and still cheaper) to have a second weapon or something with a different sigil set and just swap it in than to manually change lege stats and sigils. This was not an issue in the past because arc templates easily got around manually changing stuff, however, with only a max of 6 sets, small changes (such as sigil/rune swaps) will likely be done manually. I imagine most people will just opt to have a second asc weapon with the sigil set they want in their bags, not reducing any bag space and not making use of lege features.
+---
+(Please hide your mini if you're going to be sneaky)
+---
+Aside from that, many players can simply just predict where you're running. Often than not, people stealth to retreat)
+---
+Edit: Also, if they happen to auto attack lock on you, the chain will keep repeating as long as it hits, giving them the perfect clue to where you are. Usually, thieves would always dodge backwards or shadowstep away in that situation.
+---
+Do you guys usually audit entries to drop chance pages? I've often wondered how reliable that info is. I haven't seen any huge discrepancies with the stuff I've tried, but I'm just curious.
+---
+Very disappointing.
+---
+All really good ideas. That would make the scale of the event seem larger as well, having the vessels traveling in a formation, and would encourage players to assist each other instead of just concentrating on the one vessel. Also plays in nicely to what u/TeaAndDevils said about splitting up the meta to give it more variety.
+---
+Since I wouldn't use it in WvW/sPvP I would act according to
+---
+&gt;  If you choose to use third-party programs, you're responsible for making sure you're not doing so in a way that violates the game rules
+---
+Ez.
+---
+They said the exact same thing during the livestream, that they will price them like bank/bag slots. https://clips.twitch.tv/AmazonianStrongMoosePRChase
+---
+You can only give so much constructive feedback to the wall that is Anets community management before you go insane.
+---
+The more I read this the more it sounds like "Maybe we just didn't explain it well enough." I don't think the problem most people had was with understanding how it worked.
+---
+read the ToS, you're wrong and they never said arc with build template will be endorsed after template are in the game
+---
+For power/Crit/ferocity you want to go Dragon Hunter... My build as follows http://en.gw2skills.net/editor/?PWhAMFlJwQYcsMGJO0K9tdA-zRhYQRgsFFwQExbGBRxEYmkYAFRBEcYUdAayFIY/WGVCD-e ... CLICK the togles for Fury and Retaliation on the boon bar...
+---
+For Firebrand you want condi and utility, not power/precision/ferocity... example my firebrand alt build. . . .http://en.gw2skills.net/editor/?PWBBc+x7lJweYIsKmJO8K5vbA-zRhYXBPGxgZ0MvhVO5EKJkA1FBBWEJGQpGgOcCCXP8Wm0BD-e .... Click all the toggles for might, corruption weapon sigil, fury, retaliation to see stats... even with meager precision this build gets to 60% crit... but its not needed.. 3100 condition damage can burn a room down in about 3-4 sec ticks of damage.
+---
+Vast majority of people will never use more than 1 build on their characters. This feature is aimed at the veterans who value time saved and QoL more than anything.
+---
+I mean, they already acknowledge that monetization is a concern and being forced off a third-party addon is a concern. They just probably aren't gonna do anything about those.
+---
+I'll take it off your hands. I wouldn't want you to suffer.
+---
+You can use legendary gear in multiple builds, but it's functionally identical to multiple sets of ascended gear, except more expensive since, you know, 'legendary'. Furthermore, having legendary gear means you actually end up freeing up *less* inventory space than somebody who never bothered, and just got several sets of ascended instead.
+---
+*Further* furthermore, if you want to change your fashion by switching gear, you can do that with multiple ascended gear sets, but not with legendary. Legendary gear used to be useful for the ability to stat swap, but since that is now covered by templates, it's basically just a really expensive skin now. And since many players like myself transmute their legendary armour anyway, there was really no point in investing in it.
+---
+&gt; So a maximum of 27 account-wide templates that can be stored?
+---
+It's not an additional 8 packs, it's up to 8 total. So 24.
+---
+I... still can‘t believe it. They will destroy 90% of the game experience with this.
+---
+Good job on completely ignoring community feedback. Sorry, but this is just ridiculous...
+---
+https://www.twitch.tv/videos/488895446?t=16m20s
+---
+you need to read between the lines.
+---
+"we've collected your feedback and we dont give a shit"
+---
+And still significantly less convenient
+---
+Guess I'm going back to osrs
+---
+Fractals / raids / open world / wvw - those are four already very specific cases where you'd want to hotswap. Any optimization within them and you'd easily feel 6 isn't enough.
+---
+&gt; they are giving us nothing extra than what we already had
+---
+But ... but ... but it's FREE! Don't you see how generous anet is?
+---
+Big oof
+---
+Its completely designed around monetisation, not best practice, and gives legendary equipment owners the middle finger into the bargain.
+---
+You need to be really unpredictable while in stealth. If you just throw down a blinding powder and then run the way you where running, people will assume you are doing that and run that way while attacking. However, if you stealth, then shadow step behind the direction you where running, they won't have any idea which way you went.
+---
+Also, pets, minis, and teammates that are following you, won't stealth with you (unless you AoE stealth, minis still won't though). This is the best way to follow new thieves, cause they always have their mini turned on.
+---
+&gt; Every account will start with one Build Storage Expansion with a set of 3 spaces, and can purchase up to 8 Build Storage Expansion with a total of 24 Spaces in the the Black Lion Trading Company Store  
+---
+That's 27 slots.
+---
+*ctrl c - ctrl v method* will work only on traits. Equipement templates won't have a text representation, and it's the equipement that takes the most clicks.
+---
+(and is buggy and sluggish and unresponsive while changing too)
+---
+GW2 has such a limited build system but the majority of the playerbase still found a way to create very ineffective builds, especially because of not knowing that gear and stats are a part of it.
+---
+Did you transplant your dick into your head? I am asking a serious question.
+---
+The only thing theyre saying is that they dont want to ban you for using a 3rd party program but if it gives you an unfair advantage it will be seen as breaking the rules. Nowhere in that sentence do they specify build templates.
+---
+I mean that was already the case. If you only play two builds it was already cheaper to just have 2 ascended sets. From the launch of ascended armor that has always been true. I don’t understand why it’s a problem now.
+---
+Probably feedback from official forums. 
+---
+So, back to the important topic - what is your favourite quaggan?
+---
+My guardian has legendary armor and I am considering creating an extra one... I am so happy that I'm not a mesmer main.
+---
+Wow this is pretty nice
+---
+&gt; Did you legitimately expect them to add a feature that would literally make creating gear for any character of a specific armour weight a redundent part of the game for those with legendary?
+---
+Yes because thats the whole idea of grinding for legendary armor.
+---
+PvE armor at least comes with unique skin (questionable quality but still). WvW legendary armor is exactly the same as ascended - people made it purely for functional reasons. Good times, good times.
+---
+8 * 3 = 24
+---
+From the post:
+---
+&gt;Every account will start with one Build Storage Expansion with a set of 3 spaces, and can purchase up to 8 Build Storage Expansion with a total of 24 Spaces in the the Black Lion Trading Company Store
+---
+I don't understand why everyone is so upset?
+---
+So are they saying:
+---
+"We won't say that arc templates is ok, but we may in the future and as long as it's not unfair advantages you won't be banned" ?
+---
+This looks amazing! I’m so happy for you! 👏🏻
+---
+3 + 8 * 3 = 27
+---
+This 'clarification' indicates they are completely immune to taking notice of feedback.
+---
+Arguably the most famous ranger in other fantasy worlds:
+---
+[https://medias.spotern.com/spots/w640/63/63377-1532336916.jpg](https://medias.spotern.com/spots/w640/63/63377-1532336916.jpg)
+---
+I still say what they need to do is rework the system as follows.  Each character will get a new inventory separate from their normal inventory called the armoury.  Gear templates can freely pull from anything in the armoury when assigning gear.  Buying a new gear template slot will be fairly cheap, like 100-200 gems.  However, the main thing you'll want to buy to have more gear variety is more armoury slots.
+---
+Main difference here is that the current system each new gear template tab you buy has the "potential" to hold an entirely new set of gear.  So to "optimally" use it, you'll be wanting to put gear in gear template slot 2 that's completely different from gear template slot 1.  You CAN have your armour that's in slot 1 be the same armour that's in slot 2, but I guarantee you they're pricing these things assuming that you're storing entirely different gear sets.
+---
+&gt; I have more than 6 stacks of runes
+---
+Don't worry in few months we will hear from anet about listening to our "feedback" and how they are adding rune template slots, for 600 gems a piece.
+---
+Yes, before the post made by Anet today, delta was instructed not to continue supporting the plugin. Now that Anet has kinda backed off limitations of community tools to pretty much be "no cheating/botting," arcdps template plugins don't seem to conflict with their clarified stance.
+---
+Would explain why the newer mounts aren't included.
+---
+This should be made _for those who have multiple builds_
+---
+Comments like this are the problem.  Enough people start acting like there's even a hint of approval for add-ons, eventually they'll just have to implement a no-exceptions rule and everyone will suffer.  Just be happy with "use at your own risk" and use your own judgement as to whether you think it's likely to get a report.
+---
+So I just (finally) started the PoF storyline, I'm still on Act 1. I was wondering if you get the other mounts naturally through the storyline, or if the storyline at least takes you to the general area where you get them. I like to do things chronologically so I don't want to just go and explore all the areas to get the mounts ahead of the story if I'll get them through the story anyways. 
+---
+I got a really cool looking skin for the jackal mount from a blc a few weeks ago so I want to unlock jackal asap but curious how long it will take from Act I of the story.
+---
+I was on vacation during the original announcement, so I missed a lot of the initial conversation and dialogue. Looking at this announcement: 
+---
+- Character build templates. I'm a bit of an outlier in that I have 21 characters (20 level 80s and 1 keyrunner). Three slots is probably fine for about 98% of my use cases, since I tend to split activities amongst the characters (human power reaper for dungeons, asura epidemic scourge for open world tagging). Still, it's a little strange to see an artificial limit on something that's supposed to be easy to use and share. If I can just paste build codes for each encounter into chat and (hypothetically) right click to equip them, why would I pay for more slots? Why have that limit at all? Is there some concern about people who put up thousands of builds and slow down the query system?
+---
+- Character equipment templates. Awesome. I wasn't really expecting free bag space. Also, simplified legendary switching sounds nice, since most of my legendaries are currently treated as single-stat ascended with a nice skin. Most of my characters have two sets of gear (one equipped and one in an invisible bag), but I may get more of these for the ones that have three (condi, power, WvW). 
+---
+- Account build storage. I have multiples of every class and I don't get what this is supposed to be. Why would I want a place where my engy can see my daredevil build? Unless it's just supposed to be "well, there might be some people that need more than three builds on a couple of characters, so we'll just give them common space to dump those builds". In that case, I get it but it seems overengineered. This would've been better as an "advanced" tab, where you could store all the builds you want locally in a searchable text file. That'd also solve the "raider who switches builds every encounter" issue.
+---
+Overall: as someone who barely used Arc Build Templates, this is a significant QoL improvement. As a casual PvEer (and a bit of an altaholic), I won't run into the limits at the moment, but I can see where the seams may burst if I start raiding or something.
+---
+That’s someone’s potential reaction after seeing the ad. That’s all. Is it the end of the world, no. But it’s the direction that Anet is going that’s just leaving a meh feeling overall.
+---
+Imagine paying 400 gems to store a text string... Mental.
+---
+Cunningham's Law.
+---
+**^(Takes off Kitten Gloves  .  .  .  throws them in the trash  .  .  .)** FUCK YOUR SELF WITH ROCK DILDOS! You primitive assholes... I don't hate any developer . . . but you Higher Ups are damned brown-nosed corporate shills... FFFFFF---FuuU-ck yooou....
+---
+I cannot imagine myself quitting after 7+ years of Guild Wars, overall. Ugh . . . I need to think...
+---
+Yeah, this is literally what they showed on stream. Nothing whatsoever has been changed from what they showed in the slightest.
+---
+Yeah... I don't know. The swap gimmick feels really limiting and I'm not sure I want to invest into the +4 on every character just to have those niche swaps. Not to mention the live saving builds and all that.
+---
+Hopefully the radial mount menu will include a menu for this too? he did say he was adding support to let you add whatever you wanted for keybinds in the future
+---
+I don't think that complain is allowed on the forums.
+---
+It's because Jeremy Soule's music is pretty same-y
+---
+I'm just looking at this from the perspective of myself and my friends and guildies; I really only play on my thief, used arcdps for build templates for raiding, and really never had more than 5 templates per type at best. And even then, only 2 or 3 or those are really being used. Looking at my felllow guildies, I know one that used the templates as well to switch between Power Dragonhunter, Condi Firebrand and Heal Firebrand, and all the rest of the people I raid with simply don't use them, or have alternatives like just having a bunch of different characters to spread out builds over instead.
+---
+I have never met anyone ingame who uses the ridiculous amount of builds that some people are claiming to use here on just one character, so I am convinced that 6 builds at max is going to be plenty for 95% of the playerbase and those 5% that's left is going to grumble about it for a bit and then just dust off the the additional characters they had lying around for it anyways because thats what they used before arc implemented this thing
+---
+And [The Frog](https://wiki.guildwars.com/wiki/The_Frog) isn't allowed on streams :(
+---

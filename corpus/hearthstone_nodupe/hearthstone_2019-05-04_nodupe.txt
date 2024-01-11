@@ -1,0 +1,726 @@
+I've got good news for you buddy.
+---
+---
+---
+awesome!
+---
+It’s largely RNG-dependent, but it’s really potentially the most powerful. The tempo can be off the charts.
+---
+^(1)/45 = 2.(2)%
+---
+Decklist:  [https://www.youtube.com/watch?v=sa5YQy6hNMY](https://www.youtube.com/watch?v=sa5YQy6hNMY)
+---
+Thanks for the link.
+---
+It's just not as consistent as the other ones, its rare those will give you a bad result. It can be fucking dumb though lol
+---
+Thanks dude.
+---
+Wild earlier,  druid turns 1 &amp; 3 shuffles both idols. He didn't last very long to say the least.
+---
+EU Motri#21168
+---
+&gt; The idea is if all you have is 1 opponent and 0 allies there is nothing to gain via chat
+---
+
+---
+The social experience?
+---
+Chess is 1v1 and it has chat, poker is 1v1 and it has chat (and people are losing real money over it, wouldn't it be more likely to have toxic chat?)..
+---
+And I can't say what % of games do that, but almost all MMO/FPS I played have a team chat AND an "all" chat... Talking to people -both  allies and opponent - is part of the social aspect of games.
+---
+?
+---
+What a crazy casual game
+---
+I assume this is wild, so you have a few outs.
+---
+*Magic Trick into Glyph into Unstable portal into crazed alchemist to kill the doomsayer.
+---
+Goldrm whizzbang checking in
+---
+Hearthstone?
+---
+Don't use third rapid fire to make it look like you had exact lethal.
+---
+A quick google search of Hunter decks should do the trick. HS replay is a great website that shows what decks are played, win rate, how often etc etc and is fairly UI friendly. 
+---
+ [https://hsreplay.net/decks/#playerClasses=HUNTER&amp;gameType=RANKED\_STANDARD](https://hsreplay.net/decks/#playerClasses=HUNTER&amp;gameType=RANKED_STANDARD) 
+---
+Here is a link of HSReplay tracking Hunter
+---
+Poor Reynad.
+---
+Nope. Sounds like he just wants to play him as a minion.
+---
+isn't his official name Worgen Packfiller?
+---
+Well of course but the decks basics are still core to how a deck works.
+---
+Wut.
+---
+Yeah Regis has made some videos on this, and to me it screams that we will be getting nerfs to both before the next expansion. I think they need to hit Dr Boom, raiding party and waggle pick.
+---
+ok?
+---
+Disguised Toast made a video yesterday where he plays a budget Midrange Hunter to great success. I'd recommend watching it. Midrange Hunter is one of the best decks to learn fundamental hearthstone skills, and it's dirt cheap. If you don't do well with it before rank 5, then that's the player's fault, not the deck's.
+---
+Here's the link to the video. https://www.youtube.com/watch?v=Iqymxn00Lyo
+---
+"Battlecry give all mechs in your deck rush" is goos imo
+---
+Ooh so you are theif rogue
+---
+Got it :D
+---
+It’s a funny movie, man, you should watch it.
+---
+Here you go. There are several substitutions you should consider. In fact, I'm not sure this current version is optimal because I was messing around a bit. In particular, you'll note I'm running the 2-mana 0/6 spell damage +1 fountain. Thijs was running it in his and I found it pretty hilarious so I'm trying it out. It's incredibly sticky and helps with the cheap dmg spells. So shooting star becomes more powerful, ray of frost, frostbolt, etc. Many versions of the deck don't run frostbolt, and instead run conjurer's calling for giants they include. Up to you if you have giants. It's a strong play, but like I said, the way I want to play the deck is different than that. You might also include the new frog if you have him. I only recently put Zilliax in;  he's definitely optional.
+---
+So here is a bit about your strategy. You are looking for questing adventurer and mirror image in your opening hand. That equates to one of your strongest openers because you can immediately buff him and protect him. The goal is to have adventurer or mana addict early, cast small spells to buff them, do big damage, and then, ideally, be able to cast elemental evocation to play a mana cyclone for free, and get a bunch of free spells back. 
+---
+Other combos obviously include playing apprentice to discount your spells so you can buff adventurer even faster and bigger. Banana buffoon is there to provide more cheap spells and buff your minions. I would definitely consider replacing the mana reservoir because it screws with the synergy of mana cyclone with the sandbinder and elemental evocation. I'm at rank 5 so just trying to tweak it, have fun, etc. 
+---
+Other packages you could consider swapping in are Khadgar, conjurer's calling and Messenger Ravens. Vex crow works alright as well. With magic trick, what you're looking for depends on the board, but getting spells like cinderstorm can be huge. 
+---
+Against control you could consider keeping strong cards like Zilliax or Luna because honestly, you usually take the first few turns looking to set up a strong start with adventurer. So just sitting back and pinging. 
+---
+&amp;#x200B;
+---
+\### Tempo
+---
+\# Class: Mage
+---
+\# Format: Standard
+---
+\# Year of the Dragon
+---
+\#
+---
+\# 2x (0) Elemental Evocation
+---
+\# 2x (1) Magic Trick
+---
+\# 2x (1) Mirror Image
+---
+\# 2x (1) Ray of Frost
+---
+\# 2x (1) Shooting Star
+---
+\# 2x (2) Frostbolt
+---
+\# 2x (2) Mana Addict
+---
+\# 2x (2) Mana Cyclone
+---
+\# 2x (2) Mana Reservoir
+---
+\# 2x (2) Sorcerer's Apprentice
+---
+\# 2x (3) Arcane Intellect
+---
+\# 2x (3) Banana Buffoon
+---
+\# 2x (3) Questing Adventurer
+---
+\# 1x (3) Stargazer Luna
+---
+\# 1x (4) Sandbinder
+---
+\# 1x (5) Zilliax
+---
+\# 1x (7) Archmage Antonidas
+---
+\# 
+---
+AAECAf0EBLgInvAC7vYCoIADDQyrBOYElgWXBrwIuf8CyIcD0okDn5sD4psDzp0D/50DAA==
+---
+\# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+---
+Holy hell that's one clever interaction
+---
+The last co op I recall was when the boss kept switching sides and the damage increased every turn. It got to a point that you had to keep minions on the board to not get hit. Some players could not under stand why I left my minions up and not attack the boss head on. I think one player was druid and other was mage. One deck had Loremaster Cho and the other had Millhouse Manastorm. I really loved that brawl and played it all weekend long. I would try and communicate by tapping my minions over and over again to show that they are staying and would call out mistake when they attacked the boss with the minions without having them buffed up.
+---
+Heartharena is dead wrong. It's always Stalagg here. Try get some early game in your last picks.
+---
+I guess. And now this expansion is overshadowed by the Magnetize mechanic.
+---
+I think that is kind of the point of the co-op brawls.  You have to work together based off of what little you can guess is in their hand.  It's just like the actual game, your opponent doesn't tell you their cards, and you have to make the best judgement off of the knowledge you have.  Most of those brawls would be trivialized if you could straight talk with your teammate.
+---
+F
+---
+What deck were you two playing?
+---
+I found this comment when a rogue Myra's into Nomi and I wanted to look at how people dealt with it. Its crazy OP to play aggro until you burn out then Myra's into Nomi and then shadowstep it.
+---
+&gt; If you look at winrates for cards held at mulligan he's over 70%
+---
+where are you looking at this? for the most popular control warrior list on hsreplay dr boom's mulligan winrate is 61%
+---
+Im not saying that every match is up against people who need to be playing ranked. But i should not be getting matched up against these people at all. In casual my deck actually wins but when a ranked player comes along i lose consistently. I dont mind losing to casual decks, its fun most of the time. Im always changing it, like tauren warrior blows so ima change it.. vargoth is good buut hes hurt me more than helped so hes gone. You all act like a casual player has a full collection of cards and can form really strong decks... id love that, being able to play ranked and win and push my way too getting a golden hero would be great. But i cant do that
+---
+Whoops, you're right my bad. So I guess it'd be wild only.
+---
+bluegrapes#1891 NA, trading 80g quest. I can show you my quest but then I'll cancel. You go first pls. :)
+---
+I've been loving big mage and I usually win (with very low health) by just dealing with every mech they ever play. I avoid going face unless their side is clear of mechs and I usually end up with much more cards in hand towards the end of the game, and from there I just win.
+---
+I wanted to use Witchy Lackey to transform my 3 health Sea Giant into a minion which cost 1 more. Nothing happened. Is it because there are no 11 cost minions in the game?
+---
+There are no 11-Cost minions in Standard.
+---
+Feugen isn't bad as a decent vanilla body. 4/7 will trade with a lot of stuff and it's fairly costed.
+---
+Huh?
+---
+Yup, its weird. Basically dont make your opponent draw until that thing is off the board
+---
+https://www.reddit.com/r/hearthstone/comments/bgfih5/i_think_its_time_to_unerf_yogg/
+---
+The problem with old Yogg is that it looks like a Timmy card, but the old Yogg functions as a Spike card as well, and it creates a really bad experience on the other side of the table in competitive scenes, and it gets really boring to watch tournaments where games can just be decided once Yogg hits the board. It takes the enjoyability of watching high-level gameplay out of the equation.
+---
+I'm always happy to see more Timmy cards, but Hearthstone definitely doesn't need RNG-based Spike cards.
+---
+Hey there,
+---
+Unfortunately, your post was automatically removed because you failed to assign it a flair within 5 minutes.  If you assign it a flair, your post will be automatically re-approved shortly after.
+---
+To assign a flair to your post, click the button titled "Click here to edit your flair" underneath the post. If you are on mobile or have CSS turned off, the button is just titled "Flair"
+---
+[Example With CSS](https://i.imgur.com/9TTfq91.png) | [Example Without CSS](https://i.imgur.com/3V6ugiq.png)
+---
+If you're having difficulty finding the flair button keep in mind:
+---
+You -can't- flair your posts if you're:
+---
+* Submitting via reddit mobile on a browser.
+---
+You -can- flair your posts if you're:
+---
+* Submitting via the reddit mobile app, and a variety of other reddit apps.
+---
+* Submitting via a desktop version of the reddit site on your mobile browser. You can force this view from the menu options.
+---
+You can choose either of the options above to flair a submitted post.
+---
+^(Have a question or think a mistake was made?) **[^(Message the moderators because I am a bot.)](http://www.reddit.com/message/compose?to=%2Fr%2Fhearthstone)**
+---
+Value! 8 mana 1/1 for only 6!
+---
+Yeah I went with the basic card frame for the joke but it certainly isn't doing any favors.
+---
+mechs and trolls are boring
+---
+It think there is a easy out in Standard: 
+---
+Magic Trick &gt; Magic Trick/ Vex Crow summons a Sorcerer´s Apprectice 
+---
+( x3) 
+---
+Magic Trick &gt; Arcane Intellect &gt; Draw Frostbolt + Crazed Alchemist 
+---
+Frostbolt Vex Crow for boardspace and kill the Doomsayer
+---
+honestly, get good, people have been able to reach legend with like super budget &lt;1500 dust or even like basic deck + [[genn greymane]] pre-RoS.
+---
+* **[Genn Greymane](https://www.hearthstonetopdecks.com/wp-content/uploads/2018/03/genn-greymane-hd-300x429.png)** Neutral Minion Legendary HOF  ^[HP](https://www.hearthpwn.com/cards/12288), ^[TD](https://www.hearthstonetopdecks.com/cards/genn-greymane/), ^[W](https://hearthstone.gamepedia.com/Genn_Greymane)  
+---
+6/6/5 | Start of Game: If your deck has only even- Cost cards, your starting Hero Power costs (1).  
+---
+^(Call/)^[PM](https://www.reddit.com/message/compose/?to=hearthscan-bot) ^( me with up to 7 [[cardname]]. )^[About.](https://www.reddit.com/message/compose/?to=hearthscan-bot&amp;message=Tell%20me%20more%20[[info]]&amp;subject=hi)
+---
+&gt; I don't even know why I'm here.
+---
+I often do relate.
+---
+&gt;  I play for fun but my blood boils when some guy cheesing wins goes up against me.   
+---
+  
+---
+so only you get to play for fun? what? lol
+---
+I'm always excited to see the little notification dot next my subscription to your channel. Thanks for the laughs!
+---
+what's the extension called?
+---
+then can you now address the points that have been brought up in that post? or else we might see this post turn into the one that's linked and I don't think that's very productive lol
+---
+yup switched over to wild for now. 67% WR with mechathun warlock, suprisingly a lot of variety, only rank 10 though.
+---
+Congratulations ! you have now mastered the art of loosing
+---
+Patients
+---
+Mind sharing your list?
+---
+So couple things. 
+---
+Yeah Conjurers is super super strong, but it does require you to have a minion and the lower the mana cost of the card the higher odds of you getting something bad. 
+---
+The spell isn’t bugged but I do think it needs some kind of fix. The reason is the Mountain Giant and Grave Horror are the only 12 cost minions in standard, so you are guaranteed to hit them. 
+---
+As someone who plays this deck a lot the best counters are hard aggro and decks that have tall removal like Deadly Shot. If you don’t then yeah it gets out of hand real quick. It’s a fun deck.
+---
+boom needs a NERV ASAP
+---
+no other control deck can deal with that insane value right now 
+---
+He completely carry’s the whole game in control matchups 
+---
+All mechs rush is a included removal tool every single round, its impossible to build up a board vs boom even with the strongest powerplays as a priest, he can easily deal with everything
+---
+but you can tech card to destroy death knights's power
+---
+Still plenty of variety at 5. I've gone up against reno mage, reno warlock, zoolock, odd mage, small quest mage, secret mage, mech hunter, midrange hunter, odd paladin, murloc paladin with Hemet and molten giants for 20 to the dome, small aluneth mage, big priest, dragon priest, reno priest, odd warrior, pirate warrior, even shaman, shudderwock shaman, murloc shaman, kingsbane rogue, and a suspicious lack of druids today.
+---
+“Class identity” is for dorks. That whole notion is exactly why the game is typically in a state of disbalance.
+---
+right now, he’s broken as fuck his raw powerlevel is just way too high 
+---
+iwhat happened last season or in wild doesn’t count here. 
+---
+DK‘s at all shouldn’t exist, don’t know why blizzard did this. it’s actually super annoying to play vs Boom, Hagatha or Zuljin, cause it feels like they have an advantage cause of these insane value generators. 
+---
+Boom becomes op with the rotation, simple as that - cause blizzard take all the tools to deal with that sort of powerlevel
+---
+One was that reveal a weapon in your deck deal its damage to enemy minions and the other I don't remember
+---
+Zetalot is crazy jealous rn
+---
+I wonder whether nomi and heistbaron are powerful enough off a tech choice to reliably beat warrior.
+---
+Haha yeah I won’t be surprised if they were nerfed
+---
+It’s been a month, Blizzard really needs to fix this.
+---
+No. Spell effects end before the DR triggers.
+---
+Wait what? U can get Ragnaros in standard now? Thats Crazy!!!
+---
+/s
+---
+Good for you, toki timetinker?
+---
+I really wish they should have given it's a tournament mode by know, or just don't additional options for game types (i.e. picking only certain cards, etc.)
+---
+I run one in my control warrior deck, just for the memes. Its such a bad card, but always fun to win the mirror because of a sudden 25 armor.
+---
+👹
+---
+Is this the new Disguised Toast video?
+---
+Toki got me majordomo &gt; I used alextraza to set health to 15 &gt; I used messenger raven which gave me Janelai&gt; I used die insect to fulfil requirement&gt; summoned a rag on board with janelai
+---
+Rastakhans rumble set has great support cards, a lot are common or rare, look into those
+---
+Love it, every deck is literally big priest now. Might as well go full counter
+---
+When someone says floop’s is a shit... that same someone has no ideia what is playing!
+---
+AigleGivré#23494  EU - I'll show the quest and you go first
+---
+Noruk#1380
+---
+Yeah im going to have to say your numbers are off.
+---
+Lets say they did make 414 mil. Then 1% is 414 thousand. And team 5 (hearthstone dev team) currently has over 70 people on it. So rounding to 75 for convenience. In order to only put 1% back in. They would pay each employee 5520/yr. Im sure. Some of them feel they get paid that after all their work. But. If tgat was the case. Blizzard would be under some heavy lawsuits about pay wages.
+---
+Yeah. I still run Kalecgos from time to time, just because it’s a fun card to play. As I said, total personal preference.
+---
+That’s a hard call, about the Keysmith, since you’re low on dust. I crafted my copies a few expansions ago, so it was an obvious inclusion for me. Sometimes the secret will turn a game, sometimes it will be completely wasted, but it’s certainly one of the best 4 mana plays I’ve found for the deck.
+---
+Reminds me of [this](https://twitter.com/aclon322/status/901408714145447936)
+---
+They wouldn't be memes if they were the most efficient option.
+---
+They usually take a week or two to hand out of the packs, we should be getting them any day now.
+---
+Definitely. We already have a problem with permanent hero power changes and battle cries that can’t be teched against. The game can’t handle any more without ways to undo them.
+---
+Yes, you could have read it that way. I felt there was no need to differentiate *"and legendaries"* in that context.
+---
+That guy is a pro at losing
+---
+Because this is a card game, not a FPS or MMO. The purpose is not being social, but hoping on and playing a quick RNG game while you're taking a dump.
+---
+Well, it is a meme, but it does come from somewhere sadly. Hearthstone has barely progressed in terms of interface and modes since it's inception. But just to give you the origin of the meme, which also shows the way the game (and playerbase) was viewed:
+---
+When Brode was asked about increasing deckslots (which were at 9 back then):
+---
+&gt;One of the interesting things about that is that if you look at something similar—I don't know if it's a great analogue—it's bags in World of Warcraft. When you have a 16-slot backpack it's very easy to manage your inventory, but when you have a massive inventory it's more challenging, especially when you come back to the game after a long period of time. We're just worried that players who have 18, 30 deck slots can get overwhelmed and forget which one's which. It gets a lot more complicated quickly.
+---
+&gt;Nine is a really great number for user interface purposes when you're choosing a deck to use to face someone on the Ladder. And there are tools like Excel or other things you can use to save your decks. You can take screenshots of them. So it's not impossible, but it's a quality of life thing that can also decrease the quality of life for players who are already struggling to remember all the decks they have even with nine.
+---
+Totally agree, what I don't understand is why it don't work the other way; tell me I'm about to playing a Standard deck in Wild.
+---
+The first 5-10 games can be decided by luck of the draw, until you get tilted, without noticing it, and then you lose some more because you're getting tilted, and then the losing makes the tilting worse, etc. until you are noticably tilted, and you make a reddit post about it.
+---
+Do you have a replay of the game? 1 loss isn’t a waste of dust on a complete deck. Contact blizzard about it
+---
+And how well is that deck going for you again?
+---
+Ever heard of wild? Ever heard of Arena? Ranked will always be meta decks as these are the best ones to climb. There is no denying that this expansion there's more variety than with Baku in the game. Take it or leave it.
+---
+Are you sure the issue isn't more about you're overall familiarity with the game than anything wrong on your part?
+---
+I mean you have been playing this game for at least a year, and Rise of Shadows was a return to a format dominated more or less by classic or at least well-known archetypes like Tempo Rogue, Control Warrior, Zoo Warlock, Midrange Hunter, and Token Druid.
+---
+Well just like in casual my games are consisting of people who seemingly have every answer
+---
+I'm not saying these should be nerfed, it just aligns with blizzard policy of allowing powerful expansion cards to live but killing basic /classic cards
+---
+Brootal
+---
+Card games will always have a meta, they’ll need rogue and maybe warrior and something else will take the role of “cancer meta deck”. You’ll always have someone playing The best card combo in the game at a high rate because, it’s the best card combo at the moment.
+---
+However I do think pick needs tuned down a tiny bit
+---
+"forever"? You sure you are capable of living your life if you can't afford a shirt in "forever"? Your financial management must be pisspoor. 
+---
+Try getting a job, even if it's part time or something casual like dog walking?
+---
+IDEK what I was talking about there.
+---
+Classic. Full golden deck at rank 19.
+---
+Gotta flex on those F2P people somehow
+---
+It doesn't have the hearthstone star tho.
+---
+This is good RNG.
+---
+Value is very nice but due to a generated Pyroblast I tried to be aggressive.
+---
+You just nailed it here. Accessability is all well and good but god damn does it feel dumbed down at times.
+---
+they were both worse than feugen believe me
+---
+Ended up winning due to my nex draw being a new giant and stalling with taunts and freez!
+---
+One time in Arena I got offered three Blood of the Ancient One. I picked a different card each time, thinking I couldn’t possibly get the combo.
+---
+Well, the most logical answer is confirmation bias. I don't really know what you think is going on, but it seems like you think Blizzard somehow skews the winrates. If that is your theory, YOU have to prove that it is a fact. As long as you can't, i call it confirmation bias.
+---
+Observe, the duality of man.
+---
+That was an error
+---
+Puns in this thread are really on point
+---
+What if you wanted to go to heaven but God said "THAT DECK IS FOR WILD GAMES ONLY"
+---
+i agree to conjurers and boom, i feel zilliax and eternium dont need a nerf.
+---
+Poison doesn’t work either, they seem consistent to me
+---
+I have it like above and it works on 144 fps.
+---
+When Was that change?
+---
+Yep. 5/11 * 11/100 = 5/100.
+---
+(Pssst, let people enjoy things and don't be an ass for no reason)
+---
+It's like they're yelling right in your ear, "WHY!? WHY ARE YOU PLAYING WILD!? ARE YOU INSANE!? STOP THAT! STOP PLAYING WILD! GAAAAAAAAH!"
+---
+3 healing is not healing
+---
+They don't react differently, they react the same. Poisonous doesn't kill the minion if you hit a divine shield, and lifesteal doesn't heal the opponent of you hit a divine shield.
+---
+I know, I was just making a point. have a nice one. :)
+---
+That's impressive
+---
+Keep.
+---
+Oh shut the fuck up
+---
+He had golden coin, I thought that was only by whizbang? Am I wrong?
+---
+You're not wrong, Walter, you're just an asshole.
+---
+I don't know when they changed it but I remember it was different after I formatted my pc and had to reinstall hearthstone and do the fix, so sometime in the last year or so I guess.
+---
+It's reasonably fast in real-time, but it was slightly more than enough to run out the rope in turn-time. 
+---
+Rogue wouldn't really want to lose a significant chunk of their turn (and by extension probably the game) just because they drop a Myra's when their deck is slightly too big. Blizzard probably also would've been considering stuff like Academic Espionage juicing up Rogue's deck at the time Myra's was printed.
+---
+What cards?
+---
+So, 9/30 * 30/45 = 9/45
+---
+I checked and it works, never knew that. Thanks for the explanation.
+---
+Okay thanks for the heads up :)
+---
+Trading 80G quest on EU, you go first. Battletag: P4NZK1#2197
+---
+Don’t dust classic legendaries you will just open it again. It’s not like it’s millhouse manastorm
+---
+... Go on...
+---
+Gold coin is when every card in the deck is gold
+---
+It's simple you play Barnes, get the guy...
+---
+I see, thanks 😄
+---
+Enemy mage VS you being mage
+---
+Good RNG VS bad RNG
+---
+You sure he hasn’t gotten even better winrates by now?
+---
+You can’t even capitalize the first word of your sentence again, so why should anybody listen to you?
+---
+Gold coin from 30 gold cards in deck or golden whizbang.
+---
+&gt;, it was interjected, and correct. Nothing worse than correcting someone's grammar and being wrong.
+---
+I tried making a viable golden mage deck this time and I still only got like 15 golden cards in there
+---
+Zilliax, Lifedrinker (sometimes), and any healing/armor gain you get from any class cards you burgle. It isn’t much but it still counts.
+---
+Np, thanks for the mention so I could correct it haha, game is so much smoother on higher frames it's nice :)
+---
+And yet, still more fun that playing against murloc shaman
+---
+Yeah i first saw it on kripps Youtube and was like: why does it Look so smooth? And Then i saw your post. :)
+---
+I mostly miss Valeera the Hollow because of "How tragic".
+---
+IIRC you get a golden coin if your whole deck is golden
+---
+Yeah, I just tried also, and it's true. Some part of me feels I used to know this, but glad to relearn such. Or learn for the first time.
+---
+Bombs are placed on TOP of your deck. Change my mind.
+---
+I have no idea if he was or not, nor do I particularly care. I just felt it was worth mentioning that, while played winrate is indeed largely irrelevant, he made no indication that that’s what he posted.
+---
+You won, that’s the whole point, isn’t it? :D
+---
+Went from rank 5 to legend, it held up pretty well against most decks depending on my starting hand... I lost just about every game to odd pally but I won a lot of games against tier 1 decks like evenlock and big priest i mean depending on wether priest drew Barnes. Regarding the synergy it is better than it looks lol, void and rat both work with silence targets to make big bois on turn 3 and 4. A lot of the games I won with plays like coin watcher turn one into egg turn 2, then void to make 11/14 stats by turn 3... It would probably work better without the silence package tbh but I thought it’d be more fun. All in all it’s definitely not a good deck😂 BUT it can be! And sorry I didn’t think to post my rank but for all y’all detective headasses if u wanna dm me id be more than happy to send screenshots of my rank and all that. Thanks for the feedback :)
+---
+Hmu
+---
+Some would even say it’s pretty.... wild
+---
+well, did you lose?
+---
+&gt;You deserve sarcasm and derisiveness, because you're an annoying piece of shit, and you're wrong. You're not man enough to just admit that you fucked up, and shouldn't have said anything, and that's pathetic. That's all.
+---
+Hey JyrKH, unfortunately your submission has been removed because it contains little to no content. Posts must contain at least 50 characters. Please review the [rules](https://www.reddit.com/r/hearthstone/about/rules/), in particular our rules on [low effort content](https://www.reddit.com/r/hearthstone/wiki/rules).
+---
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/hearthstone) if you have any questions or concerns.*
+---
+It’s awesome to see a netdecking hunter like you get destroyed, so unoriginal
+---
+LUL I dont want to face yeti bots.
+---
+Ahahhahaha
+---
+dude spoilers
+---
+Yes but think about it. You can analyse YOUR winrate, or any individual at a certain time. But if you look at the winrate of every player collectively, its 50% at any time, day or night, cause anytime someone loses, someone else wins. So you can say winrate in general is higher/lower at night, its always 50%.
+---
+that depends on the game, as i said, there is no benefit playing 60 vs 144, the animations and cursor is smoother, thats it.
+---
+But for other games like shooters 60 vs 144 is a huge difference. If two people with the same skill play against eachother in a fps game, the guy with 144hz will win for sure, on a game like Hearthsonte ? no, you dont get any benefit from that.
+---
+That's actually EXACTLY OP's point. You can add value to any class with Elysiana because it's a good value card straight up. You can add healing to any class with Zilliax and Lifedrinker. So the Rogue HAS healing. That doesn't mean it's a "healing" deck. OP's point is that like the infinity stones, have one of these traits is all well and good but having all of them together makes you god-like. I don't think you could name another deck in the meta right now that has some varying degree of value, tempo, consistency, removal, burst, and healing, except for Tempo Rogue. That's all OP is trying to say. He's not claiming that Rogue is the best or even good at healing itself; just that it can.
+---
+I once got 2 leeroy of toggwaggle's crown vs mage, good times.
+---
+Test it out and see for yourself. This sub is 99% diehard fanboys that would buy a brown bag full of dogshit as long as the Blizzard logo is printed on it. You won't get an unbiased opinion here.
+---
+Rogue's lack of healing is exactly why control/Value rogue has been been a thing. So I don't know why Value and Healing is up there.   
+---
+The only rogue decks that ever consistently worked was tempo, aggro and combo rogues.
+---
+Hey Strange_Pomegranate, unfortunately your submission has been removed because it contains little to no content. Posts must contain at least 50 characters. Please review the [rules](https://www.reddit.com/r/hearthstone/about/rules/), in particular our rules on [low effort content](https://www.reddit.com/r/hearthstone/wiki/rules).
+---
+Everyone is saying Edwin so I will just add on that with Edwin you could also have a solid Miracle rogue deck then.
+---
+well we have a leaderboard now
+---
+https://playhearthstone.com/en-us/community/leaderboards/
+---
+A Value rogue deck has never been good/consistent. How is it the 'best' value class?
+---
+Yeah, a 2 card combo to deal 12 damage for 8 mana is just insanely busted. Good thing mage doesn't have a combo like that
+---
+It isnt.  My brother posted my list although i will check this out.
+---
+Please. Read my comments and explain to me factually how I'm wrong and you're right rather than just say I'm wrong. Once more, we're talking about Hearthstone and not "any FPS". Stay with me.
+---
+Drddde a rough o9o9 it to I'm sorry to the storeI d you
+---
+I was just having a discussion about this with my cousin this morning. I feel like the biggest reasons to HoF it are:
+---
+- We’ve been playing against him since the beginning of time since he’s always been relevant
+---
+- He forces Blizzard to be careful when printing things like Waggle Pick. If they make too many or too strong of a card in this vein then they risk Leeroy being far too abusable
+---
+I’m kind of on the fence myself, since I wouldn’t say he’s meta defining or anything like that. Also, even if he did go away, how much of a difference would there really be between Leeroy and whatever the new best option ends up being?
+---
+Silence or sap vs Edwin is such a good feeling.
+---
+Tracking that. Just seemed weird the a specific card from one of the thousands of unique decks would be quoted.
+---
+I'm confused how it is 50% at any time. With that logic, there would never be a deck with a winrate over 50% then right? Or am I wrong? I don't know statistics super well.
+---
+Perfect cancer research in the wild enviroment.
+---
+I thought you were making a joke about token druid at first but then I realized
+---
+It cost a lot :( my bro posted deck list below.
+---
+How did I say nothing? I had two things to say.
+---
+1) I don't have an answer to the question. 
+---
+2) An answer to the question may not be helpful. 
+---
+Did you not take those points from my words? If not you may need some sleep.
+---
+&gt;i guess there is always MTG arena
+---
+They rotate cards just the same.
+---
+Bet youre even less fun at parties than the other guy
+---
+too much skill involved in this game...
+---
+You having a stroke and/or carbon monoxide poisoning?
+---
+Yes. The odd casual player may visit the subreddit, but the average reddit regular will most likely be an above average player.
+---
+you are not losing to leeroy shadowstep. you are not losing to same card. you are losing to all other shit they do before that turn and leeroy shadow step. it's just a finisher.
+---
+I was playing the same mana cyclone+apprentice combo with flamewaker in wild and pulling some really ridiculous wins.    
+---
+   
+---
+But cult sorcerer looks super fun! Got a decklist?
+---
+Pretty sure people playing Big Priest in wild have Cancer, are trying to spread it to everyone else, and clearly are doing everything in their power to hit legend before they go.
+---
+It's utter degeneracy.
+---
+I believe you can register your deck on their website once you open it. That’s how people know what’s in the deck.
+---
+Idk how hs nor the engine is running works, if 60fps is the same as 144fps, basically there are only a limited amount of unique frames, yeah I agree it's pointless to do. I think people just got mad cause u mentioned why using 144 for anything, which is simply not true. Many games look way better on 144
+---
+because you are saying gibberish that is filled with a whole load of bullshit
+---
+Having fun messing around with selfmade decks is always good at the begging, when it'll get old tho, I suggest you take a look a this Disguised Toast recent video ( [https://www.youtube.com/watch?v=Iqymxn00Lyo&amp;t=266s](https://www.youtube.com/watch?v=Iqymxn00Lyo&amp;t=266s) ) as it gives you one of (if not THE) most cheap deck to play that also teach you the basics and can take you pretty high on ladder (and you know, if you are a free-to-player, getting that additional dust at the end of the season is pretty nice!). Nothing wrong with what you are doing right now, till you keep having fun. I would take off Arcanosaur and Bonfire tho, cause you got too few elementals to active their effects.  
+---
+Also, if you are playing on EU servers, I have still some space to "recruit" you if you wanna: you click on the link ([https://battle.net/recruit/LXL5NG225J?blzcmp=raf-hs&amp;s=HS&amp;m=pc](https://battle.net/recruit/LXL5NG225J?blzcmp=raf-hs&amp;s=HS&amp;m=pc)), it adds each other as friends automatically (which can be useful to complet quests) and, more importantly, it gives us one free pack each!
+---
+Can't kill the enemy turn 6 with a board clear.
+---
+Plus Hagatha's is a specifically spiky board clear, how you need to have it in your hand early for it to be useful, when you usually want to draw your board clears later (and it's an awful topdeck)
+---
+The Warrior is actually doing something
+---
+completed
+---
+Lol.
+---
+“That didn’t quite hit the mar-
+---
+OH FUCK”
+---
+But I never quoted higher FPS as useless on everything. I only spoke in the context of Hearthstone. I even specified that several times. The monitor market should be far more vanilla if more hertz  were always useless. Hell, I went out of my way to have my primary monitor be much higher than the 30-60 FPS I typically use it for. It's nice to have it when you can take advantage of it; even if that's not every day.
+---
+I like to play hearthstone and Mountain Giant plus Conjurer's Calling is so bullshit. I'm constantly losing to the same class in every deck. It's about time to retire this class.
+---
+gReAT pOsT dUDe!
+---
+I envy your Legend rank
+---
+Pick a hero you like and go to HSTracker and look at Meta and find that hero and slowly build that deck
+---
+Happened to me last night, there was 4 bombs and I was thief rogue which had 53 cards in deck and I drew three in a row :(
+---
+You didn't respond to the other part: at the end of Shudderwock's battlecry, did you have a living, untransformed, unsilenced Shudderwock still on the board? It stops repeating battlecries if one of those things happens.
+---
+Ye, It didn't die
+---
+I don't know. Is there a list of cardbacks by date somewhere?
+---
+Looks fun, might give it a try later.
+---
+And brawl doesn't give a shit about divine shield, or effects that trigger when damage taken (acolyte of pain and such)
+---
+Absolutely. I'm just wondering, who profits from the rigged matches? Must be organized crime, fixing matches are their signature. Blizzard is run by the mafia!!! OMG
+---
+thank you for coming on my post and bringing some actual logic
+---
+Be careful he might get angry again
+---
+My is the Kabal's one from Gadgetzan set.
+---
+I just played a shaman that had 4 Flamewreathed Faceless... I cleared them all just fine... but had no answer for the 5th...
+---
+How did he get the 0 mana cyclone ?
+---
+At least we know the truth mate
+---
+Unfortunately, your submission has been removed as it violates our image submission rules.
+---
+We do not allow meme pictures, screenshots of rage conversations, or game screenshots that don't show actual gameplay interaction.
+---
+For more details, you can read our rules [here.](https://www.reddit.com/r/hearthstone/wiki/rules#wiki_image_submissions)
+---
+^(Have a question or think your post doesn't break the rules?) **[^(Message the moderators.)](http://www.reddit.com/message/compose?to=%2Fr%2Fhearthstone)**
+---
+The complainers will always be vocal, they play too much and they play in a way they always end up fighting other people netdecking. 
+---
+I want Blizzard to care about the format, adding ranked rewards for it would just make the mode worse. Right now I can play all month without getting pissed off at fighting the same couple of cheap trick decks all the time. That would change if every player had a reward incentive to shit through X wild games.
+---
+I watched firebat yesterday dismantle some warrior at top 20 legend with his rogue by togwaggle scheming lifedrinkers into his deck.
+---
+Created by: Messenger Raven
+---
+[https://compete.kotaku.com/hearthstones-randomness-can-be-tough-for-pros-to-swallo-1823835943](https://compete.kotaku.com/hearthstones-randomness-can-be-tough-for-pros-to-swallo-1823835943)
+---
+An opponents Freezing Trap destroyed my shrine on boss 8 once. I lost that match. :'(
+---
+0 mana zillis my friend, pretty OP
+---
+I did misplay in another way though: I shouldn't have attacked with the first Zilli before drawing, should've seen if I drew a second/third one, then attached them and heal for 6/9 even 12 if I were really lucky. Even if I did that I'd have died though, so I was screwed regardless.
+---
+rAcIsT
+---
+Oh, I looked up the deck online before I commented.
+---
+This expansion was an RNG filled balance nightmare and one of the most unfun metas in history. I'll glady forget it.
+---
+Me losing? Not today.
+---
+I play my decks only in ranked too. I share them with the community. My only purpose is to let players have fun with fresh decks... 
+---
+IDGAF to the meta, to my rank, or to win or loose, IDGAF at all. It's a game, and people like you are taking it too seriously (risking what? Losing stars? Is this a joke?) in casual too.
+---
+When she said "You have no idea what I'm capable of!", she *meant* it.
+---
+Well that's weird because ass hat is the proper saying, if you say hat ass, people must think you're insane
+---
+Pro Hearthstone players say:
+---
+ [https://compete.kotaku.com/hearthstones-randomness-can-be-tough-for-pros-to-swallo-1823835943](https://compete.kotaku.com/hearthstones-randomness-can-be-tough-for-pros-to-swallo-1823835943)
+---
+"I must not got complacent".
+---
+Iiiiiii'm not sure that word means what you think it means...
+---
+Yup, seriously. Not only was that set super unbalanced (Hello Shamanstone, hello Spirit Claws and Maelstrom Portal) but it was also filled with dumb random card generation (Swashburglar, Babbling Book, Portals)
+---
+Look up midrange hunter. You can make that deck pretty much with beast master and what ever other beasts you have.
+---
+you can spend your time arguing semantics if you'd like, but my intended statement was clear and valid. perhaps reread it a few times until you understand it better
+---
+[removed]
+---

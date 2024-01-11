@@ -1,0 +1,1984 @@
+since the switch to amazon servers my ping went from a stable 250 to a stable 300 +,along with normal lag came TP lag and a few months ago the TP got even worse.
+---
+---
+---
+PoF was 30 base price. 37 percent is 11 off, and the best discount thus far has been 50 percent, so 15 off. How much do you care about 4 bucks?
+---
+Electro-Whirl not working in the new mist arena since its introduction. Not only does it not reflect enemy projectiles, I had a friend stand on one of the OOC pillars and use ele staff projectiles on me, and it REFLECTS FRIENDLY PROJECTILES. 
+---
+
+---
+Why is that even a thing?
+---
+Gem store items do not cost work or effort or time, so they should be toggle-able. Infusions are a slightly different matter but even more cancerous since they can directly affect my ability to see who I'm trying to fight in battle, and that is basically game-breaking. I don't know what Anet is waiting for because it really is time to be able to disable what has been a near complete forfeit of the original design mantra.
+---
+That's not what they said, though.
+---
+If you're on NA I'd be happy to show you around and give you some tips.
+---
+The glitch when you run funny like eith a twisted body when you carry a bundle as a charr sometimes
+---
+Yeah you want to cram Greatsword 5 4 2, Focus 5 4, Scepter 2 and both your Traps into those 8 seconds while you ware connected to the Boss with your F1 Spearthrow.
+---
+Your Main Burst comes most definitly from Greatsword and that [Utility Trap](https://wiki.guildwars2.com/wiki/Procession_of_Blades) so you want to delay those skills until the breakbar of said Boss is gone.
+---
+Since Greatsword 5 and Focus 4 apply "DoTs" - I'd consider both a DoT based on power unlike normal conditions wich scale with conditiondamage, so you want to apply those first so they can damage for their dull duration and don't waste ticks into Boss phases where they go invulnerable.
+---
+&amp;#x200B;
+---
+So ideally you run into the Boss, while running into melee range you allrdy cast Scepter 2 (wich has a 5sec cooldown and can therefore be wasted to check if the Boss is active or not) and then use Focus 4. You most definitly **DON'T** want to use Focus 4 first, if you fail that because the Boss is immun you loose quite a bit of dps. After that you can consider stunning the Boss with Scepter 3, then its Time for your Spearthrow F1 to increase the damage of your following burst / CC from Ultimate Trap "Dragon's Maw" and your "Bane Signet" (+ Perfect Inscriptions), meanwhile your Scepter 2 might be ready again to use it and before changing Weapons use Focus 5 to save your actual Burst from Interrupts.
+---
+Thats all just perperation --
+---
+After changing Weapons you want to use Greatsword 5 either to stun the Boss again or for dps followed by your "Procession of Blades" Utility Trap + Greatsword 4 2 for max damage.
+---
+So you have all hard hitting skills within that 8 sec Spearthrow Window of yours wich increase your overall damage by 20%. Your Scepter 2 and Greatsword 4 will also push your overall dps by 10% and since you applied both your DoTs (Focus 4, Greatsword 5) before the Breakbar of the Boss is gone they also tick during the exposed debuff.
+---
+As Dragonhunter you just try to prepare and cram every damage source into those 5sec so you gain another 50% damage for free.
+---
+If your Group is good those Bosses usually don't stac active for long, most of them just start phasing into different mechanics by then.
+---
+Also its kinda important to stay on Boss to deal damage so I kinda like the "Stand your Ground" Stability shout since it also hits your entire raid with 5 stacks for 5sec. I also mostly use Focus 5 for defense to facetank mechanics while DPSing and not for that meme explosion at the end.
+---
+Bursting in fractals is highly dependant on your groups composition, if you used all your skills for CC and Boss is still not broken there is something wrong with your Teammates!
+---
+Guardians "Bane Signet" + Perfect Inscriptions should be one of the last CCs hitting the Boss before his exposure, so your 10sec Buff from Inscriptions is active on your entire group while you deal 50% more damage.
+---
+If your group is asleep and lacks CC you should call that out, fights just take longer and therefore lead to more fails etc.
+---
+DPS is highly dependant on the encounter, your group-composition, if the Boss focusses you or not, if your healer is shit ^(fuck Druids) *^(\*cough\*)* and subjection of different mechanics.
+---
+But you should at least allways pull upwards of 10k+ dps!
+---
+[You should get ARCdps yourself](http://lmgtfy.com/?q=ARCdps) to doublecheck!
+---
+Giggity.
+---
+As far as boons, go, the dominance of Druid + 2x Chronos has been finally broken. They're still both _playable_, for sure, but there are now legitimate reasons to run alternate comps. In raids, expect to see boon and heal Tempests, and even support _Scourges_ on occasion covering your heals and might uptime. On the Chrono side, you can replace them with a Renegade on 10-man Alacrity and up to 2 Firebrands for 5-man Quickness (with one FB potentially replaced by a Chrono for utility).
+---
+On the DPS side, there's been a few shifts, though nothing on the same level. Staff Weaver is toast, but alternate Weaver versions remain top of the scoreboard. There's a few odd changes, like power Soulbeast catching up to condi and Mirage being top-tier on many fights, but mostly it's just tweaks to which class happens to be on top this month.
+---
+I really don't think she's perma-gone. If she is, then that's that, but I'm too genre-savvy at this point. I don't see a point in speculating how, so I'll just wait until we get there.
+---
+If you're looking to build another DPS, then I'd lean towards Mirage, myself. Between that and power Ele, you've got a very good answer to _most_ fights in the game. Fights like Sab/Gorseval/KC that reward power damage are heavenly for Eles, and fights like Matt/SH/Twins that enable your conditions are great for Mirage. Between [Sword Weaver](https://snowcrows.com/raids/builds/elementalist/weaver/sword/) and [Condition Mirage](https://snowcrows.com/raids/builds/mesmer/mirage/condition/), you have a top-tier DPS for every raid encounter in the game.
+---
+The _other_ upside to building up a Mirage is that, by sheer coincidence, you'll _also_ have built up a Chronomancer. Support Chrono remains invaluable - even though their boons can be supplied by alternate classes, their utility (mainly focus pull, plus a few niches like Feedback, free boon removal, and burst CC) means they remain irreplaceable on a lot of fights, and are still meta on basically every _other_ fight. Power Chrono is also a good DPS build with some _absurd_ burst potential, and so long as you can pull off the rotation you'll have a good alternative if you get bored of Weaver.
+---
+Of course, you could always build a support role. Speaking as a raid leader, I'll always recommend support roles when players ask for alt advice, mainly because I become very sad when I have to beg the same couple of people to sit in support prison every week. But if your heart is set on a DPS, Mirage would be my advice.
+---
+Troll or not, you have to realize that **choosing** to work for something you don't have to is not the same as only being able to obtain it by working hard. I don't want a toggle that makes everyone look like the purple silhouette standard model, I want options to control how much other people's choices limit my fps without having to also turn down the settings that **didn't** affect my fps nearly as drastically in the first place.
+---
+Lineage 2 features fishing rods and lures of various tiers and special boosters which were speeding up fishing process (the basic game feature of spirit and soul shots adapted for fishing). Beside the fishes you could occasionally catch an enraged monster you had to kill. Caught fish could be opened which resulted in getting crafting materials and recipes or exchanged for further fishing related item. 
+---
+Since we can swim without bothering for air in GW2, we could have also underwater fishing with nets or even setting up traps for crabs. 
+---
+Monetization could include fishing rods, nets, traps and maybe even boats (since technology for swimming in one exists already - Sandswept Isles has this little boat that runs on "channel" between islands).
+---
+Fishing and fishes would definitely affect Chef crafting discipline - both could be included with one feature release in the future - Mike said they're going to rework Chef so food would be meaningful since very low levels.
+---
+Lol get a fucking life
+---
+They are likely related to [Celestial](https://wiki.guildwars.com/wiki/Celestial) creatures in some way. 
+---
+Maybe they are "Celestial" elementals from a celestial plane, like how walking plants seem to be 'plant elementals'.
+---
+Thank you very much for that detailed writeup! Really appreciate it!
+---
+I actually made a mesmer and got her to level 80 a year back just so I could have a chronomancer support for fractals and raids, so that was actually the one class I didn't want to make another character for alongside the elementalist lol. But I'm glad to know that my mesmer will always be useful :)
+---
+Are there any easy/basic power builds? I'm kinda eyeing up dragonhunter and the other warrior specialisation that's not berserker cos they look cool. Revenant also.
+---
+Anyone without any should buy a Copperfed first. Then get a Runecrafter's or Silverfed.
+---
+As for what matic to use on what item based on profit to salvage cost...
+---
+Everything lower than rare: Copperfed/basic is best
+---
+Rare gear level 68 or higher: Silverfed/mystic/master's is best
+---
+Rare gear level 67 or lower: RC is best if you care about runecrafting mats. Otherwise, copperfed/basic
+---
+In terms of worth: copper &gt; silver &gt; rune
+---
+People just love to argue instead that because you can choose to work for the gold to afford gem store items, there is the "issue" of people getting offended by the idea that you could choose not to see their rainbow-golden-neon-inverse-bee-snow-flower-heart god sitting on top of a 4 colored flaming something that is too bright to tell what it is without sound on to hear it. Every argument against it is the same, people feel that having the option to work hard for something means you should be able to force others to see it no matter what settings they play on, and never admit that it is affecting gameplay, visibility, and fps to a degree never before experienced in game. They **never** bring up that point because it would be admitting there are bigger issues than how artificially offended they feel about my decision to participate in their self-image.
+---
+No.
+---
+In game reasons why i don't think Aurene is dead-dead-
+---
+Ogden said that Aurene needed to eat Joko to complete the prophesy
+---
+Glint took us aside and gave us our prize for completing the trial. The "prize" was hope. WTF would we need hope to take on Kralk? We are crazy dragon/god killing monsters. Commander has confidence coming out of her arse. No the hope was for what came after
+---
+Out of game reasons Aurene isn't dead-
+---
+No way ANet is going to kill off a cash-cow like Aurene.  They are manipulating our feelings for the big emotional roller coaster
+---
+You, and every other argument against a toggle, ignore the actual performance impact it has had on every player who plays. It is a more serious issue now than it ever was before, and speaks volumes to the mount designs they did end up releasing for the WvW mount. They are aware it has had a negative impact on the game in every way other than making players look and feel better, and there is no argument there, gem store items are cool as hell, but the lack of control of their visuals is forcing me to change gameplay settings I have never needed to change before, and even then the changes are so minimal that my fps still is a difference of 20 or more now when flashy players and mounts are on my screen, and thats with everything turned down and player model and quality set to low. Forcing me to put it on lowest and make my game look like a potato just to be normally when I never had to do that in the past is simply not ok.
+---
+Yes.
+---
+[removed]
+---
+This post is totally unrelated to the gemstore. U complain about visual clutter - well guess what, most of that is legendary items, combat effects from armor and weapons - all of which arnt obtainable via the gemstore. 
+---
+And whos for you to decide what a player should feel proud of obtaining? Some people work irl to save up money to go out, and some spend it on things they like: such as games... Wether the work is done in or out of the game doesnt matter - its still work. 
+---
+You will probably find most the gemstore sells are also related to mounts: of which arnt even usable in combat and gl getting anet to make a mount visability toggle lmfao.
+---
+I haven't noticed any issues. What specifically are you trying to do and where is it going wrong? Also make sure you set the traits up in pvp too, as they're separate from your pve and wvw traits.
+---
+the trait seems to be bug, you dont get regen when you have that trait.
+---
+I have long forgotten the fact that this game is anything but an online platform where I chat with friends, frequent some raid bosses and crossing off my list of daily tasks. In a way, it's more thrilling to spot a spectacular fashionable oddity which can be both norm-breaking and immersion breaking. Every RPG has a definite life span after we the player exhaust their story and content. Constricting within that expired world settings won't relive you that first moment of awe and fun. I would care less to what others think about how I dress my character either.
+---
+Get another stick of RAM. If you're using your current RAM still, don't buy any faster new stuff because it'll down scale to the slowest stick of RAM on the motherboard. I'd you want faster RAM you'll have to replace it all. But you don't need to. For small upgrades, just get another stick about the same as what you've got. 
+---
+The other bottleneck is your GPU. It only has 2GB of VRAM which runs out pretty quickly when you're loading a bunch more textures. Look for one of the suggested ones and get the one in your budget. 
+---
+That should stop the spikes. Also check your graphics settings, there are some that are pretty heavy on the GPU. Like shadows and textures. Have a play, you might find that fixing your settings might be good enough to give you over until you get a shiny new PC
+---
+Mike z said it himself. They have been talking about templates for ages and in his recent blog post he mentioned that some players had already caught on that they were coming because of certain changes they started to slip in during patches, like the separation of land and water builds in the UI. He also said in the Reddit thread where he posted links to all the videos that they have been planning marketing for the past 12 months. People asked him why now when MO had a different stance in marketing a (at the time) 5 year old game and he said he had a different vision based on his experience of working in the MMO industry and felt a full 360 approach to marketing would help the game. He got the internal backing to go ahead with it and now here we are at the beginning of what will be an "aggressive" (his word) marketing campaign.
+---
+Former pro late 2012 here, was having a lot of loading issues because of the video card.
+---
+Have a pro 2018 now cause of work and I was really enjoying Gw2, but then I tried with bootcamp and well, let’s just say it’s so much smoother.
+---
+So totally bootcamp it and play on windows, you will notice the difference!
+---
+I was talking about the horse stuck in the fence.
+---
+Maybe with Palm thingy?
+---
+lmao if only this was your argument when you came to **my** post about the exact same problem.
+---
+You should've built a pineapple house next to one of those slab houses as an Easter egg (Easter island egg that is, hahaahahaaa, get it?^(I'll leave now))
+---
+Absolutely love that the Sylvari are oddballs who haven’t yet grasped how to act and speak. Like the bit about murdering, which would make the other races very uncomfortable.
+---
+The amount of people using the Angel/devil sets and other NPC sets as you have called them is a very minority of the population of the game. 
+---
+Don't try to mention Nezha set ass immersion breaking, it is very simmilar to what monks wear in FFXIV besides there are a lot of short pants.
+---
+Don't get me wrong, I know FFXIV has some riddiculous outfits too but if you take a look at the cities and other HUB places you can see that it fits the theme of their world or at least most of them does. GW2 doesn't accomplish that. 
+---
+But it's just my opinion, and people is free to disagree with it. I knew that it is an unpopular opinion, otherwise players wouldn't buy them and Anet wouldn't sell them.
+---
+“Character model quality” controls the number of fully rendered player models. When set to lowest, all players will use a generic model with 0 visual clutter
+---
+It’s not what you’re asking for as it’s more extreme, but that’s all we got for now
+---
+Ofc in open world metas I do that but in raids for example you have to have model limit to at least medium to see all mechanics. Having model quality to lowest makes everyone look like greyish poop and everyone is doing the slam-fist-to-ground animation. Doesn't look better imo.
+---
+Haven't run raids (successfully) till mid 2018 and haven't seen much of w5+6 by now, so didn't know about that.
+---
+But they keep their cap for 100 shards for 2 wings and I would guess the little gap between a smooth full clear and the cap is there to let players consider to run at least one extra boss for the call, so they will support pugs that way
+---
+you guys are fair to criticize the angle i approached this from. I need to improve that. Can we be friends here. I will be putting more effort into wording my contributions to this subreddit.
+---
+I've never said I'm only interested in the content nor have I said I don't give a fuck about the communication. I've not stated my "feelings" at all. 
+---
+You're allowing your butt-hurt to cloud your comprehension because "oh no, the stranger on the internet told me I was wrong about something".
+---
+Let's say this one more time. Nice and clear. Pay attention now.
+---
+Their marketing was planned for 12 months. It didn't happen as a result of the layoffs. Mike Z said it on Reddit.
+---
+Their recent transparency did happen as a result of the layoffs. It was a PR manoeuvre because we (The GW2 community) were deeply unsettled by what happened. No-one  saw it coming and it worried people that the game might be dying. Check out the forums for all those fun posts. Want proof that the blog post was related to the layoffs? Read it. It talks about people feeling uncertain th them wanting to give us a better idea of the roadmap. It even says not everything is promised but they want to let us know that yes, they are working on stuff. And that the game isn't being forgotten or dying.
+---
+However. This transparency is not an indicator that their communication strategy has suddenly changed overnight and will be changed going forward. It IS an indicator that they are managing the PR fallout of what happened. Only time will tell (more than a few weeks immediately after the layoffs).
+---
+What we are seeing is a business managing it's customers expectations to avoid big losses. A business who are having to double down on their only money maker.
+---
+Now, stop trying to drag us into discussions about content, stop straw manning me claiming you know how I feel about content,or communication, or anything else. Stick to the topic at hand and learn to comprehend what is being said to you. This is a discussion about their recent communication after the layoffs, and my stance is that what we are seeing right now in no way indicates we will see it consistently moving forward. We have to wait and see and let the dust settle.
+---
+Hmmmm how about getting some AR?
+---
+Yeah if it gets downvoted enough then there is no desire to continue the post or the discussion. I am not proud of the posts I have decided to delete. I will stop deleting them as I fix myself and stop posting when I'm emotionally riled up from spending too much time on the internet and reading clickbait that gets me angry at the state of things. The internet can be junk food for the brain and I in turn tend to make junk-food posts from junk-food angles. I might even make a new account because idk its the internet we can do that, but I promise I will try to be better when I come back to this subreddit next time I have something to say.
+---
+It's a tricky situation. On one hand I want to see that there are actual players around me. If I only see 5 players and 21 floating names it feels kinda strange but I also don't want to have 20 fps. A button toggle for low and medium quantity would be convinient. But yes, you're right. In the end I just roll with it, even if it sucks.
+---
+While I appreciate how quickly you deleted your account in shame, I guess it wouldn't hurt to reiterate *there's already a toggle for performance*. You want a setting, but you don't want to use that setting?
+---
+???????
+---
+Can you give me more depth?
+---
+They already addressed the issues you raised and removed duo queue last time. for the very same reasons. They brought back because they simply don't care about ranked anymore as evidenced by all the title removing and dancing around. I'm fairly sure they just reached a point of, trying to please everyone as much as possible. And when i said don't care, i mean they simply gave up, and it is just making things "fun" for everyone. Duo queueing is fun to do with friends, and that's why they added, it was literally said.
+---
+The world could always use more ~~heros~~ chronos.
+---
+It's true.
+---
+DuoQ takes away from the competitiveness. This is neither a controversial, or in fact incorrect statement.
+---
+That said, for many high tier players, soloQ killed the game for them. You have to understand just how bad players are in comparison. I am by no means the best player in the game, but the number of just... terrible terrible decisions that have no solid reasoning behind them that are made in games is astounding.
+---
+DuoQ limits just how bad your team is. It takes the game from a 1v9 (I wish I was joking) to a 2v8. You also have a lot more fun since you are playing with friends.
+---
+When ArenaNet was talking about adding duoQ back, that decision was purely made because the high level population was just quitting as the game was no fun.
+---
+Most of the "fashion" items you can get from the store in FFXIV goes well with the world they are building. 
+---
+I don't refuse that some of the items have an ingame reason to be, for example, the azuran mounts. But the Mist as excuse to add whatever they want into the game is getting old. 
+---
+I invite you to show me anything in FFXIV that looks like this:  [https://media.discordapp.net/attachments/210525801014099969/339909700130963457/unknown.png](https://media.discordapp.net/attachments/210525801014099969/339909700130963457/unknown.png)
+---
+The big advantage of scepter was that you could shatter often and stack lots of confusion. The [cry of pain nerf](https://wiki.guildwars2.com/wiki/Cry_of_Pain) hit it pretty hard in terms of shatter confusion. Snowcrows patch notes:
+---
+&gt; • Condition Mirage
+---
+Scepter has been removed as it saw no gameplay. Axe was better in all situations.
+---
+Nope, they are still obtainable via gemstones
+---
+Noticed this ages ago too. An easy solve would be to make the qadim pre event give 5 crystals.
+---
+I'm not sure if the /stuck command works while in-combat, I've only used it a few times over the years.  If you're out-of-combat be sure to not press anything until it ports you, and I think you can only attempt it once every 2 min.
+---
+The -repair does a scan of the .dat and repairs any corrupted files it finds (the cutscene script in this case?).
+---
+The theory behind some of these solutions is that (somewhere along the way) your connection to the server is being dropped due to inactivity.  A video might keep your internet connection active, while spamming commands keeps your connection to the game server active.
+---
+-clientport 443 routes the game's traffic through the https port (which can be useful in a few edge cases).  The idea here is that sometimes routers and/or ISPs give priority to different ports, and might have a shorter "timeout" length on a game port, but a longer timeout on an important and widely used port like 443.
+---
+Trying a different network interfaces, resetting equipment, and changing/double-checking settings is just general troubleshooting.
+---
+Anecdotally, these have worked for other players in the past.  Not a cure-all, but worth a shot.
+---
+Another idea to try: someone else hosts the instance and you co-op with them - maybe it won't disconnect then?
+---
+All I know is some people have connection issues during cutscenes and some people don't.  I've never had an problem with it across 3 different computers and 3 different ISPs/Routers/cities in the US, but some players have it consistently plaque them.
+---
+If you leave a map or instance and come back, or if you move more than 5000 range away and then closer again\*, anyone nearby who was using persistent emotes such as /sit or /crossarms when you left, will display a message in chat informing you that they are performing that emote, but your client will now show them in the default idle stance. This one is *really* old, but still annoying.
+---
+\*This second trigger doesn't apply to party members, since your client renders party members' character models at any distance in the same map or instance.
+---
+Personally, I’m a fan of thief, mesmer, and guardian. 
+---
+I love the on-your-feet and high-movement style of thieves. You can deal a lot of damage and stay on your toes, not to mention that there’s just some really cool-looking attacks. I like the story potential with thieves too; where they a petty thief that grew up on the streets of Divinity’s Reach, fighting for every scrap, only to rise up and be so much more, a leader and guide to the people of Tyria? Were they a member of the Ash Legion, sworn to duty? A young sylvari, taught by others to gain the skill they have today?
+---
+It’s really fun to summon clones and whatnot with mesmers (not to mention I’m just a fan of the aesthetic). I’m not terribly well-versed in a lot of games as I tend to stick with one for a while before moving on, but mesmers are also pretty unique as far as classes/professions tend to go in many MMOs and RPGs. Again, really cool-looking attacks and lots of story potential if you’re the kind of type that likes to build onto the characters you make.
+---
+At first, I wasn’t terribly fond of playing guardian, but I’m really glad I have them a second chance. I like their high survivability, potential  for being more of a support. Not to mention that it’s just fun to play with fire. There’s something just really satisfying to be playing with someone and to shield them at just the right time while they go in for a critical hit. It’s nice to see party members being able to go at something without worrying as much. 
+---
+With all of them, I like the potential for condition damage.  
+---
+Keep in mind though, while these classes might jive with me, they might not for you—and that’s okay. Don’t be afraid to play around a bit and have fun, that’s what this is all about in the end. Good luck!! 
+---
+TLDR: I like thieves, mesmers, and guardians. You might, you might not. Mess around and find what you enjoy playing the best. Enjoy yourself.
+---
+Warrior.
+---
+* Can be as complex as you want, juggling physical skills, or simple with all signets with both working just fine for open world stuff.
+---
+* All three specs (core, Berserker, Spellbreaker) are viable for raiding.
+---
+* Good in WvW (don't PvP so unsure there).
+---
+* Good in raids.
+---
+* Lots of CC (handy when doing open world stuff and no one else can break bars).
+---
+* Heavy armour (not many buttcapes!) and all races look good in it. (I'm a charr main so this is a big deal for me :p )
+---
+* Satisfying to smack things with a hammer or dissolve them with axes.
+---
+* Multiple viable weapon sets, depending what mode you're playing in.
+---
+* Don't have to juggle 4-5 function buttons.
+---
+* Core and spellbreaker are power, berserker is condi, so you have access to both damage types.
+---
+* Easy to play when leveling.
+---
+Only downside is the two ranged weapons (rifle and longbow) aren't great.
+---
+Simply put, I find warrior is the best jack of all trades class and as such you can change it up to play something that works for you. It may not always top charts and other classes/specs may be able to do things a bit better, but it's reliable. And the full original quote is "A jack of all trades is a master of none, but oftentimes better than a master of one" and I'm definitely someone who prefers flexibility in their MMO classes and not having to worry about shelving a character after a balance patch because the one thing they're good at got nerfed hard.
+---
+Also did my time playing complicated classes way back when I played WoW so now appreciate kicking back and relaxing and not micromanaging rotations. But everyone is different so a class being simple can be both pro and con.
+---
+Signed,
+---
+A fully biased warrior main.
+---
+It's so you can stand within the circle because you're afflicted with stacks of ar that reduce your healing by 70%
+---
+I appreciate your personal opinion.  
+---
+I really like the story of the Thieves as well. Thank you :)
+---
+In the meantime you might want to try the d912pxy addon? It’s legal and has the potential to achieve a ~200% boost for min FPS in high draw call load conditions. It’s a bandaid fix of course, but it might make the game slightly more bearable until you can get your new computer.
+---
+Left her mortal body in Tyria, and went to the Mist. Pretty sure we gonna met with ghost Aurene sometime later.
+---
+I said that 2 years ago. I still haven't been back to SAB...
+---
+Play Chrono.
+---
+* You'll almost always find a group
+---
+* If you feel like it and have the eq you can always switch to Power DPS or Condi DPS (Mirage)
+---
+* Continuum Split is fun as hell to use and the rotations actually feel satisfying once you know them
+---
+* The wells are basically the only player-ability in this game that has actual sound design, so everyone will always hear them and their sounds are awesome.
+---
+There's reddit.
+---
+Its actually only gotten more consistent as time has gone on. Retail stores in the state I live in used to not charge tax on digital currencies like gems, and if you bought a $25 card it was only $25. there was a sale once and I got $25 worth of gems for 20 bucks lmao. I don't remember when the law changed but I guess it went from a state-by-state precedent to a national standard as I dont hear about people buying gems without tax applied anymore. At the time the tax wasn't applied to physical cards, the state tax would still be applied to the transaction if I was making it through the in game gem purchasing interface. That hasnt changed.
+---
+&gt; Like I said before, I understand where you are coming from, but unfortunately you are still a minority, and minority that was catered to and now we are seeing the consequences of it.
+---
+The important thing to remember is that in a 'competitive' game, you always cater to the highest level of players with few exceptions. They're the ones that get the rewards, they're the ones that get the most balance focus (though its worth noting that no one really gets any balance focus in gw2), etc etc.
+---
+Before this decision, they'd never really focused on the high level players. Even during Pro League, sure they were chucking money around, but no balance came through for certain stuff. Features like proper leaderboard and ATs came way after. So ye. I can tell you the game would have been in a much better place if they'd started focusing on the high level players a lot earlier on.
+---
+Thanks for the honest  opinion. My biggest drawback is how squishy the Elementist is compared to other classes who can do less and gain more without the big risk of dying. :(
+---
+[you buy super clouds](https://wiki.guildwars2.com/wiki/Super_Cloud) with [fancy furniture coins](https://wiki.guildwars2.com/wiki/Fancy_Furniture_Coin) which you get from furniture shops inside each zone or buy them from other players or buy them with baubles once you finish the master of decor achiev for every world   
+---
+and for the [guild hall music](https://wiki.guildwars2.com/wiki/Guild_Hall_Music:_Super_Adventure_Box) and [anthem](https://wiki.guildwars2.com/wiki/Super_Guild_Anthem), you need boom boxes and continue coins
+---
+Maybe 1% as efficient as real gold farms.  
+---
+If you are solo, just go to bitterfrost frontier with every character. Takes 10 minutes to round up all the chests.
+---
+I'm working on unlocking spellbreaker myself. Not totally sold on the warrior play style yet. I ended up shelving my firebrand after the last round of nerfs, and going back to my viper renegade. I love the condi rev playstyle, but I wanted something more capable of soloing harder content like meta/group events and bounties. Renegade has the damage, but is super glassy. So far, warrior has been harder to kill, but harder to get used to. Ended up losing a fight to a PoF hero challenge after a veteran hydra wandered in and beat me in a war of attrition. But I've only been playing warrior for about the past 12 hours, so I still have no idea what I'm doing.
+---
+Sometimes (at least on my system), mount animations don't show properly, and only show the first frame on certain characters. Sometimes it's me, sometimes it's people around me, but it's never everyone, and if the bug shows on someone, it doesn't leave them until I change zones. I don't remember it fixing when I just relog. It's kinda funny at the start, but it can get annoying if you're in a large squad where there are a lot of mounted people and half of them are on a sliding raptor instead of a running one, or if your griffon is bouncing up and down without flapping its wings. 
+---
+Sitting on a skimmer without moving is the funniest, though. The mount-up animation, the first frame of which displays with this bug when you're standing still, is *underground*. Most of the others just have your character standing with one leg on the ground and the other on your mount, and your mount is curled up really weirdly.
+---
+Core revenant is pretty mediocre. Not unplayable, just pretty meh. But once you unlock the Herald elite specification, they get pretty darned good, becoming, among other things, almost the only ranged class that doesn't suck.
+---
+Are we talking pve, wvw or in general?
+---
+I'm not a huge fan of dying often myself :p  
+---
+Would like to get an update when you figure it out.
+---
+just play daredevil staff and dodge all day
+---
+Off topic, but does anyone else have *extreme* trouble trying to dodge the red orbs in that fractal? My ping is usually around 180. (Yay Alaska!)
+---
+They will revise it im sure when wing 7 comes out.
+---
+I main warrior, don't be fooled by the jack of all trade line in end game content PVE. You'll be a slave to the banners.
+---
+Other than that its super fun, including PvP where Warrior shines as a roaming bruiser. There are better blinkers obviously but the trade off is you'll kill most classes in a 1v1.
+---
+For Open World PVE warrior provides an enjoyable experience throughout every level and most of its melee option weapons are viable.
+---
+I don't do WvW much but warrior is not meta and unless you're playing SB you'll bring nothing to the group expect for being another body that needs healing.
+---
+Get a job you bum
+---
+What gear are you using for your warrior? 
+---
+If you only want to be unkillable in PVE there are specific gear sets you can use to maximize survivability to the point where you brush of all damage.
+---
+With endurance food and a support Firebrand your team
+---
+It gets nerfed but never stops being overpowered.
+---
+Teach me.... i die... alot... on story missions in poe... i get overwhelmed buy alot of enemys
+---
+And then what? If the people don't raid, what are they going to use the gaeting crystals on? They'd need to have killed the relevant boss to access the skins and there isn't any advantageous power progression to be had by farming the events, unlike farming trash drops in WoW raids back during Cataclysm.
+---
+You can actually disable that in the settings, thank god! I found it kinda recently, it's under General Options at the very very bottom - "Mounts" - "Mount: Enable Camera Roll". Uncheck that box.
+---
+(Unless this is something else that I just never noticed anyway...)
+---
+HEY NERD.
+---
+LOUD NOISES. 
+---
+YOU WANNA HAVE DUMMY FUN?
+---
+GO RANGER
+---
+FIGHT FROM ANY RANGE. FIGHT UP CLOSE. FIGHT FROM AFAR. FIGHT YOUR MOTHER. DOESNT MATTER.
+---
+MAGIC? YOU BET YOUR MYSTIC CLOVERS WE HAVE MAGIC. WANNA HEAL? DRUID. WANNA BE A POISONOUS FURRY? SOULBEAST. LIKE NATURE? CORE.
+---
+AND PETS? YOURE AN IDIOT. WE HAVE ALL OF THEM. WE TRAIN DINOSAURS MOUSE AND YOU BETTER GET IT. YOU THINK WARRIOR CAN ROLL UP WITH A LION MADE OF SAND? NO.
+---
+DO EVERYTHING IN THE GAME WITHOUT BEING MIRAGE. AND SHORTBOW? ITS JUST CRACK. YOU GET PERMA SWIFTNESS. SCREW TRAVELER RUNES. PLACE MORE TRAPS THAN A YU GI OH SEASON. PLAY RANGER.
+---
+YES.
+---
+Yes. And since Glint herself was unable to see beyond her own death, Aurene wouldn’t be able to either. However, all that we know is that Aurene was destined die in every possible outcome. What we don’t know is if she is destined to remain dead. 
+---
+If there were even one outcome in which Aurene returned to life (creating a future for her to see) I imagine she would work toward that future. She’d still have to die obviously - which is a lot to ask - but she could plan her return. If this is what’s going on, I don’t see this a cheapening of death that some players worry about. It’s not so much a cheap resurrection plot device. It’s something that Aurene (or, more likely, Glint) planned out in advance. 
+---
+This theory would also explain what Glint meant when she said that the commander, as Aurene’s champion, would be the “keeper of hope” in the days of head. The commander will hold the alliance together until Aurene’s return. Hope is only necessary, after all, in the face of uncertainty. What it doesn’t explain is why Aurene didn’t say anything to anyone. There are some plausible explanations for this though. The most obvious one is that NOT telling anyone produces the most  preferred outcome of those that Aurene foresaw.
+---
+Are you level 80 with full Spellbreaker unlocked?
+---
+I use full Knight armor with Scholar runes. 
+---
+My weapons are GS and A/A all Assassins. Sigils are Accuracy and Energy on both. 
+---
+All my accessory, rings, back item and amulet are Captains. 
+---
+For my spec I run: 
+---
+Strength- Peak Performance, Forceful Greatsword, and Might Makes Right. 
+---
+Defense- Cull the Weak, Armored Attack, and Rousing Resilience 
+---
+Spellbreaker- Pure Strike, Slow Counter, and Magebane Tether. 
+---
+My skills are: 
+---
+Healing Signet (Don't touch this)
+---
+Kick for Peak Performance proc. 
+---
+Shake it Off for stun break for Rousing Resilience proc. 
+---
+Dolyak Signet for reduced damage and stability if I feel I need it before a burst. 
+---
+Signet of Rage to upkeep Fury.
+---
+Unfortunately there's a power outage and I'm on mobile on a dying phone so I can't explain too much in detail but I'll write a follow up later that explains the build more. I've also been testing out D/D over A/A using Sun and Moon for the extra healing and I have to say I love it but the DPS loss is huge.
+---
+how long does it take for the judges to spawn in the necroplis event chain? i did the first one where you decide the fate of dead people but i have been waiting 20 minutes for the judges to start spawning
+---
+Erm.. gamers aren't necessarily nerds..
+---
+Nerds are like booksmart. You can be a gamer without having to open a single book in your life.
+---
+Geek is a different story. If you fanboi/or fangirl on a game, electronic devices, yes manga and anime are in this category, you are classified as geek.Pmuch any hobby you are obsessed in that can be done in your room.
+---
+/stuck works while in combat, needed to use it once in escort as towerchrono :D
+---
+You knew her as [Symon](https://wiki.guildwars2.com/wiki/Aid_Worker_Sya)
+---
+Took a couple weeks off and it looks like we are back to the bunker meta in pvp. Was there any word on whether they plan on making any changes soon?
+---
+tell you what, why don't you link me exactly to the rotation you want, because I thought discretize was a pretty good fractal guild, but your telling me their opener is shit:
+---
+https://discretize.eu/builds/guardian/power-dragonhunter
+---
+Perhaps your confused because you don't see procession of blades + spear of justice in my rotation at the start.  However, that is because arc doesn't log the first couple attacks.  You can see this effect in roul's rotation here:
+---
+https://dps.report/sW4f-20190306-123053_golem
+---
+Ehhh, not really. At platinum level you start to learn the majority of players by name. That or you block the majority of players. LOL
+---
+Or necro/reaper:
+---
+Enemies hit me with AoE, I don't die. Enemies hir me with projectiles, I don't die... And so on
+---
+If it does, it's minimal. It's doing some relatively simple calculations the whole time, which could put some demand on your processor, but it shouldn't be a major drain.
+---
+Engineer.
+---
+Everything else is too boring.
+---
+Good to know, thanks!
+---
+Yooo this totally spoiled me :C
+---
+As someone with Dungeon Master but not Dungeoneer, the title names should absolutely be switched.
+---
+but then if its twice as bad as “bad enough” then you’ll be hitting the orbs again.
+---
+It’s recursing
+---
+I could have dodged that! You had a whole 0.02 seconds of warning there, git gud skrub
+---
+/s
+---
+I rep that on my [Alacrigade](https://i.imgur.com/ZzERVCP.jpg) because he's very knight-like and thorny.
+---
+If your ping is high, but consistent, you might be able to compensate for it. If it fluctuates randomly then you're proper fucked.
+---
+Its hardly an inconvenience when your taught to expect to do math from a young age. I dont hear Anyone complaining about why they need to know how to find the missing measurement of a triangle though, i guess this is why the EU is falling behind and makes posts about how they pay more for gems with out the understanding its a currency value not anet over charging
+---
+They probably had wing 7 in mind, considering w7 story is the continuation of w6. I didn't recall clearing w1+2 enough to cap shards tho - needed w3 to cap.
+---
+Only just started playing again after stopping before any expansions, so this could probably be improved with more recent skins, but here's [my old mesmer.](https://i.imgur.com/O4LME0k.jpg)
+---
+My heal scourge (with the Teapot mass rez build) uses "The Extra Life".
+---
+Asura, wizard hat, scarf, chaos gloves
+---
+Cute forever!
+---
+Revenants exist
+---
+Maybe.
+---
+A lot of speculation never stated in lore I see.
+---
+My mesmer is using [this look](https://imgur.com/a/FMUi9UK) although I am thinking of replacing a few aspects. 
+---
+I'm going to try and grab the requiem legs and maybe using the requiem/sunspear boots. I am attempting to get a blue celestial infusion to match  Astralaria and a touch of madness to replace the torch skin I'm currently using. 
+---
+I don't really know what to replace the gloves with, chaos maybe? It's a pain trying to expose more skin on male armour so that the celestial infusion could really tie the look together. 
+---
+I appreciate any feed back/ suggestions from this high fashion thread though :)
+---
+So why didn't our crystal champion masteries disappear then? if our connection isn't severed, she is somewhere keeping it up i guess.
+---
+Maybe they used Caithe (losing her just received brand) and now Zafirah as red herrings.
+---
+Worse. Bookahs.
+---
+Ive experienced this too, at least I think its a bug with the game, not my hardware.  Friend has reported it to me too, and it has killed teammates in raids a few times.
+---
+Zone 3's ice parts made me question what I had done in life to get here.
+---
+Zone 2 is really only annoying because of octopus, especially the 2nd, and the trampolines at the very end that only work about 50% of the time. Other than that its really just the length of it...
+---
+While I do think its complete BS that you have "gamble" everytime you jump on one and hope it works, if anet will fix it one day it will make the whole thing much easier. 
+---
+Zone 3 tho... so many rockets that you cannot avoid sometimes, the mouths that blow you off ledges and into spikes... so many jumps where one tiny fuck up means restarting from the checkpoint...
+---
+It is absolute overkill in terms complexity.....
+---
+40 ping, same.
+---
+Although it's been a while since I've done that fractal.
+---
+Bloodstone Fen ofcourse, it's the fastest map. 
+---
+Silverwastes and Dry Top are fast too (no hearts).
+---
+After That I did LS3 and 4 maps, because they have no heropoints and only 4-5 hearts. 
+---
+I skipped Draconis Mons because map completion is confusing there and I also skipped Lake Doric with most chars, because the hearts take too long. I think the fastest one is Sirens Landing. each heart take less than a minute to complete, you can fly from poi to poi with griffon and the map itself isn't that big.
+---
+Just wanted to share a few photos from a fun day everyone had a blast! But hey thanks for the feedback really appreciate it; don't go tripping on your way out :)
+---
+If your tanking vg up against the wall, and a a mirage hits axe 3, they have a chance of teleporting outside the wall and insta dying.  As far as I know this is still in the game.  Can also happen with some other random teleport skills.
+---
+I said OR. In the raid case, it wasn't ridiculous to expect more raids at all. But in some cases (precursor crafting for example, when ANet announced it for sometime in the futute) a lot of people started posting their idea of what it would look like and that it should be released by the end of the year. There was pretty huge backlash when it was announced to come with HoT because people for some reason put it in their heads that it would be completely free, cheaper than normal to craft a precursor and that it would've released more than a year before that.
+---
+Nice work!
+---
+Now throw it at people so they can feel the pain of fighting Mirages in real life too!
+---
+YES
+---
+Just a correction: Croatia is part of the EU. They just aren't part of the eurozone.
+---
+Glint/shiro herald in pvp is supposed to be really strong rn. It's got disgusting burst and good mobility. Lacks survivability tho, but just choose your engagements wisely.
+---
+100% agree with you. I forgot how many times the finger rockets killed me right before a checkpoint lol. Yeah the length of z2 actually made it worse for me and felt like more space between checkpoints. Additionally the tree platforms were killing me
+---
+Energy management is what also really makes me love the class. It doesn't feel like I'm micromanaging my energy, but rather playing out the encounter with it in mind. Also half of the time I die it's because I didn't have enough energy to utilize a skill that could have saved me. Which makes it feel like a learning opportunity instead of "I didn't dodge at the right time" my death feels more rewarding because it's a mistake I can learn from.
+---
+Brilliant!
+---
+No, you are poobah
+---
+Because Aurene granted us these abilities and not "used the connection to make these abilities possible". Think of Sohotin, it's still burning, even though Balthazar is dead. There is no reason to lose the masteries, only because Aurene is dead. 
+---
+Also, even that's the case, we have to wait until next episode to be affected. The current episode ended with her death and outside of the story the time is frozen.
+---
+New Aussie player here, tips on not looking like a complete disappointment in fractals?
+---
+for most patterns standing almost still is a better shot than trying to weave through
+---
+be sure to face toward the middle of the puzzle or outward, for some reason the player hitbox seems to be more long than its wide
+---
+And why do I still drop white gear with 300+% MF?
+---
+That's what happens to everybody, when he died. o.o
+---
+I don't know if these adds are actually new. Looks more to me like this is a long forgotten advertisement spot as all these things there are still promoting the vanilla game + HoT which has been a thing a long time ago.
+---
+It's just that the thread name suggests this was an organized event or a contest or something and you're officially posting the results of it. It would be a shame then to know that the players featured here weren't judged to their full potential because the judge didn't have their settings cranked up properly.
+---
+It is planned for the following one this jumping has been designed for a particular event
+---
+Numbers in this video are (mostly) only examples, actual numbers will be a bit different:-P
+---
+What's big enough flower that can be found all over Tyria? Sylvari players really got the short end of the stick on this one...
+---
+My mesmer's a charr so no one likes him but i use bladed chest/legs with requiem boots, dragonscale epaulets, minister caedecus mask and chaos gloves with ad inf. backpiece
+---
+are you a gay furry
+---
+if you play a hot male charr
+---
+What is the window in the left side? Arcdps? Looks completely different to mine.
+---
+Thanks the problem of the difficulty is that it still has to be accessible to a large number of people because the jumping is designed for a race an event with 20 people in it and the slightest error in jumping is back to the beginning
+---
+No cheat possible
+---
+This needs to be stickied
+---
+Here's an explanation of the sc rotation https://youtu.be/bQ-uNICcmSI
+---
+usually around 200 for me though. are u on NA or EU? im on EU and i get 200 ping avg
+---
+You really made me consider a Necro now.  
+---
+I love the theme of them and they need more love &lt;3
+---
+Yes! Someone further up did a great weaver post, but I'm seconding tempest. AoE for days, in every flavour you could want, and  endless build possibilities. Choosing elements is simple - fire/air for damage, water for healing, earth for protection. 
+---
+Want a pet? Summon elementals! Want a giant sword? Fiery greatsword is there for you! Want to wield Thor's hammer and smash breakbars? Lighting hammer! 
+---
+Auras - great for combo fields, and there's one for every occasion. Earth aura + HoT mobs = good shit. 
+---
+I've played a bit of every profession but ele tempest is the one I come back to. Plus, triggering auras for blast finishers is so satisfying.
+---
+160€ :D
+---
+Sold!
+---
+"Convention" means how something is usually done -- "usually," but not "always". There are male asura that have names ending in vowels: take [Luffe](https://wiki.guildwars2.com/wiki/Luffe), [Keii](https://wiki.guildwars2.com/wiki/Keii), [Soffo](https://wiki.guildwars2.com/wiki/Krewe_Chief_Soffo), and, probably the most well-known, [Kudu](https://wiki.guildwars2.com/wiki/Kudu) as examples.
+---
+Likewise, there are female asura who have names ending with consonants: [Lenx](https://wiki.guildwars2.com/wiki/Krewe_Leader_Lenx), [Brij](https://wiki.guildwars2.com/wiki/Krewe_Leader_Brij), [Liann](https://wiki.guildwars2.com/wiki/Krewe_Apprentice_Liann), and [Tyaj](https://wiki.guildwars2.com/wiki/Krewe_Researcher_Tyaj), to name some examples.
+---
+Moto -- aside from being a real-world reference -- is perfectly fine as a male asuran name.
+---
+Absolutely. I don't claim to be a master on the subject, but the Revenant is so varied in its approach that it's just an absolute blast to play with. You're squishy compared to other heavy armor users, but every single one of my deaths have felt like my fault as opposed to failing to dodge in time. You really get to know every aspect of your class and what works for you.
+---
+&gt;Your dagger is now a lightning whip.
+---
+Holy \*\*\* this is all I needed to know.
+---
+Ah Thanks for providing those other examples!
+---
+Yeah I get the underground bug. Also, sometimes when dismounting, I keep the mount skills but can't use them. Or vice versa - I'll mount up but keep my regular skills.
+---
+If you are just going to be rude without providing anything useful just don't comment. It's been discusses several times that the euro has more value than the dollar.
+---
+Fishing is a bad idea. It's boring. The closest implementation I could see for fishing would be rabbit/crab/critter trapping or hiring NPCs to fish for you while you go off and actually play the game. At that point we might as well have animal husbandry and hire farmer NPCs.
+---
+&gt;free perma swiftness
+---
+What does free mean here? Not passive I suppose but practically automatic if you use certain skills?
+---
+Been leveling up revenant and at level 40 I'm still not sure if I like it, something doesn't just click with me (for reference my two level 80s are power chrono and power reaper)
+---
+To try and put it in perspective...Jackals were lore friendly because of how they were introduced into the lore, and the environment. A griffon that looks like a flying volcano or star shower isn't exactly lore friendly or actually tie in with the lore too well. I see his complaint.
+---
+Lol, that's not right.
+---
+*if you feed it, PETA wants to know you location... a little less*
+---
+Only in Path of Fire content (prob introduced with PoF or LS4, idk): mobs are getting randomly invulnerable. Has anyone noticed that?
+---
+At Deadeye: using Shadow Flare (aoe utility skill) won't let you go stealthy. Is this a bug?
+---
+3rd axe skill on mirage says: Teleport to a RANDOM location around your target. IT IS random — u can get teleported behind a wall or on the roof of the building.
+---
+Mount bug.  I'll change the mount and mount up and it puts me on the previous mount.  Dismounting to see what mount is selected shows the mount I meant to have.  It may be related to mounting up too quickly after changing mount type.
+---
+*Post a solid piece of evidence showing that everything that was foreshadowed is true, and everything that the NPCs are saying is true:  Aurene is really and totally dead and gone.*  
+---
+-----
+---
+*Watch reddit interpret all this to mean that Aurene isn't really dead.*
+---
+The slow salvaging is because it's salvaging the runes/sigils too now so salvaging the same amount of gear means a lot more actual salvaging actions than before. Unless you mean something else than I think you mean?
+---
+Why would anyone play MMO for immersion instead of single player game? You can not control others behaviour in MMO, or would you have certain dyes removed as well?
+---
+* feel galaxy brain when you solo two out of the four rooms in thaumanova
+---
+* feel galaxy brain regularly switching between 3 traitlines 
+---
+* feel galaxy brain skipping basically any non boss section of any fractal
+---
+* wallow in self hatred when you try to be galaxy brain and put your focus pull down too early, watching it despawn right before the adds spawn
+---
+Amazin'
+---
+Someone who buys shit just to impress other people
+---
+Cars and horse I can explain.
+---
+IP would be helpful I totally agree, but I actually prefer full maps, because they are more likely to succeed. I just keep spamming "join map" over and over, sooner or later I always get in
+---
+Staff basically doesn't exist on Elementalist anymore, that's how bad the weapon plays.  
+---
+Scourge is quite desirable in pretty much all game modes.  
+---
+Scrapper has an identity in PvP again.   
+---
+Core guard got nerfed on the Valkyrie amulet, but Marauder still does good damage.  
+---
+Some Chrono nerfs, but they are still viable. Renegade and Firebrand comp is now viable like Druid and Chrono.  
+---
+Nothing else important really.
+---
+I guess we will know only in the next episode, tho being dead is only a technicality, Joko was dead but able to still be around in tyria with his magic, Glint when talking to Aurene alone could have told her "you have to die and then..." and instead told us "yeah all fine don't worry" so we wouldn't stop Aurene kamikaze attack.
+---
+thanks, never heard that term before. Imo, legendaries are not impressive. I'm more impressed by a unique and well thought out character aesthetic than most of the legendaries, which are god awful ugly and not at all worth the price for the most part.
+---
+they need to take notes from Warframe, another fashion focused game (to the point that "fashionframe is endgame' is a meme).
+---
+I can't seem to get arc to work with it, my gw2 install doesn't generate a d3d9.dll to replace with arc :/ Even fresh install. No idea why. pls help
+---
+Revanant: Depending on build, you can have great party support or damage(e.g condi renegade). Revanant's greatest trait is that it's arguably one of the easier classes to learn skill rotations on, so skill ceiling isn't as high imo
+---
+GW2 doesn't create one, just drop arc's dll in the folder.
+---
+Yes, you did, when you choose to focus your comments on one over the other and say that all the changes that matter have been in the works for a long time.
+---
+Was expecting an infrared gun game.
+---
+[Metabattle](http://metabattle.com/wiki/MetaBattle_Wiki) has you covered for builds.
+---
+If you're looking specifically for PvE endgame builds, I suggest [Discretize](https://discretize.eu/builds) for Fractal builds and [SnowCrows](https://snowcrows.com/benchmarks/) for Raid builds.
+---
+Well, there is not everything on the wiki:-P
+---
+The keyboard is garbage for gaming purposes or what do you mean? Why is that? I thought a mouse would be sufficient.
+---
+„You can use add one“ What is that?
+---
+So it’s playable on your MBP 2018, but only with Bootcamp? GW2 would have to be on the same partition as Windows, wouldn’t it (sorry if the question appears stupid but I‘m not much of a tech person)?
+---
+Thanks for your answer!
+---
+Dont forget the accoustic pushiness of QUEEN BEE. Flex players have to HAVE that queen bee. No matter it looks ugly, now everybody will not just see you have money... but they will also hear it.
+---
+No
+---
+Rejoining after 3 years everything seems so new. Should I get both of the xpacs?
+---
+I don’t get it, it’s the more frames per second the better, isn’t it?
+---
+Stop being reasonable.
+---
+Yes. They add a lot of end game content including tons of new story, gear, very important elite specializations, gliding, mounts, other mastery, etc, etc. Highly recommend getting both expansions on sale ([38% off on DLGamer](https://www.dlgamer.com/us/games/buy-guild-wars-2-heart-of-thorns-path-of-fire-us-43911), goes on sale for 50% off pretty often).
+---
+Placed everything according to the list. I use arcdps, its build templates and reshade. Arc works just fine along with the build templates but reshade seems to not load up. Any suggestions on what I maybe did wrong?
+---
+That's interesting, thanks. I'll probably eventually level up the rev but for now I'm enjoying reaper too much.
+---
+I would still recommend to take it for fractals with boonspamming trash/instabilitites (hello SR with vengeance and/or npng), and it might sometimes be needed both with rene (if it is supposed to heal) and chrono (if chrono can't/doesn't want to spare traitline for domi, like when it needs both shorter cd on CS and reflects/distorts from inspi). 
+---
+In any case, there is little reason not to have spb build ready on a warrior.
+---
+Exactly my thoughts when I swapped from gw2Hook to normal reshade and copied the code from my hook preset to a reshade preset - quick&amp;dirty (the default preset code from hook looked different than the reshade default. It worked somehow, however i got a terrible terrain popping on and off the whole time which is a dealbreaker)
+---
+Another thing I noticed when I swapped is, that the whole UI also gets affected by the filters as with hook it wasn't the case)
+---
+Indeed.
+---
+Many maps look just horrible without the fog, due to a horrible textures which usualy are hidden behind the fog.
+---
+Apologies should never be downvoted into oblivion, thank you for admitting you messed up. 
+---
+Side note: I think you did a great job of capturing the fun everyone had.
+---
+A tiny fraction is all you're capable of and you can even get that right. 
+---
+Good they communicated to mitigate the damages but it's not proof it's a new strategic direction. Time will tell.
+---
+All together now!
+---
+"Good they communicated to mitigate the damages but it's not proof it's a new strategic direction. Time will tell."
+---
+Louder for the people in the back!
+---
+"GOOD THEY COMMUNICATED TO MITIGATE THE DAMAGES BUT IT'S NKT PROOF IT'S A NEW STRATEGIC DIRECTION. TIME WILL TELL!"
+---
+Good boi
+---
+you mean a root fetish
+---
+Blame everyone else if something goes wrong.
+---
+thanks
+---
+Have fun and welcome back! If you have any questions or are feeling lost just ask, lots of great resources out there.
+---
+Are you from ArenaNet or an hacker 😂
+---
+Thank you. I wish you'd said that 10 comments up where they'll read, but better late than never.
+---
+Said it every time. You're just wanting neurally.
+---
+No, you did not. But it doesn't surprise me you need to resort to insults when you're incapable of sticking to a topic.
+---
+&gt; Sorry if I offend anyone, but I gotta be honest from my point of view and that is that I think the loot system in this game is literally dogshit.
+---
+One of the game's weakest points, that's for sure. One of the big reasons why many people left shortly after release as well.
+---
+It's kinda sad it hasn't been addressed yet. I feel like unidentified gear will only make it worse too.
+---
+Erm big problem thete being they this whole MMO was sold and marketed on stopping the elder dragons, so its a tad odd to ask them to move away from that subject for main story threads isn't it? I understand the desire because there are lots of cool stories to be told in the GW Lore but this isnt really the game to tell those other stories in, unless it's more small and contained stuff for fractles or raids that is.
+---
+Does your ReShade implementation load the textures at each loading screen? I got Gw2 hook specifically because it got rid of that.
+---
+I'm at around perma 300% (200% account + birthday), I think I get white drops about as often as I get yellow.  Vast majority are blue or green.
+---
+Nice, do you care to copy/paste it?
+---
+Could I also get that copy/pasted to me as well? Would be much appreciated. Love your videos man.
+---
+Revenant: Want to have meaty hits with your weapon while also bringing awesome boon support to groups and bring an edgy death Knight?
+---
+Guardian: want to kill with the power OF READING while also killing them with the power of burning, all while bring all pure and virtuous and shit?
+---
+Warrior: Want to be a badass weaponmaster full of unique buffs and without all the RP bullshit?
+---
+Ranger: Want to kill things from a mile away with a pet that take aggro faster than quicksand, while also being able to improve and kill thing up close?
+---
+Engineer: Like pressing buttons to make things happen? We have tons of those. Like not pressing as many buttons? We also have those.
+---
+Thief: Do you like the idea of nuking people from a mile away but don't like pets? Do you like being a martial arts master? Do you like stealth?
+---
+Elementalist: Do you like pressing buttons, but with magic? Do you like glass cannons? Do you like screaming about the elements?
+---
+Necromancer: Do you like sand? Alternatively, do you have sand and just want everything to die when you press F1 and 4?
+---
+Mesmer: Do you like mind games? Do you like being a glass cannon, but with a billion evades and shooting conditions out your ass? Do you like always feeling wanted?
+---
+Posts like these make me absolutely positive this sub is full pr employees.
+---
+Well i mean go to NA were there is tumble weed on most maps a lot of times, then i feel this is a very small problem that you can solve by not joining a min before it starts but actaully be there 15-20 min beföre start or as others already said tag up if you can not find a map that is not already full.
+---
+I have 30-40 too.  I don't have much of an issue with them.  I think rather than trying to "dodge" them it's more important to get a sense for the various patterns.
+---
+Whilst you did not have any issues with buying a stolen key or charged back key, others have and their accounts have been terminated as in you lost everything you had on it. There been lots of posts on reddit over the years from players who regretted their choice.
+---
+I already reported it. The first thing I did.
+---
+But maybe so developer take a look at the reddit.
+---
+O_o since when? All orbs do damage. Both red and blue, in both normal and cm modes. The blue ones just do less damage and are smaller.
+---
+Sent😊
+---
+I've done that fractal more times than I can count and I've never seen a blue orb ever healing anyone. 
+---
+Unless they've changed something in The Matrix without me noticing, that should have not changed.
+---
+Pick your poison or try em all. A lot of people will recommend based on the meta. Ignore the meta and play what you like. Meta only works in meta comps anyway. It's not meant for pugs or playing with friends casually. This isn't WoW or XIV where every healer can just click and do a thing on a target. All the abilities function and behave differently. You can even miss. Yes, missing heals is a thing. Healing is a bit of a mixed bag. You need to try everything.
+---
+Druid is often brought for might stacking, perma-fury, and burstier heals with a good amount of utility. Not very good at putting out lots of healing consistently as you're reliant on your Celestial Avatar state and your water blast finisher. People that run with a Druid are often expected to keep themselves topped off. A lot of people get recommended this class not because of its merits or that it's a good pick, but because it's meta. There are a lot of people that like healing in this game that don't enjoy druid as with any other class.
+---
+Tempest while not as burst as druid, provides the most consistent healing throughout most fights. You'll have a much easier time getting topped off and you can put out boons with this one as well. I would recommend this as a great starter healer for all players seeing as it's easy to play and easy to learn and not as reliant on stacking as most others.
+---
+Blood scourge can also make for a nice support. It's less of a healer and more of a carry spec. You can only heal so many players at once before some start getting downed then it becomes difficult to do your job as is the case with most healers, except this one. Lots of damage prevention, revive utility, and might stacking. Bad players get downed all the time. As a scourge, you can bring them all together and revive them almost instantaneously. Really easy to play and not reliant on stacking. But I don't recommend this as it teaches you nothing other than just spamming abilities.
+---
+Firebrand is a nice spec that puts put quite a bit of healing and is known for bringing lots of defensive support to the party. You can apply lots of aegis and protection to your group. 
+---
+Scrapper is probably the strongest of the healers, but doesn't offer much in terms of damage support like the others. Most people crave DPS and fast clears and often ostracize scrappers. They apply quite a bit of protection and have a trait that actually increases the strength of it which no other class has. They also have the most powerful group stealth skill in the game. 
+---
+Deadeye with shadow arts. Yes, Thief can actually be a heal spec. Though I don't recommend it because it actually relies on trash mobs dying therefore its useless on bosses. But through venomshare, it can actually put out a lot of healing and deadeye has a trait that refreshes cooldowns each time your mark dies.
+---
+Herald/Renegade isn't something I've played yet so I won't touch on it much. You stack up, heal, give boons. I could explain it, but it would probably just confuse someone unfamiliar with Revenant. As is the case with...
+---
+Chronomancer. Do not touch Mesmer unless you want to play it forever. There is no meta without Chrono, but it's not even just that. You will be both loved and enslaved in chronojail. Its hard to master but so rewarding. It can heal, but it is by far the weakest of healers. That said, it can do a decent job. But most if not all healing builds out there you see imho suck. It is mostly a support that gives boons and makes use of various utilities to assist the party and buff allies kind of like enchanter in EQ. This class is my main and I enjoy the hell out of it.  That said, so many people avoid it for its complexity and for fear of being put in chronojail. Save this one for last. Trust me.
+---
+&gt; Besides, Kralkatorrik couldn't have offspring (Glint) if he was fully elemental.
+---
+thats a bold claim, unless theres lore im unaware of i dont see why magical creatures couldnt reproduce like a candle lighting another candle
+---
+Are asuran portals allowed?
+---
+drunk matchmaking?
+---
+ [https://imgur.com/a/1mA9GFy](https://imgur.com/a/1mA9GFy)
+---
+I tried 0.80 but even with that I noticed the pop-in. It's a shame really.
+---
+You must not be able to count up to very high then because the blue orbs have healed you since the introduction of the fractal.
+---
+everything is allowed except for entering a map twice and using waypoints to move between maps
+---
+I agree with you that generic skins are more immersing, but we must endure and participate in fashion wars for this game to make revenue.
+---
+I'll have to check again to make sure.
+---
+But I doubt it.
+---
+And what about the start zone? Any restrictions to that? This is a very interesting question btw xD i love it
+---
+Make sure you *don't* use action camera on ice
+---
+If possible, a start in a start zone can be used. If not, which is more likely I guess, any zone can be used. I will add the information to the original post.
+---
+That's a huge waste of commendations.
+---
+You can get decoration coins with baubles and picking them in the secret shops.
+---
+So I've got an Alacrigade setup with Diviners gear. Works well and I enjoy it, but in some fractals the lack of designated healer is really noticable, which is why I wanna fill that role, while still maintaining permanent alacrity uptime. Can anyone who has experience with playing Heal/Alacrity Renegade in fractals chime in with how much Healing power I need to be able to sustain my party?
+---
+Blue orbs always healed you
+---
+Red is damage, blue is healing. Size tells the amount of dmg or healing you'll receive
+---
+Thank you!! o7
+---
+What preset are you using for your reshade?
+---
+it's because while u hold right click it still moves the cursor around in the back, so when u move your mouse downright it will possibly land on the map and then you zoom in the map instead
+---
+[From the wiki:](https://wiki.guildwars2.com/wiki/Nightmare_Fractal#Room_3:_Altars)
+---
+"In the center of each altar is an orb that shoots out red damaging spheres in alternating patterns. Strafing around the edges of the circle will give you more time to dodge, and **there will be occasional blue spheres that you can collect to heal you.**"
+---
+What do you mean size? Red orbs are always large. Blue orbs are always small. There's no small red orbs or large blue orbs.
+---
+I keep a bookmark folder of random stuff I want to pursue as I find it on the wiki or this sub, then open it up when I need an idea of what to chase after next. I've only been playing for about a year so I have a lot of little things to do still
+---
+Or it may be that too much is being read into the state of Aurene’s remains. Granted, she’s well beyond a GW1 Resurrection Signet, but the same might be said of Joko, who seems capable of returning to “life” without outside assistance. 
+---
+Dragons eat magic. Aurene ate Joko. There are death-branded destroyers because Primordus consumed some of Zhaitan’s energy. It’s entirely possible that Aurene inherited Joko’s self-resurrection ability in the same way. The lore suggests that she’d get *something* from the meal, in any case. 
+---
+And if Mordremoth could return through the seed of Trahearne - irrespective of Mordies lifeless “we-ghat-em!” remains, why couldn’t Aurene do something similar? We don’t know that dragons are tied to a mortal coil the same way that even Joko seemed to be. If Mordie can return through a minion, so conceivably could Aurene. We don’t really know what Caithe’s “bloom” is intended to represent.  
+---
+To be clear, I’m not saying that Aurene will definitely return. After all, there’s a war in the mists. Kralkatorrik fled to the mists. It may be that Aurene’s death was a functional martyrdom. Death may be Aurene’s means of pursuing Kralk into the great beyond. But there’s plenty of established lore to set he groundwork for her return, too. Enough that it *could* be sufficiently satisfying.
+---
+It would not be the first time someone put a misunderstood mechanic incorrectly in one of the wikis and was left there for a long time.
+---
+You don't take damage at lower lvls in the fractal so you probably haven't seen the heal. (:
+---
+Since you got 4 LI why don't you continue raiding?
+---
+I find it more impressive when someone has a lot of time dedicated in game and is still not socially awkward.
+---
+I am impressed and jealous.
+---
+well, lets start with "statistics" and the common ground of all professions.
+---
+Stats wise (trough gear) they can all become super dps, condi dps, tanky, super self sustaining. They can also all offer group support but in a different way.
+---
+Specialization wise, they all share the same 4 base specs, one for dps, condi/critical strikes, tanky, and heal/support/self sustain +1 profession specific that improves profession specific mechanics like ranger pets, elementalist attunements etc.
+---
+Note; im gonna talk about open world pve, and general feel and style of the profession rather than about metas and pvp team comps.
+---
+All that being said:
+---
+Elementalists are super versatile, perhaps one of the most versatile professions out there.
+---
+They have loads of aoes, spike aoes, pulsing aoes, condition inflicting aoes, and they are all pretty spammy as well for mass tagging mobs (long range usually as well)
+---
+They are primary focusing on their weapon spells and switching attunement, while using their utility skills in key moments such as glyphs of storms that blinds aoe, summining an elemental, conjuring a strong elemental weapon, flashing away.
+---
+If youre a casual, equipping marshal gear with a staff will let you deal some nice hybrid dmg, have pretty strong aoe heals.
+---
+METEOR SHOWEEERRR!! - so satisfying  (even with the dmg nerfs, no other skill in the game can give you that feeling of unleashing a large aoe with massive fire balls raining down from the sky on your foes (or a giant mob)
+---
+100% boon duration on a core ele can be fun as well.
+---
+Guardians can also be versatile , marshal gear also goes well with them, and are pretty strong as firebrands (or even as core guardians). 
+---
+They offer various types of protection and damage negating support with smaller packs of heals rather than large healing spikes from an ele/tempest
+---
+Sword and shield, and Greatsword for those who like wielding them as a heavy armored class is a good option.
+---
+A nice balance of magic and strength , a proactive way to negate and counter incoming damage.
+---
+They are also able to nitpick individual weapons, utility skills and specific trait lines to make specific tweaks for a specific situation, compared to an ele or revenant which are "stuck" with their weapon skills / utility "role" skills
+---
+There is a very powerful tanky boon duration build focusing on stacking ALL boons on self and others, youll have more than 70% crit chance, permanent 25 might stacks, permanent protection, swiftness, fury, as well as perma quickness achieved by "nit picking" traits, and utility skills. You compensate your lower dmg from "non pure power stats gear" with 25 might stacks and permanent quickness. The added 750-900 condition damage also greatly helps with your burning condition. 
+---
+There is also a very strong pure tank/condition damage set up which melts anything near you, and the more mobs around you the more powerful your burning is.
+---
+Revenants are almost as versatile as a ele. Tho they have a legend with powerful utility skills for any specific role, they can only use 1out of 2 at a time.
+---
+All of their skills, and trait lines are perfectly in "sync" with their legends, and most of their legends can interact with eachother pretty well.
+---
+The legend utility skills are also rather powerful compared to other profession skills. (a large aoe 3s stun, 3-6k spamable aoe heals, movable long duration projectile absorb, spammable 1400 healing motes , spammable aoe stability, long and ranged taunt, massive dmg reduction, spamable boon removal, perma aoe boon spamming, permanent alacrity spaming, long duration 1k heal aoe pulsing, massive aoe life leach (and dmg increase)...
+---
+Revs also have some very powerful traits, some combination of them, with specific gear, can grant you a massive amount of condition damage/duration , boon duration, as well as 40% critical chance (from just fury, no stats needed). Not to mention a large amount of dmg modifiers that you can stack on top of each other for raw dmg.
+---
+While eles have their meteor showers, revs have their long range hammer attacks. Phase smash, coalescence of ruin and drop the hammer is also very satisfying. Specially if it downs an enemy in pvp.
+---
+They also have a main hand mace with very spammy quite large aoe fire field, tho most of its dmg comes in a form of burning condition.
+---
+The unique revenant flavour with various race specific dialogues with your legends can also be nice, tho it also comes at a price of having no racial specific skills (tho not a lot of people are using them anyway in general.
+---
+Mist Form downstate skill is bugged for last 6 months or so. 
+---
+If you go down, and hammer mist (#2) then it goes on CD but you don't get to mist away.
+---
+And considering there is about 1.5s after going down where you cannot use mist form (or it bugs) but you can keep taking damage, you often get cleaved before the skill can be used. This has gotten me killed many times!
+---
+With cities its impossible. Hoelbrak and the black citadel have 2 maps next to it, but the other cities all have 1 map (if only counting core maps). This means 3 dead ends, making it impossible.
+---
+Like you said Harathi and Cursed shore are also dead ends. You can only have 2 dead ends max, so I think it is possible if you skip the cities. You obviously have to start in Harathi or Cursed shore.
+---
+Every LS episode is stand-alone, so you can use the char you want.
+---
+If you're finding the game isnt fun anymore, there's no shame in continuing to take a break. I've played dozens of mmos in my time, playing a lot in a short time and getting burnt out is natural.
+---
+I'm with you on feeling almost overwhelmed at times. I recently finally finished everything I needed to to unlock the Ascension, the PVP legendary back item. That was at least straightforward because you earn progress simply by playing pvp. Now though, I've got a lot of unfinished goals and I dunno which to start!
+---
+Legendaries are a good long term goal - pick one that looks cool and work for it. Even if you get cold feet later on, almost everything you need to make a legendary can be used for other things.
+---
+For a simpler goal, try and go for map completion on the HoT or PoF maps (if you have them), running round those maps can be super fun. Have you got the griffon?
+---
+A lot of human females.... Hmmmmm
+---
+Do you have MSI afterburner and/or RTSS?
+---
+There are 2 maps with only 1 adjecent map. (Harathi Hinterlands and Cursed Shore) You either start there and end there or allow yourself to be able to use mistportals to go to Lion's arch. Even then I couldn't find a way to explore Rata Sum and the Grove without entering Lion's Arch a few times. If the Lion's Arch portalling is allowed to go from one city to the next it's most likely possible.
+---
+I only play at lower fractal levels for recommended fractals. But can't remember how they work at lower tiers since I don't do that often. I only remember clearly T4.
+---
+Maybe they heal at T1-3, and that's what you remember.
+---
+Will the character in question be level 80?
+---
+Is this safe for use?
+---
+Well, the best solution is to try it the next time you visit the fractal. But I assure you, the blue orbs are meant to heal, as a brief moment of safety after being bombarded by the red orbs.
+---
+ [https://www.youtube.com/watch?v=kvS6zMThiZU](https://www.youtube.com/watch?v=kvS6zMThiZU)
+---
+Well you can get the currency to buy around 25 machetes or if the daily chest iirc. Then you simply need to run over the finished map before it closes and the truck is done ;)
+---
+Yes you can!
+---
+will edit later with a drawing!
+---
+What even made you think you need to complete hearts for leveling? )) No, seriously. This is the shittiest way to level I can imagine, dumb chores which bore you to death. Just do events, on the map, the move to another when you are bored with this one. While at events, you'll make some hearts done in the process, anyway. You can even stay at maps which are intended for lower levels, and still keep leveling pretty good through events, if you wish. Plus, ofc, tomes somebody already suggested, also crafting. All above could be boosted with free boosters you acquire though login and other rewards.
+---
+It does already have that, it's called machetes.
+---
+Thanks!
+---
+Time well spent, IMO ;)
+---
+I'm looking forward to it. Best of luck to everyone^^
+---
+More like they help perpetuate shitty business practices that lead to less enjoyable games, but that's just my opinion. I'm certainly not going to suck the proverbial cock of people who splurge on microtransactions and be grateful for their existence as you seem to suggest we should be.
+---
+I mean Path of Fire was about stopping an exiled human god from killing an elder dragon. I'd say a *whole expansion* focused on something other than "stopping the elder dragons" is a little bigger than a fractal or raid.
+---
+Cap for Magnetite Shards has never been below 100. It was 100 when W1 came out and wasn't raised for W2.
+---
+I said much not at all. What spec for warriors is considered meta in WvW?
+---
+The only good support tools a warrior brings to a group are banners and because of the constant movement they become obsolete.
+---
+That's not to say warrior is completely useless though, they can still charge in for a Winds of Disenchantment but overall it's not Herald, Firebrands, or Scourge levels of good.
+---
+You'd be paying a 15 dollar sub fee without them. And even if you were okay with that, most current players wouldn't, and you'd be paying more to play an underpopulated MMO
+---
+I often use Home button for control. how can I change Home button to something else which pops up the reshade option window?
+---
+Not really the same boat as the OP who got a character to 80 and doesn't know what to do with him. He's not saying he's accomplished everything. He's saying he's overwhelmed by how much there is to do.
+---
+Find skins you like and work towards getting them (aka legendaries or collection rewards), work on collections like elite spec collections, HoT and PoF map collections/achievements, max your mastery levels, pick a legendary and work towards getting it, do world completions on many characters, dive into the wvw/pvp experience (embrace the toxicity and stay strong against it), set up a mentor tag in starter zones and offer help to new players, if you have a commander tag start bounty trains or HP trains or work towards getting a comm tag, do daily HoT metas, world bosses, join lws4 meta trains or HoT HP trains, join an active guild that does missions and events, etc. 
+---
+There's really so many things you could do in the game ☺️
+---
+Nice strawman. You mistake my dislike for microtransactions with "I want everything for free".
+---
+You cheated not only the game, but yourself. You didn’t grow. You didn’t improve. You took a shortcut and gained nothing. You experienced a hollow victory. Nothing was risked and nothing was gained. It’s sad that you don’t know the difference.
+---
+Frankly, yes, I'd rather pay a sub fee if it meant not compromising the game's reward structure to the degree that the gem store does. I can't speak to what "most current players" would or would not do, so I won't.
+---
+A very small profit. But how long does it take to earn back the purchase price of the kit , with just that small trickle of profit ? One of the main reasons to get and use the Salvage-o-matics is QOL convenience. If you already have a copper and silver/mystics , you aren't really getting any extra QOL from it. In fact , you are adding work. If you just salvage all greens with your rune's , then it's just one step extra. If you check every green to see if it has an upgrade , then you're adding a huge amount of time wasted , not saved.
+---
+Just post it
+---
+I'm doing nothing wrong. The above points are simply not important to me. They are extremely minor , and I still find the other mounts more suited for pretty much everything.
+---
+Yes, if your keyboard supports marcos you can bind dodge+jump to the same key so you dodge jump everytime, Anet said this was ok, we have been asking for them to actually put this feature into the game options so we dont have to use 3rd party tools for it.
+---
+Imagine doing toxic CM and never touching blue orbs. You must've been a huge liability for your team.
+---
+Go play WoW then? This isn't exactly a new development in GW2, been this way for almost 7 years
+---
+if anyone had gw2Hook running, copy the `..\Guild Wars 2\addons\Gw2Hook\config.ini` to `..\Guild Wars 2\Reshade.ini` and it will use the old configurations/shaders you've made
+---
+DR-like mechanic for loot is a myth outside of Labyrinth, and affects only the first, the "participation" roll. So the drops are not worse, they are less often.
+---
+Mirage soul stone
+---
+There was a guy on a cele tempest that made a highlight reel post of him roaming on it. Looks like it might be good in a small roaming group, not the highest damage but lots of survivability and some sustain for the rest of your group. Especially water overload and wash the pain away on such short cooldowns
+---
+AFK farming is not regular play. Completing one event over and over again for hours is not regular play. Running in circles for 2 hours+ in Labyrinth is borderline not regular play; looking at average GW2 player.
+---
+Cos it would be free damage for simply picking the traitline.
+---
+And I shouldn't need to even answer if yu proceed to ask "what is wrong with that"
+---
+No one’s gem store items are affecting your FPS. This is a total misunderstanding of the technical aspects of how computers work and how Anets game works. This is good news to you, because it means the issue can at be partially addressed with the success dependent upon your computer’s hardware capability. As stated before, without knowing your computer’s specs, I can suggest going to options, graphics options, character model limit, and set it to low. It makes a very large difference especially in setting where lots of players are at once such as metas and world bosses. It also is not a noticeable drop in quality.
+---
+Ah.  I have a guard specced as a dh but she has all points in fb...
+---
+I don't know if this has anything to do with "flex" players, but it's more about accessibility. I've met and have known several players in this game who have bought everything from Eternity to raid clears to full legendary armor across multiple characters to fractal runs for the Season 2 legendaries. The philosophy behind this typically centers around the fact that one gold is worth 5 cents \[1\] against the US Dollar. The best gold farms in this game (e.g. RIBA in Silverwastes) will yield you about 20 gold per hour (when extrapolated over time). Translating that to US Dollars, that's a mere $1.00 per hour. Using your example above, it would take about 200 hours of running around in a circle doing RIBA to buy Eternity with gold. The argument that earning a S1 legendary requires skill or training falls flat when the most linear path to getting an S1 is to just farm gold for it. You can run around pressing auto attack skills for those 200 hours and eventually get your item. If you enjoy farming, then this is the most logical path towards getting a legendary. If you dislike farming, then there are other accessible options.
+---
+On the flip side, paying with a credit card provides instant gratification. It's also a one time cost for a buyer, as there are no "upgrades" or new raid tiers (e.g. new more powerful items) in the game. Cash players typically buy gems in the gem shop and then convert those gems into gold. This both supports ArenaNet (directly), supports the card provider (MasterCard, Visa, Discover, Amex), supports Digital River/Paypal (payment processors, direct), supports the sellers (direct benefit if you're a seller of these items), and it indirectly helps the economy as well (gold sink if items are purchased through the trading post). In addition to this, there are intangible benefits such as the buyer feels more confident/better about their character(s), knowing that their character(s) are equipped in the best gear in the game. 
+---
+Anecdotally, the players that I've met who have been cash buyers are typically the most helpful people that I've ever met. I've met these types of players in many games, even MMOs where all the "best" items are not tradeable. They want to help, and they have superpowered characters to help you with anything. I don't see how it negatively impacts anyone. Having fully geared (or overgeared in some cases) players to help you with (insert event here), is only a net benefit for you. Jealousy and envy are the only things that I can think about as to why people detest folks who buy items. Instead of getting jealous about some pixels, it may be more effective to figure out what you can do in your real life to get to a place where you can throw around hundreds (or thousands) of dollars on a game and have it not impact your bottom line.
+---
+Where last part was?
+---
+Could I get a copy too?
+---
+Depends on your point of view regarding Commendations.  If you play SAB, then yes it is.  But not everyone does / likes SAB, nor does everyone necessarily min / max calculate the relative pixel value of Commendations for maximum profit.  All depends on how you roll.  Just putting this as an option that's available for those who choose to spend their Commendations on things like this.
+---
+I would recommend you Holosmith. It is very decent at that as you have a fair amount of skills to deal damage with or to sustain, not very wrist-murdering but it requires you to know how to manage your heat mode correctly, otherwise you'll end up killing yourself. But practice makes it perfect.
+---
+The first PoF quest takes roughly 15 minutes until you get the raptor mount and its such a quality of life enhancement for leveling oh my god        
+---
+That was literally the best decision I have ever made because running with 1 mp/h through zones for eternities was burning me out quickly since this isnt my first mmorpg    
+---
+           
+---
+     
+---
+Get the mount and then finish the zones/hearts/hero achievements its more fun that way, atleast for me
+---
+In the time it has taken you to make this post and respond to this thread you probably could have picked up a shift at work or finished one more paid project to earn enough money to upgrade your graphics card and fixed the issue entirely xD.
+---
+Is installing direct x12 worth it?
+---
+[https://github.com/Artenuvielle/GW2-SCT/issues/5](https://github.com/Artenuvielle/GW2-SCT/issues/5)
+---
+no news so far
+---
+Weaver can be quite glassy, as it's very much a kill before you're killed class. If you want something a bit tankier but like ele thematically, tempest auramancer is great fun. I like earth aura as a utility, cause you have prot, regen, missile reflect and a heal, all granted by one aura. Then fire aura grants, might, and lightning aura stuns anything that touches you, and the AoE from the overloads is amazing and they give you an aura too, so you're a self sustaining damage machine. 
+---
+I'm biased though, obviously.
+---
+I was dealing with the hydra, the djinn, and a pack of sand lions. I would have had no trouble at all on a class I had experience playing, but I wanted to unlock spellbreaker ASAP, so i just kind of jumped into it. I was struggling to figure out the best rotation for damage/might upkeep while also staying alive. 
+---
+I joined a bounty train later and got some more practice in.
+---
+Hammer guardian, especially after the so called "buff" a couple months ago that did nothing for it. I feel like I am the only person who even uses it on guardian anymore.
+---
+I had the same issue with Reshade so i tried [Gw2Hook](https://04348.github.io/Gw2Hook/) and it seems to work fine. I simply followed the instructions on the site and renamed the Gw2Hook d3d9.dll to dxgi.dll and placed it in the root folder.
+---
+Ignorance is not an excuse.
+---
+other options for back owners, they own them already, there are no returns, so what if they stay the way they are.
+---
+My pleasure:-P
+---
+Finishing a quest/dungeon only to have your character freeze and lose connection to the server after the cinematic, and losing all credit.
+---
+Are you sure it was not just a reddit mod that looked at it and said it was safe (aka not malware). Otherwhise a link to the Anet statement would be nice, since the creator does not seem to recall that part too.
+---
+The passage between Fireheart Rise and Diessa Plateau isn't possible. 
+---
+It still works, but you'll have to go Fireheart -&gt; Iron Marches -&gt; Diessa -&gt; Citadel -&gt; Ashford -&gt; Blazeridge
+---
+Havent tried yet, the only thing I know is that you get the glider from the Heart of Thorns expansion      
+---
+I think there are some more mounts in the PoF questline, you can either finish PoF and gather Mastery Points while youre at it or finish something else like your Main Story questline or discover all the zones for the hero points, sooo much to do
+---
+And even when you're on the ground? Necro downed skill 1 is a decent, sustained lifesteal that will win out against a surprising amount of garbage. Not even ashamed that I used it in my first battle against the Eater of Souls.
+---
+Death? Can't say I know her.
+---
+I mean that or don't bother bitching about it lol
+---
+Ascended can drop where every ascended mat is in a chest but it's about as rare as a precursor would be to upgrade into a asc chest. Additionally, it does drop weps at tequatal and armor at triple trouble, and from fractals with the rarity going up as you go up to in tiers.
+---
+You may wanna read this; in re gold https://old.reddit.com/r/gw2economy/comments/atobtk/daily_buys_that_are_a_must/
+---
+You are right that tradition is never a good reason, but this isn't a situation that would warrant breaking tradition because. 
+---
+They really cannot show you because, taxes are very localized by counties. There over 3000 counties each with a different tax rate and they only know how much you owe in taxes after you input your address. The service that process Anet is only involved payment is initialized. Not before it, so they aren't going to show it.
+---
+It varies by county not even state, which is worse because there are 3000 counties.
+---
+I have the Trello app on my phone and I use it to keep a list of short and long term goals for each character, plus a general list for the account (AP targets, etc).  
+---
+I find it invaluable for tracking what I’m aiming for.
+---
+What if they crafted it themselves?
+---
+Wow that's very impressive and the details are just mind-blowing ! Very great job !
+---
+Are you planning to make some more for the other mounts too ? :o
+---
+Actually, the labyrinth used to have heavy DR, but they disabled it there.
+---
+Excellent work, i love the feather details!
+---
+So much this. The biggest tragedy of the game is that it has one of the best combat systems out there and has quite fun group encounters, but cannot develop in that direction because business model is aimed at solo-players who come and go. Would be nice to have some hybrid model or even another game on the same engine with same professions, but different content.
+---
+Nice.
+---
+I do this too!  Ever since getting Mawdrey and HoT my two sylvari have slowly taken on the "purified dragon minion" look.  My guard is in Nightmare Court armor dyed up to match Mawdrey (same with branded mounts) with some Dreamthistle weapons from her time in the Tower of Nightmares.  My rev has fully embraced Glint and has her shield and shoulderpiece and Caithe's new sword with more Mawdrey matching.
+---
+Both of them used to be generic knights in asc. armor.  I was super happy about the new Aurene-branding Caithe got because it was exactly what I've been going for.
+---
+Gotta watch out tho, a lot of dynamic events spawn mobs that give credit for nearby heart completion.
+---
+Keep in mind, your journey to full ascended should be: trinkets first, then weapons, then armor.
+---
+There are various other ways of getting ascended items besides crafting. Since you asked specifically about difficult/challenging content, are you interested in fractals(5 man content) or raids (10 man content) at all? You can get started on both with just ascended trinkets and weapons and exotic armor.
+---
+Fractals require a bit of crafting. Raids don't require any. Both require some gold, but both are relatively profitable.
+---
+Also take a look at achievements and see if there are any that reward an ascended piece that you want, such as the elite spec collections and the Golem Mark Y collection.
+---
+At least they toned down the audio effects from the Queen Bee. It used to be a lot louder.
+---
+thanks!
+---
+I'm thinking of either making a mordrem vinetooth next or my main character, but still not sure of it. This one took over 2 months, mostly in the evenings after my job. I htought it would go faster, but had a lot of problems while baking this guy, mostly because his tail broke of multiple times and he kept shedding his feathers :D
+---
+Thank you :D
+---
+Ok then I'll do it instead: What is wrong with that?
+---
+Not trolling, just genuinely interested
+---
+Magi is to get strictly more Healing Power if you have enough boon duration. Minstrel is to get a bit more Healing Power and survival than Harrier while still getting a bit of boon duration (but be careful of toughness if you bring it in raids).
+---
+Also can we get an option to hide shield on stow instead of hide backpiece on stow
+---
+Right, so it's completely by coincidence that after their parent company forces them to focus 100% on one game we see an immediate and sustained improvement in communication on all fronts.
+---
+https://imgur.com/g24YLFt
+---
+Someone is flexing that first semester economics course.
+---
+thank you!
+---
+If you need a little start up capital, I’m happy to send you a bit of gold. 67 copper is far too low to even enjoy the waypoint system. 
+---
+Let me know - Mbelch.9028
+---
+I really don't understand what the deal is with the trampoline RNG but it was such a time waster for me. I'm glad I finally got both achievements done this year.
+---
+I would never craft a legendary. I already have a job. I would slowly gather gold and eventually buy one though.
+---
+&gt;You didn’t grow. You didn’t improve. You took a shortcut and gained nothing. You experienced a hollow victory. Nothing was risked and nothing was gained. 
+---
+Who the fuck cares? This is a *game*, not a sport or a career.
+---
+1. Yes, if you level up in areas around level of lowest level player. You dont get more exp from playing in maps that are higher level than you and your exp scales with your level, regardless of map you're on. 
+---
+2. 7/9 classes can be good healers in pve. You cant pick a wrong class for that. Pick whatever you like, all classes have some kind of self sustain and many of them can share that sustain with allies so even if you dont have dedicated healer (which you dont even need until end game), you'll still have tools to survive in some harder situations.
+---
+3. Each expansion gives 1 eSpec and you can use 1 at most. You can freely swap your specs outside of combat though.
+---
+4. Yes, first one at lv 30. End game dungeons (fractals) have scaling levels (1-100) so there's no requirements in low level ones. I'd suggest checking gw2 wiki for more info.
+---
+5. 10 by default, less if you're more hardcore.
+---
+do you know why I crash when trying to use the radial hotkey?
+---
+Followed your order but get this everytime the key is pressed.
+---
+    Apr 11 22:35:06 arcdps 20190402.010510-291-x64
+---
+    Apr 11 22:35:07 client: gw2 0x7FF704AB0000-0x7FF706FC0000 (0x6EFA4112)
+---
+    Apr 11 22:35:07 client: arcdps 0x7FFC4C7C0000-0x7FFC4C86C000 (0x370129B4)
+---
+    Apr 11 22:35:07 client: d3d9 0x7FFC16F10000-0x7FFC1774E000 (0x196A33D5)
+---
+    Apr 11 22:35:07 client: d3d9 is chainload
+---
+    Apr 11 22:35:08 extensions: buildtemplates 0x7FFC58E70000-0x7FFC58E83000 (20190305.201717-289-x64, 0x7621E183)
+---
+    Apr 11 22:35:08 extensions: extras 0x7FFC58100000-0x7FFC58126000 (20190305.201718-289-x64, 0x87244146)
+---
+    Apr 11 22:35:08 config: loading from "E:\Guild Wars 2\addons\arcdps\arcdps.ini"
+---
+    Apr 11 22:35:11 error: intercepted crash from hardware exception, terminating
+---
+    Apr 11 22:35:11 error: exception: 0xE06D7363, 0x7FFC662CA388, 4
+---
+Keep digging...
+---
+I mean, head could work too. ( ͡° ͜ʖ ͡°)
+---
+Taco markers were very helpful for w2z2 and w2z3 but not necessary for any of the w1 maps or w2z1 for me because the routes were for the most part simple to remember after 1 or 2 runs. I'd say w2z2 it was most helpful for mainly because of how many individual spike traps are placed nearly everywhere.
+---
+Yea I always love the blue skittles. If they didn't heal you, I'd be dead(er) every time we did this.
+---
+No this is people trying to get you to stop embarrassing yourself. You are without a single fraction of a doubt wrong. At no time ever would you have been right. 
+---
+Blue orbs heal. 
+---
+Red orbs hurt.
+---
+I play Reaper sometimes, but I absolutely understand what you mean.  For a class with such an easy burst rotation some people cannot be bothered.  Scourge is even worse usually.  What's really annoying is the reapplication windows for prot from the vengeance instability.  You'll corrupt something and immediately get yelled at &gt;&lt; because prot gets reapplied... 
+---
+The larger majority of players that play Necro have zero understanding of what their rotation should be look like.  It's really irritating.  It's definitely a player issue.  I'm usually down to play Elementalist or DH but Reaper tends to be my test class for groups stuck on Artsari or Arkk.
+---
+It's a copypasta
+---
+I got the reference, have an internet point
+---
+Just check out the wiki, it explains it pretty simply at the bottom and its been there since the wiki went up.
+---
+https://wiki.guildwars2.com/wiki/Magic_Find
+---
+Notes section also mentions:
+---
+&gt; A Q&amp;A session with Isiah Cartwright revealed the way Magic Find works: "Everytime you kill a monster you roll on a number of tables, inside these tables are different rarity categories. Magic find increases the chances you will get higher categories. For example if there is a 1 in 10 category, and you have 200% magic find you will have 3/10 chances to get that category. This improves not just the rarity of the items you get but can also improve your chances at getting trophies and rare crafting materials like lodestones."
+---
+also
+---
+&gt; According to player research: "It apparently takes 1000% Magic Find to double your chances of receiving a higher tier item. Not 100% as may be expected and implied by prior quotes on the subject. It also implies that at 1000% you should stop getting junk as drops."
+---
+So how do you tell if a map is organized vs just someone tagging up on thier own? If people put the map ip in lfg you can see oh look each lane has a commander and x amount of people total. Hell just seeing all 4 lanes up in lfg is already makes me say I want to join that map over a squad that doesnt list the IP. Conversely I want to advertise that way so more players will be drawn to join me and my 3 other commanders squads.
+---
+I understand you. Even when duo q was not allowed, people would sync queue and often they would land in the same game. If they land on the same team, they would play together, if on different teams, the person on the alt account would throw the game. 
+---
+As someone who used to play on plat2~3, most of my games would be against either people on gold and lower or people on the top of the leaderboards. It was either an easy win or an easy loss. It got me so frustrated with the game that i simply can't enjoy it anymore, not even other game modes.
+---
+Looks like the new [Defiant Glass staff](https://wiki.guildwars2.com/wiki/Defiant_Glass_Staff_Skin).
+---
+Yup!  It's my favorite part of fashion wars!
+---
+That’s amazing! How long did it take you?
+---
+That's awesome,  any pics?
+---
+I just re-used the numbers OP had in their example
+---
+the actual values don't change anything about my point.
+---
+That's really cool.  I know the commander is all powerful... but there's no way they come out totally unscathed each time.
+---
+The 100 vs 1000 could have definitely changed in the past year.  I do know all the containers and the inconsistencies have been annoying though.  I'm glad they changed over to the unidentified gear and made it more streamlined now though.
+---
+Yeah, I remember when I first rolled a Necrophiliacs and I was fighting some big cave troll in a starting zone, and I went down.
+---
+Then I saw some ambient boar shuffling by and I just drained the life out of it and rallied and finished off the troll. Felt so badass, even at a low level. Really sold me on Necrophiliacs.
+---
+TaCo working fine with d912pxy
+---
+EU or NA 1'm on NA atm have the itch to make a new character altholism is a thing :P
+---
+Let's hope they will do the same with all those different bags, especially from HoT maps:-)
+---
+\+- 50 hours All the feathers and the multiple layers of paint took a long while. I thought feathers would be easier than all the scales of the raptor I did a while back, but I was mistaken :D
+---
+&gt; No idea as to why this is downvoted.
+---
+it might have been because it reads like they are a asshole thats saying they and their opinions superior to everyone else. IE leggies are not impressive X thing is plus leggies are ugly except for the ones that I find pretty/cool.
+---
+Not marked as spoiler, report.
+---
+Can you do the same for GemFX too please?
+---
+Why do raids and fractals need ascended stuff if ascended stuff is only 10% lower in stats than exotic? Are the DPS checks that difficult?
+---
+But yes, im interested in both, but seeing as fractals require mountains of gold for infusions i might not go far into them.
+---
+Mirage full viper ascended raid rdy etc - how much does sharper images (the illusions bleed on crit) add? Just looking for an estimate can be in % or numbers. I just want to know how important it is to our dps.
+---
+Will you add such information be added to the wiki?
+---
+Episode came out 2 months ago?????
+---
+Yes, as far as we know you have to be dead before being awakened.
+---
+&gt; How long are things considered spoilers
+---
+&gt; For story content the time is 28 days since the content was released.
+---
+[See Spoiler Policy](https://www.reddit.com/r/Guildwars2/wiki/rules/spoilers#wiki_how_long_are_things_considered_spoilers)
+---
+If you see all four lanes on the LFG chances are you're too late. Maps don't just grow commanders for 4 lanes, people go on the map and tag up. Often via taxi LFGs. Likewise, maps are not created organized, players make them ones.
+---
+Someone once posted [this route](https://i.imgur.com/HGpPUrQ.jpg) for tagging most important stuff in the game and it seems possible to enter Core maps once and move forward - you can visit Dry Top, Silverwastes and Lake Doric slightly bending the visible way
+---
+Why are you not running signet of ether? :(
+---
+Thank you for the link, but i dont have the mastery required for the supply agents and my supply of karma is limited (just 130k).
+---
+Thank you!! This is by far my favorite GW2 song
+---
+Thief gets good access to blinds with smoke fields as well as nice lifesteal from invigorating precision. Both dagger and staff autos do huge damage so you can safely use your initiative on defensive skills.
+---
+Not sure how guard and ele have passive defenses when both rely on active ones since they are just as squishy as thief.
+---
+Problem is that if you increase rewards, they become less valuable and on the end, you will be on square one:-) I think the main issue is that all gear is very easy to come by and the market is oversaturated by cheap rewards no one needs. Rather than increasing drop chances, we need some item sink system what would increase the value of items. My idea is randomizing gear stats where each piece would still keep its core stat type like Power, Toughness, Vitality but with a number within a range. So we would not only hunt for the best rarity but also best stat roll like in ARPGs. But it probably won't work here. Or Borderlands style loot.
+---
+I think it ignores exclusions for some reason. 
+---
+If it still not helps, try to send logs from d912pxy folder.
+---
+Wait so you got d912pxy to work with gw2hook?? How? I would much rather use gw2hook over reshade, getting rid of the games outdated bloom in favor for a modern, subtle one has literally changed the game for me.
+---
+But I don’t want to use any Charr
+---
+__*The greater good*__
+---
+So far only Windows10 supports DX12. I read somewhere that MS will bring DX12 to win7 but only for certain games.
+---
+With this route, Gendarran Fields and Fields of Ruin are entered twice.
+---
+How does it benefit the person posting the LFG? If anything, it might be harmful to them as people would want to - just like now - sneak into an already full map.
+---
+*The greater good*
+---
+Is there a way to make gw2hook work over reshade? The fog and bloom removal that come with gw2hook are the main reasons I even use that tool, they have been a gamechanger, especially applying modern bloom in favor of gw2s really bright and outdated one.
+---
+If you mean istan farming, that died with the nerf
+---
+Sometimes shiney works. My main champ is god teir status with a great blend of infusions going with a theme. I call the theme "Closer to the Stars". My other champs are less shiney themed. But after all the Commander has gone through, and a hero ancestor leaving behind a legacy (linked GW1 account); feels like at lest my main needs to show some flexing.
+---
+&gt; All Guild Wars 2 story details have an one month safe period when they most be tagged/hidden properly.
+---
+It's been way more than 1 month.
+---
+You can click [here](https://wiki.guildwars2.com/index.php?title=Magic_Find&amp;action=edit) to edit the article on Magic Find. You don't need to, but you can [register for an account here](https://wiki.guildwars2.com/index.php?title=Special:CreateAccount&amp;returnto=Magic+Find&amp;returntoquery=action%3Dedit).
+---
+Awesome work! What orchestral libraries are you using btw?
+---
+Now see, I personally think Rodgort and Pharus are ugly, and the Shining Blade is way overhyped for what it is. *But* that's just my opinion, and I've seen people make some really nice looks with them -- which I appreciate, because it's always nice to see some cool fashion, even with things that I personally don't care for.
+---
+Honestly... I think all of these people complaining about people being too flashy and not enough people putting effort into character design are just not looking around them very much. Go stand in front of the LA bank. It's easy to be distracted by the guy wearing three infusions and mismatched armor and wielding Eternity, but I guarantee you there will be at least four or five other people standing nearby who have some pretty nice, understated looks too. The things you've just complained about missing are already there -- you're just probably (and ironically) not noticing them.
+---
+I thought the first few tiers of fractals didnt require that resistance, and that raids thing sounds a bit too demanding personally for a game like this, but ill find a group eventually i guess.
+---
+Might be, I'll take another look at it soon and update.
+---
+Stop stalking me
+---
+Exactly, that's why I said they need to be revamped and balanced out.  There are so many over-saturated items that can even be deleted that its not even worth doing some content.  I mean, I get it, the game is huge and there is a LOT to cover in terms of balancing it all out and keeping the economy strong but some things definitely need tweaking.  Its not right that 4 hours of WvW is less rewards than 20 minutes of an escort for a raid which is literally just walking up a hill with an NPC.
+---
+so when you/they are talking about participation I assume you are talking more than just event participation. Or am I mistaken there? I ask because when I hear participation in context with gw2 its solely related to events and getting bronze/silver/gold, but in your video its sounds like it could be used on more than just events.
+---
+I wouldn't upgrade just for this alone. If you want to consider upgrading to Win10 just look up some info on Win7 vs Win10. I upgraded when there was an option to do it for free and it's been pretty much the same as Win7 but smoother/faster.
+---
+Ironically, "just strolling around with 3 legendaries equipped" is a pretty braggy way of describing the situation.
+---
+It's easy for us veterans to laugh and say "LOL legendaries mean nothing now", but remember there are still a lot of players who don't even have one yet, let alone three or more. To them, a sentence like that makes you sound like the same kind of flexing douchebag as the other guy in your story. It's all in the perspective.
+---
+A huge thank you to the ones who came thanks to this announcement. As i said, i don't need it my self, but the adventurers who needed a success are, for sure, thankful. So yes, it was a success. :-)
+---
+/!\\ Next runs are planned for the **April 27th and 28th**. Next week it's family-easter-business/chocolate-eggs-hunting. Then i'll lead as annouced, every single week-end. /!\\
+---
+What’s the point of doing HP trains if you already have all of your HPs?
+---
+Does magic Find actually Do anything anymore?   
+---
+It feels like a completely Worthless stat that means nothing anymore. used to be you could get at least a Tiny amount of value out of it, but now Luck feels worthless, and so does the stat.
+---
+This means he did the same as you.
+---
+Vigil Honor Jerkin have a twisted part when worn by human females. I just so happen to main human female and it is mindblowingly annoying
+---
+Thanks my man
+---
+I think that function is simply not working. Maybe you can replace it by something?
+---
+There’s nothing to do in the game. Game is dead and boring.
+---
+Can we have you record this and have a 1/1000 chance for it to play during the Attack on Tarir meta event please?
+---
+You can apply any bloom you want in ReShade.
+---
+Considering features of gw2hook, maybe some solution will rise up.
+---
+It is working very well when I dont use any other addons. It is also the standard way of loading textures into memory with DX9.
+---
+King Joko's magic says shes not dead!
+---
+The questions were mostly answered already, but I'd like to expand upon what others said:
+---
+  
+---
+1) Yes, absolutely feel free to level while your friends are offline. Players of higher level will be slightly stronger than lower levels (coz more skills unlocked), but thanks to downscaling, the game will treat you all as equal level, plus the higher level people will get loot and exp appropriate to THEIR level. Just make sure you don't go to a zone higher than the level of your lowest level player. (i.e.: if you have a level 20, 30 and 40 player party, you should go to level 20 or less zones)
+---
+2) Generally for 3 people it would be recommended 1 boon support (something with decent dps on its own, like a diviner boon chrono or a quickbrand) and 2 pure dps players. If you're facing some really difficult content, might be okay to swap 1 dps for a dedicated healer, or to give the boon support some extra heal. That way you should be able to clear most dungeons easily (some physically require more than 3 people, so those are off the table) and most if not all fractals (though the higher level ones might give you trouble).  
+---
+For the best builds for PvE, go to [https://snowcrows.com/](https://snowcrows.com/) \- raid builds will generally work extremely well in any kind of PvE, possibly with some minor tweaks that you can figure out on your own. If you wanna experiment with your own builds, that's pefectly fine, but Snow Crows put an insane amount of effort into crafting and testing these builds, so they are basically the best you can do.
+---
+3) Yes you unlock both and can swap freely (out of combat).
+---
+4) Regular dungeons become available as you level, you will get automatically notified of that by the mail system. At level 80, fractals will unlock for you. Initially, you can only do the lower scale ones as the higher scales require agony resistance, but you will slowly work your way up. Higher scales are generally more difficult, but also offer better loot.
+---
+5) 10 players is the maximum (and also the recommendation), but some bosses have been killed by as little as 2-3 people (a few even solo). Lowmanning is recommended only to very experienced people, who have cleared the bosses many times. If you have trouble looking for people, it's perfectly fine to attempt the bosses with fewer players, you will get some nice experience that way, but scoring a kill will be more difficult.
+---
+And of course, most importantly - have fun. :)
+---
+Never seems to work, if I have dx12 and arc installed as the guide says, I running the game as admin makes dx12 work but not arc and non admin makes arc work but not dx12.
+---
+Beautiful!
+---
+Googled GemFX, found Pateron page and not working link. 
+---
+Can't say much.
+---
+absolutely, i'd appreciate if it was in a seperate video tho!
+---
+There's a post about MF made yesterday, I'd suggest doing some research.
+---
+Check on YouTube. There’s so many vids describing the events of gw1
+---
+Out of all the items, is that really the one that stands out to you? XD
+---
+So reddit is your personal "let me google this for you"?
+---
+&gt;my two sylvari have slowly taken on the "purified dragon minion"
+---
+I am playing HoT for the first time right now and my Sylvary used to look a lot more like normal people, trying to blend in with them, but now that she is in the jungle she looks way closer to her roots with a tint of evil. Totally not planned, though.  
+---
+[Here she is if anyone wants to see her!](https://imgur.com/iY49EbT)
+---
+I'd really love it if you could tick a box to unsee every gemstore wings on other characters, that would be the best wongs update ever.
+---
+I like False Oasis better. I use Runes of Tormenting + Maim the Disillusioned for sustained healing through the axe skills and shatters. That leaves me with False Oasis if I need a burst heal but mostly for the Mirage Mirror and extra clone from Self-Deception.
+---
+wait what
+---
+Im aware you can apply any bloom shaders you want that are compatible with reshade. The big problem is that you cant remove the bloom and fog from gw2's base game like you can with gw2hook; adding multiple bloom shaders on top of gw2s base bloom only compounds the problems of gw2s outdated bloom. That and overlay discoloration are a big dealbreaker in regards of using reshade over gw2hook imo. Either way your work is phenomenal and thanks for contributing this great tool to our community! Hopefully one day we can use your amazing tool plus gw2hook, or implement gw2hook's powerful features such as fog removal and bloom removal to d912pxy.
+---
+Shouldn't be too hard to figure out if you make a [map graph](https://en.wikipedia.org/wiki/Graph_theory) and try to see if it's possible to traverse it in one go.
+---
+They have been rather obscure about dragon reproduction, but given that Vlast and Aurene came out of eggs, to say Glint is the biological daughter of a dragon too would imply that she, as well, was hatched from an egg. Kralkatorrik is the father, the mother unknown; unless dragons are asexual that is.
+---
+The flame, blood, and headache analogies feels to me more akin to how the Wrathbringer and The Shatterer were made - crystalline beasts "hand-crafted" by Kralkatorrik.
+---
+**Graph theory**
+---
+In mathematics, graph theory is the study of graphs, which are mathematical structures used to model pairwise relations between objects. A graph in this context is made up of vertices (also called nodes or points) which are connected by edges (also called links or lines). A distinction is made between undirected graphs, where edges link two vertices symmetrically, and directed graphs, where edges, then called arrows, link two vertices asymmetrically; see Graph (discrete mathematics) for more detailed definitions and for other variations in the types of graph that are commonly considered. Graphs are one of the prime objects of study in discrete mathematics.
+---
+***
+---
+^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://reddit.com/message/compose?to=WikiTextBot&amp;message=Excludeme&amp;subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://np.reddit.com/r/Guildwars2/about/banned) ^| [^FAQ ^/ ^Information](https://np.reddit.com/r/WikiTextBot/wiki/index) ^| [^Source](https://github.com/kittenswolf/WikiTextBot)   ^]
+---
+^Downvote ^to ^remove ^| ^v0.28
+---
+magic find still affects the same four things it always did before unid gear was added:
+---
+direct drops from enemies
+---
+silverwastes chests
+---
+containers that specifically mention it
+---
+enemy themed 'loot boxes' and 'caches' from reward tracks
+---
+&gt;The flame, blood, and headache analogies feels to me more akin to how the Wrathbringer and The Shatterer were made - crystalline beasts "hand-crafted" by Kralkatorrik.
+---
+the shatterer is a dragon lieutenant, glaust was a dragon lieutenant too before the forgotten cleansed her and she became glint
+---
+&gt;given that Vlast and Aurene came out of eggs, to say Glint is the biological daughter of a dragon too would imply that she, as well, was hatched from an egg. Kralkatorrik is the father, the mother unknown
+---
+mythology is full of examples counter to this; i know its wishy washy to point to mythology; but it is a story
+---
+It'd be nice if weapons, backpacks, and auras were affected by the Character Quality setting in options. But beyond that feels unnecessary.
+---
+It would certainly be a very different game in some regards (obviously for the better, in my opinion), but that doesn't mean I can't enjoy Guild Wars 2 for what it is. You can enjoy something and still wish it was more/different in certain aspects.
+---
+I'm going to take them out of order, if you don't mind:
+---
+**Gear:** Prior to level 80, there is, for all practical purposes, no difference between "good enough" gear and "really good" gear. Sure, you'd like to keep all of your gear pieces no more than 5 levels below you, and sure, you'd rather have rare (yellow) than uncommon (green) and you'd rather have uncommon (green) than common (blue). But none of the pre-level-80 content cares all that much about your gear. There is almost no content in the pre-level-80 zones that can't be soloed by a minimum-level character in common gear; the few things that can't be, are things that offer rewards to swarms of maxed-out players who ~~carry you~~ you fight beside.
+---
+Once you do turn level 80, there are, for all practical purposes, two gear levels: exotic and ascended; everything below that is trash loot to be "salvaged" into crafting materials for making better gear. You can cheaply buy a full set of exotic gear the moment you turn 80, because it's so cheap to craft and because people in exotic gear still get occasional exotics as loot and stick them on the auction house. And other than max-difficulty fractals (see below) and raids, *there is no other content in the game that can't be completed in exotic gear.*
+---
+Ascended gear has slightly better stats than exotic; legendary gear is just even-harder-to-craft ascended gear with fancier skins. Both are locked behind hard-mode content and both are time-gated.
+---
+**Dungeons vs Fractals vs Raids:** Starting at level 30, there are 5-man instances that care more about mechanics than they do about build or gear. They exist mostly to show what the big-name NPCs were doing while you were off on your personal story, and end up in the end-of-original-story solo instance (that can also be played as a 5-man dungeon) where the most famous NPCs in the world team up with you to defeat the original-story big-bad. The rewards for these missions are basically "free t-shirts," that is to say, themed armor skins and weapon skins. You do end up coming back to them (and being auto-scaled down to their level) once you start grinding for legendaries (if you bother) because some of the crafting components are account-locked and can only be farmed via those dungeons.
+---
+"Fractals of the Mists" (or just fractals, for short) are 5-man level-80-only instances that are harder than dungeons with a heavy gear-check *and* increasingly finicky mechanics. They scale up in "personal fractal level" from 1-100 in four bands of 25; each band adds increasingly complicated unforgiving mechanics. Raids are 10-man instances that are comparable in difficulty to higher-end fractals. You can start fractals in all exotic gear and slowly gain ascended gear; as you get to the higher difficulty fractals and to raids, ascended gear drops even more quickly.
+---
+The best way to learn dungeons, then fractals, then raids is to join one or more clans that have scheduled runs and a voice server, so that an experienced teacher can walk you through the mechanics. You can find gear and skill-tree builds at the "Metabattle" site, but your fractal/raid instructor will give you advice specific to each encounter that's more detailed than anything on any site.
+---
+**Arenas vs sPvP vs WvW:** Guild Wars 2 has no open-world PvP, period. The only places you can duel people are in guild-hall arenas. Structured PvP is a set of instances, each with their own map and scoring mechanics, where two 5-man teams of (organized or pick-up group) compete for high score; the matchmaking software does what it can to put you up against teams of comparable skill level. *Gear and level are irrelevant to sPvP!* The sPvP signup window has buttons that let you edit your stats as if you were a level 80 character in full ascended gear of your choice; it's purely down to skill and teamwork.
+---
+World vs World is the closest thing that GW2 has to open-world PvP: five sprawling zones, plus one mostly-ignored maze, where players are assigned to one of three teams based on which "server" their characters official reside on. Gear does matter in WvW, a little. Level matters a lot less, because lower-level players get a stat boost that's (at least supposed to) make up for the fact that they're not in end-game gear and may not have fully unlocked skill trees. Team size is capped per zone at around 80 players (I think, currently?), but, depending on your server which server you're up against this week, there is (unlike sPvP) no guarantee that you won't be badly outnumbered -- although you do earn good loot a lot faster if you do keep trying while you're outnumbered.
+---
+Whats tequatal? Time to google.
+---
+Hm, I could miss the original akser's point, indeed. It didn't appear to me he wants to \*\*prevent\*\* any heart's completion, just don't want to do them deliberately. I.e. they are fine if some heart will be completed as by-product of them doing something else.
+---
+Actually sylvari doesn't have more options because you can only wear skins from cultural and Nightmare sets. /s
+---
+different from whales. whales support the game thru their purchases as much as flexers, but only flexers do it with the intent to show off, annoy, or otherwise flex what theyve purchased to the point that you actually want to block them. whales, if not friendly, usually keep to themselves.
+---
+Just wait until October.
+---
+Thanks, i already have an ascended amulet from Laurels, and from what i see, rings drop from the fractals, gotta figure out how to get the accessories then. :)
+---
+You don't have to purchase a new membership. You'll get the beer the first time you log in on that month no matter what year it is.
+---
+&gt; What do I need to start researching
+---
+https://www.google.com/
+---
+No DX12, using D3DX for drawing, no source code or something to tinker with.
+---
+Maybe it uses something apart of DirectX, but i think if it not works, i can't make it work.
+---
+&gt; the shatterer is a dragon lieutenant, glaust was a dragon lieutenant too before the forgotten cleansed her and she became glint
+---
+And? Dragon lieutenants take all shapes and sizes. Wrathbringer being a prime recent example. It's counted as the same thing as The Shatterer and Glint as all three are "not a corrupted creature". Source: https://en-forum.guildwars2.com/discussion/66201/what-were-riftstalkers-and-the-wrathbringer
+---
+However, unlike The Shatterer and Wrathbringer, Glint is canonically stated to be Kralkatorrik's biological daughter, the same way Vlast and Aurene are Glint's biological children. This heavily suggests Glint was born from an egg, while The Shatterer and Wrathbringer were shaped from the environment.
+---
+&gt; mythology is full of examples counter to this; i know its wishy washy to point to mythology; but it is a story
+---
+That is **very** wishy-washy. You're basically saying "this one story that has zero relevance considers offspring to be possible through non-biological means, so biological children in GW must follow the same rules."
+---
+Like I said, the mythology references relate more to the Shatterer and Wrathbringer and similar creatures - like 99.9% of destroyers - which are formed from the environment, rather than being corrupted creatures or born. Aurene and Vlast were born, not created. While we're not 100% sure on Glint's case, unless ArenaNet starts stating The Shatterer is "a scion of Kralkatorrik", then the only reliable source is that Glint, too, was born from an egg.
+---
+This, however, is all detracting from the original point that Kralkatorrik has biological functions like any animal, and is not a pure elemental construct. Elementals do not bleed or have functional hearts, for example.
+---
+Yeah you should mark this as spoiler post
+---
+We truly do live in a society
+---
+I'm looking for suggestions on the best way to spend a large amount of gold. I'm a retruning player whos basically a noob. I recently opened a Permanent Bank Access from a Lion chest, and trading posted it. I have ~2.5k and am looking for some reasonable uses for it. Thanks!
+---
+Welp. I'm a new player that is almost caught up to current content. Thanks for ruining it for me. This ruined my weekend.
+---
+Not to ruin your dream even more, but you also need Chantry of Secrets PoI which is a separate map with 2 entrances and 1 exit.  And only one entrance (the normal, non-asura portal one) is available until you progress far enough in the personal story iirc.
+---
+Wow, that's some tasteful application of infusions, and great weapon matching! 10/10
+---
+Thank you :)
+---
+extensive experimentation on two accounts with vastly different MF scores.
+---
+Yay! Complete your dailies. They’re 2g each day for free, and some fun ways to occupy your time.
+---
+Oof.
+---
+No, your misinterpreting my words (and I'm starting to think intentionally).  Just because something has an advantage doesn't mean it wins.   I mean for fuck sakes, the very quote of mine you mention, I admit that I don't know if it surpass it.
+---
+How do you start etting really good gear?
+---
+Honestly? You don't.  You make a conscious choice to either play the stronger builds and learn their rotations or to play the weaker builds, not learn a rotation and run with it.  Either are *"fine"* ^/s although playing a stronger build or rotation really helps set things in perspective.  Start with ascended trinkets ==&gt; Weapons (Elite Spec Weapons are a good start) and lastly armor (crafting/raiding).
+---
+I hadn't gotten to play the latest chapters yet, would have been nice to put a spoiler tag.
+---
+I hadn't gotten to play the latest chapters yet, would have been nice to put a spoiler tag or blackout friend.
+---
+it'd be easy to strip. Choya need a buff that isn't a boon called spikes.
+---
+I am assuming you are referring to their spikes, but we usually don't hit them with our bare hands. Then again, we can poison and bleed doors so Choya might as well have Retal. I am glad they don't though, as I hate Retal in PvE.
+---
+Sadly I don't have much time currently for trying to reproduce the problem. Feel free to update the GitHub issue with your information and I'll try to figure something out next week.
+---
+For sure, smurfing or purposefully tanking your rating to play against worse opponents are at best a gray area and at worst an abuse of the system.
+---
+That said, it's largely a solved problem from a rating and matchmaking perspective.  So while it still sucks to deal with, it's kind of like your unpatched windows 95 machine getting hosed when you plug is right into the wall.  Yes, the people hosing your system are responsible, but whose fault is it really?
+---
+[Basics of rotations] (https://www.reddit.com/r/Guildwars2/comments/49ftqf/conquest_pvp_basic_point_rotation/?utm_medium=android_app&amp;utm_source=share)
+---
+3y old post but still relevant today.
+---
+you didnt know and then you tested it when i asked you to. so now you know it does surpass it (and win over reaper) what do you not understand about this o.O stop telling me every single post that im misinterpreting you, do you do that to everyone when someone disagrees with you? so annoying. and if you're actually having issues being understood by people, work on your delivery and getting message across.
+---
+Welcome back agent, it has been a while! Did you remember to bring the apple cider?
+---
+Due to our new rules the questions must be left in the [&gt;weekly QA post&lt;](https://www.reddit.com/r/Guildwars2/search?q=title%3Aquestions+thread+author%3AAutoModerator+subreddit%3Aguildwars2&amp;include_over_18=on&amp;sort=new&amp;t=week). If you think your thread should be allowed to stay or if this was a mistake do report this comment or send a modmail and Pact commander will come take a look.
+---
+-------
+---
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Guildwars2) if you have any questions or concerns.*
+---
+No because fractals need less boon duration due to extra concentration from potions. You can use exotic gear in raids though.
+---
+dragon's maw isnt used to the default burst. keep in mind the burst you use on dgh changes for every boss and depending on your party or strategy. in general the default burst (for 1 mil dps golem first tick being 60-65k) it's focus 5, utility trap, f1, scepter 2, gs4 gs2. you can also try fitting sword of justice after the trap
+---
+I feel like this partly has to do with the current guild system. There is no incentive to do things as guild. 
+---
+In a game where independence is awarded, active methods need to be in place to bind people together. In other games it happens naturally cause otherwise you cant shit done, since in Gw2 that doesn't happen, you have to provide something else. 
+---
+For instance, I think WvW is very sociable. And I also think the alliances update will only help that aspect. Raids can be sociable, if you find a static group. Same for fractals. But you're not required to do so.
+---
+You can still finish that content, which is one of the reasons I enjoy the locked in time aspect of some areas in Tyria. Gotta get that AP where you can! ;-)
+---
+Seriously though, I occasionally revisit the Egg Chamber, and play catch with a young Aurene. :'-/
+---
+We need options for hiding backpacks and auras as well.
+---
+Not a spoiler according to the sub rules.
+---
+PLEASE! &lt;3
+---
+So its not okay for me to do fractals with the raid build ?
+---
+[My hammer IS a cactus](https://wiki.guildwars2.com/wiki/Trained_Choya_Hammer)
+---
+Sounds like an exploit to me.
+---
+This doesnt even ruin the story so what he says we kill soemone in hot thats a given lol and also theres a crap ton of dialog inbetween so u didnt realy get anything ruined in the first place
+---
+Im sorry policy or not, simple courtesy would compel one to spoiler tag this.  For those of us who have not finished this is HUGE.  I can basically see the entire story line thanks to this one image.  This is not like oh look Eir comes back for a few minutes or scruffy gets a new paint job.  This is the entire core of the story from what I can see, I think an exception should be made here.
+---
+Not the particular chrono build (or any build that relies on specific precision or concentration numbers since you get those stat bonuses in fractals, but not in raids).
+---
+It is.
+---
+It’ll be any item that gives the user a cutscene (I won’t name the one I’m thinking of).
+---
+No but I did make a chunk of animated rock start bleeding once
+---
+I think so too. The wings, I can take it. But the mounts, totally broke it. I like the mounts, and I like most of their skins as I think they make a lot of sense. But some of them are just way too stupid and obnoxious. 
+---
+But well, the damage is done, just live with it. Its not like they are going back on their designs and remove these items from the game.
+---
+"passive" was the short version, but I am moreso referring to increased defensive options: virtues/water magic, skills that grant defensive boons &amp; healing, and the threshold traits of tempest. 
+---
+Thanks for reminding me about invigorating precision though.
+---
+Thanks! I wanted to give him a sinister thief-like look, and it turned out okay. Maybe a bit boring, but that's present-day me talking, lol
+---
+Yup, I’m that question’s OP and that’s what I’m trying to do.  Get world complete without completing any hearts :)
+---
+Oof
+---
+And it's head design is as cliche'd and overused as a Japanese story's protagonist being OP as all hell.
+---
+Not to mention that its sheer size is unfathomably unrealistic for having traveled across the underground of Tyria without creating massive sinkholes, even if it was a snake-dragon like Mordremoth.
+---
+4 mentioned in [thread posted today](https://old.reddit.com/r/Guildwars2/comments/bd09qu/arcdps_gw2_radial_reshade_and_d912pxy/).
+---
+I thought this was a game of thrones reference, but her watch has indeed ended..
+---
+Ah thank you so much :)
+---
+Oh. I still have Karka samples from the open world karka event in my inventory.
+---
+He died.. Like Aurene.. At the same moment.. Like our souls :'(
+---
+They do heal, you are just wrong and I heavily doubt you have what it takes to recognize it.
+---
+Its fine, with all the auras and new skins the game is very saturated with special effects. Its refreshing to see a simple and elegant set once in a while.
+---
+Oh My god, it's fantastic. Do "an exalted lullaby" too please!
+---
+MODS, please ban OP, he hurt my feelings very badly.
+---
+Well i dont want to be offensive, but why are you visiting the gw2 reddit if you dont want to see spoiler? After a certain time its to be ecpected that ppl will post something about the latest story(and its allowed after x days), so you should avoit visiting places like this.
+---
+Sure he could have tagged it, but its your mistake for coming here in the first place mate.
+---
+It was on my feed holy shit
+---
+It will be passible, and you will get clears. It's not optimised, so you won't be setting records.
+---
+:,(
+---
+ 
+---
+When it's time to do Tier 4 Fractals and you've gotta pug up  
+---
+[https://i.redd.it/9yzxaogsmhr21.png](https://i.redd.it/9yzxaogsmhr21.png)
+---
+Aim higher.
+---
+I want a whole new set of summer stuff: Swimwear customization, dying them (including the default underwear), and more places and activities that use swimwear mode other than diving goggles and that one beach in Southsun.
+---
+And, of course, swimming pool decorations for guild halls.
+---
+Or, you know if you care that much maybe just play the story? It's like people who cry about GoT spoilers about an episode that came out 2 years ago but they haven't gotten around to watching it. Don't get mad about a spoiler if you aren't motivated enough to experience it yourself.
+---
+Yo guys seriously stop being such dicks and toxic as a new player it's not a very welcoming feeling
+---
+lmao
+---
+This is outstanding!
+---
+Retaliation is a dumb mechanic to be fair, as are fear and taunt.
+---
+How dare they add boons to interact with in PvE. :U
+---
+Absolutely nothing! Huh! Say it again!
+---
+Actually the OP was talking about the work too not just the communication. They mention templates, api updates and QoL changes as being a result of the layoffs. They were not related to the layoffs at all.
+---
+My post has not been edited, you can see the times of edits on Reddit. Check for yourself.
+---
+You can't see the later posts because your comments were deleted by the mods.
+---
+Is is still possible to unlock the Luminescent armor? The coat and headgear require completing Living World Season 2, specifically Episode 8. But when I look at the Season 2 pack for sale in the gem shop, Episodes 1 &amp; 8 aren't included.
+---
+I keep my [Token of Affection](https://wiki.guildwars2.com/wiki/Token_of_Affection) in my shared inventory slot... And I finally went and bought one of those little magnetic Aurene plushes when I caught up on the story...
+---
+we are behind!
+---
+https://youtu.be/31Zua2yp5rU
+---
+PVP retains it's separate set of rules obviously.
+---
+Care to share your presst?
+---
+Up until recently I used Legend of the Mists from HoM on my main, but now I'm sporting no title for the clean look.
+---
+I'm looking at it directly on the gem store, episodes 1 and 8 are definitely included
+---
+Hi looking, I'm Mom.
+---
+Condis on structures always felt like more of a "you're using this magic to corrode and break them down" than the door actually bleeding or being poisoned.
+---
+Thank you, I figured it out. I somehow already had those two episodes unlocked despite having not played in about 4 years.
+---
+I find your videos very helpful, but why did you release this one now, when it's not relevant anymore? I would really love a video explaining the new mechanic of MF Anet said the opening Unidentified Gear is no longer affected by MF and also because the lower tier is blue, so what happened to the white items or what are the chances of getting exotic or, gods forbid, a precursor.
+---
+On the lighter side, they’re not really wrong though. There was a grace period for spoilers, and we are past it. Far past it iirc. It’s a shame you were spoiled, but OP is doing nothing wrong
+---
+Except that arenanet is currently promoting these episodes for new or returning players??
+---
+ALL YOU HAD TO DO WAS FOLLOW THE DAMN DOLYAK CJ!
+---
+That’s arenanet, not the subreddit. If the subreddit put a special clause for the welcome back, OP would need a spoiler. As it stands, they’re in the right.
+---
+To be extra fair, the grace period for spoilers ended BEFORE the welcome back events.
+---
+It is relevant and there is no change. Unid gear roll in the same fashion as I've described:-)
+---
+Necro Shroud going from F1 to F5 bothers me when switching from Core to Reaper to Scourge ._.
+---
+class specific keybinds would be a goddamn Dwayna-sent-miracle.
+---
+Mine weren't.
+---
+It just doesn't make sense that my necro corruptions would make spikes disappear
+---
+So, this looks super foggy, dark and bland in my opinion.
+---
+Why does sometime my attack shows as glancing, even though i was using ascended weapons?
+---
+What in the ever living fuck does having a job have anything to do with some random NPC dialogue?
+---
+tbh usually the tag is just there for the sake of the tag. so people know theres someone doing the meta.
+---
+i have tagged up lots and lots of times. and what i do is basically tag up, open lfg and go afk until right before the meta starts. didnt fail the event once.
+---
+id say it encapsulates a jungle early in the morning perfectly well
+---
+Renegade has some crazy high healing multipliers, so you can technically sustain the same healing output with much less healing power than, say, a druid. That being said, the healing tools that ren has are incredibly awkward to work with - they have very limited range and aren’t easy to move around. It’s noticeably more difficult than other classes when your party members are running around. IMO if you’re running with pugs or your group doesn’t always stack properly, you should probably go full Harrier’s. You won’t need that much healing power on stationary bosses like 99, 100, but it’s really noticeable for chaotic fights like Twilight and Volcanic.
+---
+do you have weakness on you? Glancing blows are caused by two things
+---
+1) weakness condition
+---
+2) level differences (the higher the enemy compared to you, the higher the chance to deal a glancing blow)
+---
+This would be such waste of dev time. Most of the days I'm pugging fractals,party doesn't even enter lobby until we are full and we spend maybe like 1min total during dailies. 
+---
+Something like that should be added to player housing or maybe to our home instances, fractal lobby is probably the worst place for it.
+---
+I've tried that and got kicked twice for not having Li. From my own squad. Since then I haven't bothered.
+---
+Yeah I've got some stuff on rent to own and still bounce every small change out to audio because I also don't want to lose my work lol.
+---
+yes please, i want that so badly!
+---
+https://wiki.guildwars2.com/wiki/School_Uniform
+---
+I meant the living party. But Nico made a good point, so I dropped it.
+---
+Get the griffon and commander tag (250g, 300g).
+---
+&gt; like a brand new game
+---
+...from [early](https://prodcmsassets.blob.core.windows.net/media/Default/games/Gears-3-screenshots-Optimized-/beast_oldtown_sm_opt-11c71debf9fc483bb4988d68f5efd636.jpg) [2010s](https://steamcdn-a.akamaihd.net/steam/apps/108800/ss_1c4bfc3a5a613f879a426eeb54a5d92dbb166638.600x338.jpg?t=1447355745).
+---
+Yeah the Death Magic/Blood Magic/Reaper Minion build is literally unkillable. Even soloing champions is pretty easy with it.
+---
+Hey look Ma I’m in the picture
+---
+"Photo" in "photography" means "light".
+---
+This has happened to me during a raid and I thought it's because of lag. Is this 100% reproducible bug?
+---
+That is a pretty nice variety of work - I'm quite intrigued to see/hear how you've tackled that Mendelssohn (but you don't have to share if you don't want to!)
+---
+As for software, all the stuff I used for this is in the video description, but in short:
+---
+-Sibelius 7.5 for the scores
+---
+-Cubase Elements 7 for the recording (using mostly EastWest virtual instruments)
+---
+-Adobe Premiere Elements 15 for the video
+---
+-Adobe Photoshop Elements 15 for the thumbnail
+---
+I guess 3 illusions at once is normal for mirage. Any optimised condi build probably has 100% extra condi duration and about 1500 condi damage.
+---
+Sharper Images does 1 stack of bleeding for 5s, so 10s with expertise, which deals roughly 1.5k damage per occurrence with the right food and gear.)
+---
+Precision is inherited by illusion/phantasms from you - I'm guessing about 65% crit chance including fury; so 65% chance to add 150 dps each second (if its 1 hit per second 10 hits in a row all critical would be an extra 1500 dps).
+---
+I'd estimate Sharper Images gives you about 1k extra dps per clone, so 3k dps or about 10%.
+---
+The former sounds like something that belongs to a videogame - to exist under a hundred other musical effects, and to compliment the active gameplay experience.
+---
+The latter sounds like a standalone piece, to be listened to in a music hall. But while I can appreciate the complexity, I would prefer my game music to be functional first and foremost.
+---
+it really depends imo. you have to go through a few hoops in order to get an experience that you may want. If you are a tinkerer who likes to get deep into PC settings, then windows 10 is manageable, but for those who likes thinks managed less, its a hassle.
+---
+Indeed it does.
+---
+Interesting thing that I noticed just now: both "Assault on Tarir" - my favourite track from HoT - and "Battle on the Breachmaker" - my favourite track from the core game - do exactly this. I wonder if there's a correlation, or I just really like faster rhythmical music with slower, drawn-out ethereal motives. (I bet that must have a proper term, right?)
+---
+I have posted this request, for the last 3 years on forum. Gaile has a post, for in game item ideas, and gemstone ones, so posted it there. I also request a kitty litter box for my home instance, she thought that was great idea.
+---
+Anger issues, by any chance?
+---
+One of my main issues with the game indeed
+---
+Southsun Cove is only connected to another zone via an Asura portal to Lion's Arch, don't you have to cross Lion's Arch twice if you start from another zone?
+---
+Ended up watching on your twitch channel.
+---
+Core &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; PoF &amp; HoT for PvP
+---
+It's not even close how enjoyable it was to watch those matches vs the shit shows that is GW2 xpac PvP
+---
+That middle one is highly filtered and is a forest, not jungle (which might be irrelevant) and the other 2 are great pictures that still have color and detail. I think me originally complaining about fog might be a bit much. But I will stand by my opinion that turning a vibrant green jungle image into literal BROWN FOG is not improvement. It is art, though. Also, thanks for returning the sass, XD. Turning words into image links is tedious work.
+---
+How does one confuse a door?
+---
+i take it you've never worked with a decent camera before? filters are used to enhance photos. wether it be black and white, sepia, or drowning out some color. that makes the details of the ground pop more. thats what this poicture does for me. its low tot he ground and looks up showing the detail of the foliage around the player. from there they are taking a photo towards a light source. in this sense the color around the camera is drowned out while you get a massive influx of white light bleeding through. its like taking a photo in a dark cave with a bright opening.
+---
+As well as the ones mentioned in that other thread there's also [TaCo](http://www.gw2taco.com/) with [Tekkit's All-in-one pack](http://tekkitsworkshop.net/index.php/gw2-taco/download). Tekkit's farming routes are super helpful for getting the most out of the Living World maps. TaCo only works if you're using Windowed Fullscreen though, so if your PC can't handle that don't bother.
+---
+You can also grab [Discord Rich Presence for Guild Wars 2](https://gw2rpc.info/) if you're into that kind of thing. I quite like it, requires an API key to configure it though.
+---
+If you use either/both you might want to make a .bat file to launch them all at once to ensure they all work properly.
+---
+Yeah thats the only thing I could think of, so I went with 'usually'. Also warriors kick and headbutt, that should hurt.
+---
+It's more about exploring maps and some game mechanics than lore itself.
+---
+Or maybe you could take care of your shit? Just a thought.
+---
+&gt; It's easy for us veterans to laugh and say "LOL legendaries mean nothing now" 
+---
+Damn right it is! I almost forgot that I've transmuted over all 3 sets of my legendary armor!
+---
+I play since beta. xD
+---
+How do you break the screen AND keyboard?
+---
+Your original post is gone.
+---
+You should provide a budget.
+---
+Death is even more meaningless because we killed Glint in GW1 (not cannon) but then she died fighting Kralk (cannon) but guess who still came to us talking about prophesies and trying to direct where we go?
+---
+Damn.. I was too late.
+---
+You forgot that everybody who was aboard the Titanic when it sank is now dead.
+---
+How can't he even explode his own house with a shit build like that
+---
+I already have some professions, but I think these are all very good ideas, thanks. My main is a Chronomancer, should I be looking at 2 separate armor sets for supporting in group content vs PvP/WvW?
+---
+But you also have fists of steel. B)
+---
+[Spoiler](#s "Hold the phone my guy, there's a grave?")
+---
+Returning player. I switched from my daredevil to my guardian and have been using DH for all my content. Having a lot of fun and pretty good survivability.
+---
+Would you be able to post it again or PM it?
+---
+Spaz and PvP go hand in hand. Aye brother! XD
+---
+GW2 is still a product-as-service. You get banned? Good luck playing it again.
+---
+Don't say that out loud, you're gonna make Mio turn into a pillar of salt again.
+---

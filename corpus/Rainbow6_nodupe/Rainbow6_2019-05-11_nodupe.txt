@@ -1,0 +1,1230 @@
+Camera?
+---
+---
+---
+*draws 44. mag.*
+---
+Apparently it's around 35MB Down and 25MBup per hour  
+---
+[https://youtu.be/KvIyUxaF5pE?t=452](https://youtu.be/KvIyUxaF5pE?t=452)
+---
+No it wouldn't. Team Fortress 2 has been home to endless amounts of wordless interactions for over a decade.
+---
+If thats mjolnir, then shouldnt bandit be prone at all times
+---
+No problem man
+---
+Tbh I don't think Ubi put much thought into the whole height/weight thing.
+---
+Yeah, but once you did it with every op (including recruit with special skin), on every difficulty it wasn't very repetitive
+---
+What kind of cretin came up with that?
+---
+Ah yes the G36C. Once again. It's so atrocious that even while having access to an ACOG and 30 rounds, it'd still be outclassed by the Type 89. Win rate is the sole decider of power. Not pick rate. If we balanced around pick rate it would probably be horrible. I'll give some examples
+---
+
+---
+In TF2 the spy is the most picked class bar none, while simultaneously being the worst of the 9 classes, should he be nerfed?
+---
+In Fortnite(don't kill me) the SMG is one of the best weapons in the game, but is also one of the least picked, should that be buffed because of its pick rate?
+---
+In Titanfall 2 the Grenadier weapons are some of the most used, while being some of the worse, do they need to be nerfed?
+---
+In Apex Legends, the Kraber has one of the lowest use rates even when gotten from a supply drop, yet it's capable of one shotting anyone from anywhere on the map. Should that be buffed
+---
+There's probably a thousand more examples I couldn't be fucked to think about. But do you get the point?
+---
+But Hibana is a hard breacher. There are only 2 main breachers with Hibana being one. She’s always going to be more useful as is Thermite. This is an integral element of the game. That’s why all breachers are played a lot because you need them. 
+---
+Ash doesn’t need to be as good as Hibana to be viable. I’d argue 95% of operators aren’t as good as Hibana but 70% are completely viable. 
+---
+I guarantee you, and I’d bet my life on it, these changes would drop her pick rate to probably between 30-40% pick rate and roughly a 0-0.5% win delta, which would statistically place her right in the balanced category and you’d also feel it in game with her being played not every round, maybe even not every match. And that’s ok. She’d still be viable though. Still has a versatile kit and decent weaponry to boot, with 3 speed and a small hitbox. 
+---
+Let me ask you a question: If my changes, or ones similar were added, what do YOU think the impact on Ash would be, whether positive or negative and explain why? I’m honestly curious what you’d view would happen. It’s all opinion based so no one’s wrong 👍
+---
+Dokkaebi elite leak- Arrogant K-Pop singer
+---
+how the hell do people do this?
+---
+Alright reading through this thread is making me actually vomit. It's really easy to say "dokk gun bad cav gun good" but how about I actually bring up some stats so you can see that you're just talking out of your ass.
+---
+The average kill distance is less than 10m in this game, as stated by the devs. Let's use that as a metric for TTK (remember, the lower the TTK, the faster it kills someone).
+---
+Dokk's DMR has the TTK of **133ms-133ms-267ms** at armour levels 1, 2, and 3.
+---
+* For reference, *the TTK is identical to all DMR's for up to 2 armor,* transitioning out of the 2 shot kill range into the 3 shot kill range against 3 armor. This is the same for Maverick and Blackbeard's DMR's. Buck and Twitch/Lion's DMR's remain a two shot kill at all armor levels. The minority of DMR's (2/5) are two shot kills at 3 armor. We can conclude **Dokk's DMR is completely standard in terms of DMR's in terms of TTK.** She also has the advantage of a 20 round magazine, which puts it **above Maverick's DMR** as well.
+---
+ 
+---
+Dokk's CZ has a TTK of **120-180-180ms.**
+---
+* Against 1 armor opponents, the CZ has the *second best TTK in the game, out of all weapons,*  second only to the SMG 11. Against 2 armor, *the CZ has a faster TTK to Twitch's F2* (180-184 respectively). Against 3 armor, it keeps the same TTK, still beating out the F2. With this data, our **only conclusion is that the CZ is an incredibly powerful secondary.**
+---
+Dokk's SMG12 has a TTK of **142-142-189ms.**
+---
+* Against 1 armor opponents, the average TTK for all attacker primaries is 155ms. *Dokk's SMG12 is above that average with it's TTK of 142*. Against 2 armour, the *SMG12 is 1ms away from tied with the fastest TTK weapons in the game in that armor range*, being Fuze's AK12 and Hibana's Type 89 (141-142 respectively). It is also *tied with the SMG11*. Against 3 armor, the average TTK for all attacker weapons in 185. *The SMG12 is only slightly behind the average at 189*. With this data, we can conclude that **the SMG12 is also extremely powerful.**
+---
+I could stop there because it's been proven in plain text that you have no fucking idea what you're talking about, but for fun, let's go over Cav's guns.
+---
+Cav's M12 (which you said is "super good" has a TTK of **218-327-327ms.**
+---
+* For reference, the average TTK for defender SMG's is 204. Cav's SMG is below average against 1 armor'd opponents. Against 2 armor, **Cav's M12 is BY FAR the worst SMG in the game at 327**, with second place being the P90 at 309. Although there are only 3 3-armor attackers in the game with Monty, Fuze and Gridlock. But just for fun, if you happen to fight any of those three, **it's also the worst SMG in the game.** With this data, we can conclude that **Cav's M12 is fucking terrible.**
+---
+Doing shotgun analysis is tricky due to all the variables involved, but if you bother to research (which you obviously don't) you'll see that it's a respectable shotgun, above average in the semi auto tier and the fact that it is semi auto already puts it above all of the pump actions anyway. With that being said, **the fact that is it a shotgun puts it behind other defender weapons.**An argument that smoke uses a primary shotgun and is still powerful is irrelevant due to his secondary being the SMG11.
+---
+Cav's Luison **remains a two shot kill at all armor levels when at the average kill distance**. For a quick recap, most pistols in the game share the same TTK in respect to their shot counts. Two shot pistols have a TTK of 133, three shot being 267, etc.
+---
+* For reference, against 1 armor, it is a 2 shot kill. **This puts it in the better half of pistols** (11 being two shot kill, 10 being 3 shot.) Against 2 armor,  **the Luison remains a two shot kill,** being one of 7 to remain a two shot kill. If you ever face a three armor, it is **one of the 4 that is still a two shot kill**. With this data, we can conclude that **Cav's Luison is a very powerful secondary.**
+---
+**In conclusion, do your fucking research before you sit here for hours fucking embarrassing yourself.**
+---
+How does a fan create better armor then a AAA developer?
+---
+*A* skyscraper not skyscraper
+---
+Nomad definitely
+---
+I feel like the armor would combine making it 5 instead
+---
+Not the one we need, but the one we deserve.
+---
+When you place it too close to a door sometimes the defuser gets placed partially outside of the room. In this case you lose the round since the game thinks the defuser is destroyed since it isnt in a room with a bomb and has been placed. This happens because your character model is in the room enough to place the defuser, but isnt in enough to place the defuser in enough.
+---
+I swear to god I will be so pisses off if it does get removed
+---
+Absolutely man, killer job. Would u mind telling me what kind of paint you used? Makes me wanna try one now lol
+---
+This looks so awesome!
+---
+Recruit
+---
+Nope
+---
+This made me chuckle
+---
+If taking it slow and staying in obj then meastro is a good one
+---
+#**S H U T**
+---
+Oh, nice
+---
+Underrated comment
+---
+Ahhh the good old nam
+---
+snedger is a good siege youtuber
+---
+*...they were wrong*
+---
+MY NAME IS GYOUBU MASATAKE ONIWA
+---
+Yeah im not too sure about that. I like the concept but i feel it would have a hard time being balancing it.
+---
+Yeah i looked into it it was black flag
+---
+True. Just a thought
+---
+Funny thing is that's how my friend got the black ice skin for Buck's dmr. I hate him.
+---
+Jager and blitz: ballistic padding 
+---
+I.Q and Bandit: Pajamas and Open Leather jacket
+---
+Take a knee for the fallen brothers.
+---
+That's not how games work son
+---
+Alls fair in love and war though....no such thing as a fair fight if the fight is genuine
+---
+*Time for a fucking crusade*
+---
+F
+---
+you're ugly
+---
+What a team player. Actually, With muscles like those, he did it all by himself-
+---
+Yep, same here. I was really hoping they would change it from the response to the leaks but, once again, there's a GSG9 Elite that I'm forced to pass on...
+---
+Bet he could ride down the skyscraper like ghostrider
+---
+It's not smurfing if you made a new account and are genuinely trying to level it up, and aren't bullying all the children in your path. I did the same thing, I was lucky enough to get to try the newcomer playlist on my low level account once it came out, but after that all I use it for is my username.
+---
+Play ranked, people there are less likely to leave.
+---
+*Does your gear come with that polish?*
+---
+Only a plat deals in absolutes
+---
+Thank you!
+---
+[I hate this skin.](https://www.youtube.com/watch?v=ArwEgM14QHs)
+---
+I mean if it’s cas it’s cas but I would like to see something steeper for ranked
+---
+Oh yeah, you're right.
+---
+No it would not be great, it would be essentially be like Apex’s finishers and have the same flaws
+---
+Yeah she is always TK twitch
+---
+Mozzie imo
+---
+I’m gonna be honest with you, I just wanna know who has the most subs. Not favoritism
+---
+It was my first time ever seeing it, funny thing is I watched him do it on the last round while in the droning prep phase, his whole team was crowded around him watching him try to do it. And when he did they all just turned and looked at my drone like I saw something I wasn’t supposed to see and destroyed my drone. I did record it though.
+---
+Thanks dude.Thats really encouraging
+---
+Don’t make me spawn peek you
+---
+I only play ranked and had people leave right off the bat two games in a row
+---
+That's exactly what I just said
+---
+I mean IQ's elite skin is just a jogging outfit. They dont have to make sense, they just have to look cool
+---
+I'm ok with the biker skin (On principal, they should have left the hair like it was in his old pic) since it's a good theme and relates to the character's background. IQ's is just lazy (and bad) fanservice garbage.
+---
+Yea
+---
+100% waste of renown
+---
+Yes yes yes YES!!!
+---
+Yea other wise it would get boring
+---
+Yeah ela's SMG is so hard to get kills with. Either give her impacts or buff the SMG. I'd like both but beggars can't be choosers
+---
+Me.Stark cough* cough* I don’t feel so good
+---
+beaulo and kixstar pls.
+---
+Is it? I have all the operators, and most of the skins/uniforms. What's left to buy?
+---
+Yes.I would like this as an elite skin
+---
+Look into it. They aren't for everyone but they can be worth it. Especially if you can find some cheap ones
+---
+I had a 100,000 ping ones idk how
+---
+I personally hate the Bandit Elite skin
+---
+DELETE ASUS AUDIO BOOST , Ex ...
+---
+r/drakeandjosh
+---
+nah, bandits a kick ass mofo
+---
+He drops to copper, gets the hecc out, and even loses his games.
+---
+He isn't the only one, by the way. MANY content creators do it. I'd rather have him, an honest, non-toxic streamer than that hot piping garbage god-complex showing King George who got kicked from his pro team.
+---
+Well, now you do.
+---
+That's his character. It's pathetic.
+---
+Funny story i work at a prison and these are the sure fire signs of a member of prison aryan culture. The bald head, the tattoos, motorcycle gang member, and the thors hammer pendant.
+---
+I don’t have a problem with the map personally. I just make sure I bring an ACOG and drone the shit out of it. I really like defending on it a lot.
+---
+Ding Dong your opinion is wrong
+---
+Well, the type 89 is really good (apart from the low capacity) but the supernova is good if u r 5 stack rushing. When people say “it’s the worst shotgun in the game” they mean it has the slowest fire rate of any shotgun, damage can be inconsistent tho.
+---
+It took about 9 hours  to paint by hand.
+---
+Very smexy other than the school desk tattoos.
+---
+If you're and anchor laid is good, but alibi can also be very useful and a decent anchor, as well as lesion although I would say hes more of a roamer
+---
+The problem with the Outbreak game mode previously is that it just simply doesn't have any strat involved. It is purely a zombie massacre and survival mode, the difficulty scale up purely based on how fast you can take the zombie. The whole game mode feels just like a mindless non-stop killing process.
+---
+Here are some problems with this game mode and how it should be reworked:
+---
+Problems:
+---
+-Game mode is heavily zombie massacre and survival based, so the operators with a large mag are going to have an advantage, this is why operators like Lion, Finka, Ying, Doc are better compare to others. Plus, some operators gadget just don't align the objective well with the game mode
+---
+-Game mode is really linear, it lacks the scouting and stealth element from Far Cry, searching for the Thermite charges is just walk in, kill, grab charges and survive, you just can't go for the undetected route to take objective. And when it is time to defend, there is no instruction on what kinds of opposition you are facing, and which direction they are coming from, such that you can take down reinforcement and rework your focus through reinforcement orientation. Instead everything just run towards you from every direction possible, and the best way to play with it, is to reinforce everything and grab all the spare reinforcement from the tray, then kill everything as fast as possible
+---
+-Some operators gadget are just irrelevant and not suitable for this Outbreak game mode, what's the point to set trap on Kapkan when there are thousands of zombies out there? the proper way to use Ash's breaching charge is to use it like a grenade launcher, Tachanka's turret is not 360 degree and is just a stationary gun with more bullets than his SMG, Ying's candela I don't even remember I have any chance to use it, because all you do is kill, reload, kill, reload, she's still top picks for this game mode regardless due to her LMG and its fast reload speed
+---
+-Similar to the problem in protect hostage mode, normal terrorist should never have access to exothermic charges but these yellow breachers are just all over the place, making reinforcement redundant, and apex is just another thing here to test how fast you can kill its minions and dodge his RPG. Rooters have very interesting mechanics, they somehow know when they rush you and knock you down right when you reload. But then again in my opinion, it is also just another thing to test how much DPS you can spit out while she's visible on the ground, no strat involved at all
+---
+How it should be reworked:
+---
+1) Bandit/Kaid should be playable as a counter to breachers. As mentioned before, the whole Outbreak game mode needs to be reworked, the game mode doesn't tell you what kind of opposition you are facing, which direction they are coming from. Those site defending scene should be re-adjusted, less reinforcement available total but are retrievable. Give time break between each wave for us to re-adjust reinforcement orientation. Replace Kapkan with Lesion as his gadget has regen timer and can be deployed during a wave, it is more suitable in game mode like this with constant opposition so that you can deploy Gu accordingly, unlike Kapkan with limited gadget count, and can't really be deployed during action phase, once the traps are consumed by these thousands of zombies, you are no different from a recruit. Matter of fact, a lot of the gadgets should be time regen based rather than count limited based due to how this game mode is made.
+---
+2) Capitao should be playable as a counter to apex since smoke (not SAS) will lock up zombies within the area, any minions spawned by apex will be locked up, then he can burn it with fire. Smoke (SAS) on the other hand, doesn't really stop zombies from rushing because smoke grenade is the one that can lock up zombies, which was one of the reason why Ying was so good in that game mode when she had smoke grenade back then. Either fix Smoke's (SAS) canister with area lock effect or just replace him with Capitao because he will be able to counter apex better since crossbow travel further, faster and more precise than Smoke's (SAS) throwable style canister.
+---
+3) Both Sledge and Jackal should be a playable character, with Jackal's eyenox enabled on rooter, and when rooter used dig move, sledge would be able to one hit rooter through floor with his hammer just like those hammer arcade game machine.
+---
+4) Tachanka turret should have knockback effect. As I mentioned before, his turret is just a stationary gun with more bullets than his SMG, if they can make Nomad's blast off feature, I don't see how you can't make knockback effect. With such effect, a smasher who charges towards him will be stopped in the middle of the road, and so people can nail him easier and knife it since it sprint a long distance every charge. And more importantly, his turret needs to be 360.
+---
+5) The Ellen Mackintosh scene should be reworked as a breach and clear hostage scene instead of walk-in and press G to revive scene, that kind of small room is a perfect place for this kind of action to take place, it should be heavily fortified and timed before Ellen bleeds out.
+---
+6) Thermite charge search scene should be timed search, grab and escape scene instead of walk-in and survive scene, it should give you a prep phase with drones to scout in the beginning, zombie spawn rate should escalate as a function of time, and it starts as soon as you step in the zone.
+---
+He will always have a special place in my heart.
+---
+Is that a cerakote?
+---
+Press f12 i think, its a sound thing
+---
+Somebody call an exorcist! Amirite?
+---
+I've got bigger matters to handle than throwing a poll into a community that thinks BB is weak and needs a 240 hp buff and lion is weak and needs a full body outline back and Hereford with 1 staircase is better. This community has absolutely no idea what balance means.
+---
+And opinions CAN be right or wrong. You can always choose your side. You chose yours. And I'll let you know it's wrong. Otherwise everybody could just walk around with the notion that "rape is good, school shooting  is good" and defend it by saying iTs An oPiNiOn. World doesn't work like that.
+---
+Yep.
+---
+Respected, but not accepted.
+---
+Umm... the video doesn’t last as long as you thought it did?
+---
+WHAT ABOUT 16 YR OLD
+---
+Tbh my go to out of those for an anchor I'd kaid even as an echo main I dont particularly like maestro
+---
+Image Macro*
+---
+His mvp animation is him pouring out a bottle of syrup for the homies
+---
+If you can't hear a cluster being fired and run away in the 1.5 odd second duration, then that's on you.
+---
+Need better headphones.
+---
+can you please update about this how its done? i want to shoot every single one even attempting this in the back of their empty heads.
+---
+Frapter.
+---
+Normally it’s a dark background normally in most of the menus for pc
+---
+Oh sweet summer child
+---
+That was beautiful guys
+---
+r/itcosinedinaflash
+---
+Yeah it is snow, on Tower.
+---
+I usually play buck if im not doing too good. The tough recoil lets you learn how to control it better in a faster amount of time. He has frags. And his gadget is super useful. If youre looking for more of a support role then i would definately recomend jackal. Just stick with your team and pick up prints for them.
+---
+Back last year this came up but only for jager and now it’s for every op with a shield .... last year u put ur ads on a wal then pulled ur shield out and it worked so idk now .
+---
+No it got both kills in there but I can resubmit it if you think I should
+---
+Bandit.
+---
+Either Maestro or Lesion are probably the best ones to go for
+---
+Oh that would be fun
+---
+Ooohhhh noooo!
+---
+that i knew i was referring to this new glitch
+---
+Oh I’m just fucking blind... sorry about that
+---
+That one is pretty sexy
+---
+Highest fire rate in the game. Be careful what you wish for
+---
+Bandit: It's funny, 'cause just the other day, me and my boy, we was wonderin' why they even call 'em roofies. Y'know what I'm talkin' 'bout?
+---
+Blitz: No. Don't know what you're talkin' 'bout.
+---
+Bandit: Why not floories, right? 'Cause when you take 'em, you're more likely to end up on the floor than the roof. What about groundies? That's a good new name fo' 'em.
+---
+Jager: Or how 'bout rapies?
+---
+Bikini bodhi is pretty big. If yourr just looking for good quality content though. Jager Himself Too is pretty good. If youre on console check out Priest
+---
+Buddy honestly its just a lot of things all together. My parents have been divorced since I was 12 and only 2 years ago did I get my playstation that can only stay at my moms house. Every Sunday I switch houses (both are about a 5 minute drive apart) and thats a week I go without siege. Sometimes I come back like nothing happened and played like I did before I left but sometimes, dude, I'm total shit. Siege definitely has a lot more players than it did before and a lot more randomness. The game has improved in so many ways and worsened in many as well and it is about who you are playing against as well.
+---
+A good day for you is a bad day for someone else, or vice versa. Dumb spots you would only see in copper gameplay may wins games because nobody expects them. Sometimes your team mates are just shit. Sometimes you're just shit. Sometimes, the game itself fucks you over and even more rare, some people are out to make you miserable. Call of Duty is a simple wind up clock that is repetitive and without dynamic to it. Rainbow Six Siege is a self driving car with a bomb inside of it and three drunken blind men that is essentially always a crazy ride. Sometimes, things just don't go your way dude, but trying different things always helps. I wish the best for you dude, and I've been gold 1 four seasons in a row, never hit plat.
+---
+“I’m gonna steal the Declaration of Independence.”
+---
+It's fine it took me a minute to notice 2 kills too
+---
+honestly what works for me is to take a break from the game and either play something else for awhile if thats an option, its definitely helped me over the years and allows you to come back fresh
+---
+oof
+---
+Hello -BabyBean, **[your submission](https://www.reddit.com/r/Rainbow6/comments/bn7kzt/a_glitch_in_the_matrix/) in /r/Rainbow6 has been removed for the following reason(s):**
+---
+###Submit to R6Fix
+---
+The post you have submitted would be better served as a bug report on [R6Fix](https://r6fix.ubi.com/live-server/contribute/).
+---
+Please use the search functionality before you submit your own report to check that you don't create a duplicate. Should a similar report already exist, make sure to contribute as this will likely accelerate Ubisoft's process of fixing the issue.
+---
+If you are unsure what R6Fix is, check out the [R6Fix FAQ](https://r6fix.ubi.com/faq).
+---
+* "Is anyone else having this issue" posts are also considered bug reports and should be posted to R6Fix
+---
+***
+---
+If you believe this is a false positive or you have any other questions, please [contact the moderation team](https://www.reddit.com/message/compose?to=%2Fr%2FRainbow6 "Click here to compose a modmail message")
+---
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Rainbow6) if you have any questions or concerns.*
+---
+Who says that's a downside?
+---
+Francis with meth
+---
+Yep that’s his elite.
+---
+*fart*
+---
+Y’all hating on my guy castle but mute jammer + barricade means unless they have Ashe sledge or Sofia they have to melee in or stay the fuck out of my house
+---
+I'ma just be real, the Bandit elite looks like he should be in Texas, not Frankfurt.
+---
+i always use russian red dot always over russian reflex because it's so much better, so i never find myself much use for the reflex while with the holographic and reflex i always find myself switching depending on how i feel and on what gun.  Holographic is chunky frame but more accurate reticle while Reflex is smaller frame but less accurate reticle. I could see myself saying russian red dot and russian reflex is best of both worlds, small frame and accurate reticle, but i just don't see myself ever using the russian reflex because of my preference.
+---
+also russian reflex is just ugly lmao
+---
+nomad reflex is just normal reflex but much thicker frame, which one major advantage with the normal reflex is its smaller frame. 
+---
+&gt;russian reflex over nato acog
+---
+im not sure about that one chief
+---
+2.5x is a game changer and as you said they have similar reticles
+---
+He’s speaking the language of gods
+---
+"Alright,Ill get there as soon as I can."
+---
+so are you telling me he is not a man child then?
+---
+[deleted]
+---
+I’m proud of all of you.
+---
+lol he got kicked? I thought he actually quit. haha ouch. Anyway ok so yeah I know its not just him specifically and he does get out but still I just dont like the idea of getting forcibly fucked up by a literal diamond player because of whatever their agendas are.
+---
+*farts in evevator on motorcycle*
+---
+There's definitely a cut in there for me as well, timer at the top goes from 1:17 to 1:15 immediately idk
+---
+Affirmitive
+---
+Really? Damn it's been a while since i played
+---
+" Mornin.' "
+---
+Yeah idk what happened
+---
+Thanks a lot dude. You're right, its all of the above. What matters is that we don't give up right? I mean i love the game but knowing that i can do better, knowing that i AM better is whats stressing me out. And i'm pretty sure i'm not the only one. I really hope this is just a phase, for both of us, and i hope you hit plat soon, you deserve it! Thanks again
+---
+What’s the alternative? That the bullets only hit people if you really really really mean it?
+---
+GTA IV bike cheat flashbacks
+---
+Twitch and thatcher require another gadget in addition to there primary (and I’m always wary of twitch drones; if I know they have one I’ll jam doorways and drone holes too) dink’s and buck I’m assuming that you mean which do work admittedly but they’re not using them on anything else and I know where they are now. As for maverick: for my sanity I just pretend he doesn’t exist or I wouldn’t be able to play the game
+---
+[https://twitter.com/natschbatsch/status/958108815978827777?lang=en](https://twitter.com/natschbatsch/status/958108815978827777?lang=en)
+---
+If they use a frag to open a castle Barricade whose the real loser there :) the  jammer is usually not in range either
+---
+I imagined bandit as just a guy with a normal hair cut and did drugs...... now I can’t look at him the same way I used too
+---
+I see a fellow indian siege player... I upvote BC!!!
+---
+I have always bought the seasons pass so I never need renown for the new ops, but I know lots of people don't buy the pass so it makes sense
+---
+Thats the point.
+---
+He rode it up the side of the building vertically, don’t ask
+---
+wait it does??
+---
+I’ve had a castle block rotation doors multiple times in the same round during prep. By the end I hit it with an impact grenade. 
+---
+You can have this back when you’ve earned it
+---
+This is why I have a suppressor on half of my loadout, I always play the bells mid round, defending or attacking.
+---
+now I know why the lift in a skyscraper is broke
+---
+I both agree and disagree with this statement, also any Castle who barricades that door when site is garage is in fact allowed to be tked
+---
+(unless there is rotation holes obv)
+---
+The reason why the new team killing penalty symbol is the symbol on Castle's barricade upside down
+---
+I agree that BOTH herefords sucked ass
+---
+Right but why express annoyance at something that you can’t change? Like oh gee I hate that I need to breathe in all this oxygen.
+---
+I just crank up the gain and go full ASMR  with the callouts
+---
+Assigned Tryhard At Birth
+---
+Rook, is that you!?
+---
+For some reason, I can smell those old pages by just seeing them.
+---
+I pretty much ancor with everyone. Ella's a pretty good ancor.
+---
+Yeah I wish they only rolled back Elo you lost but tbh it does make sense to just wipe the slate clean regardless of whether the change was positive or negative.
+---
+416 is top 5 based on stats alone, it's better than a few attacker weapons &amp; it's accuracy alone makes it god-tier
+---
+Lord of the Spawnpeek
+---
+in other breaking news, water is wet. we’ve known that’s how it would be since the idea was leaked.
+---
+*A* skyscraper, not *skyscraper* as in the map
+---
+Tower is a skyscraper
+---
+I like how the blurriness contributes to the shitpost factor
+---
+That’s online gaming for you, you can’t avoid smurfs
+---
+I did too just not as bad as it is.
+---
+Yeah I know
+---
+No, Wolverine is badass. I’m just saying I dig Bandit’s look and I’m glad it’s unique
+---
+I’m smelling what you’re thinking
+---
+Level 96. 0 black ice. Fml
+---
+Haha lol, my top operators are glaz and ela, like 50 hours each I've only been playing since Health and I dont really main anybody, I try to pick a variety each game depending on what we need, though I suck at shield ops. 
+---
+I actually used elas shotgun since she came in (SMG from time to time since it was OP but yeah) and I still use her a pretty good amount now to shallow roam and to help stop rushes. What I like about her now is she gets underestimated because of the nerf, so people see ela and arent afraid to push her and then you just devastate them with the shotgun. I admit on long corridor maps I tend to pick someone else, but close turns and lots of rooms I like to bring her. 
+---
+I recently have fallen in love with the lion rework because I don't feel as scummy as when he came out and since I haven't been playing him like at all I figured I'd try the rework and I really like how he is good at determining positions and deciding how to proceed, rather than roam hunter. I will admit it's still stupid strong and it will probably be nerfed again.
+---
+The one barrier known to man, that thermite CAN'T cut through.
+---
+Avengers them plays and everyone shows up in appropriate uniforms Bandit: Hey guys
+---
+Probably
+---
+Legendaries are a scam
+---
+aaaaaah can't bring it right now boss.
+---
+A 3 Storey "skyscraper" how did thos engineers manage it! /s
+---
+Don’t kill it for him bro just let him have fun lol
+---
+Yacht he'll be sporting diamond nipples. First defender gadget to cut through reinforced walls.
+---
+But that might be too brutal for Geneva Convention :C
+---
++10 Clay Pigeon
+---
+Contact Ubisoft support.
+---
+nah, refers to me every time i try to talk to a girl
+---
+Yes it has been in beta for 3 years.
+---
+he might get a cough if hes going to the north pole with only a sleeveless leather jacket
+---
+Did anyone here play the first Rainbow 6 game? I used to watch as my dad played, the pregame tactics you could draw up were great fun
+---
+or he asked thatcher if he could lift the bike on top of the skyscraper
+---
+Lol
+---
+u can try pc but I have to tell u that people are toxic af
+---
+Hey I saw that once too but instead of noticing detail on a drone, my grandpa beat me with a flower pot
+---
+Recruit looking good
+---
+Hope my clips might change your mind someday brother. I think the gun is inferior to others but not completely useless. Although on console I feel it is TERRIBLE these days.
+---
+NINTENDO COLOR GAMEBOY
+---
+so far from the truth. I played on PS4 from beta up until September of last year and I have yet to meet anyone nearly as toxic on PC as I did on PS4. PC is the best.
+---
+I played console since Black Ice and got PC siege some time in Year Two. Gamesense will 100% carry you the platinum alone (With a good squad) and I think gunskill gives you the final push to diamond. What rank were you on Console?
+---
+Oof I can believe it
+---
+but also not putting his ADS' down and spending the whole round probably trying to wallbang based on how much ammo he had left
+---
+Wtf I've been gone for a while what are these ridiculous skins? This is not the bandit I know
+---
+Mjolnir is a common type of necklace on german motorcycle clubs members
+---
+Stop focusing on kills and focus on doing your job, helping the team and playing the objective. If you execute correctly, the kills will come.
+---
+Prettying sure there’s no way to remove RFF. No idea what you’re talking about red points...
+---
+PS4, Xbox or PC?
+---
+Pc
+---
+I refurbished my buddies old N64 and he happened to have a copy of this, we played for about 3 hours and had a blast with it.
+---
+Hello underpin487, **[your submission](https://www.reddit.com/r/Rainbow6/comments/bnajj8/after_taking_a_year_away_from_the_game_im_glad_to/) in /r/Rainbow6 has been removed for the following reason(s):**
+---
+Refund
+---
+Why do people like this camo...
+---
+Lmao
+---
+IT'S A TRAP
+---
+Yes, and they are available for everyone on TTS, not just season pass owners
+---
+Well what you just said is that it isnt bad just hard to use different stuff bud
+---
+I think it's russian
+---
+Cool. Season 2 when?
+---
+i don't even want old one back just get rid of new hereford from ranked map pool
+---
+Well to be honest I kept practicing terrorist hunt until I could beat it at realistic setting and I still got destroyed playing casual. It takes time to find guns you like and even longer to learn how to control recoil. And even longer than that to learn maps and kinda try to predict enemy moves and you will actually get better by playing, I promise
+---
+Or IF you just practice it enough to control it. IMO one of the best guns just takes a bit of skill to use
+---
+Swedes are gay
+---
+Something ain't right chief...
+---
+Ubisoft: well yes but actually no
+---
+The Mountie always gets his man.
+---
+I play strictly T hunts cause I don't care for ranked or casual. I play this game to decompress not add to the stress. Maybe check your connection or see if you can change servers based on your location. Good luck over all though and don't feel peer pressure to play a mode you have no interest in.
+---
+Any map that is not balanced should not be in ranked like old Hereford back was way better than new Hereford bace I feel like if u want Hereford bace in ranked is the old one not the rework
+---
+That's tower
+---
+Is a skyscraper
+---
+#U WOT M8
+---
+Pro league Finals are the weekend of 19 may, historically there have been really good sales around those, but nothing is guaranteed of course
+---
+r/2meirl4meirl
+---
+Made with memeatic
+---
+Fuck her drone anyway
+---
+Vigil.
+---
+Snaking is the best strategy, change my mind
+---
+You should’ve picked Mercy!
+---
+Twitch’s F2 is on its own tier in deadliness. High ROF, high damage. Slight recoil, but worth it.
+---
+Hello Vasilyart, **[your submission](https://www.reddit.com/r/Rainbow6/comments/bnb4zr/when_the_r6_gods_just_dont_want_you_to_get_reset/) in /r/Rainbow6 has been removed for the following reason(s):**
+---
+###Link-only text submission
+---
+Your submission only contains a link. Please re-submit as a "link" submission and not a "text" submission.
+---
+Should you have any questions, please [contact the moderation team](https://www.reddit.com/message/compose?to=%2Fr%2FRainbow6 "Click here to compose a modmail message").
+---
+0/10, no drop shots
+---
+Maybe put your reddit user on your border too.👍
+---
+CHUNKY MOZZIE
+---
+This is just begging for attention
+---
+Are the alpha pack and Twitch live drop the only way to obtain the legendary skins?
+---
+Whoa 😧
+---
+Wrong sub lol
+---
+Sherlock Homo
+---
+Eww
+---
+The elites pretty dope tho
+---
+Why’s he a biker?
+---
+WOrd. Happy weekend, homie!
+---
+no why is clash bottom tier
+---
+Guy meleed througb a reinforced wall and had walls.
+---
+Unfortunately it's very unlikely:/ but that would be a great idea!
+---
+I’d say maestro or lesion are best, lesion if you are a more aggressive player
+---
+It's all wrong!
+---
+word.exe has stopped responding
+---
+How sweaty tho
+---
+Ok?
+---
+That’s some crackhead shit right there
+---
+Wait for them to overheat this shit looks sweaty
+---
+“Nibba’s”
+---
+... why even bother
+---
+And caveira was definitely NOT a scalpel in this case.
+---
+The first time I saw this I thought it said “Dennis” like the guy from the spongebob movie
+---
+:( thanks for your answer though!
+---
+Its a charm you get for reporting 3 unique bugs on the TTS
+---
+Press F6 to surrender
+---
+Did those jeans and sneakers help you much?
+---
+His backstory is that he was an undercover agent for a long time and he worked in a Biker drug ring or something like that.  It’s why we have the clubhouse map if I’m not mistaken.
+---
+Ahh that makes sense.
+---
+As a cav main I approve this message
+---
+Ah yes... The chinese version of bandit haha
+---
+Yeah...
+---
+Get banned for toxicity for typing nibba in the chat, therefore neither winning nor losing the airsoft match.
+---
+OHOHOHOHOHOH
+---
+Ironically true, I see a red dot on the wall next to me and i think hmm, probably shouldnt peek that
+---
+Thank you for your bug finding contributions
+---
+Would have bern nice if they added the t wheels on each side that are needed for that though
+---
+Mannn, a German skinhead wearing ancient European symbols with a unique skill of electicuting walls and barbed wires and a lightening icon.
+---
+Yes, the game pretty much always goes on sale alongside a free weekend.
+---
+Years? The maps hasn’t been out for more than a few months
+---
+N
+---
+José ko
+---
+love the way jäger and bandit are wearing adidas shoes
+---
+Jjj
+---
+Whats uo with this thing about bandit being high af? I mean, yeah i understand but please break this chain
+---
+That’s not rng it’s the game being bad
+---
+Imagine bandit dropping down from a helicopter with his bike or something lol. Good trip my dude
+---
+Take off the fookin Lazer sights and make sure your knife doesn’t lose signal
+---
+As we like to say in Russia:”БУНД БЛЯТБ!»
+---
+That's sick honestly I wanna try and get it on n64
+---
+Hello bummGOLD, **[your submission](https://www.reddit.com/r/Rainbow6/comments/bndenb/awesome_wallpaper_of_blits_from_seige/) in /r/Rainbow6 has been removed for the following reason(s):**
+---
+Unfortunately, your account is new (under 2 hours old) **OR** your account has negative comment karma.
+---
+Please wait until your account is older than 2 hours and/or increase your comment karma and re-submit your post.
+---
+Keep in mind that comment karma is not the same as post karma. If you have negative comment karma, it is easy to raise it: simply participate in a few discussions and you'll have the amount you need in no time at all.
+---
+*Moderators do not whitelist for this.*
+---
+Should you still have any questions, please [contact the moderation team](https://www.reddit.com/message/compose?to=%2Fr%2FRainbow6 "Click here to compose a modmail message").
+---
+In any game wether its balcony railings or stairs I seem to only hit rail instead of the enemy.
+---
+New hereford is same strats all over again. So little variety
+---
+Its headache now, cant hold my frustration :p
+---
+Then don't play ranked if you don't care, if you're with a pre-made team, that's fine, but when you solo queue play casual, cuz people on ranked most of the times actually do try, and it's not fair on the  if your there, cuz u don't try
+---
+Cant wait to see this meme being spammed for next month.....
+---
+The only other change I want for ranked now is matchmaking based off the highest rank in the squad so Plats and above can't boost off golds and below.
+---
+Man, this is nothing. Bandit made it to the roof of Tower-
+---
+I see you have my post as your profile picture
+---
+I am honored
+---
+I’m in tears...
+---
+There are different versions of the game. One gives you all the original ops and in one you have to unlock them and I think theres also one where you have to unlock them at a different price.
+---
+What about dokaebi main😭😭
+---
+I love that it immediately offers you to put it on literally all guns, lol
+---
+"Lmg mounted and loaded, if it runs on batteries, ill see it"
+---
+Cool, gonna look for it. Thanks!
+---
+I don't know enough to answer you yet!
+---
+Happy cake day
+---
+I second this.Though not russian
+---
+😥
+---
+God fuckingn dammit. Why cant cavs do this to me? 
+---
+I get fookin YOTED off the face of the planet by every single cav. And then they fucking forget where their monitors are when playing against my crap teammates.
+---
+[Was it this?](https://youtu.be/Ec51smvcsDY)
+---
+Doesn’t make the report button do anything still on console either
+---
+Username checks out
+---
+I love how he threw the hostage into that.
+---
+¡BaNdIt Is So WaCkY, hE dRoVe HiS bIkE aLl ThE wAy To ThE hOuSe MaP iN pErFeCtLy GoOd WeAtHeR!
+---
+Console sucks, I average 60, stop complaining about 120+
+---
+WE MUST KNOW
+---
+Pulse face reveal!?!
+---
+Imagine caring about if other people have points on or not. That’s just sad
+---
+Don't even get me started with Yacht
+---
+Yea I kinda hate this too.
+---
+R6Fix, also I think revive points are red too, guessing it's something to do with anything that alters teammates health being flagged as team damage in the UI
+---
+Why?
+---
+It's supposed to be like this so they can get as much money out of the player base as possible. If they could charge each player to pay for each operator separatel,  they would
+---
+That’s 100% true
+---
+Yes, I definently understand
+---
+Maybe you're right, maybe he's crazy.
+---
+Zoo wee mama!
+---
+If the attackers brought Montagine , you will know that the only entrance to the room is the main door , which will be blocked by him
+---
+Stop complaining ? I paid a pc above 2500$ to have the top and the best and I can’t reach it, it’s ridiculous. Some people have way cheaper pc and have 144 constant. I should not even reply to your ignorance comment.
+---
+u left out literally the most important thing what does he di
+---
+ubi doesn't leak anything . the leakers like R6S news or the people during ubisoft's booth knows what's there
+---
+That really sucks, i paid for both season pass’ so i would be able to have access to all ops like it said when i purchased.. oh well i guess. Thank you for the feedback!
+---
+u/wombledore
+---
+Console players don’t understand pc stop commenting
+---
+yeah I know I'm getting my PC soon thank god
+---
+Thatll do also
+---
+Dont you know, Ubi teases new season name before 2 weeeks till the reveal.  [https://twitter.com/Rainbow6Game/status/1059911994441109505](https://twitter.com/Rainbow6Game/status/1059911994441109505)  This is Opeartion Wind Bastions tease. They put this up in 6th of november. Then season revealed in 18th of november. They are doing this every season.
+---
+I’m just wondering how he got the bike fo the top of the map “tower”
+---
+19th of may.
+---
+youre kidding
+---
+My brother has a PC. He came from console. Be understands PC greatly. You saying he doesn’t?
+---
+I know that PC is far superior to console. Saying “Console players don’t understand pc” is like saying “Europeans don’t understand americans,” there are differences, but we need to learn to get over them, and not be assholes to people who support the other.
+---
+Cool, thanks my good sir Baker.
+---
+&gt;Pixel\_Burster
+---
+Let's see that Diamond/Pro Team roster your on and your K/D.
+---
+Another cheater who is playing with mouse and keyboard on console. Nice dude....Just move to PC or play with controller.... Like it's supposed to be. Ah shit... Then you are shit... Sorry my fault.
+---
+They've said they wouldnt be teasing this seasom, that we'd have to wait
+---
+Just tell me it and I won't tell a soul.Also I dont have anyone to tell:(
+---
+So he should get banned for leaving then? Still he manage to get 3 Kills with 1 death regularly? i doubt it.
+---
+No
+---
+New-ish, but it is known.
+---
+no, season finals for pro league is in 18th and 19th.  [https://www.youtube.com/watch?v=QagFS46g2ZI](https://www.youtube.com/watch?v=QagFS46g2ZI)
+---
+holy shit i have to get grinding
+---
+bro my keyboard is literally just there, i sue it so i can play fortnite, why are you so mad
+---
+BANDIT ON ICE! (Yatch)
+---
+when? i never heard sth like that.
+---
+There will be something starting Monday, the reason why they've not gave info away is because their bullshit ghost recon game got in the way and are waiting until next week, if there's nothing next week then there may be a delay for next season.
+---
+4 windows and a single doorway, if you close it all off, attackers have the advantage, big time.
+---
+Shut up console peasant you don’t understand our PC problems
+---
+What AA are you using?
+---
+dont worry. they announce it first then put it on tts for testing and stuff.
+---
+I get some of the same problems, so go fuck yourself. You don’t think that console suddenly loses frames, even though we payed a lot of money (by console standards) for them?
+---
+oh good, finally something good happens since im on console
+---
+Next Invitational, maybe. I hope we get it!
+---
+Sad Bikini noises*
+---
+Holy shit you are actually mad lol dude go calm down somewhere don’t be so butt hurt hahahahaha
+---
+If you bought the season pass you should have all the ops from that season. Are you on console or pc, and if you are on console is it Xbox?
+---
+yeah man youre right. i was thought about this too. hope they dont do operation health 2.0
+---
+Best kill i have seen!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+---
+Dude quit searching and re-search
+---
+Do this with the bandit elite mvp that .... would be sick
+---
+I said console but I’m mainly mean yourself due to the lack of knowledge of why it is important to get 144 FPS. If you don’t get high enough FPS to the monitors refresh rate the screen starts to tear which makes it really hard to play. Consoles don’t get this because it’s synced up, but on pc it is equivalent to t-hunt on console with vsync disabled.
+---
+Idk my bother deleted the game
+---
+Hello weissi13, **[your submission](https://www.reddit.com/r/Rainbow6/comments/bnfj1s/pls_check_out_my_rainbow_video_on_my_yt_channel/) in /r/Rainbow6 has been removed for the following reason(s):**
+---
+Yep, i also noticed this
+---
+Answer the question OP. What game is this?
+---
+Render scaling eats up FPS like crazy. Especially with a 1050. Were you getting 60 FPS before? Try turning render to 70%.
+---
+Let me know how that goes for you, Godspeed Soldier o7
+---
+Faricl
+---
+Right hereeeee KingHythetic.
+---
+Just a regular fan I think when I am playing r6s in game I belive my cpu go 80 C according to Core temp.
+---
+That’s the Blackbeard buff that we need! Look at the size of his shield.
+---
+So fuze but better?
+---
+Just added you, athorpe88 is my name
+---
+Helicopters, like mozzie did in his bio
+---
+You get the friend request?
+---
+FOOKIN LAZER SIGHTS
+---
+Lol I'm not online, or home at all
+---
+Ok
+---
+Godspeed, little fella!
+---
+His username checks out
+---
+I'm disturbed because the band of her rifle is not falling in the right direction
+---
+You ever panic throw a drone at someone?
+---
+Why he is look like my uncle?
+---
+Wait, uncle? 
+---
+Where is my uncle?
+---
+Uncleee!?!?
+---
+Done https://www.reddit.com/r/Rainbow6/comments/bnfb4c/i_significantly_improved_the_bandit_elite_skin/
+---
+Damn the madman arrived in his bike to take down a biker gang in Clubhouse. Ultimate power move.
+---
+He got exothermitic charged
+---
+Nice eye
+---
+Since the beginning of the season, its a whole set with matching headgear and uniform. jackal has also such a set.
+---
+It sounds like he'd be encroaching on fuze's role, and fuze already doesn't see a lot of play. I'd rather see the ability to drill through reinforced surfaces be added to cluster charges, than a new operator who can do that.
+---
+AND a badass beard that some guys would dream of having
+---
+Do you, by any chance, come from tf2? Cuz that's a very tf2 kind of behavior lol
+---
+Ok...
+---
+Get a team of friends getting to plat 3 as 5 stack is pretty ez u dont even have to be that good
+---
+De Belgen verdienen ops in deze game. De afgelopen jaren zijn jullie helaas vaak getroffen door terreur aanslagen.  
+---
+Zonde dat Ubisoft steeds maar weer US operators erin stoppen.
+---
+what is the discord of one of the mods? Also i cant message the bot as i cant go onto the server.
+---
+Download and run prime95 on your computer it will stress the cpu and make it as hot as possible. Watch the temps during the stress test and see if the pass 90. Most cpus will slow down as tenos surpass 90C
+---
+Indeed, that's where you find hackers
+---
+DETAILS
+---
+Maybe there’s a chance while I’m a lower rank you came across a hacker that you beat, maybe in low gold where you gain elo much more
+---
+Game name?
+---
+Hey how did you get it to say smoke main
+---
+Idk...visual glitch probably because there was no hole afterwards
+---
+Tried vaulting on the car to peek window and I just clipped thru.
+---
+That was amazing bro! Holy shit
+---
+Did thatcher get to leave his spawn or did bandits acog get taken away?
+---
+"Gameplay"
+---
+Nope, it just blew up the remaining soft walls that the reinforcements attach to
+---
+Yep. That’s me
+---
+ Idk This was a long time ago
+---
+Epic
+---
+I really don’t understand this because the PS4 is capped at 60 yet I reach 70 FPS In online multiplayer m siege
+---
+It’s 30 with V-Sync on
+---
+60 with it off, 60+ if you got a higher grade console.
+---
+V-Sync is always off for me, T- Hunt &amp; Multiplayer.
+---
+There’s an option that makes it cap out at 30 fps . Don’t remember which one specifically though.
+---
+Not only on L8 - I meant that in every gun you only can you should have ACOG due to corner peek exploit. Only logic reason to put any sight over ACOG is playing rush/push operator (Ash/Capitao/aggressive Zofia etc.)
+---
+My team didn't even leave , the match began like that
+---
+Or you could not all spawn in the same spot?
+---
+Forget to switch accounts?
+---
+I dont get it either
+---
+*its time to settle the decades old family fued*
+---
+Oof! I wouldn’t even be mad, thats just impressive!
+---
+The spectator bug was also fixed couple of updates ago
+---
+r/foundthemobileuser
+---
+I have it off but my ps4 is like 4 years old
+---
+So I've heard that what people would like to do to change this is have Clash's shield be made out of 4 glass panels, and each one would be breakable similar to Blackbeard's shield but obviously it would take far more than 1-2 shots. Somewhere in the range of 20-30 bullets would make it interesting.
+---
+Wheres the stl
+---
+Hello Kyzerinken, **[your submission](https://www.reddit.com/r/Rainbow6/comments/bnhe01/lft/) in /r/Rainbow6 has been removed for the following reason(s):**
+---
+###Caps lock title
+---
+The title of your submission only contained capital letters and /r/Rainbow6 currently does not allow those titles because they impact the readability negatively.
+---
+Please re-post your submission using standard letters.
+---
+I can't even imagine the struggle. I hope you get the opportunity to upgrade in the near future!
+---
+Yeah lmao sometimes i just get so focused on drones that im like daam only 5 seconds left?!?? Gotta set up
+---
+You did though. Stop.
+---
+2015 christmas skin
+---
+That works, then you can beat a clash by keeping distance. In that way I don't mind if her zaps do damage
+---
+Reason #4325 why Plane is the worst.
+---
+What about first seasons universal skins ??
+---
+Hey! so sorry for the late reply, yesterday it started working for a little bit then all of a sudden it just cut back to not working at all, even after restarts, but to answer your question, after a couple of matches.
+---
+Okay and? Your already fucked up. Your saying twitch shouldn't be able to use her drone for damage then cause if I'm lit to 10 or less health and holding the only angle she can drone in and kill me from cover. Your point is stupid.
+---
+If clash and you are in a 1v1 and your at 15 hp and shes full, your team played poorly that round suck it the fuck up and take the one round loss. It isnt a game based off of 1v1s it is balanced for 5v5 single elimination rounds.
+---
+Your argument really boils down to. "If they shoot me they should take the same damage so it's fair."
+---
+I bet 80% of this subreddit wasn't even alive when this game was released.
+---
+Lol I thought this was only on ESL
+---
+Shitake. You're right. I still should have gotten that kill. Guess I'll pull the post.
+---
+Vegas Co-op Thunt was amazing. I loved the cover mechanic too.
+---
+Why is every guy in this sub so fucking toxic? Jesus like none of you can debate without be a dick. i don't agree with the whole ban thing either. I mean kicking the person from the game doesn't really solve anything even if it wasn't an accident , the damage is already done. The round is already over. Though a pretty easy solution is to just not play hostage I guess, who even likes to play it anyway?
+---
+These are A-Tier gamer tags
+---
+Don't play hostage my dude, it's complete turd anyway. Filter your matchmaking settings for Bomb and Secure Area.
+---
+Hello Lazyboiwonder, **[your submission](https://www.reddit.com/r/Rainbow6/comments/bnhfji/anybody_else_seein_this_game_broke_the_deployable/) in /r/Rainbow6 has been removed for the following reason(s):**
+---
+Ranked isn't there to get diamond. You get a full game, faster rounds, full team with no one leaving (usually), better gameplay with less run n gun/headless plays, better matchmaking. Casual is unplayable due to toxicity, long rounds, leaving/joining shitshow, and casual superstars.
+---
+True but they still should fix that about ranked
+---
+Yup, born in '85. I remember this very well :)
+---
+What? You can't even get to that window. You just toss the C4 up.
+---
+Did any of the guns have laser sights? asking for a friend.
+---
+That's an actual strat
+---
+I wonder how many people in this subreddit was actually alive or even conceived at the time this game was released.
+---
+Hello Golfed_, **[your submission](https://www.reddit.com/r/Rainbow6/comments/bnhg9m/there_is_a_gamebreaking_glitch_right_now_they/) in /r/Rainbow6 has been removed for the following reason(s):**
+---
+“Get killed by capitao”? 
+---
+or
+---
+“Get shot until your knee caps bust open”?
+---
+When you spawn you're all right beside each other, and cav's pistol does so much damage up close that she can two hit everyone before they get the chance to realize what's happening. It doesn't come down to skill usually, just getting surprised by a toxic player, and while it doesn't happen often it still does happen and the player gets away with it punishment free
+---
+Plot twist: he doesnt actually know
+---
+First season was black ice, but most people bought them at the time, and lots of people get them from alpha packs so they're not rare anymore.
+---
+Well that works too, the actual strat is a Mira on a nonbroke nonreinforced wall and use the Mira for LOS for wallbangs
+---
+i personally love both ops. jackal is great for roamer hunting, but i even play him just to drag because that’s how amazing i find his kit. maverick on the other hand is so much fun to play and super versatile. you can’t go wrong with either op. myself, i went for maverick first :)
+---
+The best way to nerf his gadget imo would be to take away one of his fuel tanks and make a bit louder
+---
+Gotta keep it pg
+---
+you mean like the bulletproof cameras as secondary gadgets?
+---
+Where the fuck is the third
+---
+Don’t know how much of old rainbow, but i know people hated the new one being so different. All i know is rainbow now is so unique and holds a special place in my heart. I’m sure you can compare it to other games but not in my library. Top 5 fav games ever.
+---
+What is the music from? I feel like it's so familiar, but I cant place it
+---
+Finally an accurate shield for blackbeard...
+---
+And where the hell you gettin 4 I see 2 that’s it or I’m blind
+---
+I really hate that people in the same game say take it chill its  casual but then when I stop carrying they say WTF are you doing we need to win
+---
+Haha yeah my friends and I will sometimes make this reference when Habanna is picked
+---
+u/catsruul is just bad at the game. Don't mind him. BB is easily countered if you have a brain.
+---
+[R/ihadastroke](reddit.com)
+---
+Kids drugs. Do them.
+---
+More like John Stockton
+---
+You can do something similar to this with a Maestro camera zooming in and out
+---
+Do drugs them kids dont
+---
+Can you please explain to me why everyone keeps recommending this subreddit to me
+---
+gun is a VSS - [https://www.evike.com/products/50670/](https://www.evike.com/products/50670/)
+---
+In game is a pp19 - [https://www.evike.com/products/63269/](https://www.evike.com/products/63269/)
+---
+Secondary is a pmm - [https://www.evike.com/products/52535/](https://www.evike.com/products/52535/)
+---
+My thoughts exactly
+---
+Half his heart was not in Hibana 😔
+---
+[removed]
+---
+The people who play this game constantly use the word nigg but they sound white as snow.
+---
+For what side
+---
+Hello thebomb32k, **[your submission](https://www.reddit.com/r/Rainbow6/comments/bni9sq/ingame_download_speed/) in /r/Rainbow6 has been removed for the following reason(s):**
+---
+i dont seek attention for internet points 🤷‍♂️
+---
+That would be lit, just imagine
+---
+I only play ranked. I miss the maps, not the gameplay but having that straight line on plane and yacht is fun.
+---
+Buck/Hibana on attack and Valk/Frost for defense
+---
+Ash with G63C and an Acog on offense. 
+---
+Rook with MP5 and an Acog on defense
+---
+Yes but for ceiling cams and also valk cams
+---
+Both I guess?
+---
+Wait what?! Did the Holo sight get changed?
+---
+Hello yelsewww, **[your submission](https://www.reddit.com/r/Rainbow6/comments/bnia91/equip_no_charm_to_all_glitch/) in /r/Rainbow6 has been removed for the following reason(s):**
+---
+Top left, top right, in front on his forehead and on his upper lip
+---
+no, its has to be a continuous effect .
+---
+*doesn’t like stale meme*
+---
+“ha ha fucking retard”
+---
+casual
+---
+Oh the YouTube shit and twitch shit I thought that was just a fuckin mark not a watermark
+---
+Unfortunately, I hate how accurate this is
+---
+I hope they remove the glass
+---

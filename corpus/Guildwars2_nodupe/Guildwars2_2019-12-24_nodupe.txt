@@ -1,0 +1,916 @@
+I hope they have enough sense not to waste the resources. Anyone on that project isn't making new content, just putting large amounts of resources into re-releasing content that is inferior to what we have today.
+---
+---
+---
+LWS1 sucked, especially narratively.
+---
+
+---
+The gameplay from it wouldn't stand up to the quality of today's releases and the story was a muddled mess of sparse dialogue, loosely woven together in a mixture of random open world ambient dialogue most players missed, a handful of dialogue only instances and some combat/dialogue instances with bare bones combat complexity.
+---
+The story itself was bad (Scarlet did it, oh and alliances of odd pairings which never build on existing lore or add to it and none of them have been relevant since) and the finale was reverse engineered as "we want to blow up Lion's Arch because it will be exciting, write a way for it to happen".
+---
+I haven't replayed a single episode of Season 4, I haven't replayed Season 5, I don't think I even ran Season 3 more than once. Story releases are one and done content and the vast majority of players never see them more than once. Why would anyone wants ArenaNet to put limited resources into redoing Season 1 so some people can maybe do it a second time when those same people wouldn't do S3 or S4 a second time, both of which were narratively superior and gameplay superior to S1?
+---
+Anything new is better than wasting dev time rereleasing something old.
+---
+I don't have a guide but as someone who has had a Guard since launch I can offer a few tips for new players. 
+---
+Time your blinds and blocks. If you have Aegis up, do not blind your target, and vice versa. Sometimes you forget, no biggie, and sometimes your F3 pops right as you blind, not a big deal, just try to minimize how often mobs can hit you.
+---
+Give each weapon and skill a try for a while. This will give you a feel for what the class has to offer, and if you find something that you really like then that's a big plus. 
+---
+Understand you have one of the lowest HP pools in the game, so really pay attention to enemy attacks and when to use your blocks and blinds. CC helps as well, and your heal skills are some of the best (IMO) in the game. 
+---
+Use your skills too. There aren't any crazy long cooldowns, and many open world encounters aren't going to be a problem. Many Guardian skills give boons so you can be buffed up nearly 100% of the time in combat. 
+---
+Also as a general reminder that whenever you change up your skills and weapons, make sure your traits synergize with them. There is no point in taking the trait "Right-hand Strength" if you're using a staff and greatsword, or "Perfect Inscriptions" if you're not using signets. 
+---
+Honestly, 99% of the "guides" can be applied to any class, it's just the build used. Just enjoy it, learn from your mistakes, and eventually you'll be able to pull a large group of mobs together and blow them up without taking a single point of damage.
+---
+Something like that - http://en.gw2skills.net/editor/?PiBBwyx7lVw2YTMPWJe6TrNfA-e
+---
+Having a bit of boon duration is a plus.
+---
+Sounds pretty bland to me, nothing really interesting or unique.
+---
+New professions are unlikely to ever happen.
+---
+Elite specs are still a possibility as far as we know however.
+---
+Zerk chrono with gs+sword/focus. Signet heal/blink/disenchanter/signet of domination or mantra of distraction/gravity well. Spam phantasms, cc when needed and cc with signet/well inside cs  
+---
+also learn to dodge.
+---
+I think professions are supposed to differentiate playstyle, which I think PoF did an extremely great job at that. 
+---
+Is the class good at disrupting/interrupting channels/breakbars? Is it support focused or DPS focused and how is it different from the 27 elites/class that we currently have?
+---
+The idea proposed just seem overly random all over the place and sounds like sth a core engineer could pull off (and probably why we rarely see core engineer roaming in open world or WvW)
+---
+Saw this earlier. Don't know if it will help.
+---
+https://old.reddit.com/r/Guildwars2/comments/eej042/download_stalling_fix/
+---
+How much gems will it cost?
+---
+The 8 professions cover all fantasy archetypes (with rev just being a profession of all professions). Also the 3x3 assortment is nice. It’d be odd to have 4 medium armor profs and 3 heavy and light profs. It’s also unrealistic to have 4x3 professions. If I were you, I’d brain storm elite specs rather than professions. Pirate can easily fit into the thief, engineer, rev, or even mesmer domains.
+---
+It's albino
+---
+This is why we don't let Toxx launch the trees from the Infinirarium.
+---
+I literally thought that the other day
+---
+i don't know about packet scheduling part but i was able to fix this problem with the -assetsrv command line argument. you can use them on mac it's just by a different method (under macOS [here](https://wiki.guildwars2.com/wiki/Command_line_arguments), using 
+---
+-assetsrv 13.35.87.102
+---
+this ip address changes but i don't know how to look up a new one on mac.
+---
+I wouldn't be surprised considering the recent email survey that went out asked how you'd feel if new living would content went into the Gem store.
+---
+&gt;Mobs on a map give bonus XP the longer they've been alive
+---
+Wait.. is that true? Interesting..
+---
+I downloaded it and I’m averaging 20-30 FPS depending on the amount of players. I’m hoping that if I load up the windows version in bootcamp, I can get the FPS a little higher. Thanks for the input, I appreciate it!!
+---
+So the solution I found to work for me was an interesting one but it did work. This requires a VPN so be aware of that. Nothing fancy for connection setting just one you can turn on and off fairly quickly.
+---
+I had my VPN open on one side and the location where the GW2.dat file was being installed. Inside that folder is a file called GW2.tmp. This was created every time the launcher was opened. I also was launching the GW2.exe as admin.
+---
+When my files would stop installing, I would close the launcher and turn my VPN off. Open the launcher (with admin) and let it go for about 150mb. In that time I would delete the .tmp file created that I talked about earlier. Then I would close my launcher, clear my Recycle Bin out, turn my VPN back on, then relaunch the game. I would delete the .tmp file again and while it does take a couple of tries it would then download AND install for anywhere from a few thousand to 100k files at a time.
+---
+I have no clue how it worked. I still don't. I've got the game running now and I'm enjoying it. You do have to kind of babysit the launcher while doing this but I was watching Twitch while doing this so it was less boring.
+---
+I hope this is a solution to anyone who had my same issue. Anet does need to fix this issue if it's on their end because I'm almost 100% certain this wasn't because of my ISP. And since every thing else worked flawlessly on my computer with this being the only issue I feel like this is on Anet themselves. But I digress.
+---
+trash company
+---
+I found a solution I have posted in the comments. Try it out and see if it works for you
+---
+&gt;I checked Palawadan too but seems to be pretty dead there.
+---
+I've found the weekends are usually good for most all of the big metas through most of the game maps. Just a lot more people playing then.
+---
+Sometimes I do see small handfuls of players try to do them throughout the week without the cushion of the zerg. The only time I've ever seen it succeed was with RIBA but everyone (except me) was glowing and winged so I assumed that I was lucky to join a group of very experienced players with a heap of top end gear.
+---
+&gt;The dragonfall one maybe?
+---
+I can't recall ever seeing that meta empty but I have seen it fail a few times. Honestly, the fail is pretty exciting. 
+---
+Honestly? If doing the metas are your thing I'd join a guild that does them a lot.
+---
+Can't tell if irony
+---
+I wish infinite achievement that no longer grant AP showed as filled in or at least different than ones not yet AP complete
+---
+Made a typo, this:
+---
+&gt; Yeah see, that's my point. I'm saying your definition is wrong. I'm saying mine is correct, and by extension, you claiming that my definition isn't correct (when it is) makes you wrong.
+---
+Was meant to say
+---
+&gt;Yeah see, that's my point. I'm ***NOT*** saying your definition is wrong. I'm saying mine is correct, and by extension, you claiming that my definition isn't correct (when it is) makes you wrong.
+---
+Both definitions are correct.
+---
+&gt;But, that's my view on the matter and I realize that language evolves, and not every change will be a home run with everyone. 
+---
+But the thing is, that word didn't evolve recently. Its been used like that for over 200 years. Its not some sort of recent development.
+---
+Anyway, happy holidays.
+---
+[Next you're gonna tell me this isn't a cheetah](https://wiki.guildwars2.com/images/thumb/8/8e/Cheetah.jpg/561px-Cheetah.jpg)
+---
+This. Baron's business model must end.
+---
+Guys, honestly: is it too late to start playing this game? Does the game show any possible signs that it will close any soon?
+---
+I played for 15 minutes and LOVED the game. It is amazing. However, very empty. I hate the idea of ​​investing too much time in something that is about to end, as I did with some MMORPG's in the past. I have a serious OCD that forces me to make sure that this game will last at least another 5 or 10 years before closing, or I won't even be able to start playing for real.
+---
+What do you think? Is NCSoft reliable? Can I invest time and money without fear of disappointment?
+---
+Thank u very very much
+---
+It really depends on what kind of content you enjoy. Maps may currently seem dead because there's a winter festival going on in a specific map which draws a lot of attention. 
+---
+I'd suggest searching for some threads because this question gets asled pretty often and the answers are always the same. If you like casual solo content focused on story which respects your play time, this is the perfect game. If you're into more competitive stuff, you'll have some things to do for a while, but the content is kinda neglected and it gets stale without new releases.
+---
+Congrats and welcome to the game. Tip - It's pretty negative vibes around here about the game, ignore and enjoy the game as it's coming from old guard whom have ground the game into dust and have nothing left to do. I'm a returning player (stopped 2/3 yrs ago) and am overwhelmed with the content I've to do.
+---
+Lol what? Why do you care? Just don't buy them.
+---
+A Bard Owl?
+---
+Does it know any songs about the White Wolf?
+---
+"Pirate" is a category of enemies, and I really doubt they will ever add more professions when we have 9 and they can add elite specializations instead.  
+---
+You could make something like "swashbuckler", but such a thing would make more sense as an elite specialization for thieves. 
+---
+It could give them access to shields, but make shields look smaller when equipped by thieves, 1/3 or 1/4 of their size, so they can act as bucklers instead.
+---
+I thought that was mysterious oil.
+---
+For spotter and AP in particular, both of them are 5 man only. The interval thing means that they get refreshed every 3 seconds to be back to a cap of 9 seconds on each affected player.
+---
+Boons and buffs always prioritize your own subgroup first, before overflowing to other subgroups if theres less than 4 other players from your sub within range of you. They don’t necessarily prioritize people who don’t currently have the boon/buff.
+---
+You can put everyone in the same sub but that will distribute buffs like these randomly within the sub. Generally there will be certain classes that benefit more from certain buffs than others (e.g. power DD needs spotter to critcap, DH does not need spotter, power classes need AP more than condi classes do). So it’s nicer to just split subgroups evenly so certain people are guaranteed to have those buffs at all times.
+---
+I didn’t realize people like pounding in sign posts so much. LsS1 not on the game is the least of GW2’s problems.
+---
+Dear Anet,
+---
+Please, for Christmas and forevermore, give me Jennah as a mount.
+---
+I've played off and on since the start of the game and yes the rewards sucked then. It's ok though stay mad. :)
+---
+There were multiple changes over the years to condi dd, but the final nail in the coffin was the change to [Deadly Ambition](https://wiki.guildwars2.com/wiki/Deadly_Ambition) on Dec 3. Cut down poison applied from 2 stacks to 1 in PvE, and changed so that only dual-wield attacks apply this trait, instead of any strikes. The previous trait had an internal cooldown of 2 seconds (1.5s with alacrity), whereas the dual-wield attack death blossom is used every ~3 seconds in the current condi dd raid rotation, so the frequency of poison being applied is much lower than before.
+---
+I hate funko pops so much ... I wish they would do some real figures with higher quality.
+---
+idk about action versions but there are multiple people who already printed ingame models out
+---
+Cant even get the release date right, smh
+---
+True, but also no one else can join the instance either. Unfortunately players have no control over that :(
+---
+Sorry, I can't hear you. I'm inside a fractal.
+---
+Can somebody give me a link to this thing? I’ve not seen it and can’t seem to find it properly.
+---
+UNINSTALLING THE GAME!
+---
+Really? I just point in the direction I want and go.
+---
+Pretty sure release got bumped hard,  release dates for most lines this year has been bizarre, sometimes waves are revealed days before, others "they come out next week, oh uh i mean  SURPRIZE THEIR OUT NOW".
+---
+I picked up a rustic key and treasure chest at the local hobby store and painted the key to look like a Black Lion Chest key. At dinner tonight I gave my dad the key and his very own Black Lion Chest complete with blue gems, mystic coins, and a claim ticket (good for in game gems) as an early christmas gift. He thougt is was pretty aweosme.
+---
+Chrono will never be bad as long as it remains the only thing that can give both alacrity AND quickness.
+---
+It’s pretty fun in open world with greatsword phantasm slam too.
+---
+And you’ll lose all Sigil stacks you may have had 🙃
+---
+Congrats :) 
+---
+Looks like you swapped the Joko and Aurene in-game mini vouchers though; Aurene's is under Joko, and Joko's is under Aurene.
+---
+That is very impressive! Good for you!
+---
+Just go with the old might stacking spirit build and find a Chrono or Firebrand for quickness. 
+---
+Outside of some elitist CM groups, no one is going to care.
+---
+Mostly it's important for actual combat. You want to be able to move in any direction (forward, back, left, right, up, and down) without changing the direction you're facing, because your facing determines the direction you attack in. For out-of-combat navigation it is indeed perfectly sufficient to aim your camera in the desired direction and swim "forward".
+---
+I just downloaded al game files on mac so it's working.
+---
+Why are Funko Pops bad?
+---
+i don't think PoF was amazing. i think it had a lot of new stuff (mounts were the main one) as well as a completely new area that looked vastly different to what we had received before, that it fooled people into thinking it was a great expansion. looking back on it, the story wasn't anything to write home about (plot holes become obvious if you think about the story for a minute) the mounts kind of ruined the old feeling of the game, everything was just so easy and quick to get to now that they may as well have added flying mounts for all the arguments against them because the result ended up being the same anyway, i can't comment on the elite specs as i don't enjoy or play any of them, other than the aforementioned things, i cannot remember much of the dlc because it was just so bland.
+---
+Well, I'd also like Elite Specs and something that shakes up the game to the same degree as gliding or mounts. I'll admit getting it all at once has some hype, but that's the less important bit imo. There's nothing that makes this season/saga feel fundamentally different from the last one besides the snow, at least so far
+---
+Quality of detail
+---
+I see. I just think they look cute.
+---
+Anet should just warn the guy, if only he cam buy the CES directly in tp he will do that, its a little bit unfair to him
+---
+&gt; They are developing the game with the same mentality the majority of people are playing it.
+---
+No they aren't...they've made it clear that they aren't listening.  It's been made very clear that it doesn't matter...the community will never let them do a good thing.
+---
+The players have been screaming for story mode raids for years.  What's stopped ANET??  Thats right...the raiders and hardcore scene literally screaming against it.
+---
+The "community" has not given Anet a clear goal since the beginning.  Flame Anet all you want but the community has been the problem.  They are trying really fucking hard to accommodate everyone...but they literally can't.  They now see that and now that they are catering to the majority, the more hardcore population is throwing a toddler style temper tantrum.  It's here, it's on the official forums, it's in game...wherever it is...it is fucking embarrassing.
+---
+One patch, they listen to the hardcore...and get yelled at along the line of "fucking finally anet"
+---
+Next patch, they cater to the casual and get yelled at along the line of "fuck you anet, ignoring your most loyal players"
+---
+YOU, the community have made Anet's job fucking impossible.  You literally won't let them do anything right.  I've been watching this shit for years...and YOU, the community, are the problem.  Jesus...I've even seen ya'll complain they haven't included the LGBT community enough even though half of the god damn characters are queer as queer can be.
+---
+The community as a whole needs to chill the fuck out.  Yes, Anet has issues they need to address and sort out.  On the other hand...the community needs to shut the fuck up and be grateful for at least one god damned patch.  Let them know what you liked WITHOUT telling them what to do.  That's literally it...just praise what you like.  I have over 4.5k hours in this game...not one fucking patch has the community just praised what they enjoyed.  It's always sideways compliments...."hey, this was cool, but......."
+---
+Chill the fuck out!  Voice what you like, as a community.  Let them develop the game.  When they hear the compliments and nothing else, it will develop into what you want.  This goes for everyone...teapot, deroir, you, me, fucking everyone in this god damned community.
+---
+Yea for 10 dollars you get what you pay for, so it's alright. But personally I wouldn't buy funkos cause they just don't look good.
+---
+Generally determined by match length, not result.
+---
+I know I'm fighting against the majority who upvoted this. But I honestly don't think there is a problem with having such a prestigious and expensive in-game earnable item in the game.
+---
+I actually genuinely think Anet is to blame. You can't just shoot first and ask questions later. I think that if people are genuinely curious about a ban or a moderator's decision, they should be allowed to question that. If anet were right, then just come on Reddit and make a quick comment, takes 30mins at most to draft a 100 word comment, have it sent to legal and posted. Such a small thing preserves more good will and player endorsement than they could have made after hours and hours spent in marketing.
+---
+CM is not possible
+---
+Why? Because I disagree with you? Damn there’s a lot of salty mother fuckers here lol. 
+---
+The reward (blue essence) scaled more with game length, than victory so generally it wasn’t a reward that would encourage you to get better like many of the other rewards here. 
+---
+Once you played enough, you didn’t really have a need for more blue essence. The rate in which they released champions was low, and I had enough blue essence to buy the next 4 years of champions at one point. I still played even though the reward no longer mattered.
+---
+Not realy, no.
+---
+Thanks! I'm going to get deeper into the game. If i enjoy it, i might buy PoT!
+---
+&gt; "Pirate" is a category of enemies,
+---
+Renegade and Deadeye are also categories of enemies.
+---
+So I created a reddit post to help people get the download going for the game since ArenaNet is having some issues right now and a lot of people are not able to download the game...and they actually finally emailed me back with my own fix LOL check this email.
+---
+Well, it's obvious. If it actually fixes it then what you do you expect they will send?
+---
+Sorry if this was miss-communicated, but I'm posting this because I think it is a hilarious plot twist, turn of events.
+---
+They should have said thanks for the solution but at least we can confirm some Areanet employees do read reddit posts haha.
+---
+Yeah would have been nice but oh well lol just glad we have a fix and that it's working for people :)
+---
+This is quite funny.
+---
+I evny you that Rytlock so much ❤
+---
+Can't whether you're being serious or facetious.
+---
+What are POF metas?
+---
+&gt;2064 unread mails in inbox
+---
+you monster Anthony
+---
+its a reward nontheless. Go read the whole comment chain pls
+---
+You mean the whopping one raid and fractal they released in 2019?
+---
+I uh... I can explain! 
+---
+No I can’t DONT LYNCH ME
+---
+You really don’t think I’ve read the entire comment chain?
+---
+I don’t count blue essence as a reward personally. It doesn’t take long for it to have 0 value, nor does it feel like a reward. I’m not even sure if something you get for participation is even a reward.... 
+---
+We’ll have to agree to disagree.
+---
+https://www.gw2tp.com/
+---
+Real life girlfriend here. Can confirm this user is a monster.
+---
+GW2 is a work of art. If you can't appreciate it...move on pls.
+---
+Inventory and bank slots. Atlest I would.
+---
+Nothing :)
+---
+To be fair, we had serious and very well made sturdy figures and as far as I'm aware they were generally not well recieved. The people who liked them and had interest simply weren't willing to pay the prices they were asking.
+---
+I have a small section on it in [my guide's FAQ](https://wiki.guildwars2.com/wiki/User:Dak393/New_player_Guide#Start_Here). If you haven't gotten the living story chapters (specifically season 3/4) that's my first suggestion. Then since you have the copper-fed character slots are really nice. Infinite tools are nice QoL (if you only farm/play on one main character or have the slots/patience to swap the tools every time they are even better) but I would only suggest getting the [Infinite Volatile tools](https://wiki.guildwars2.com/wiki/Infinite_Volatile_Magic_Gathering_Tools) that are going away in 6hrs as they are the best tools in general.
+---
+Go for the Nuclear option, just wipe them out :D
+---
+My hubby is the same way he like never checks his email. It's annoying when I send him stuff....lol.
+---
+but still on the cheap end when it comes to figures.
+---
+WoW subscription :). If you need bank storage, buy a character slot and some halloween pails. Infinite gathering tools with a bonus are good to have, preferably unbound for ls3 since all maps on ls3 have ascended items. Shared slots. mistlock sanctuary pass or armistice bastion pass, both of them return you to where you were when you leave the special area.
+---
+&gt; Once you list an item, it gets basically destroyed and only the info  about the listing value is stored inside the tp. Once someone buys the  listing, a new item is spawned in their pick up tab. 
+---
+Nope, you'd never do this in database design. Worst-case scenario you list the item as inactive and generate a new one, but you wouldn't really do this. You'd treat this as a classic multivalue model (think of an invoice), with he invoice being current inventory and you'd just "refund" the item and sell it back to the next person, but you'd keep a transaction log of any changes. Can literally follow the trail no matter how far it goes and I'd assume catching this is rare enough since it requires a user to report it, that you could easily check back the few items and ignore any accounts where they didn't also have mystic coins exchanged.
+---
+&gt;And even if it was possible to trace items through the tp, it simply wouldnt be realistic to assume that Anet can simply reverse and reimburse all transactions that those items (Mystic Coins) were involved in.
+---
+It is very realistic to be able to do, again, you have a transaction log of all of it, you know exactly what went where. If they don't have this, then they reinvented the wheel to create a mapping of items to players. 
+---
+&gt; Then he sells all those MC to existing buy orders on the tp. Right now  those 10k coins would fill the top 78 buy orders, so now we have those  MC spread over 78 legitimate accounts that cant really be punished  because they used the tp to buy their MCs. In most cases, just taking  away their purchased MC and reimbursing their gold wont work because  they most likely already used those MC for something, like crafting a  legendary that they already bound to their account. 
+---
+So are you arguing that they can't remove it or that they can't trace it? The above is a completely different argument. The above is now an ethical argument and the question there is whether it matters that the extra 10k came into being. How much of a percentage of the total amount is it? Will it impact the economy a lot? Can one instead give a buff when removing so people can "speed" skill up, and most players would be accommodating because we're not all "evil" and understand what it's like getting hacked. 
+---
+Btw, what about the impact of those 10k mystic coins that should never have been released into the economy, shouldn't that stimulus never have existed if not for the purchase? So why should we allow it to exist as well?
+---
+Figured out my issue, I thought I was repping the guild in question -- but somehow I wasn't while being able to talk to the guild's vendors?
+---
+The Marionette event and Escape from LA/Battle for LA is worth the price of admission themselves.
+---
+How to implement this? There is a disturbance in the Mists. Like in Fractals of the Mists, visions of the past and future of Tyria, but instead of 5 person dungeons, make it "FUCK YEAH PARTY AT LION'S ARCH COME RIGHT IN" (aka. map wide group activity) instance.
+---
+But ofcourse, management of Arenanet only listens to their adoring fanbois who want to pamper them with praise and participation award medals, instead of those who want them to be GLORIOUS.
+---
+**Rise Arenanet.**
+---
+Thanks for the answer. I wanted to try moose burger ever since I watched Northern Exposure.
+---
+&gt; when Braham didn't conform to the stereotype
+---
+Care to tell me more?
+---
+&gt; it's obvious why they all spend so much time apart. 
+---
+About that as well.
+---
+&gt; US servers 
+---
+I thought that the game is one large megaserver?
+---
+To make it clear what this post is about, you should add the word "own" after "my"... ArenaNet sends me my own Download stalling fix.
+---
+I'm guessing it's gonna be the last one, but the main character will probably have badass armor or weapons which we will be able to buy in the gem store.
+---
+&gt; Or it could be just being the best dockworker at port
+---
+Been thinking of going for something like this, good to know there's already an in-game  precedent. Too bad about the old LA, by the way, I liked it much better than this overly bright, fish-themed mess that it is now. Hopefully it isn't as bad as I remember it.
+---
+Challenge in story?
+---
+Reworking chorno would be a solutions.
+---
+Right now the big deal breaker about Chrono/Druid comp in fractals is that it doesn't provide as much boons and heal as firebrand/renegade.
+---
+It's sad that no other support duo comes even close to firebrigade in 5 man content. And the nerfs to Chrono completely destroyed any chance of it happening. Since there are no new elite specs comming anytime soon, Chrono needs to be properly reworked. And to properly rework Chrono anet needs to look into other support roles and streamline the whole support and healer roles and what their boon output/variety should be. Which I'll be honest, isn't going to happen either.
+---
+The only solid way to play a ranger is fractals is power Soulbeast.
+---
+Thanks, I hate it.
+---
+At what time does the hematite update today with its new items?
+---
+To not raid and to watch the cutscenes and dialogue instead
+---
+Lol no boss. Let’s assume anet devs created a tree that finds all transactions. It would be kind of inefficient as a company to reverse every single persons transaction. Say someone makes a legendary with those mystic coins and anet found out those mystic coins were from this transaction. If they revoked it and gave the gold back, even if everyone involved in the transactions got a message their mystic coins were revoked because they came from a wrongful transaction each person would still be annoyed. What if someone was creating a legendary. That person might be annoyed that all the time and energy used to making the legendary is gone. Other scenarios might include what if those mystic coins increased in value from that day and now the person can’t afford the legendary that previously he/she could afford. That would suck especially since they just bought it from tp like any other person and did not violate any game rules. Now multiply that situation by 200 transactions. This is assuming that happened only 200 times. Now you got 200 unhappy customers. By the time they catch it realistically those coins would have gone thousands of transactions minimum. Now take that tree of a thousand transactions and multiply it with each time a scenario like this occurs let’s say another thousand times a day. No chance anet has the power to process and compute through this many transactions nor do I think they want to. It’s not worth the computation power nor the unhappy customers to reverse all these transactions which is most likely why they said no. To them one unhappy customer is a lot better than thousands. Just keep in mind the situation I described is best case there are probably way more transactions in that tree and way more trees to go through.
+---
+&gt; i hate funko pops so much 
+---
+I just hate how most of them have the same eyes and stupid square shaped head.  Although Rytlock looks semi decent for a Pop.
+---
+The difference between slow cc and hard cc, and their value. How break stuns and condi cleanse work and does your class have any. Each time you die try to see why, and try to find a way not dying that way, and if you can't find ask someone.
+---
+It's future landfill.
+---
+Why would it be?
+---
+Wasn't that one Chinese only or something?
+---
+They still haven't fixed the lens flare in Ember Bay? Geez.
+---
+&gt;Care to tell me more?
+---
+Not without massive spoilers for everything from HoT onwards.
+---
+&gt;About that as well.
+---
+First example off of the top of my head: "I challenged my wife to some axe-throwing."
+---
+&gt;I thought that the game is one large megaserver?
+---
+EU and NA are separate servers on different continents last I knew. The American one plays host to a lot of American culture warriors. The EU one has a lot of people speaking German.
+---
+pornhub grannies, the_donald, facebook page for secret mason society, falt earth wiki and lube shop
+---
+These ones are good business, they should have done them years ago.
+---
+And for the record, I despise funko pops as well, but they sell well, and the ingame reward is a nice bait. I'd take an army of this rather than more lootboxes.
+---
+I'm still salty rangers didn't get the fire/earth versions as pets too.
+---
+Fixed?! Is it bugged? It has worked just fine on my client since Ember Bay was released.
+---
+&gt; support is easier than dps. Dont pretend that you are amazing dps if you arent. Just learn to play some support. It also make easier to find spot in squad.
+---
+Hard disagree. Support has to deal with every mechanic of every encounter. In most cases all dps do is stack on boss and do damage with the occasional cc. Good dps players try to do more mechanics but that's rare (applaus to you if you ever pushed Riggom into Samarog with engi rifle 4). Mechanics are being forced on: chronos -&gt; healers -&gt; bs -&gt; dps.
+---
+Off top but I'm pretty sure you can be arrested at work for a body on your lawn in like most countries. You will be prime suspect and arrested until proven innocent
+---
+Yes! Always this. In my experience, many smooth kills come from doing mechanics properly.
+---
+Thief is one of the hardest classes to play in pvp, your more likely to have fun with something like warrior or engineer
+---
+Must have is heart of thorns, you can buy gems with gold in game which is fairly easy, i have spent at least 5k gems in game and ive only ever obtained the gems via gold, not even achievement chests, farming gold is ez, silverwastes meta or fractal dailies, but if you were gunna spend money, definitely get the dlc's in order of release
+---
+Ah, it has always looked like that for me. Looks cool though.
+---
+If you're going to spend money on gems, the most expensive option is the best, because you're getting those gems at a discount. If you're not going to buy gems, the cheapest version is better. The middle version, unless you must have a cosmetic mini or skin of some kind is not worth the money, in my opinion anyway.
+---
+Idk man these funkos are adorable. I would buy these in a heartbeat.
+---
+I'd have re-packaged a Kinder-egg too. since like the in game eggs that give mini pets, so do the real life kinder-egg have a toy "pet" in them.
+---
+The small thing that bothers me is that Pine Saplings drop Hard Wood logs. All Pine is soft wood, not hard wood.
+---
+1. If you are DPS practice some golem rotations so atleast you will not spend your time in raids racing the chronos and the druid.
+---
+2. Read up on mechanics of the boss/wing you are going to do, also watch some speedkills, I learned a lot of movement/places to stand stuff from those videos
+---
+3. Use your own healing skills too
+---
+4. For training run I would not use the best and most expensive food, but also not the cheepest one and also not the ones what give you the stat you need and not some kind of magic find food, as for the golem, you can find "LN" numbers on [https://lucky-noobs.com](https://lucky-noobs.com), there is no food used
+---
+5. STACK, and by this I mean that you stack on the boss and not on the other side of the map, if for example on VG you get ported and survive it but there is someone else with you who got ported, ressing is rather not worth it because most likely a green will detonate soon(this only applies if you are far from the group)
+---
+6. Try to use condi class on condi boss/power class on power bosses
+---
+7. Try to use classes what are suggested by SC, usually those are just because of pure DPS, but less time spent on boss = less time to make mistakes, its an exception ofc if you cannot play the given class, then just play with what you are the most comfortable, but the top performing classes are rather easy nowdays, basically DH/DD/Fb/Mirage, from these maybe the mirage is the hardest, and Fb is the hardest to gear
+---
+8. Try to play classes that are actually useful, for example necro on MO for the epi, thief on Samarog for basilisk venom+stolen skill for CC, DH/Fb on gorse for cleave and so on...
+---
+9. Also, dont be afraid to delay your skills/use skills off rota to help out with mechanics like CC
+---
+10. Kick people who are there to get carries and doesnt give a damn about the mechanics/try to explain from week to week why they didnt read up on boss/specific mechanic, I mean, now some people will come with a downvote for suggesting to kick people, but if you waste your time that someone needs to explain all the -mechanics to one or two people while the others did their homework and read up on the boss its is one or two try worth of time, if people keep doing this from day to day week to week you can safely say they are there to get carried
+---
+11. Dont let people to play all kinds of classes like soldier gear reaper with all kinds of traits and such, it is just a waste of time because these people will most likely do bad dps and more time on boss = more time for mistakes, if someone plays soldier gear reaper but still does normal DPS its ok, I used to play viper DH in my training raid static when I was there to help out, the reason being that if I go there and do 2x-3x the DPS of others it can affect them in a bad way thinking they are bad or something, so I secretly played all kinds of builds but took care to do respectable DPS on them, the more time on boss = more time for mistakes, doesnt apply if you have 2-3 people who are god tier DPS because those people should do lower DPS to let people learn mechanics and not DPS carry them
+---
+12. Dont be toxic with anyone, if you see someone is trying but its just not working for him/her then instead of being toxic or something, help...Toxic behaviour is damaging the  mood wich leads to people not wanting to attend/starting to not give a damn about it
+---
+Welcome back agent, it has been a while! Did you remember to bring the apple cider?
+---
+Due to our new rules the questions must be left in the [&gt;weekly QA post&lt;](https://www.reddit.com/r/Guildwars2/search?q=title%3Aquestions+thread+author%3AAutoModerator+subreddit%3Aguildwars2&amp;include_over_18=on&amp;sort=new&amp;t=week). If you think your thread should be allowed to stay or if this was a mistake do report this comment or send a modmail and Pact commander will come take a look.
+---
+-------
+---
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Guildwars2) if you have any questions or concerns.*
+---
+You were my \~\~brother\~\~ god \~\~Anakin\~\~ Balthazar! I loved you!
+---
+Eat some bloodstone food, please.
+---
+clearly didn't read about vision of the past then, cause they explicitly said it was gonna be about ***ryland*** (aka **extra story about the new characters**) cmon...
+---
+Running it on Bootcamp will make a significant difference. The question is if the native app is bad enough for you personally to warrant the additional effort, and that's not something we can answer for you.
+---
+I would recommend bank slots first. Note that inventory slots (aka bag slots) are only unlocked for the character you buy it on. It will not unlock on other characters. That means if you buy a bag slot on a character and then you delete that character, you will never get that bag slot back. I would recommend making sure you really like a character before you buy bag slots for it.
+---
+If you were to buy only one item, it should be the Copper-Fed Salvage-o-Matic.
+---
+TLDR: Bank slots are shared and can be used by all your characters. Bag slots can only be used by one character.
+---
+If the healer dies, its a wipe. If the dhumm green dies, its a wipe. If a dps dies? Yeah no biggie you can probably still do it. The responsibility behind being a healer is bigger IMO. Yes they don't have a rotation to follow, but they are responsible for keeping the party healthy whilst doing other things.
+---
+Kiting the flames is easy, but thats not all that a kiter does at Sab. It usually takes care of bombs too, and takes care of getting the throw able bombs (these can be controlled to some extent). Being a dps in Sab, if you're not in a cannon, is way easier. You just need to care about flame wall and cc on 2nd mini boss.
+---
+Look up El Risitas. The original video is quite legendary by now.
+---
+Well, RMT goods on the TP insure that the person receiving the item didn’t request the RMT transaction. So at this point they would only have to ban the seller and take away their money. 
+---
+With the mailbox thing, they assume the person receiving the items payed real money for them and thus are supporting RMT. Though now that I think about it, if they can track the item then deleting it is sufficient since the punishment for the person if they did in fact pay real cash is losing that real cash.
+---
+GW2 seems like the only game icon tabbed to his task bar. So loyal 😁 lol
+---
+Can't believe they spent like 1/3 of the presentation on this bullshit.
+---
+Anet fix this. I cant play the game.
+---
+Gf, 1500 gp (1 cent) Varrock. infallible.
+---
+No. The problem is that Guild Wars was/is the *only* thing making money. It has done quite well and continues to do ok - if you look at the reports it's made moey quite consistently throughout it's lifespan. That's why they got told to focus more on the game, because the other projects were sucking a lot of resources without a RoI.
+---
+Its generally pointless to put more thought into the lore of a game than the developer does.
+---
+That being said, glory and becoming a legend are empty terms that mean nothing. Realistically, most Norn would define them in a way that makes themselves look good enough.
+---
+Imagine how many Norn hunters there would have to be, seing as thats the primary way of getting food for them. That means there would be thousands of average hunters that never achieve anything noteworthy in their life.
+---
+Same goes for most professions and trades, most Norn would be irrelevant and the glory they strive for would only exist in their head.
+---
+You're right, this obscenity must stop. Next time I'll be doing a keyrun, I'll help bandits in burning down the orphanage.
+---
+It's centaurs all the way down.
+---
+Im reasonably new to raids but if i watch LFG all day i start to recognise people who struggle to fill. Or do fill tgeb see them post again in 30mins. 
+---
+The ones woth a specific number of KP seem to be the issue. 
+---
+Ive had much better luck with random pugs. I have very little KP and they just say thats fine, usuallu grateful for the slot filling.
+---
+Literally unplayable
+---
+Be patient, for some pugs ive found it might take an hour for some kills, other days instant kill. Im up to 125 insights from wings 1to 4 so nit thattt experienced but have to say a fair few pugs dont hugely care if youre new. Im very rarely the one to be called out on things. You will get better the more you do it. And trust me... Youre not the worst player. I have had a fair few clean kills and i have a bit of a routine for the fights but ill still do wiki research to see why we did something. You may find a lot of pugs skip mechanics entirely
+---
+Yeah, I realised that a bit after I started playing PvP matches. I don't regret my choice though :)
+---
+Thanks for the link
+---
+If you have the latest expansion ,go for Soulbeast in fractals and Druid in raids .
+---
+hello im a holosmith and i cant pin down these sneaky sneaks, what should i be doing?
+---
+Not if one of your UW weapons also has the sigil.
+---
+Plot twist: children of the bandits keyfarmers kill the whole time.
+---
+That covers human orphans, I don't know about the rest.
+---
+Swimming up and down is the same as side strafing, just  vertically.
+---
+ty thats all super usefull info im reading it all while im downloading!
+---
+only problem is now i want to play even more classes lol
+---
+https://old.reddit.com/r/Guildwars2/comments/ee3f7e/its_time_to_remake_candy_corn_gobbler/
+---
+Long ago, Bleeding stacked intensity while others stacked duration.
+---
+What is kp?
+---
+What does overheal vg greens mean?
+---
+It’s the best profession; don’t let anyone tell you otherwise
+---
+No man i said before. I won it in a giveaway.
+---
+I agree. Its sad and pathetic. Of course, this attitude isn't the majority. Its just the loud minority who gather here on reddit.
+---
+Kill proof. Each time you kill a boss (once a week) you get between 1 and 5 of a guild decoration. Having this proves you have killed the boss at least a certain amount of times.
+---
+These kids all look exactly alike too, so I am envisioning some sort of Midwich Cuckoos situation.
+---
+oh man, I'll have to try that. I'd been using a dark gold in first + deep purple in second, which looks cool (*and* makes Limbo's cataclysm less annoying to look at, but still visible!)
+---
+They deserve it. Yesterday my neighbor walked by my apartment door just as the wintersday jp skritt played the voiceline saying "you're going to get it, and I'm gonna give it to you!" Queue my embarrassment.
+---
+For existing players, sure.
+---
+For new players I'd argue it's the largest issue with getting into the story, larger even than the very hit-or-miss quality of the core story and the fact that living world is as expensive as the rest of the game. This might not be an issue with other MMOs but with how much focus GW2 has on its story, it's definitely important that new players get into it.
+---
+I don't know who their traffickers are but they're not doing a very good job. I mean, just lock them all in 1 building for easier gift giving for their profits. Stop letting them free.
+---
+Although I think they are cloned.
+---
+Wow 20 dollars is great. I'm looking at £47 in the UK
+---
+The biggest changes are that you now have way more of the auction house that you have access to, and you get daily log-in rewards.
+---
+Dangit a gum drop for a revive orb would have been awesome
+---
+Actually just so happens the claim ticket was good for 2000 gems Haha a gift from me
+---
+Glistening oil, and all it takes is a single drop.
+---
+So you're agreeing with me? Because that's my point. Just because Crippled slows down movement doesn't invalidate Chilled doing the same but in a higher intensity
+---
+Just for aesthetics, the claim ticket I made had a gem code on the back!
+---
+Tips for raid trainers:
+---
+1. Ask your squad if people need an explanation before you start explaining. Training squads often have people that know the fights and/or have killed the bosses before but are simply around to practise a new class or get used to the fight a little more.
+---
+2. Prepare some barebone notes to be able to easily structure your explanations.
+---
+3. Don't explain everything at once, especially on large complex fights with lots of phases like both Qadims, Xera, etc. You can explain only the stuff that people will immediately have to deal with at the start of the fight and then try a few attempts on the first part of the fight. It's no big deal if you get to a later stage of the fight without having properly explained it. You'll probably wipe but people will see the mechanics happening in front of them so after the wipe it'll be way easier to explain what was going on.
+---
+4. Segregate the things you can explain during a fight and things you must explain before the fight. Things that need people assigned to roles, are complex to explain on the fly, or need certain people to take certain skills/traits should be explained before the fight (Xera minigames, Deimos pre-event, Soulless Horror pushing, etc). Things that are quick to explain (such as most of Largos' attacks, Sabetha's henchmen, etc) can be explained during the fight as you're calling stuff out.
+---
+5. Teach people how pugs or most groups do things, not how fights are "supposed" to be done. If pugs skip greens on VG (which they do), then skip greens on VG. If pugs tank Dhuum at the side instead of the throne, then tank Dhuum at the side. When pugs vary in the strategy they use, teach the strategy that is seen as harder (so for Deimos for example, since you have some pugs that do ranged and some that do melee, teach melee in your training run since if people can do melee, they can do ranged).
+---
+6. Learn how to set up subgroups. Each group needs a source of quickness and alacrity. This could either be a chrono per subgroup, since chronos can upkeep 100% on both boons to 5 people, or it could be a firebrand per subgroup (100% quickness to 5 people) and an alacrity renegade (100% alacrity to 10 people), or it could be a chrono in one subgroup (100% quickness to 5 people), a firebrand in the other (100% quickness to 5 people) and an alacrity renegade (100% alacrity to 10 people). You also need might, which usually comes from a single druid giving 25 might to everyone, and fury, which comes from the pack runes on the chronos, though druid and firebrand are also common sources of fury. Healers should be split per subgroup. Classes that need spotter (deadeye -&gt; power chrono -&gt; power weaver -&gt; power soulbeast -&gt; power warrior -&gt; power daredevil -&gt; power reaper in rough order of priority) should be in a druid's subgroup. Classes that don't (any condi class, power holosmith, power herald, power dragonhunter, etc) can be in a subgroup without a druid. Put guardians in the same subgroup. Put scourges in different subgroups. Etc.
+---
+Tips for new raiders:
+---
+1. Take what's meta (so what's on Snow Crows). If you're going fresh into raids, this is not the time for experimentation. If you don't like people dictating what build you should play, then feel free to figure out your own stuff that works, but only **after** you've learned the raids, learned how to analyse raid logs, and downloaded ArcDPS. Learn the rules before you break them.
+---
+2. Leading from the above point, there are easy, medium, and difficult classes in the meta right now, and depending on how complex their rotation is, how squishy they are, and how much they rely on boons, you may have a good or a bad time taking a class into raids as a beginner. Easy classes that perform perfectly well in the meta include reaper, daredevil, holosmith, and dragonhunter for power, and soulbeast, condi berserker, and condi chrono for condi. These are all great first-timer picks.
+---
+3. Exotic armour is fine. Weapons and trinkets should be ascended, runes/sigils/food should be what's listed on Snow Crows. Use elite spec collections, the knight of the thorn achievement, or just plain old crafting to make ascended weapons. Trinkets are very easy to obtain in living story maps. If you want to buy the minimum number of LWS episodes from the gemstore to cover you for ascended trinkets, then LWS3 ep3 and LWS4 ep6 are my two recommendations.
+---
+4. Use the Special Forces Training Area in the Lion's Arch aerodrome. Learn your rotations using Snow Crows and make sure that the golem environment (boons, buffs, and conditions) is set up exactly like they have in their videos. Compare your numbers to theirs (you won't hit them, but hitting within 80% of a benchmark without food is usually a great first step for new raiders). This step isn't just important to improve your DPS, but it's also important to acclimatise you to the rotation and allow you to focus on the raid and staying alive than dedicate too much brainpower to your rotation.
+---
+5. Support classes are easier to play but shoulder much more responsibility. DPS classes are harder to perform well on but you usually aren't put under much pressure. If you play any support class, you absolutely must use the guides on Snow Crows because they explain what you should take and how you should play per encounter, unlike DPS classes that just need to regurgitate the rotation they learned at the golem. For example, here's the [druid heal guide](https://snowcrows.com/raids/guides/ranger/druid/heal/) for any aspiring druids out there. Also, if you want to play chrono, then I would recommend taking more diviner pieces than Snow Crows recommends and also having some extra trinkets/armour that you can swap to minstrel if you ever need to tank.
+---
+6. Stack stack stack. Always keep in mind your positioning. You should be with the group in melee range, and if there's a tank you should never stand in front of the boss.
+---
+7. Figure out what CC you have in your kit and what easy/small changes you can make to your build to allow more CC. Almost every boss in the game has CC as a factor in some way, and this is everyone's responsibility.
+---
+8. If you play DPS, have a power and condi class ready. Some bosses STRONGLY prefer condi while others STRONGLY prefer power. Having at least one power build and one condi build (even if it's for the same class) is a must, even for new raiders.
+---
+9. The tank should almost never be the one ressing downed people. In high-pressure fights like Matthias, Xera, Soulless Horror, Largos, and Sabir, the healer should also not be ressing. In many cases, the responsibility of ressing people falls on the DPS players. A dead ally is a far greater DPS loss than the loss you take by stopping your rotation to press F.
+---
+&gt;1. Slow is way less common than Chilled which is good for such a strong effect
+---
+3. Slow is too weak 
+---
+What?
+---
+Slow is counter part of quickness, the name is good, the effect is good.
+---
+Chilled is also good, and the effect are good for what it is. If anything chilled shouldn't slow you down, and further increase skill cooldowns to be a pure counter part for alacrity. But conditions are well distributed (in terms of concept, damage/negative effect).
+---
+Animation speed plays a huge role. The faster your move comes out, the better. Hence why many boon support classes (aka. Chrono, Firebrand/Alacrigade) are crucial for Raid/Fractal comps. Without them, people wouldn't be hitting their DPS. Alacrity plays a role, but quickness is the big culprit.
+---
+Hell, majority of PVP classes utilize quickness because it's where their burst damage comes from. Hence why most guides recommend you to run Sigil of Agility.
+---
+If you add combine slow's effect with chilled's effect, it would make the condition busted. In pvp, cooldowns play a huge role. Especially how alacrity isn't commonly used. Inhibiting your opponent from using their skills is a very strong tool to have. Since quickness plays a huge role as well, reducing their cast time on top of increasing cooldowns would just break the game. Might as well not play since you won't be able to do anything. Not only do their animations get slower, their animation movement, dodge rolling, but the increase of cast times will make you a sitting duck. Having a condition too punishing will make things worse.
+---
+Yes, so when changing stats on a ascended gear via mystic forge use an exotic insignia/inscription of desired stats, the ascended version isn't required for the process to work.
+---
+Always blame the druid
+---
+I think the main reason why anet is not expanding on raids is also because of the general public requiring a ton of knowledge/gears/food/utilities for people to join them in their raiding group or they trash-talk/kick those who aren't performing well on their first raid.
+---
+Let's be real, people who are silver/bronze in pvp won't know about how red circles work and which of their skills counter them or how big animation of attacks usually indicate a heavy hit is coming so they should dodge or apply protection on themselves. These combat skillset carry over to raids.
+---
+The public gatekeep other newer players out of a raid, which means less active players are playing raid and spending time/money/currency on raid related stuff, thus anet looked at their metrics, decided raid isn't worth expanding and poured their resource mainly on pvp/wvw according to the roadmap.
+---
+They're the same orphans every year; Jenna just uses her Chronomancer skills to put them in stasis, and they get stashed in the Crown Pavilion with the rest of the seasonal decorations until they get pulled out, dusted off, and redistributed around town until next year.
+---
+Sorry, busy stealing infusions from a crazed asura inside a destabilized part of the mists, brb
+---
+Check DLGamer to see if it’s still around $20
+---
+Yassit are the same but technically higher
+---
+Lord forbid you have to actually play the game
+---
+Definetely do if you enjoy the game. Buying PoF nowadays gives you the previous expansion as well as a bonus. It's a lot of content in a single and cheap purchase. The game has a lot to offer to new players, one of the best value for money around.
+---
+If you don't have the expansions yet, get those. If you get PoF you get HoT free I think.
+---
+If you have the exp, go for (in order of importance as a Quality of life improvement): 
+---
+* Copper fed salvage
+---
+* Bank space (cause it is account-wide so all alts will use it, unlike bag spaces which you have to get to every alt. After you have decided which char/chars you will be playing THE MOST, get bags for them. But that is for later)
+---
+* Material storage expand slots OR a set of infinite gathering tools. (I would go for tools first)
+---
+After those, everything else is optional OR you will get it when the time comes (ex. extra char slots)
+---
+that's a lie
+---
+Do you not remove names of the bookmarks to have just icons sitting there, at least for recognizable ones like steam, reddit, youtube, etc?
+---
+Not sure but basically VG greens hit for large % of your health so if you’re low on health it will down you and that usually only happens if you get teleported or if your not near your healer and they haven’t  topped you off just before it hits. They also have to immediately heal you back after he green hits
+---
+But... They're clearly clones. All identical, same age, same responses. The clone wars began has?
+---
+Enjoy it bish
+---
+Well... I think people new to raiding shouldn't expect to be able to join just any raiding group. But there are tons of training guilds out there and I see posts for training raids every day. There are even groups that run with voice and are happy to explain almost anything, or even help out with classes and gear.
+---
+One thing I get happen a lot when I lead training raids is I will look for a certain role on lfg, say a Chrono, and I'll get a random class join and enter the raid without saying anything. When asking them what they're doing, they say "I dps/I play thief/I main this/first time raid" or something similar, or they say nothing and leave. This maybe happens maybe every 1 in 2 raids. People just outright ignore what is written in the LFG.
+---
+The other common occurance is people that have clearly never even looked up the content before, don't have a good build (and I don't even mind non-meta, but there are people doing less than 1k dps (not even exaggerating)), or they just don't listen to your explanations and do their own stuff.
+---
+Raiding is not for everyone and not everyone has to play it, the same for PvP and WvW, this doesn't mean that there shouldn't be updates and new content for the people that do enjoy the game mode, which is a significant enough amount to make it worth doing.
+---
+That being said, I have never kicked a bad player from any of my groups unless they have been toxic. I have always tried to take the time to explain things to them either during or after the raid, and I know a lot of people and groups that would do the same. I do not think it's a community problem, unless people are joining LFGs not meant for them and getting upset for being kicked.
+---
+A beautiful lie! Haha thank you.
+---
+By that logic, why not make both Chilled **and** Slow increase recharge delay? Chilled can reduce movement speed and recharge rate, Slow can increase recharge rate and activation times.
+---
+"Thing X needs to be changed, so let's modify Thing Y as well" is silly and unnecessary. If Slow needs a buff, let's buff Slow, not nerf Chilled!
+---
+The same as the other Path of Fire metas I mentioned, you get a Hero's Choice chest that contains an Amalgamated Gemstone and 3 unidentified rares.
+---
+That was added when they revamped the PoF metas earlier this year.  The prize for Casino Blitz that has always existed but been exceedingly rare is the Confetti infusion.  Similar to the Chak infusion from Gerent, it sells for the maximum 10k gold on the Trading Post and has people using grey market swaps to get even more for it, but it's exceedingly rare.
+---
+It's all the plan of one of the first orphans from years ago. He recruits newly orphaned children to receive thousands of gifts each year for him. When he has enough, he will release them into the free market and depress the economy. This will make the human subjects become disillusioned with the monarchy. It will then be easy for Orphan Prime to implement a socialist regime after the bloody revolution. Then Orphan Prime will rule with an iron fist!
+---
+"Meta Events" is the term people use in-game to describe event chains that often culminate in exceptional loot.  Usually, they have an event header that persists even when the event isn't running.
+---
+Core Tyria has many of them, including both traditional world bosses (Secrets of the Swamp meta in Queensdale = Shadow Behemoth, for example) and other event chains (Temple events in Orr, Ogre Wars in Fields of Ruin, etc.).  In Heart of Thorns, the meta events are usually zone-wide, like the night defences in Verdant Brink, the retaking of Tarir in Auric Basin, battling the Chak Gerent in Tangled Depths, and the fight against Mordremoth in Dragon's Stand being the best example.
+---
+"POF Metas" are Path of Fire metas, which were earlier this year buffed to drop better rewards.  The Casino Blitz in Crystal Oasis, Path to Ascension in Elon Riverlands, both Junundu Rising and Maws of Torment in the Desolation, and both Forged with Fire and Serpent's Ire in Vabbi.  The meta in Desert Highlands is the Buried Treasure Hunt, but its rewards weren't buffed and it's not really a group event, so it doesn't normally merit consideration.  The other six events I mentioned above have schedules and happen at set times during the day, on either a two hour or one hour rotation depending on the event.  Because they happen at predictable times, players can flood the zones in anticipation of them and participate, earning good rewards for their effort.
+---
+I think the trick is to anticipate their moves then counter attack. You don't have that many long range CC skills to outpin their stunbreaks nd evades. You also don't chase a thief, and if they run away, so be it, not much you can do.
+---
+The issues I had (prob majority of thief players as well) against dueling good Holos usually flows somewhat like this:
+---
+-They always start with Rifle and keep shooting until I have to fight back or get out of range. It isn't like many other classes where you could stall at a distance and wait for an opening.
+---
+-And yes as soon as you get in, you bet they'll go Holo mode and start whack-a-mole. So not only you can't trade well in close combat, you're also forced to evade 1-2 abilities while the Holo is just whacking you. Hiding behind walls/pillars is a good strat but their holo attacks usually go through that thin wall.
+---
+-But Holo also has great sustainability and self-boons which makes the trade even more unfavorable for thieves. They also have the Lock-on trait which punishes stealth so even if the thief stunbreak from CC, they shouldn't stealth up immediately. They also seem to be stupidly tanky for some reasons... prob because of the damage reduction in Holo trait and a crap ton of protection buff they throw out.
+---
+-Last but not least, the freaking AED forces you to stop your attacks while they smack you in Holo mode. XD
+---
+But Holo has been nerfed a bit a while back, so it isn't as strong. I still don't think I could ever beat one with all those boons and crazy traits.
+---
+just a quick update: I have not been able to get the game to download using this method
+---
+what did you do to get it to download?
+---
+Ah ok thanks
+---
+My issue with conjures is that other people can steal them. I much rather them work as banners or ammo based. A conjure has 2 ammo, doesn't appear on the ground. Dps would be the same.
+---
+Actually go try out rotations. If your DPS isnt very good, you will have to take longer in an encounter. This isnt necessarily a bad thing, but it means youll get more mechanics thrown your way, and you get more chances for someone in your group to mess up, which can often have raid wiping consequences. On top of this, if you have your rotation down cold and know why you use a skill one place vs why not, you can sort of focus on mechanics and let the rest go into auto-pilot, or, more importantly, if the situation gets a wrench tossed into it, you can adapt your rotation--instead of a person just getting frazzled mid-fight, messing up rotation really bad, having DPS plummet, start to shift focus on rotation, and eventually mess up a mechanic, which wipes the raid.
+---
+Or work like a utility belt on engi. I honestly agree with OP in the sense that to me they feel clunky to use.
+---
+No it’s the majority, it’s just people on reddit who are positive, go in game and you’ll see the problems
+---
+Thank you for this.
+---
+Sword is fun sometimes, but yeah they're pretty meh.
+---
+I think it's the cast time + the fact that it summons a yellow name object on the floor. I'd rather it not summon an object and just become a skill bar
+---
+Username checks out kind of?
+---
+Personally, I like the mechanic. As weird as it may sound to say, I wish they were just more effective and not just a simple part of a rotation. 
+---
+I wish there were offhand weapons that you could use in conjunction with your mainhand, instead of a full kit replacement.
+---
+Kim Possible. You should also allow Ron Stoppable into your squad, however.
+---
+And a new copy-pasta was born.
+---
+I did. Just wanted to shine light on it
+---
+Stating facts is now a sick burn as long as said facts contradicts what one want to hear (support for their idiocy).
+---
+That's why I give them wrapped riffles.
+---
+yhea cos ls1 was full of fun....
+---
+Nothing especial, just opening the game. Sorry it doesn't help.
+---
+Thank you, Keyfarmers, for burning down an orphanage every week. Without you, how would I farm karma?
+---
+Doesn't take much to insult someone...but it does take a lot to be logical and actually intellectual. Something idiots that come here only looking for verification and support for their idiocy will never understand.
+---
+Stuff hardly becomes worth anything. Just open them up and enjoy them
+---
+Am personally surprised they haven't made it an ammo skill yet.
+---
+They'd interfere with attunement swapping if they were toolbelt skills, kits however, would make sense (with a cooldown when dropping out of them)
+---
+It's a past time I thoroughly enjoy 😂
+---
+Well if you care that much about reaching desired numbers in a benchmark then you suck it up and use the skill and practice until you learn to use it. 
+---
+If you don't care than what is the whole point of this post other than to make noise? Use the skills you like. That's what I do and it's worked out just fine.
+---
+skills are changeable at anytime, by end game you'll have so many hero points left over
+---
+It'll fix their lack of karma.
+---
+Ascension is always populated because people still need their collections like Skycale from it.
+---
+You know that is great plot for a movie.
+---
+It's only been about 8 months worth of time to them. Besides, everyday is Wintersday to them!
+---
+Every time you kill someone in pvp or wvw an orphan spawns
+---
+&gt;I hate conjured weapons.
+---
+Me, too. They've been the way they are forever, and I'm guessing a large amount of ppl like the way elementalist conjured weapons work, but for me personally, my issues with these are the fact other players can pick the weapons up, and that they can get in the way of other stuff (like warrior banners used to)
+---
+Each to their own, but these are some of my reasons why I avoid using them.
+---
+That could be fun.
+---
+Is that... Aurene but dyed black?
+---
+[Eerie, Indiana](https://www.dailymotion.com/video/x6rzwds) did it in 1991 (sorta; replace 'Chronomancer stasis' with 'Tupperware').
+---
+[Well, it's barred now.](https://cdn.discordapp.com/attachments/591693970023907328/659153408661389313/unknown.png)
+---
+Thanks.
+---
+&gt;whether it eats up man hours or not is irrelevant
+---
+No, it's not. We're still talking about reality here, and jobs that need wages and enough people on them to get things done in a timely manner. Otherwise enjoy your 15-year waiting list before your account is cleared again.
+---
+If you want 10/10 security, you'll have to pay for it. Almost no one would do that for a goddamn video game, so Anet and their personal NSA could close the books before they even started.
+---
+We're talking about an mmo here, with potentially millions of users. Even 0,1% of them would be **thousands** of people, eager to profit by finding holes in security. 
+---
+Throwing such idealism around won't help the discussion one bit.
+---
+To be fair, it works _slightly_ differently in GW2.
+---
+For starters, most FF14 fights have attacks based on time. For instance, [every attack in E4S (the final fight of the hardest non-Ultimate raiding content currently released) occurs on a fixed schedule](https://www.reddit.com/r/ffxiv/comments/ckgnvw/e4s_rotation_and_timeline/). High DPS will let you skip the final few attacks, but even then, the last 40 seconds of the fight (12:49 to 13:29) are literally just a steady stream of undodgeable raid-wide damage sources that cap off in an instakill for enrage, not relevant mechanics that can be skipped.
+---
+By contrast, GW2 frequently lets you skip mechanics through high DPS. _In wing 1 alone_, high DPS skips Gorseval updrafts entirely, and you can greatly reduce the number of green circles, CC phases, and section moves on VG and the number of cannons and flamewalls you need to handle on Sabetha. More recent content is still egregious; for instance, Adina CM has a mechanic where chunks of the floor are permanently destroyed when pillars collapse, except if your DPS is decent you'll complete each phase with only one wave of pillars being needed, making the 'collapsing arena' basically irrelevant. Even on normal mode, high DPS means you only need one wave of pillars instead of two, basically halving the chance of people hiding behind the wrong pillar or accidentally sandblasting the group.
+---
+There's also the relevant point that DPS in FF14 is _waaaaay_ more consistent. [Take a look at the DPS percentiles for the current Savage raid wing](https://www.fflogs.com/zone/statistics/29#), as measured on real fights. The highest DPS, Summoner, has the upper quartile at 94.71, a maximum of 99.24, and a lower quartile of 83.77. Heck, the _minimum_ is 77.17. That means your absolutely terrible SMN players are only dealing ~20-25% less damage than the good ones. You can also see that the DPS classes are all _reasonably_ balanced, with even the weaker classes like Bard and Red Mage having medians within ~10% of the Summoner. Sadly I don't know of a GW2 site with aggregate reports now that Raidar is dead, but [a quick glance at SC benchmarks shows a far larger gap between DPS classes](https://snowcrows.com/benchmarks/), and I can provide entirely unsubstantiated observations from running ArcDPS in strike missions and pub raids that a good DPS player in GW2 will be dealing 50-100% more damage than a poor player, and the top-tier raiders are probably another 50% or more on top of that. There's also the relevant differences in how resurrection works in FF14 versus the extremes of downstate in GW2. The result of this is that fights in FF14 **are carefully designed so that killing before enrage is a challenge for players**, while GW2 has to pick seemingly-arbitrary numbers for fight lengths to avoid fights being impossible for less-experienced players or players running sub-optimal classes.
+---
+And finally, I'd point out that GW2 fight design is based around the few carrying the many. Most fights have several key roles that absolutely must be filled with competent players to get any reasonable distance into the fight, and then a bunch of slots where people just stand on boss and mindlessly DPS. Dhuum requires 3 consistent greens, one solid kiter, and one knowledgeable tank... and the other 5 people can basically stand on Dhuum's butt and slam out a DPS rotation, worrying only about greater and lesser soul splits. Deimos requires a skilled tank and a hand kiter, and everyone else just avoids pizza slices, doesn't stand in oil, and occasionally takes a green circle. Qadim V1.0 has a tank for adds, a second tank for the second wyvern, a kiter for Qadim, and a lamp expert. Qadim V2.0 has three pylons and a tank. Sabetha has two cannoneers and a flak kiter. Of the end bosses in this game, I'd argue only Matthias and Xera do a good job at forcing **all** players to learn mechanics thanks to random mechanic selection. If you're a stack DPS player on *most* fights in GW2, your ability to reach enrage is primarily decided by whether the people with actual mechanical roles are capable of doing **their** job long enough to hit enrage. FF14 more consistently spreads responsibility for surviving mechanics to the entire team
+---
+In FF14, I absolutely agree that you start with 'progression' parties (getting farther in the fight and learning to survive newer mechanics), then once you've seen enrage you move to 'clear' parties (not just surviving mechanics, but actually dealing reasonable damage through them to kill before enrage), and once you've cleared once or twice you can start in with 'farm' parties (rekilling each week for loot). In GW2, this is a lot more nebulous. You can see enrage on a fight without knowing a single thing about the fight if you're partied with a few veteran players, and in fact seeing enrage on all but a few fights means you utterly failed to deal any reasonable amount of DPS. You can make a fight much more difficult, or at least much less *consistent*, by not dealing enough DPS to skip key attacks. And you have fewer excuses to not be considering DPS when you have fewer stack mechanics to handle.
+---
+Whoa...cool - great news for this noob. Time to go swimming?
+---
+400 gems though.
+---
+If it didn't irk me, does that mean I'm no longer human?
+---
+When speedrunners talk about buying hearts for map completion what does this mean? Is there certain items you can buy to speed up certain heart quests?
+---
+yes, it is. if you cannot guarantee the security of your customers property then why would they bother to use your service? at this point, anet really need to start showing people why they should stick with gw2, they can't afford to be this incompetent. no ones asking for 10/10 security, but as best as they can do and when something happens, they  should rectify it. why do people keep bringing up strawman arguments? if they can figure out that someone who had that item in the past used RMT, they can figure out who that was and then punish the guilty party and compensate the innocent parties. it's really not that hard. 
+---
+potentially millions? you are joking right? *maybe* at it's peak, *maybe*. now? i wouldn't even bet over one million, my guess would be around 600 thousand and dropping.
+---
+it's not idealism, i just didn't realise it was okay these days to not do your job properly, especially when you *know* you are in the wrong.
+---
+These cunts are not worth our time. Just leave them in their misery xD
+---
+Just learning the basics of your class and the boss itself. Everything else comes over time.
+---
+Isn't it Gronk?
+---
+I wish they'd give me crayon drawings so I could eat it.
+---
+[Did you check out this thread?](https://www.reddit.com/r/Guildwars2/comments/eej042/download_stalling_fix/)
+---
+Sure, go ahead. Mind that I'll be able to answer tomorrow.
+---
+Hmmm.
+---
+Your character assassination betrays your intention. You're the kind of antagonistic yippy that likes to stand in the way of any non-violent movement or ideal and be as disruptive as you can be without fear of reprisal. Unfortunately for you, you've decided to exceed your caliber.  Allow me to retort: you bring as much to this discussion as you do to society as a whole. You thrive on attention, positive or negative, and empower your own ego through one-sided opposition. I welcome your discourse in reference to the opinion that you enjoy the mechanic being discussed as-is and consider any change to the mechanic detrimental, but if your entire point in conflicting with my opinion is to try to somehow assert your dominance in an online arena of discussion and debate, I assure you that you fall painfully short of capable against me. Stick to logical debate on the topic at hand; you fail in all other areas.
+---
+You're asking for 10/10 security since clearly, nothing less suffices.
+---
+As for the millions, no, not joking at all. You see, I'm not saying we have that many players, I'm saying we have the **potential** to have that many players.
+---
+If 2012 anet created a security team to counter the efforts of 10k players, and they end with 100k players, then what? They suck again because they didn't anticipate the future status quo well enough?
+---
+&amp;nbsp;
+---
+Even compensation isn't as straight forward. If I spend a few k gold on a flagged legendary, and the (also innocent) seller buys a 1000 things with the gold they got from me (e.g. 4 stacks of T5), then we're potentially already at 1000+ accounts that need to get some silver coins as compensation.
+---
+That's the issue here. Before you know it, hordes of accounts end up vaguely involved, not just innocent leggie-seller and me.
+---
+I play power weaver.
+---
+That's the free mount i meant :&gt;
+---
+You just need enough skill points to unlock other traits or skills, if you just unlocked a part of it yet, the game offers more then enough skill points to unlock everything tho
+---
+Fresh air weaver has a pretty fast rotation, just grind the rotation to the point where it's comfortable to you. Comfortable in the sense that you can focus more on the boss and its mechanics than the rotation.
+---
+but what about tornadoooooooo
+---
+It looks like it's based on an axolotl tbh
+---
+just dont pick it up, youre probably far from the point where this is the limiting factor to your dps
+---
+Rip your hands then xD
+---
+Hear hear
+---
+how does one go about learning fractal CM? all LFG seems to require KP
+---
+While it was less commonly depicted, in GW1, there were norn who aspired to be the best craftsman, etc. The [three norn recruited during the Wintersday quests](https://wiki.guildwars.com/wiki/The_Three_Wise_Norn) would be the prime example of "non-combat focused norn". Those three focused on craftsmanship, drinking, and eating rather than fighting.
+---
+There's also [the Great Alemoot](https://wiki.guildwars.com/wiki/The_Great_Norn_Alemoot), an annual celebration and competition to see who can hold the most ale and still do stuff.
+---
+Go with friends/your guild/regular raid partners?  Or start your own LFG for it, saying you're learning?
+---
+looks amazing! who is the artist?
+---
+Casondra here, hehe. This looks fantastic! I've never seen something printed on acrylic glass before, but I see why now. It seems to be glowing! I am so happy your wife loved it! It was a pleasure working with you, it really was. :) 
+---
+Happy Holidays! Eat lots of sweets!
+---
+The Pale Tree is still not back to normal, right? A bit of poison or fire, we could make a whole *race* of orphans!
+---

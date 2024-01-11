@@ -1,0 +1,3362 @@
+It’s a reference to community and Deadpool 2
+---
+---
+---
+[Tengu, C3]
+---
+
+---
+Ballistic Control System II  
+---
+Power Diagnostic System II
+---
+Adaptive Invulnerability Field II  
+---
+EM Ward Field II  
+---
+Gist X-Type Large Shield Booster  
+---
+10MN Monopropellant Enduring Afterburner  
+---
+Thukker Large Cap Battery  
+---
+Domination Shield Boost Amplifier
+---
+[Empty High slot]  
+---
+Heavy Assault Missile Launcher II, Scourge Rage Heavy Assault Missile  
+---
+Medium Anti-EM Screen Reinforcer II  
+---
+Medium Anti-Explosive Screen Reinforcer II  
+---
+Medium Core Defense Operational Solidifier I
+---
+Tengu Core - Augmented Graviton Reactor  
+---
+Tengu Defensive - Amplification Node  
+---
+Tengu Offensive - Accelerated Ejection Bay  
+---
+Tengu Propulsion - Chassis Optimization
+---
+for c3s i fly a loki myself, and i found out that i was unable to project that loki fit on to a tengu. so i had to do a bit of killboard diving to find what might be a viable ratting fit. keep in mind that this is the modified version of a tengu which died to npcs, so it's by no means a foolproof isk printer. consult with [this guide](https://docs.google.com/spreadsheets/d/e/2PACX-1vSbMMEBlM5BAFXldnnX3GDGfUp02OAuMznRljKkbpH4Ff3SyNTrkyEjHSJGkNJsDPqypSZw3sQmQ1Ta/pubhtml#) beforehand to try and determine if you are up to task. as a final note, i do not recommend that you use this fit or any other iteration of a tengu atm. i understand you have a fair amount of sp invested in caldari cruiser and heavy assault missiles, but i suspect that your support skills and overall game experience are lagging behind. once you are a bit further advanced in both, that sp investment will come in very handy, but until then, there are a lot of lower entry level activities that can keep you engaged and your wallet full.
+---
+takeaways from this fit (applies to pve in general, some are more specific to wh pve):
+---
+-active shield tank to sustain consistent npc damage  
+---
+-emphasis on capacitor to keep tank running even under moderate neut pressure  
+---
+-afterburner to defeat drifter battleship tracking (volley strike is a serious concern)  
+---
+-blinged where necessary- gist x-type boosters have good repair to capacitor ratio and it's needed to make the fit work  
+---
+-low slots dedicated to maximizing damage output- advanced pilots can also try to fit a missile guidance computer or change rigs at the expense of some tank  
+---
+-weapon platform that gets consistent application and sufficient range
+---
+All shattered hole starts with j0
+---
+I'll look into it. I may need to buy injectors as I was an amarr baby and rushed to get good with beams and drones.
+---
+Currently an account with 3 chars training using PLEX/MPTC's is running around 750mil a month loss. 
+---
+Skill Injectors are completely ruining the game, they are directly facilitating botting which in turn is causing market inflation etc. They need to get the damn things out of the game.
+---
+It can also have lower classe anomalies (I remember this Nice juicy c4 magnetar shattered with c3 anoms )
+---
+Well, but on the other hand imagine small 50 ish ppl effectivelly fighting 300 ppl from Goons or PH just because they are *better.* It would be nice to see possibility to actually defeat large numbers by skill. 
+---
+https://youtu.be/T_x1fYm-VBk
+---
+It's the fit a cyno vid
+---
+What you pack in quality you make up in quantity
+---
+Why would you make a fleet when other ships do it better? Trig ships are purely small gang/ very small fleet because the ramp up and range doesn't work with large fleets.
+---
+&gt; 700 pilots
+---
+&gt;Titans will be too expensive for everyone to fly a fleet of them all the time
+---
+Not believable; too coherent.
+---
+It was already tried if I recall correctly. Its removal was swift and everlasting.
+---
+og;ihjbnwo5iyjrs5
+---
+Works fine for me.
+---
+You might try deleting it and starting over again. Also, I don't use the installer, I just drag and drop the ZIP into a folder and run it from in there. Might try that and see if it's something about the installer that's wonky.
+---
+Someone got robbed while moving home
+---
+Hello fellow /r/srgrafo follower
+---
+I have been on grid with a 70-80 man PL Drekavac fleet and I know skillurself or unspoken alliance has used leshaks as a mainline DPS fleet not to mention lowsec or wormhole alliances.
+---
+HE IS LARGE
+---
+AND HE IS POINTED
+---
+Eve is a strange game. The only winning move is not to play. 
+---
+How about a nice game of chess?
+---
+unpopular opinion or absolute certainty?
+---
+They said a very similar thing about Titans.
+---
+I'm curious, what was your contribution to Elo's fleet? 
+---
+Once uppon a time there was no alpha but only à 21 Day trial... 
+---
+I downloaded the zip into a folder but I have no idea how to run it as a program. I am not a nerd. I am a 62 year old disabled lawyer. It sucks to be me.
+---
+Squizz aka the owner of the website that owns souls of half of r/eve populace :D
+---
+If he was upset about 500 mil he's stay docked and not provide content anyway 
+---
+I LOVE YOU SO MUCH CYRUS
+---
+Do not use integrated drones, use faction ones, they are both cheaper and better in every single way. https://imgur.com/a/X71ri8V
+---
+not surprised
+---
+it work but my antivirus deep scan it everytime i want to open it now so it takes 2 min 
+---
+The latest update seems a bit iffy for me too, some of the stats seem inaccurate.
+---
+this guy doesn't wormhole just saying. 
+---
+Lol.
+---
+Open the folder and find the file pyfa.exe
+---
+Click on that and say Copy
+---
+Then go to your desktop, right click, and say Paste Shortcut.
+---
+Then you have a button that will go and run the program.
+---
+F
+---
+You don't need "Yo" to build the phrase.  It would be: Necesito cervezas. And i need one now. Greetings from Spain.
+---
+"yo quiero ..." in the US is often a reference to a Taco Bell (Mexican-themed fast food) ad.  They had a little chihuahua dog saying "yo quiero Taco Bell" in a series of kind of funny commercials in the 1990s, and they became kind of a meme.  Back before memes were memes.
+---
+Quantity has a quality all its own.
+---
+He market order limit is how many market orders you can have up at the same time. If you put up 13 orders you will not be able to put up any more until you either cancel one or someone buys all of what you were selling on one of your orders
+---
+That means you can have 13 active market orders, either sell or buy orders. So it only goes down when one of your orders is fulfilled (either bought or sold) by someone else, or if you cancel an active order. You can see your orders on the market window under the "my orders" tab.
+---
+and probably a Deadpool reference !
+---
+Generally speaking, when people complain about a game mechanic being OP, broken, or unbalanced, they aren't one of the biggest offenders of abusing the mechanic.
+---
+or ramps down
+---
+Thanks
+---
+Makes more sense now
+---
+Thanks for the help
+---
+Our nullsec group has something like that with next door peoples, they can shoot us but not our miners/structures. I'm not really into eve politics so I have no idea if I'm going to get yelled at if I talk about us. So I'll leave it at that. I could also misunderstood things, because holy helk the vets qt the corp speak in eve lingo and I have no idea what they be talking ahout
+---
+ramming suicide faxes will make a comeback
+---
+"capital spall liner" first developed my Minmatar engineers as a makeshift armor upgrade, this nanofibre infused paintjob is becoming more and more popular on capsuleer ships who like close combat
+---
+i want to come back
+---
+You could see that, but you could also say that without ratting/mining there would be no pvp content. If line members cant make isk, then they cant spend it on PVP. If a alliance isnt rich, then they cant send a cap fleet to attack a enemy can they? 
+---
+Well I guess the field of dead ships represents what's left of the playerbase from back then.
+---
+O no, its the right server, just give it a couple more months.
+---
+My wife said earlier, don't stay up too late playing Asteroid Fuck.
+---
+Was probably Otto and his alts tbh, standard 
+---
+&gt; **How much influence would you want to see spin off games have on the EVE Universe?** 
+---
+&amp;#x200B;
+---
+Probably none. The only exception I would be willing to make would be if CCP actually releases an awesome game within the Eve universe where both games could have some ties.
+---
+On a personal side note, I would absolutely love to blow up Rorquals from the inside out, but I have next to zero faith in CCP of pulling something like this off and doing so correctly, which is unfortunate.
+---
+Or a [Community](https://www.youtube.com/watch?v=j25tkxg5Vws) reference.
+---
+Travis Barker did nothing wrong
+---
+Exactly! Eve is an actual game, so don't compare it to Star Citizen!
+---
+Also we suggest playing the game on the client! It is as fun as the reddit version.
+---
+didnt ask
+---
+It really doesn't.
+---
+When the foxes are too strong, they will starve from lack from rabbits.
+---
+You crazy bastard, reminded me why I loved my time in CYN0. Nice.
+---
+Deleted your previous post but left this one, cute.
+---
+Imagine morale posting about killing a recon
+---
+CCP  should auto block for typing samething thing over and over inside certain period of time . after multiple block charecter will be bann from typing any local for a longer period of time lets say for 3 months
+---
+[https://br.inyour.space/?s=2128,2119&amp;b=8534760&amp;e=90&amp;t=urrq](https://br.inyour.space/?s=2128,2119&amp;b=8534760&amp;e=90&amp;t=urrq)
+---
+&gt;high plex prices (when controlled for inflation) = fewer interested people dumping $$$ into the game relative to the game's playerbase  
+---
+&gt;  
+---
+&gt;ie (more people refusing to pay for their accounts for $$$, fewer people willing to pay $$$ for plex to sell for ISK, etc)  
+---
+&gt;tldr: ur wrong
+---
+So in essence you have nothing to back up your original statement. It's safe to say you're pulling ideas from nothing and trying to sound like you know stuff?
+---
+What is wrong with your loki?
+---
+I just skilled into a machariel for lvl 4s. With T1 guns I think I'm about 615 gun DPS, I'm not at home so I can't look. Out of the fits I found that were said to do lvl 4 missions it had the fastest train time for entry. I have gun DPS skills in Q but my DPS definitely feels low. It might also be because I'm fighting allot bigger ships than lvl 3s.
+---
+You might need to extract the zip file first before you can run the executable.
+---
+&gt; I feel like implimentation of LOS mechanics will go a longway to allieviate this. The nightmare will be only for those groups that will be stupid and fail at both individual and team work. These should die which currently is not the case.
+---
+*Nobody* would be able to manage keeping firing lines clear in giant fleet fights. It doesn't matter how skilled you are, eve doesn't give you the tools to do that. Players do not have reliable and precise enough control of the movement of their own ships relative to others to pull that off once you've got fleets of hundreds of ships on the field.
+---
+Consider. On the flat surface of the earth, the only way to allow a fleet of ships to all fire on a target without getting in each other's way is to put them all in a long line. This is the so-called 'line of battle' of naval warfare, and even with ships that take many minutes to move significantly compared to the distances between them professional navies still routinely screwed up their formations. If you extend this to 3-d space, the linear 'line of battle' would have to be extended vertically, with ships stacking up above and below as well as in front and behind, to allow them to all fire without hitting each other. This would be a '*wall* of battle', as most notably postulated by David Weber in his military sci-fi Honorverse stories. Eve, quite simply, does not offer players the tools they would need to keep such complex formations. We cannot maintain offsets and relative positions with the required complexity automatically, and manual control is too clumsy and one cannot track the positions of other ships precisely enough to do it manually. No group in the game would be able to have their pilots maintain position in a grid dozens of ships long and tall, no matter how skilled the individual pilots, and even if they did the entire wall would collapse in confusion as soon as the fleet tried to change direction. Big fights would simply be impossible. (Or, more likely, one would simply see an even further dominance of caps and supercaps, which can project more total firepower for a given number of pilots and hence complexity of positioning puzzle. Or everyone would just ignore the whole thing and throw fighters at the problem.)
+---
+More ships can shoot out to 75km and lock to 175 its easier and to fit. When in conjunction you with the hot box change you reduce the engagement field into something intractable and allow for a boosh chase scenario they will make the ravens or whatever long range platform vulnerable.
+---
+On my way now. Hope people are still there!
+---
+I hate you. You keep jamming my target lock :(
+---
+Make sure you click get skills in the eve SSO tab of the character editor
+---
+You have a Add A Character first, then add the SSO to that Character.
+---
+Small Arterially specialization 
+---
+Unfortunately, the guy got away. I just don't think he broke the game to do it. 
+---
+Brat Legion
+---
+GOOD JOB PRESSING F1 ON STATIONARY MINING VESSELS
+---
+Looks fun! I just logged in for the first time in a couple years yesterday, that music gets me every time
+---
+If cynos are uber powerful, then something that stops cynos would be even more powerful ya?
+---
+I think if it happened you would see a lot more skirmishing type fights, more people fighting 1v1 etc. Think like dogfights in real world scenarios. 
+---
+Would be pretty cool but honestly not for eve I don't think. 
+---
+But a dogfighting pvp space ship game using eve assets? Sign me the fuck up. 
+---
+While we are at, why don't we give all guns 1 min weapon timers, and launching drones, and dropping an inhib, or depot, or any mobile structure.
+---
+You guys want people in space to get shot right?
+---
+They are the same unless the spawn rates / types are changed, AFAIK. 
+---
+uhg man you're a fucking retard
+---
+at the start, i said MY ASSERTION is that the price of plex is going up for those reasons
+---
+i've given 4-5 pieces of evidence to support my claims, and you've provided none
+---
+it's more likely that i'm right than any other alternative by a wide margin 
+---
+You need Hull drones, not armor or shield drones you bad.
+---
+80% of the EHP is hull.
+---
+most importantly it gives -EM resist which is relevant in DD fight when 2/3rds of your titans are Avatars
+---
+The problem is they were repping a hull based structure with non-hull reps.  This results in capitals alpha striking through the repairs they have repaired.
+---
+eve uni wiki usually has few fittings for each ship
+---
+Ask this kind of stuff on elysium/theta they will help you god damnit, check this forum post for example : https://goonfleet.com/index.php/topic/243372-%E2%9C%AA%E2%9C%AAthe-complete-officer-hunting-101-mega-guide-draft-mode%E2%9C%AA%E2%9C%AA/#entry8137873
+---
+For those who don't belive this fine gentleman,  there are entire alliances specialising in protecting titans and also jump freighters on the move. SNUFF for example, with their now famous safe POS' and citadels, spanning most of lowsec for safe and protected move-ops. Just convo Tau or Hy for guaranteed safe passage anywhere in lows.
+---
+You can tell when someone has actually done the thing in question.  The above here is essentially what this looks like from the carrier side.
+---
+The most interesting part is that the 6.8s RoF of a typical super LR fighter lines up well with this tactic, resulting in no gain or loss of damage, and just protection against damage/ecm while near the carrier at the cost of not using the secondary damage abilities.
+---
+just saying, abyssal stuff is something anyone can do anywhere and have greater income than super ratting for almost 0 pvp risk, trust me abyssal runner exist and provide a lot of supply 
+---
+I'm fairly sure you can open your asset safety and right click the containers to view contents, remotely. 
+---
+Also, make sure you don't fit too many of those - the staking penalty will get you! 
+---
+U da real MVP! 
+---
+&gt; Nobody would be able to manage keeping firing lines clear in giant fleet fights. It doesn't matter how skilled you are, eve doesn't give you the tools to do that. Players do not have reliable and precise enough control of the movement of their own ships relative to others to pull that off once you've got fleets of hundreds of ships on the field.
+---
+&gt; 
+---
+Server would burn if you tried to do the math for LoS for each and every weapon activation.
+---
+I've got two fitted currently. Staking penalty? What's that?
+---
+Your continuous contribution to this community is appreciated (◕ ◡ ◕ ) I'll report anything I'll find not working properly
+---
+Was expecting to end up with u-r-g-a-y-p-w-n-d in the title. Full of disappointment, I'm leaving
+---
+Bye, Felicia.
+---
+Being a member of a large null sec group doesn't preclude someone from being a new player.  The vast majority of PIRAT victims are undocking from Jita in a non-pvp ship.  You get hate because blowing up a Mammoth with 4 Machariels while a 3 month old player who just joined a null sec group tries to transport his 3 months of stuff isn't a gameplay method that most people find entertaining.
+---
+It's full of stars.
+---
+&gt; i've given 4-5 pieces of evidence to support my claims, and you've provided none
+---
+Pulling shit out of your ass and calling it evidence doesn't suddenly make it evidence, you need hard numbers.
+---
+&gt;at the start, i said MY ASSERTION is that the price of plex is going up for those reasons
+---
+and i'm telling you your assertion is wrong
+---
+2 is all right. Once you go past 3, each of them gets a strong decrease in the stats they affect (in this case shield resistances). The formula is cpmplex, but rule of thumb is 3 is still decent, 4 is really squeezing everything out of it, when you must (e. g. When applying damage modifiers). 5 is a waste of a slot. Not all mods suffer from this - only those that mention it in the description.
+---
+What size Hull are you having issues keeping 2 invuls running, btw? 
+---
+ I used to belt rat with a polarized machariel with ascendency implants and a nyx for killing capital rats that spawned so 2 accounts I never found an officer  during that time just lots and lots of capital spawns and haulers 
+---
+It's just the weirdest thing. It happens to me several times a day.  
+---
+Nice work as usual dude
+---
+Almost april 2 0 1 9, FIRST WIN OF THE YEAR BOIS
+---
+Sounds about right
+---
+I'm on a machariel for lvl 4 missions. It's not so bad unless I'm under allot of DPS pressure from bigger ships I can take down fast and I need to spam my shield booster and keep my guns running. I did skill to rank 2 the shield booster cap use reduction skill and I think my gun cap use reduction skill is rank 4. It's a combination of imperfect skills because I've only been playing a month now. I'm not home or I would link the fit.
+---
+Good call, forgot to mention that. =)
+---
+So, funny story...
+---
+Phonetic Alphabet is used to verbally convey a series of letters in spoken form over a staticky radio.
+---
+If you're reading the message in text, you don't need the phonetics, you can just write out the letters themselves.
+---
+Plus then your title doesn't look like a pretentious douche. =)
+---
+yea that's a good option,  damage is a bit low but that should get better with skill and/or fit improvements. 
+---
+its almost like star burst boson, the cone goes off in every direction but the fleet 
+---
+happening on and off for weeks now.
+---
+PLEX is not an ISK sink other than minimal taxes.
+---
+Bots don't care what the PLEX price is. Their profit margins are so ridiculous 30 days could be 5+ bn ISK and it's a non-issue. 
+---
+Although I'm honestly surprised they haven't made using PLEX services a dual-requirement currency like LP, where it's a certain amount of PLEX and a certain amount of ISK.
+---
+Me: laughs at 100km with rails
+---
+"Signal Cartel" is a neat name tbh, out of curiosity - what is it actually that you generally do? (Other than helping a ridiculously brave journey, that is)
+---
+I mean, I doubt they would build a system that requires everyone to manually hold position, there would be some kind of system for managing it. For example, a command link with different formation scripts, or something that's just set in the fleet window.
+---
+ This post has:
+---
+✓ 10% tidi
+---
+☐ Overly loud music no one likes
+---
+☐ Raw fleet coms
+---
+✓ N+1 fleet combat
+---
+✓ Supers being dropped
+---
+☐  Industry vessel being ganked
+---
+✓ 3000 IQ plays
+---
+☐ Cyno out of range or jammed
+---
+☐ Super gank
+---
+✓ Fleet being bosoned
+---
+✓ Friendlies being bosoned
+---
+✓ Subcaps being hazed by supers
+---
+☐ Horrible intro
+---
+☐ 3 hours of sped up F1 footage
+---
+☐ 200 man goku fleet
+---
+✓ Salty commenters
+---
+☐ Politics
+---
+✓ Munnins
+---
+✓ Kitey little shits
+---
+☐ Manly brawling boats
+---
+☐ Moonwalking
+---
+☐ Plex prices
+---
+☐ Texas law
+---
+✓ Boson bingo 
+---
+✓ Lance bingo 
+---
+✓ Disco parties
+---
+☐ Structure bashing
+---
+If you have an item you wish to be added to this list please let me know.
+---
+Great video. Thanks for the logi POV.  It must have been awesome having so many DDs fired at you from different  directions.
+---
+&gt;and i'm telling you your assertion is wrong
+---
+with no evidence
+---
+&gt;Pulling shit out of your ass and calling it evidence doesn't suddenly make it evidence, you need hard numbers.
+---
+logical based arguments are a thing
+---
+you're actually retarded
+---
+Well you attempted to read and that’s all we can hope for given your iq 
+---
+I'll likely throw this up on a machine for my alliance in a bit. I appreciate the effort friendo.
+---
+SHIELD FRRTH
+---
+If by recruiting, you mean willing to accept anyone with a pulse who can physically put their butt in the seat of anything larger than a pod, then sure. Meming aside, Ascee is not one of the corps I would recommend as a starting place.
+---
+"The blue, then the red, ofc"
+---
+I won by simply converting all my assets and ISK into PLEX, and letting the subs die. Except now I see all that sitting PLEX is double what I paid for it now. Er wait... is that quitting or taking a break? :)
+---
+Seriously though I am looking for 9.6 billion ISK to restart my gaming experience. I really wanted to get into a Jump Freighter and run a JF business, but the road just seems too long and daunting. So last year I settled for a Providence, but even pirates don't care to lose money just to kill one these days, so after a few scares, and realizing that high sec Provi hauling isn't as lucrative ISK/hr as I thought it would be, it now sits docked up.  I still want do JF. I just need more capital to make it happen.
+---
+Hey now, that's not fair.  Lots of highsec miners know they need to put a survey scanner there so they know how long before they have to come back from AFK to move their ship to the next rock.
+---
+HMMMM
+---
+Just have a spooky alliance ticker, 100% safety
+---
+My name is ^^^^^not Vily and I approve of this message.
+---
+I'd say that depends quite heavily on fits / implants in play.  I can't think of any standard Hyperion fits that would win against my Sin.  Please note, not saying there aren't any, but they wouldn't be one of the standard ones.
+---
+All the highsec POCOs. Own them all. Hire merchs to shoot them and protect them.  Collect dank isk off people doing factory planets. Start with Perimeter.
+---
+OP isnt in goons/imperium
+---
+&gt;and only reinstall it after I just can't resist the call anymore
+---
+Every day just delete a ship. Dont reprocess, sell, or any of that shit. Just right click delete. Flat delete big shit. Just find a normie mining in HS against the blitz and chuck him a ton of isk. Cleanse yourself of your posessions.
+---
+This'll test to see if it's just you liking the idea of making and having isk. If you do this for a while and still feel the same urge then it's another problem entirely. 
+---
+SUCK! SUCK! SUCK! 
+---
+or fund one.
+---
+&gt;more close knit
+---
+&gt;MCAV 
+---
+I can definately say that from being in fleet coms helping other WH corps I'd be we're the most meme filled and least lame of all big WH corps. Lame isnt the best word, but we absolutely bring some real funny bullshit to J space 
+---
+Granted I haven't been in 2 of the other big corps coms, but from how puckered their assholes get when it comes to zkill they aren't that fun(unless you're into that sort of thing) 
+---
+A sign that says last to leave please turn the server off.
+---
+Ah hahahahahahahaha
+---
+Capri is in Snuffed Out now.
+---
+Presume any information you provide his website, including d scans, fleet scans, system scans, IP addresses, metadata, etc. to be readily available to their FC Team.
+---
+Can confirm PGL is the most entertaining FC to listen to
+---
+No, we're TEST, TAPI is mostly a name other alliances call us for some reason. 
+---
+That is the big problem (or one of them) with the current economic bubble that CCP are trying to burst: bounties have stayed the same, but the time taken to collect them by certain groups/individuals has increased exponentially (as well as a reduction in the risk of loss of those individuals to offset the faucet). Problem is, if you reduce bounties, that hurts newbies that run the sites (and lose ships doing so) at the intended rates, hence the fiddling with respawn rates to make downtime between sites bring the isk/hr back in line with the expected max. 
+---
+lol
+---
+No shit
+---
+Dude, as we were camping the gate after the fight, a BRAVE Porpoise came through the game.
+---
+Metric is the only true scale...
+---
+Holy shit lol
+---
+Bear in mind unless you're talking wormholes that you will show in local and may get hunted by one or both sides. 
+---
+Get familiar with the tactical camera so you can stay waaaaay far away and 'detach' your camera to zoom it in on what you're noseying at. Make sure if you're going to hang cloaked for a prolonged time you have another safe in the system that you're aligned to and don't neglect D-scan to check if anyone is closing in on you. And if you're specifically hunting 'big' battles, have a look at some of the newscaster corps as they may be willing to offer advice in exchange for footage of any fights you encounter (and might let you join up for the safety of a 'press pass' if you prove you're doing it for the rubbernecking and not to whore in on killmails).
+---
+I accept natural units too when they apply better. In fact, I will accept anything that makes sense.
+---
+[https://en.wikipedia.org/wiki/Imperial\_units#/media/File:English\_Length\_Units\_Graph.svg](https://en.wikipedia.org/wiki/Imperial_units#/media/File:English_Length_Units_Graph.svg)
+---
+Seconding all of this (I'd edit the post to remove the screenshot, or at least replace it with a screenshot where the account name is edited out, ASAP). Just to add though, to the right of your account name is a pin button: you want to click that so that it remembers your log in details when you close and re-start the launcher, which is the first troubleshooting step if you are clicking the right buttons.
+---
+Try to do the most difficult thing ever: become a more trustworthy player than Chribba. This will be harder than anything else in this thread.
+---
+https://i.imgur.com/OAgGMU1.png
+---
+Also frustrated.
+---
+Good fights but can't get the PvE down lol
+---
+Immediately lost both rattlesnakes in a C5 due to mistakes and got ganked.
+---
+Then I managed to do sites for the entire weekend, somehow a rattlesnakes ended up 16km away and got rekt by rats (loot fairy said yes) omw to sell my first batch of blue loot I got popped outside of jita and a corp mate informed me NPCs buy blue loot.
+---
+hey who can i get in touch with to talk to you guys in game? i wanna join
+---
+Lol. Brave never change
+---
+If you want to lowsec mine, you need to learn how to research. Look up https://zkillboard.com for the nearby systems and see the recent kills in that system. You may find it's a specific time that these pirates work in and just go in 'out of hours', or that it's one particular group which you can then add as a contact (not to buddy list) with Terrible standing so if one of them jumps in you'll see a red mark next to their name in local and know to GTFO. You may also find that some systems are high traffic for pirates, while others go days or weeks without a kill and opt for one of those instead. 
+---
+Once you've found a favourite system, get it set up to work for you. Make a 'safe' (warp to something like a planet far away from any gates, and ctrl+b halfway through warp to bookmark a random spot at nothing; double up on safety by doing that several times and make new bookmarks by warping between two of your original bookmarks and making one part-ways through that warp, so it's not enough route to anything). Make a few of these, as far apart as possible. 
+---
+If someone jumps into system, warp to your safe rather than an NPC station or the gate, so that they have to scan for you rather than just jump straight on top of you or wait for you to jump into their arms. 
+---
+Make sure your D-scan is always out, and that it's set to show both ships and probes: the second combat probes show up, GTFO to another safe. 
+---
+If you want to leave system because you're being hunted, warp to 100k from the gate and check it hasn't been bubbled/camped. If it's clear, go ahead and crash it; if not, go to another gate and repeat (hence you want to make sure it has 2+ high sec gates, so you can't be cornered); if there's no safe gate, and you cannot cloak up (venture doesn't allow for a cloak), bounce between your safes at random so you're too much of a pain to scan down and try to bore them out so they give up and leave, or if there's an NPC station, dock up and log out so they think you left system.
+---
+And before that he was in hk, so obviously hk got all of that, as did skillu, etc
+---
+Don't worry tho, I'm sure whatever dscan tool you recommend doesn't do any of the above.
+---
+the titan phenomena neg resists don't do _much_ because of the way the stacking works. be nice if it were stronger.
+---
+Literally all of the ones with a decent feature set do. The only ones that don't were done by amateur programmers and aren't updated often - they also aren't scalable (e.g. mine, and thus why I don't link it publicly). 
+---
+If a random member of the community can name the site you're using, it's logging data (though you'd be surprised how not all that useful it is to do this given results can very easily be gamed, and at the end of the day, if you don't use the local bit it's essentially useless from an enemy's point of view).
+---
+The whole point here is its open source and quite easy to install on your own server so you don't need to take my word on it.
+---
+It is amusing how much fuss is made about dscan compared to tools like Seat and Allianceauth. I wonder how many alliances actually audit those :eyes:
+---
+Everyone has an alt in the imperium, let's be real
+---
+I thoroughly enjoy the comments on these posts
+---
+Join CODE.
+---
+Capri plz, how do you forget who I am so fast :sob:
+---
+&gt; they also aren't scalable
+---
+You'd be surprised how far a properly indexed database will get you even with an inefficient schema. Capritools 1.0 was an absolute mess but even with about 12k dscans and over 2 million objects when I did the migration to 2 it was still parsing and rendering dscans in 2 seconds at the absolute worst. 
+---
+im agreeing with you &lt;3
+---
+&gt; We're not horrible
+---
+&gt; So yeah, if we need two bosons to hit, we drop 12 Titans, and it sometimes works.
+---
+I'm pretty sure that means you're horrible. It's not too much to expect that you practice aiming the thing once or twice.
+---
+0/10 hate you snuff bad gr
+---
+Ah yes, use neutral alternatives such as, and also. Oh and is also good.
+---
+Yeah, without it somehow being automatic any real amount of tidi would kill the functionality.
+---
+&gt; logical based arguments are a thing
+---
+They are, and your logic is flawed. You're trying to prove facts with assumptions.
+---
+C4 or c5? I run tinker rattles. As for getting jumped on. I really pick my days. Some days I'll look at how busy the server is and decide I'll just do PI. Other days I get the right holes and I'll farm for 5 hours without worrying to much. Though I'm running 2 alts so I can leave one on the hole of my choice. Obviously 4 would be optimal..
+---
+uhg man just stop
+---
+you make these claims without any evidence
+---
+&gt; Players do not have reliable and precise enough control of the movement of their own ships relative to others to pull that off once you've got fleets of hundreds of ships on the field.
+---
+No one said this would go live on TQ tomorrow and that such tools along with better movement will not be in the game by the time that it does. Read the article. There are other bits in there as well, not just LOS but also ship orientation, meaning firing arcs, and like the example CCP guy brought up, imagine being able to shield smaller vessels. Though I understand your fear, and I like it.
+---
+As an American who now owns a Subaru I approve.
+---
+Already done ganking. Made good iskies from it. Say hi to aaargh for me next time you see him.
+---
+That doesn't just apply to everything lol. 
+---
+"How far is that in leagues?"
+---
+"Apparently a league is 3 nautical miles??.... so stand by.."
+---
+If you're trying to do it for money you'll never going to have any fun doing it. You have to get to the point where you and I can get a kill every 15 minutes. Got to gank all the empty freighters.
+---
+Obviously they're gonna have to adjust it, maybe make battleship Abyss that can drop some other stuff to build the new ships, some new mats, they don't necessarily have to be the same. For a Trig Dread for example instead of tons of the current mats you would use about as much as a Leshak + maybe 3-5 chips or data of some sort etc.
+---
+Yes, when you scan the sites you can see them range from I to V in difficulty.
+---
+I actually did have fun sort of doing it back in the day.
+---
+Used to only play on two accounts, my scan toon was also my loot toon. This was before citadels so had to fly the scanner ahead of the target to the next system, fly to a station, dock up, reship, undock &amp; align. Go to gate at 0 and then mwd to the wreck and align to station incase someone was waiting for me to turn suspect.
+---
+It is also fun to see some iteron v with 5 bil inside coming to your gate. Heart pumping. The other stuff though, scanning ships etc isn't all that fun.
+---
+German humor.  It's no laughing matter
+---
+&gt;i've given 4-5 pieces of evidence to support my claims, and you've provided none  
+---
+\&gt;   i never said there was proof 
+---
+here you go
+---
+evidence isn't the same thing as proof you absolute fucking dipshit
+---
+what the fuck is wrong with you
+---
+Well then were is your proof? You mentioned you had proof, but you never showed it
+---
+Line of sight would be so bad in this game. It's just not built for it, and that's okay.
+---
+[citation needed[
+---
+So since you're not showing any proof, i'll take it that you have none? I suppose that does indeed prove that you're trying to bs your way out
+---
+i never said i had fucking proof you fucking spastic 
+---
+you don't need proof TO MAKE AN ARGUMENT, if there was proof there'd be no reason for a fucking argument
+---
+what is wrong with your brain
+---
+So basically you make claims without anything to back them. Go back to claiming the earth is flat
+---
+i have evidence and logical reasoning to back them, which i already explained to you
+---
+Again, since you never provided either of those you're still just fabricating ideas without evidence. Why don't you show me your evidence instead of avoiding the question every time?
+---
+argh this is not what I want to hear...but valid.. have to look at my sensor strengths
+---
+Here are the logical steps, point out where I could be wrong.
+---
+plex is rising faster than 99% of stuff (Fact)
+---
+this means either demand is increasing, or supply is decreasing (Fact)
+---
+If demand is increasing, it's not due to an increase in player base  (Fact), it's due to fewer people willing to $forsub, as the player base is slowly falling  (Fact)
+---
+If supply is decreasing, it's due to fewer people willing to $forplex, as people are less interested in paying $forplex  (Fact)
+---
+Either way, this implies that fewer people are willing to invest $$$ into eve, which is a bad sign for the game.
+---
+How would one learn PVP? I'm familiar with the general concept of whelping dozens of frigates, but I don't know where to do it without getting dropped on by a vastly superior force, whether that's a solo player in a T3 ship or a gang of destroyers.
+---
+wew
+---
+First person mode and arrow keys! 
+---
+correct, the intro music
+---
+Plot twist: The Ring
+---
+If you don't know what I mean, watch more.
+---
+Oi where the fuck did you get a submarine?
+---
+Shit like this makes me miss this game and the friends I made in it. 
+---
+What is the "home region" ?
+---
+Don't give in!
+---
+Is killing suspects/criminals in HS a viable playstyle? Mainly for fun/claiming bounties I guess. What would be a good ship for it?
+---
+Keep in mind that Goonswarm saved you. 
+---
+Cool. 
+---
+Texas law?
+---
+There's counters but at the high end of expensive ships you can get to near 99% win rate, only losing to very rare edge cases.
+---
+It's a matter of really conceptualizing all the components of the matchups that makes the theorycrafting and testing of abyssal pvp fits so much fun. It's the kind of stuff I love talking about or doing.
+---
+Also, if you make enough isk for a super a month, just buy a toon and inject him to the point you can safelog the super on that toon permanently, and frag JFs all you want.
+---
+1) Thanks for the advice, I'll remember, but may I ask why?
+---
+2) I tried to press it, and it just says " Added 1 account to the start-up queue" and nothing else happens
+---
+T3 Battlecruiser.... this post is 30 years too early.
+---
+Home region is a nullsec region where a pirate faction own sovereignty. Inside those regions, the system of true security doesn’t apply, as all systems are considered to be of the lowest possible security : -1.0.
+---
+Each Pirate cartels have a home region :
+---
+- Blood Raider : Delve
+---
+- Sansha’s Nation : Stain
+---
+- Serpentis : Fountain
+---
+- Guristas : Venal 
+---
+- Angel Cartel : Curse
+---
+The Rogue Drones also have officers, however since they doesn’t own any systems and are hostile toward every faction in the game, I don’t know if they have a home region. There is some rumor this region could be Malpais.
+---
+And how do I check the Goons’ forums you donkey
+---
+I mean incentivize *real* purchases. Not in-game purchases. People are more heavily incentivized to buy PLEX with real money if they can get more ISK for that PLEX.
+---
+what is the purpose of the heat status meter (surrounding the capacitor)?  im not sure what happens when the heat status gets to 100% while the module is damaged below 100%.  
+---
+I’d say, it’s highly dependent of the situation you’re in.
+---
+Generally, if someone is floating around with a free engagement flag, it either want to be shot at (so his friends in better combat ships can freely kill the attacker) or just oblivious of his own condition.
+---
+The system of bounties is completely broken in this game, sadly. I don’t know if you are aware of its mechanics, but when you kill someone with a price on his head, you don’t get paid the totality of the bounty. You only get a fraction of it, depending on how expensive the ship you blew up was (pods doesn’t count). This is why the bounty hunter career isn’t the best around, but nothing stops you from trying !
+---
+For the ships, you can pick anything that could be a PvP ship. Just be careful that you’re in highsec, so swarms of gankers that you can’t fight off, or simply clever people will get it killed.
+---
+Sadly, that’s the status of the game currently : solo players have a hard life. FW in lowsec is generally the best place to learn PvP with smol ships, because you can make a decent amount of money to assure your ships, and still get some engagements where T3C can’t drop you if you’re in a Novice or Small complex.
+---
+Making me plenty of money
+---
+And your alliance is...?
+---
+Yes.
+---
+Very helpful
+---
+Thank you.
+---
+I've done both and I can tell you this. Inventing bpcs is far easier and cheaper to pull off but you'll need to find a buyer and that's quite hard. Building from the blueprint takes longer and more capital but makes you money for sure.
+---
+It all comes down to if you can sell the bpcs for sure. (Speaking from experience I have far too many lying around) Hope I helped!
+---
+you would be downloading the code source off a repo.  If youre running this on your own server and just test what kind of requests are going out you can pretty much guarantee nothing abusive is going on with a little effort
+---
+Fucking welcome to the conversation lol
+---
+This answer was intentially vauge, but also very accurate. Both results for your question depend on the bpc(product) chosen and a variety of factors. 
+---
+Do I know someone who wants to constantly buy X product, am I making or otherwise procuring all the objects needed to make this product, what am I investing time and isk wise in order to get it(invention and T2 production are deffo one of those "feed the beast" kinda things due to how complicated and in depth they can be at times, more so T2 production, iirc T2 bpcs are a slow sale with low margins). Hope my text wall three am babble helps. But "yes" is totes the answer here. 
+---
+Normally people earning profit from t2 productions will do both
+---
+I have a farmhole, C5. When I got jumped I saw the new sign pop, and a scout on scan, but I just made mistakes (didn't use MJD, etc.). It's easy to lock up your hole, roll your static and just leave the site when a sig pops.
+---
+I started laughing after plex prices, thanks
+---
+thanks
+---
+Use the Nidhoggur as if it is a (1400 fit) Machariel with a bit more HP but slower
+---
+uhhhh..... I don't know how much actual pvp experience you have but using guns does give you a 1 minute weapons timer my guy. 
+---
+Have fun: 
+---
+https://www.fuzzwork.co.uk/info/?typeid=13564  
+---
+Some highlights:  
+---
+82.5% web @ 14km  
+---
+25,000 gj/s neut @ 40km  
+---
+Love it. I'm on mobile so not sure if I'm not seeing this. But anyway to have the system name listed above for good measure. 
+---
+Jesus you're retarded, it's open fucking source you hot dumpster full of bags of dicks
+---
+yea it was a nuanced post covering multiple topics like combat refitting and docking games
+---
+Woah, it can completely destroy the capacitor of a battleship in one go .\_.
+---
+Thanks for the help mate
+---
+People unironically drop carriers and HAW dreads on officer spawns. That's the kind of dps you need to tank/dish out to deal with them.
+---
+Regular belt rats are much weaker and can be taken out with most cruiser fits capable of at least 150-200 dps.
+---
+thank you Progod.
+---
+Played eve from nine years old, back in 2004. My Dad would occasionally find corps for us to join and I'd talk to them a bit. Never had too bad of an experience. 
+---
+Honestly I mostly dodged the social side as I was only interested in "Playing" the game, (Id mostly belt rat in a railgun fit executioner tbh). 
+---
+Of course, it always depends on the fits and implants, and many blops fits/pods are very blinged. But I don't think it's controversial to say that a Sin is not a particularly effective combat battleship. There's better, for cheaper, especially im the context of abyssal space and arena 1v1.
+---
+Underrated.
+---
+wait what I am fucking agreeing with calmatt jesus
+---
+Did you change or smthing.. 
+---
+Fake and gay
+---
+I'm glad you're having a good time my dude, but damn. Ya gotta work on that formatting. It's double enter on Reddit for paragraph breaks IIRC. 
+---
+Karma Fleet is recruiting
+---
+even a broken clock is right twice a day in the US.
+---
+I wouldn't even be mad if there was a post about a 1b PIRAT proteus dying to horde every single day on the front page of r/eve though. 
+---
+This thread is one day old and basically dead. Not sure what you expect to achieve by posting that saying pretty much nothing. At least could have made an effort explaining to what it wouldn’t apply. It totally does apply to targeted advertisement like the one described as a personal mail saying hello mr X subscribe today and get 50% off. Which is only fair. 
+---
+FC bingo, not for this post, but for the checklist, for future.
+---
+What would the cap spawns net you on average?
+---
+High sec warddecers and not Pirates let's get that straight shall we.. in fa t its insulting to even call them that..
+---
+Once they start playing with actual pvpers  in low sec then perhaps we can say that..
+---
+I think calmatt is more like a 24h clock, right once a day. 
+---
+Are you telling me that an Azbel is worth 500m, I know some people are dumb, but seriously mate?
+---
+I'm not really sure that I want there to be direct gameplay links, however I think it would actually be really cool if PLEX was a universal currency that existed between all eve games, with the price being decided by players (like in eve).   
+---
+So for example, you have ISK and PLEX in eve. in Nova you would have Nova-ISK and PLEX too on a player market. If I wanted I could sell PLEX for either Nova-ISK or ISK, and I could, for example, use my ingame eve ISK to purchase PLEX inside eve, then use that PLEX to buy Nova-ISK inside Nova. This way any eve online spin-off game is linked to eve's economy indirectly through player set prices. 
+---
+Projectiles don't use cap! Spend time maxing the capacitor skills for the ship (recharge and capacity) and the shield boosting skills. You can get the gun cap use reduction when you switch to other types of hulls. In rust we trust ;) 
+---
+All? Then why i hear so many voices about how bad it is?.
+---
+Well, if you need cloak to survive while scanning, then yes.
+---
+But with normal fit and d-scan use alpha can easily avoid dying and scan whatever you need.
+---
+(but if you have lots of spare omegas - then with cloak it's much easier)
+---
+‘Unironically”...the new “literally”.  Quickly becoming the new most overused and unnecessary word in the millennial vernacular.
+---
+dys
+---
+This is quite a loaded statement.
+---
+For starters, dropping ironically would be against a target that doesn't necessitate it. Officer spawns can indeed require it.
+---
+Idk why you're mad at Millenials but you might want to stop taking their vernacular so personally, especially when jumping to conclusions before mentally processing the comment that triggered you.
+---
+Beep bep
+---
+I think the problem with going with plex as the direct link is that it would essentially be ludicrously out of place given its purchasing power within EVE. Probably one of the lesser problems of integrating games though.
+---
+Definitely feels like a big bit of expanded gear fear in this thread but I can respect not wanting to risk your favorite game for something that might be exciting and new but probably dog shit. 
+---
+you said you are in blood raider no ? I assume you were in the Imperium 
+---
+Looked at title; reminisced a titan jump extraction earlier on; looked at who posted this; smiled :D
+---
+Fair
+---
+Shots fired
+---
+They think cyno's are the problem, when they are a symptom of the problem.
+---
+A large portion of the group that thinks cynos are too powerful, use cynos to hunt as well.  The few that don't use Wormholes or stay in lowsec.
+---
+It was a consideration, but a lot of huggy stuff and I do enjoy getting involved in PvP. Might do that with an alt though
+---
+Yeah, you know me, all these years we have been having beers together.
+---
+Pretentious, no? Sick of childish 16 year olds trolling in discord and corp chat while we are doing operations, yes. 
+---
+Thanks for an incredibly useful reply, hope it didn't take you forever writing that.
+---
+Expletives, no problems, I use c\*\*t on a daily basis in the house and at work.
+---
+16 year olds who can't keep a discord or fleet chat together because everything is "penis" and "your mother" during operations, a major problem for me. 
+---
+He proved a point, I got it. :)
+---
+You could totally just go on a test server, spawn one, post screenshot on anonymous reddit account, cause chaos, and relax with a cup of tea sitting by the fire that is r/eve
+---
+You miss the point dickbag. I have no problem with the words, just the twatnuggets that cannot keep operations, fleets and corps together without going into drug induced rage fits on discord and chats. Get the difference, or be a part of the problem.
+---
+Apologies, did not know.
+---
+I am sorry you were held at gunpoint reading it. Who is controlling your mouse and clicking on those links? Kick them out of the room
+---
+Hmm i can't say that i've heard any of that. In fact i can't remember any video game chat channel that i have ever been in that has been like that.
+---
+But then again if i am in a video game chat that gets so clogged up with irrelevant nonsense of any kind that it becomes unusable for its primary purpose i simply leave.
+---
+He proved no point. People guessed i was a kid and tried to change it when i revealed the age.
+---
+test isn't really relevant these days
+---
+I can be near the BR space and yet don’t be part of the Imperium.
+---
+it has been... somewhat more than superficially modified
+---
+i think we're still using your db and backend, but the ingest has wings and a spiked tail now
+---
+All these fucking nerds on my dick
+---
+That argument can be made, and it may occasionally be true, but it seems that generally, if people get more isk per plex, and all other items cost roughly the same, they dont have to buy as much plex.
+---
+boy. i move supers when are not play this game
+---
+Join test today
+---
+&gt;I applied to dreddit and the process is taking way too long.
+---
+How long have you been waiting? Hours? Days? Weeks?
+---
+can confirm, one of the funniest ship spinning sessions i had in EVE :D
+---
+sry no skills for t3 Battlecruisers trained, still stuck in the old super meta.. :(
+---
+They'd bounce off.
+---
+You know...
+---
+The return of the machs?
+---
+*gets coat*
+---
+Insurance eventually progresses to where you have to pull over on the undock to exchange details if your freighter scratches the paint on a leopard.
+---
+I will make a steam account. Can someone send me invite thing? 
+---
+Are you sure want to WH rat on alpha skills? Maybe other types of space would be more isk efficient and safer for you. 
+---
+I have friends just wondering what I can get with 350 mill it can't be too bad🤔
+---
+&lt;3
+---
+tfw the venture killer complains about a 300m isk killmail when y'all jerk off to 300k isk killmails.
+---
+yep this was one of the best spinning lessons for a while :D
+---
+61299998266877372091
+---
+Put all your money into PLEX then biomass that character. Watch the market burn.
+---
+Someone more educated in WH mechanic will probably correct me, but IMO the first step is to take advantage of the bonuses your WH gives. You can also search Eve Uni or google the site you want to run. That will give you information on what the site contains and what ship you need to run it. There isn’t really a blanket ship like in bull sec where VNI’s and Domis are the main sub cap money makers. In WH space specialization will make you the most money. 
+---
+A VNI should be able to run C2, a Myrm can definitely run C2, and a well fit one might be able to run some C3.
+---
+By far the best wormhole ratting ship for low class holes (up to C3 if well fit) is the gila and so you will want to train Caldari Cruiser so you can fly that, when you can afford one.
+---
+I think it's highly dependant on what class of wormhole. And if you are able to fly in a fleet or if you are going solo.
+---
+It already lasted 1.5 months...
+---
+So much bulgarian chatter in the fleet chat 
+---
+/r/iamverysmart
+---
+PLs 2 button dscan was really good.
+---
+Your nickname fits you like rmt botter lover in drone space.
+---
+Karen wait
+---
+You just wanted to hide that bit in the bottom left for those of us who are curious
+---
+Well done mission accomplished
+---
+ Nowhere near as much as running the anoms it was more effort and time but it was very safe for my super 
+---
+Honestly, fit an Imicus and go search for relics
+---
+Thanks man
+---
+Who the fuck are you talking to
+---
+4 fleets plus full fleet of supers. Lol, good joke
+---
+So wait. Your just going to roll into WH space and start ratting.
+---
+You don't think you will lose all your shit? Like a lot? Not worried about that at all?
+---
+Oh I got fucked up when we switched from raitaru to azbel. 
+---
+So your friend's corp lost 3 bil on an azbel and he quit? No him, but the corp. And he quit? 
+---
+He said they aren't good at pvp, dont have high numbers, and they didnt even bother to fight back. You're damn right about "pity about your lack of content". Content wise he would've been drier than most post menopausal women 
+---
+Only way to win is to leave forever.  
+---
+Could leave some cryptic clue-hunting game, though, where you chuck 100+bil of skill injectors or somesuch in some secret location.
+---
+Null is for babies. If you join literally any corp there it's the easiest place to play the game.
+---
+Don't say things like that. You scared him.
+---
+Darn, real sorry mate =/
+---
+PGL knows he's a shit blob tier FC so ofc he'll hold for the blob.
+---
+He means tier three, and is either a really old bittervet or reads too much.
+---
+After all OP wrote he is going to look so dumb. Remember to update us about your great crusade against Russians in Aridia in a couple of months.
+---
+to you - like one of the best isk alpha can make is from running nullsec relic sites. 
+---
+You can farm in any NPC region actually, also all sov regions wirh less than -0.75 true sec.
+---
+Just a very fun fight
+---
+And PLEX went crazy, go back to Serenity please with all your bots and studios.
+---
+Haha i love your attitude. This is the type of answers i used to get when i was a noobie and I got so confused thinking they came from experienced good players. When infact they came from some shitface vni ratter who probably never even tried to do what you want to do.
+---
+Dont let them drag you down to their level. Roll the holes and crit the static if possible and you can pm me a char name i ll sort you a small ship.
+---
+Wish I were there. Haven't had a lot of use with lances.
+---
+Cumfirmed
+---
+holy shit, call the ambulance! D:
+---
+Yup. However, when doing belt ratting it’s often better to do it in a system with ~10 belts in NPC Nullsec, because of the broken truesec. You’ll get more faction spawns, and sometimes the haulers.
+---
+Only trouble is the faction capitals, which I can only dream of killing &gt;.&lt;
+---
+I was roasting him in local, and what he had to say was "It's all about control."
+---
+And then one of the Horde guys Pm'd me and told me to shut up in discord.
+---
+Never saw this guy in O-V before.
+---
+If you aren't going to be running them solo then your options are good. 
+---
+VNI, Brutix,Myrmidon all so well.
+---
+Hol up
+---
+Hold the phone, i am coming back to horde.
+---
+took a small vacation and missed the content (SOUND THE HORDE HORN.)
+---
+Yea, this is what all groups do, no biggie really for the small scale people 
+---
+Don’t touch the kiki unless you give it another 5m3 drone pls. 
+---
+wow, took me few hours to get this
+---
+Steam is good because you can use the steam overlay as a browser. For tripwire, etc.
+---
+Probably will, everyone else is jumping ship
+---
+&gt; (so his friends in better combat ships can freely kill the attacker)
+---
+Shooting a suspect or activating a kill right doesn't let other people shoot you. Only your target can shoot back at you (look up limited engagement timers). 
+---
+But you're right in that most people you can engage in HS are aware of this and fully prepared, so it's a pretty big risk. 
+---
+Best way to win Eve is to give me some isk so I can continue to lose Eve
+---
+Clever girl...
+---
+Basically, don't mine solo full stop. Most solo activities are aided by cloak. So combining a gas harvester and a response ship cruiser, bomber etc is your best bet if you wanted to mine. Which is two accounts
+---
+But you really shouldn't play solo. Eve is about the community, find a wormhole Corp to learn the ropes in.
+---
+You should probably ask your alliance.
+---
+what
+---
+&gt; re we supposed to rat in VNI's until we quit the game 
+---
+So, that's the only thing that you tried so far, only improvement you want is to rat in carrier?
+---
+&gt; horribly boring game that it's becoming for us 
+---
+Or you could, you know, get out of haven and try something else? 
+---
+How do you do this stuff? Is it just a hobby, or your profession? Struggling with html even lol
+---
+Possible yes, but at the moment its looking likely that the Uk will remain anyway.
+---
+Supers can easily kill any capital spawn.
+---
+Rorqual
+---
+Ratting is a blight in this game, please go back to high sec or just quit to make the game a better place.
+---
+I'm asking here and there
+---
+Interesting. Now that you mention that example, there's almost certainly some of that, when people have a target amount of isk they need, and buy plex based on that target. However, I can only speak for myself, but I haven't encountered that much. In fact, I can't honestly think of any situation where I've encountered it in conversation with someone; I've encountered it so little that it didn't even occur to me until you mentioned it. As far as I know, everyone I know who buys or has bought plex has a certain amount of money set aside that they're going to put towards plex one way or another, or just wants to get as much isk as they can reasonably afford. It's often a portion of every other paycheck, or something like that. Sometimes, "know what? I'm tired of ratting/incursions/whatever, I think I'll treat myself". They want to get as much isk for their money as they can, or they want as much isk as they can get. I don't have any *hard* data to back it up, but I'd be willing to bet these are the mindsets of at least a plurality of plex buyers.
+---
+All of that said, last year I could grind for six hours to afford to plex one account with isk. Now it takes me about nine. Even though I won't personally buy plex for isk, I'm still definitely more incentivized to purchase a subscription than I was last year, which was the other part of what I mentioned above. Yes, that might "balance out" to some degree with me not purchasing plex with isk and therefore reducing the demand that I *would have* contributed to, but like I said before, it seems like short-term revenue goals are the point here, not whether the market balances for it eventually.
+---
+Never mind, found it. 
+---
+There is a tiny cross that you have to hover over in the corner of the splash screen.
+---
+If I read this right, you are using a Chimera to run havens? No wonder your unhappy. You picked the carrier with no bonuses to the fighters. To be fair, a chimera barely outpaces a good skilled SB mach in damage application and with the upcoming fighter nerfs it will be even worse. 
+---
+Running a carrier in a cloaky canped space is gambling. Perhaps instead of using your carrier to rat maybe use it for I dunno, PVP? 
+---
+Wasn't valkyrie supposed to be that game?
+---
+The usual solution is to train a fax alt and sit him next door. It doesn’t guarantee your safety, and you’ll probably lose both the fax and carrier if I’m being honest, but it’s a better chance than none at all.
+---
+Whatever you do to earn isk is a blight too.
+---
+Only a limited number of ways isk come into the game. The rest is just moving it around in various ways.
+---
+It doesn't neut that much. It's the same as a Corpus X-type heavy neut.   
+---
+Energy Amount Neutralized - 600 GJ  
+---
+Max Neutralization Range  - 39200 m   
+---
+I was at university when I built the first version, I do backend web development for a living now.
+---
+It's a struggle but you'll get there, web stacks are getting crazy these days. :)
+---
+High Sec is so cute. 
+---
+There is what 898 members of CODE. and only 166 characters have been active. Assume that a third of them are at least dual logged (there is probably a percentage that have more logged for multi-broadcasting to time those alphas perfectly but I digress).
+---
+Leaving with them with about 125 active players.
+---
+All their drama, fuss, posting and such is utterly insignificant in scale compared to what goes on in WHs and Null Sec.
+---
+TL:DR; High Sec drama is a storm in a thimble.
+---
+Did they actually communicate the domain change somewhere? Because I couldn't find any info on it anywhere. It broke my website too, a while ago. And CCP being CCP, of course they just deliver a blank 404 page instead of at least adding redirects to a helpful document.
+---
+Well, then PVP is a blight too, because you have to krab somehow to pay for the skills and ships somehow. unless you're able to pay for PLEX to sell for ISK. But then, you're krabbing in real life to pay for your skills and ships...  
+---
+well shit
+---
+Just don't rat if you don't like it. The game is fun when you don't force yourself to krab. 
+---
+Ideally your alliance would have FAX in standing fleet always ready to save people, so hopefully you can just fit a cyno and light it as soon as you are in trouble, have your fax save you. That will buy you plenty of time for the rest of the response. 
+---
+You can also just wait until the time the campers are usually active and bait them, depends on what the campers usually bring. Or just make yourself less attractive to drop on by just using a rattlesnake or something (probably better krabbing potential than a chimera anyway).
+---
+Why would you guys even bring ravens for a fortizar? Just shows you guys didnt even understand the whole thing.
+---
+15.000 DPS can be paused by any doctrine when you outnumbered them and there is no DD so???
+---
+Trying to make this an argument for chainbooshing OPness would be like me taking t3s to kill an astrahus and claim its op. It just doesnt show anything really. Really should have let us in to test how op it is :D
+---
+If your carrier isn't getting dreadbombed it will most likely survive with a reasonable cap umbrella response time. A bomber fleet using torpedoes get's maybe 20-30k alpha. And torps have a long cycle time, so they aren't even doing that much dps. I have literally never heard that it's *too dangerous* for ratting capitals. Your post just seems like you just died in your shitfit untanked chimera and now you try to vent.
+---
+Purchase three RR Nestors and a heavily tanked Legion. Officer abyssal fit them all. Seed them into a random hole with shiny krabs. Stalk with the legion and kill with the Nestor. Once you eventually bite off more than you can chew, go down in a blaze of glory. 
+---
+Why would u turn down free skills? It’s free. Your literally just wasn’t free time
+---
+the spooling damage/reps might be their most obvious gimmick, but another trick they have is that all of their ships are bonused for remote armor reps. even if trig carriers don't get a spooling mechanic  for their fighters, I would LOVE to see spider tanking carriers be a thing again.
+---
+ISK was a mistake. Game should've removed ISK and made it so PLEX is needed to build ships.
+---
+I did a lot of other stuff, VNI ratting is one the few things I didn't do much, but I decided and trained a lot for Carrier ratting.
+---
+I trained a lot for Carrier and won't settle for all time being wasted, I'd rather quit or place a bot. 
+---
+I was always against botting but if this game is being turned to shit making everything else worthless, I'm up for it.
+---
+&gt;XD
+---
+&gt;But then, you're krabbing in real life to pay for your skills and ships... 
+---
+At least there's a chance that you get to do something you love while krabbing IRL.
+---
+I think it would be cool if his character became a mission agent.
+---
+eve players dont have wives or kids , fake/10 
+---
+“On a ship” is apparently an easy to miss phrase. 
+---
+Keep reading... that’s why it’s good. He learns and eventually comes up with an excellent trading strategy. 
+---
+If he's in test he is
+---
+https://developers.eveonline.com/blog/article/removal-of-redirect-from-.tech.ccp.is-on-jan-7th
+---
+Initial communication was a little weak, so they rolled it back, and gave some more solid notification.
+---
+Skills I wanted for what I wanted to do.
+---
+What exactly are you asking here?
+---
+Looks like you didn't do enough research before training into Chimera. But it's a video game, not a job. You shouldn't force yourself into doing something that's not fun. 
+---
+Try dropping that carrier in lowsec, idk.
+---
+What is the essential purpose of a game?
+---
+What is the game when the developer will sell you every method to skip the challenges and planning in that game?
+---
+Find Tom
+---
+Honestly it kinda depends if you have access to moon goo and capital.
+---
+The prints are short term and builds are longer term more isk.
+---
+What's a good rookie ship (Omega) for T3 filaments? Also, are triglavian ships good for pve at all? Namely the frigate and destroyer.
+---
+Mobile warp disruptors and interdictors if flying in null.
+---
+Booshers are popular.
+---
+Covert ops cloak opens alot of different game play options.
+---
+T3C are very customizable.
+---
+Thanks for your tears. They must have really hurt you :-D
+---
+Dreddit is recruiting 
+---
+No, it neuts your capital ship dry in 3 seconds actually. Most officers do.
+---
+I like VSJ gate, i Miss o-v
+---
+I could but I want to feel like I am playing the game. I am paying for sub because  it doesn't affect my roleplay but wouldn't like to use irl money all the time for ingame stuff.
+---
+))
+---
+Both + being a space overlord that crushes enemy territory, seeing them driven before you, and hear the lamentation of their VNI bots
+---
+Am a shitface VNI ratter, that I am yeah
+---
+Unless you know something the rest of the country doesn't the UK will be leaving the EU 12th April with no deal? Parliament currently tossing each other off doesn't change that fact
+---
+I'll be retiring soon, gonna love that job lol.
+---
+Depends : if you want to save a rorq tackle : haw dread tanky. If you want to catch a small gang at a gate carrier with nsa and bubble. Me it s what i do.
+---
+It’s an ab armor non mjd zealot comp. 10/10 on manly brawl scale tbh. What is really sad is that instead of having a fight with overwhelming odds where you can kill the entire enemy fleet for once because he’s not using kitey munnins or mjd shit the dumbass monkeys choose to pathetically bump around their titans and boson their own ships. It’s cool that every idiot out there can get into a Titan but it’s really disturbing that they can get away with using it like this without being at risk.
+---
+So (discounting taxes) the market is not an ISK sink. Usually.
+---
+The idea here is that CCP, not some random robber baron, is behind the market manipulation. Thus all the profits of cornering the market go to them.
+---
+CCP doesn't need ISK. Any ISK they receive would just sit in their wallet and never interact with the game again. It's a "soft" ISK sink, similar to retired accounts, because the ISK isn't gone but it is out of circulation and will likely never come back.
+---
+As a side effect of skyrocketing PLEX prices, the dollars-to-ISK exchange rate is improving (it's 50% up from when I joined) which means that RMT is selling for proportionally less. This won't touch bots or hacked accounts, I.e. ISK generation, but it will hit RMT on the conversion side.
+---
+As I said, Tinfoil V. This scenario is very unlikely and frankly ridiculous. It happens to have a few advantages that I thought I'd meme on.
+---
+If his fighters stay in your jammer stays up right?
+---
+Get better at guessing?  A famous man said he'd rather be lucky than good.
+---
+OI M8 U GOT A LOISCENSE FOR THAT REDDIT POST SON
+---
+Does anybody travel with a single boosher anymore?  Just use your second to rinse and repeat.  If he keeps abandoning them your jammer stays up.
+---
+Not gonna lie, there's a lot of room for improvement. A number of times he's overrepping guys who are already at max armor and not taking more damage. In a few instances that happens while other guys are broadcasting, or guys he has locked are taking damage, and he's just ignoring it. He sorts it out much more in the last third of the video &amp; the performance is solid there, but earlier on, it's lik he's not paying that much attention.  Wonder if he was multiboxing - the activity pattern looks a lot like that to me.
+---
+Well i think CCP will want to be GDPR compliant.       
+---
+Storing data outside EU about EU customers is bad idea.     
+---
+I already commented on this type of reply but just for you, a famous man once said "I'd rather be lucky than good", Lefty Gomez, 1930's Yankee player
+---
+It looks like the evemarketer API is currently unavailable which means the website does not function either.
+---
+I've sent a message to u/aplulu on Tweetfleet, hopefully the issue gets resolved soon. :)
+---
+I really doubt it. London is still one of the most heavily infrastructured datacenter locations in the world. Also the net effect of brexit is that companies are simply ceasing investment rather than rushing to divest themselves from the UK market.
+---
+LOS would be cool around citadel and station models
+---
+If you have a brain you should know that isn't going to happen. 
+---
+MPs have voted against leaving with no Deal. They've voted against Mays deal as well but there is no way that the sane MPs in the House would allow a No Deal.
+---
+Without knowing more about what you are doimg pvp or pve wise its hard to tell what would be the rught things for you.
+---
+Omega unlocks more specilisation... cov ops. Assault ships, t3 hulls, mining barges...
+---
+Called this a while back. Still won't be logging in, but looking forward to reading about you guys. Burn it all. 
+---
+It happens all the time, it just needs you to be compliant with EU rules.
+---
+Won't a haw dread just eat shit to any fleet that is capable of taking down a decently fit rorq?
+---
+I'm having a hard time understanding what your saying here.
+---
+So are you
+---
+A. Mad at guys who PvP
+---
+B. Mad at CCP for trying to nerf an isk faucet.
+---
+C. A massive care bear that wants 100% safety at all times so he can Spod out.
+---
+D. Unhappy at how boring ratting is.
+---
+E. Just generally unhappy about something specific but are afraid to say exactly what it is for fear of backlash.
+---
+F. All of the above.
+---
+But UK becomes a ["third country"](https://gdpr-info.eu/art-45-gdpr/) with all the implications.       
+---
+Maybe having server [somewhere else within the EU](https://www.submarinecablemap.com/) will be cheaper and more convenient .       
+---
+You're treating this totally passively: 
+---
+&gt; The super response won't even be there in time to save a fully tanked chimera
+---
+Why not wait them, then? Have your response fleet ready to go while you're ratting. But not just ratting. Ratting like a complete moron during their prime time. Warp back to your fort with fighters out. Sit completely still in the site. Let rats scram you. Make sure you check your next site with cloaky eyes to make sure you're not warping into a bubble-inhib trap and wait for them to drop, then nuke em. Most people hunting carriers will take the bait and think twice about dropping later.
+---
+Other than that, insure your carrier. A poverty fit carrier is less than 2b in most places. After insurance it pays itself back in about 4-5 hours. If it dies, it dies. Buy another. 
+---
+Or afk rat in 2-3 vnis and make more money without caring if they die. 
+---
+My TESTie, you only have 3 ships in 08- AND THEY'RE NOT EVEN HALF OUR DOCTRINE REEEEEE
+---
+I think it’s G. He doesn’t really know what he wants IRL and the game isn’t helping and now that he’s had a couple bad experiences the sour taste in his mouth is taking over.
+---
+Ahhh the just generally salty post. Classic!
+---
+The UK will be a third country yes, but as is said in the very first paragraph its considered acceptable if the EC deems the country to have sufficient data protection laws and this determination does not have to be made in advance, only if challenged. Considering the UK will have complete regulatory alignment at the point of departure I don't think theres any danger of the EC ruling against that.
+---
+Yeah doesnt work for me either
+---
+Using the p2w skill injectors argument here doesn’t even make sense (though it is a discussion that should happen, but another day). Everyone is getting the same double sp everyone else is at their omega/alpha level. The event does not create an uneven playing field. 
+---
+Unless you create yourself a low end to sit in like an idiot 
+---
+Ah, didn't know that, I've never attacked them in a capital. Must be some hidden stat then that only applies to Capitals. 
+---
+Great, now I need to get a super.
+---
+How does Omega 2x skill train work? I know it's dumb but I'm a bit confused. So basically as an alpha it will take me 4h to train Connections 2. If I was Omega it would've take me 2h, right?
+---
+You can meke up to 4bil (adaptive+mwd+ab+vigilant) from serp 6/10 or a bit less in other faction's 6/10, but that require you to do combat sites in SCARY low sec and possibly farm in systems with big and scary people.
+---
+You could run burners in npc nullsec, but there are other people who might not like you and wreck your ship.
+---
+You could run 5 lvl agents in lowsec, but that would require you interact with scary pirats.
+---
+You could farm dreadnough c5-c6, but it's scary wh with no local!
+---
+Or you could join fw for missions, something must be bad about it too.
+---
+Abyssal stuff, again, you don't like that, do you?
+---
+Game have so many activities what would give many more times of that you could get doing carrier or even super carrier ratting, but hey, that would require few braincells and to actually play the game!
+---
+And most importantly there is no 100% safety. 
+---
+So you choose 150mil/hour garbage activity and whine about your own shitty decision. Personally i just can't understand you and people who does that. If you do it yourself that's just plain ridiculous. 
+---
+Go downvote me for all i care, after all you are wasting YOUR time in havens.
+---
+I had forgotten about that guide. [https://www.youtube.com/watch?v=Ea1UdfvRGoQ](https://www.youtube.com/watch?v=Ea1UdfvRGoQ)
+---
+The perimeter market is for everyone.
+---
+You forget to delete this comment as well?
+---
+I'm guessing OP is trying to say that the upcoming changes just hurt the little guy and do nothing to hurt the large groups, which are the ones making all the isk anyway. 
+---
+&gt; but that require you to do combat sites in SCARY low sec and possibly farm in systems with big and scary people.
+---
+I used to do LS combat sites, it's not that bad. You just never take your finger away from the dscan key. With that said, the dps on that 6/10 is scary.
+---
+The right thing to do it them! o7
+---
+Who ever said anything about aridia? 
+---
+You need to work on your reading and critical thinking skills before you ironically call anyone else dumb... 
+---
+Well, it is sometimes completely possible to pay for everything out of loot. Pick the right spot and there don't lose a lot of expensive ships and you can replace everything you lose out of sold mods from your enemies, nanite repair paste is a very good thing to loot because it's imediately useful and has a very high isk/m3 ratio, higher then most things that are not good deadspace mods or faction tackle.
+---
+CCP started giving out 'unallocated skill points', for various reasons, long before skill injectors were a thing. Denying yourself free skill points is, of course, your prerogative. The rest of us will take it and get ahead on our training.
+---
+I a
+---
+Good luck ganking a freighter in hisec with 4 people. You need like 30+. https://zkillboard.com/kills/ganked/
+---
+Wont the fighter nerfs hurt supers far more than carriers? Thats my understanding anyway.
+---
+What comments have I deleted? I don't delete them as a rule of thumb
+---
+As far as I know that is exactly how it works
+---
+Aim for something that's not an in game on paper thing. 
+---
+Try FCing, start with a small cheap doctrine, see what you can pull from it. Try a role you've never done before, logi, light tackle, heavy tackle, etc? Or try to get a kill that's above your ship class while solo. (Ie kill a cruise in a frigate, etc). Start sone funny joke-ish doctrine and see what it can pull off.
+---
+Train the skills that will support you achieving those goals.
+---
+The gila is king when it comes to running filaments imo. As for trig ships being good for PvE, not really. They have a spool up timer to reach good damage and most of the time you just instantly blap targets in PvE, so it’s basically sacrificing your entire speciality.
+---
+I dont.
+---
+I have enough contacts with delve alts to get intel needed.
+---
+The first step is to find a Corp in game that matches your play style. They can help you do better from there usually. EvE university and Red vs Blue are great options. Feel free to hit me up in game (Zam Slam) if you have more questions or just wanna talk about pvp.
+---
+T3C are great. I can do exploration, DED/combat sites, PVP, PVE... if I use a mobile depot to refit. And they can be cloaky/nullified, very hard to catch. Extremely flexible ships overall
+---
+In short, yes. 
+---
+In less short...
+---
+Each rank has a certain number of skill points to go from one rank to the next. Based on your attributes, you get a certain number of skill points per second (this will vary between different skills depending on what its primary and secondary attributes are). So, for a skill that's 300 skill points to next rank, if your attributes allow you as Alpha to train at 15 skill points per minute then you'll be done in 20 minutes, but as Omega you would train at 30 skill points per minute so it would take 10 minutes.
+---
+I saw some kills of freighters with a little number of people, I guess it's all about the ship, is see a lot of catalysts here. Look up for a player named 'ralliana'
+---
+Sorry, I had to remove your post because your reddit account is under 2 days old. Feel free to message the mods via modmail to get that sorted. Thank you for your understanding!
+---
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Eve) if you have any questions or concerns.*
+---
+But wont all the datacenter locations shut down while the UK floats away?
+---
+If you're in a Corp or can join one, it might be a good idea to get a friend or two to go with you, even though you have to split the spoils, until you get good enough or rich enough to solo.
+---
+Alternately, although it's vastly more dangerous due to the greater risk of treachery, you can even  partner up with some non-corp person you just know from "around".
+---
+ I've done that a time or two and lived to tell the tale. I should clarify, I don't mean some random you just met before roaming. I mean someone I was familiar with from around the "neighborhood".
+---
+Damn Skill Farm chars .... But whatever... Buy Ur time with real money
+---
+I do believe you can run T3 gamma in a passive tank caracal, although really just get a Gila and run T4.
+---
+Triglavian ships are bad for PvE mostly because triglavian strength comes from ramping damage, and most PvE (except really high end WH PvE) does with lots of easy to kill rats. Maybe the Trig HAC will be decent at running abyssal sites, but I doubt it.
+---
+Goonswarm federation
+---
+Lowsec combat site running is 100% safe and dscanning is pointless (except for non-DED space escalation fom 6/10), you have no idea.
+---
+&gt; dps on that 6/10 is scary 
+---
+Nope. 
+---
+1. It's just a precaution that no one would try and hack your account. Knowing the account name is like having half of the puzzle solved. Don't make the bad guys life easier :)
+---
+2. This is strange. I would suggest asking Support (there is a link in the menu on the top of the launcher)
+---
+It'll his equilibrium at some point.  Net sellers of plex have more money than time and/or willingness to spend their time grinding isk in Eve.  Net buyers of plex are the opposite.  They want and/or need to play for free, and are willing to grind to do it.  Both groups are getting smaller as eve's real (actual human) population declines.
+---
+It's a seller's market right now.  The simplest explanation is that  the number of players willing to inject cash over and above a monthly sub into the game are dwindling faster than those who want to play for free, often on a large number of multi-boxed accounts.  Those who want to play for free are bidding up the price of a resource that's becoming more scarce relative to the demand.
+---
+At some point, the net buyers of plex decide that the grind isn't worth it anymore and start leaving the game faster relative to those who are still selling plex and the price will top.  Hard to say where that point will be.  Some hard-core addicted players might never be forced out, even if they have to play for extreme amounts of time in order to do so for free.
+---
+Are you having problems with roaming gangs or blops fleets? because if it's roaming gangs then most alliances have intel channels, if it's blops fleets they have to come from somewhere and therefore have a limited range, if you can figure out where their blops is/could be staging from you can likely find a spot where they can't reach easily but which is still in rescue range. Also, blops people are going to be cautious about dropping in crowded systems because blops ships as a general rule do not fare well against equivalent ships without covops cloaks. If you can stay at jump cap that can save you even if you are not quite aligned, not many people are going to want to drop on a carrier that is within DD range of a keepstar.
+---
+We have zero competent titan pilots, but if you drop enough bosons you get there eventually.
+---
+Such is the way of Eve
+---
+The cycle time is some absurdly low number amounting to 25000gj per second
+---
+Meanwhile, the instigators are laughing their asses off (Johnson, Farrage, ...)
+---
+Also enable two-factor authentication.
+---
+I think the confusion is freighters vs haulers. Freighters have a lot of ehp and, unless you trick them into a duel, require quite a lot of players to take them down before CONCORD arrives. The player you mentioned is a ganker, but is aiming more for expensive sub-capital ships and T1/T2 haulers. These can be killed with a smaller group, especially if their fit isn't optimal
+---
+No, that's a scrub making excuses.  Smart people use the tools that are available to them.
+---
+Yeah, you will need a bigger group to gank freighters and not have the loot stolen by someone
+---
+That is how the game was for YEARS. We literally had a song called HTFU from CCP (Harden The Fuck Up)
+---
+Then some shit went down in 2014 or something, and for 5 years PVErs have had the advantage.
+---
+Enjoy it while you can you fucking mongs, HUE HUE HUE HUE HUE HUE
+---
+who cares, lmao
+---
+Yeah, but what are the chances they're watching *right now*?
+---
+You're right, I meant ships such as tayras and badgers
+---
+Lol so you play Eve online just to rat? You want to be invincible from players while killing npcs in null/Low-Sec? 
+---
+Go to highsec and you shouldn’t have much of a problem, concord responds pretty quickly tbh..
+---
+Hi friend, officer guy here. Use your BMI, train to an ishtar for the higher resist profile. Use as little tank as humanly possible as you won't need anything more than 1 hardener and 1 rep. Use your rigs for hyperspatials. You absolutely no exception need a 50mn mwd. With a 50mn you are fast enough to keep draclira 70km away from you which is where you need to be to not call in a carrier to assist. 700 dps is plenty enough to kill him. If an officer spawns, do not attack them until you are at range as they will take 10 or so seconds to think about fighting you giving you time to get out to range. Also, cobalt edge is the only known place I've seen Unit w-634 spawn so that is likely their home. The top 1 and possibly 2 tiers of officer only spawn at home. While true sec does nothing for officers in home regions, it does give you better hauler and faction spawns so pick a lower sec status. Also dont worry about dreads and titans on delve as they do not spawn in asteroid belts within home regions to compensate for the presence of top tier officers.
+---
+&gt; You cant avoid a cyno on a gate.
+---
+Then don't hang around on gates. Go inside a plex.
+---
+Wow! What a toxic cynical attitude! I dont want any of my fellow eve friends to get banned for using this dastardly abuse of game mechanics! 
+---
+Surely thats something to care about?
+---
+Regards, Calmoto
+---
+I am all about the metric system, but I do have a niggle for all those who is it every day: why are you saying "mileage" huh?  Kilometerage sounds really dumb, just saying this thing that I just said.
+---
+Guess you have to login to get your market data ;)
+---
+Dunno, my Hel sits at 50mil ehp somewhat.
+---
+Swapping some modules out for additional tracking is no problem there.
+---
+If you're calculating to tank until a cyno inhib ignites you don't need that much ehp anyways, people won't bring more than 10-12 dreadnoughts to have less ISK involved on their side. Usually you can't extract hotdropping dreads anyways *(since they need 5min to siege red)* so you want to be ISK positive at all times.
+---
+If you anticipate ten Naglfars with \~15k dps each *(and thats with implants, lvl5 skills and t2 guns etc.)* you can tank them for about 6min until help arrives, should be plenty of time for your guys to burn a cyno ceptor 100km off grid.
+---
+So sure Fighter nerfs will hit all carriers but especially for ratting purposes you often times are overtanked to shit anyways and can just fit some tracking...
+---
+[removed]
+---
+Hello ! Thank you for your answer, it’s nice to see the OP of the post I linked answering :)
+---
+I’m currently training up for a 1500 DPS Rattlesnake, with a specialized fit that use range as tank against Dracliras’ neutralizers and can still apply well over MJD range. I guess if I can do the top officer, the battles with the lower ones won’t be so different ?
+---
+I might train an Ishtar, as it benefit from the base resistance profile which let me use more low slots for either damage or speed modules. 
+---
+30mm rear diff nut, btw.  At leas on my 06, it was.
+---
+Oh and get this.  My motorbike rear tire nut forty-fucking-six mm.  Who has that sitting around?
+---
+You don't need that many if you do taloses, probs 12 or so chars which is possible to multibox
+---
+Seems to be working as intended.
+---
+I dunno, iim not saying this is true, but i honestly think Johnson did it just to further his political career and doesnt actually want to leave. 
+---
+Same with Farage to a degree. 
+---
+Both. Doesn’t take very long to get your necessary skills to level 4.
+---
+I get you want the go harpooning whales. Truly I do. Sometimes just using a shotgun on an exotic piece of wild life is just as fulfilling.
+---
+1. Find a system with some lvl 4 mission agents.
+---
+2. Alt w/passive ship scanner in something non threatening.  Chill around stations, learn which system gates are high traffic. Scan anything interesting (shiny), and or afk at gate. (afk t3 cruiser = cookie)
+---
+3. Undock your gang, and warp to your free lunch. Alternatively, an AC nado, or blaster talos will glass a t3c without an active tank.
+---
+4. Profit, if your harvesting salt contract the loot back to the owner at 90% jita. x) 
+---
+Look at zkillboard.com at groups like PIRAT for fitting ideas. Killing haulers can be profitable, but you want to scan ships to see their contents and look for ones that are carrying more loot.
+---
+For example, with tayras, I would recommend targeting ones that are carrying 400mil or more in goods as that should allow you to at least break even.
+---
+With T2 haulers it will be more tricky, as they have tougher tanks, and the DSTs have built in warp core stabs, you will need multiple ships targeting it, or hit it in a 0.5 system like Uedema. 
+---
+Another option is studying where incursion runners are headed and follow them. You can occasionally gank really blingy ships from them and make a profit.
+---
+Lastly, you can always gank PIRAT too, they are known for some blingy ships.
+---
+It's because you called it juicy. It's not. Making cyno pilots in 5min from the starter missions was juicy.
+---
+Dont try to use a cyno in FW space and you will never know they cant be used. Problem solved.
+---
+That's a low bar to set, considering even DARKNESS managed to squirm out of it.
+---
+Ganking is not PvP. Others will debate this but in the end, to gank you need friends. 
+---
+Train dread Alts.
+---
+This has been known for ages, it was brought up to CCP on the same day they launched the functionality and they said "it was fine"
+---
+You can even use this to safely move supers and other shiny things.
+---
+&gt; Another option is studying where incursion runners are headed and follow them. You can occasionally gank really blingy ships from them and make a profit.
+---
+You need quite a few to hit incursioners. The way they fit their ships isn't that different from typical PVP buffer fits. They have serious tank and it's not totally crippled if their modules are off due to AFK autopiloting.
+---
+PIRAT aren't concord gankers though, they're wardeccers. This means that they can kill their targets without worrying about losing their ships or having a hard time limit in which to kill it.
+---
+Then you warp away cos you're not scrammed.
+---
+You can suicide gank haulers (not freighters) solo, but you'll need an alt or a buddy to scoop the loot.
+---
+Just get a battlecruiser (minmatar is best), a cargo scanner and a sensor booster or two, and scan haulers on autopilot.  When you see one worth enough isk, pop it with your BC and scoop the loot with your alt.  Watch out for vultures trying to scoop before you can get there.
+---
+This was how I originally made isk in eve, and I made billions doing it.  I haven't done it in years, but I see people still doing it all the time, and even saw a kill yesterday that dropped 2bil in moon minerals.
+---
+The hardest part is that you have 1-2 seconds to decide if the hauler is worth shooting before it's too late, so you have to get good at recognizing the value of random stuff.
+---
+Everything in eve is pvp, even mining.
+---
+So, it's not PVP because you need friends? I don't quite follow.
+---
+Join the public chat channel "CAS Combat Guild" and ask. (We do have some groups blocked, for example Imperium alliances, because every once in a while somebody lets slip some intel in the public channel, but by default its mostly open.)
+---
+I don't understand why you would make such a claim that takes 10 seconds to disprove ingame.
+---
+Open up your corp's info (because obviously only a PIRAT member would defend them so much) and look at the current active wars. 
+---
+They have 99 active wars and while 10-20 are the usual nullsec blobs whose noobs they farm, the rest is entirely random lowbie/newbie corps.
+---
+I've been making enough valid points in this thread to get decently upvoted comments, while your drivel about PIRAT has so far been downvoted into oblivion. 
+---
+Eve players love newbros and wardec corps make newbros stop logging in and over time these corps are a part of why so many people have tried Eve and so few of them stick around. 
+---
+Fuck Pirat (you included) and fuck wardec corps. 
+---
+gross....I think I speak for all Texans when I say this: We appreciate your support, but we prefer winners...roll tide would have been more acceptable.
+---
+I am 10,000% with ProGod here. Fuck the metric system. 
+---
+IDK how much you make from your indy but you can make shitloads in both carriers or dreads depending on what you want to do... if you ever plan on going WH you probably want a dread to dread krab in c5/6 for.. lots of isk hr (800m-2b depending on your setup, how many alts you have, etc)
+---
+Nullbear complains about deadspace mechanics not letting you instacyno supers. Big surprise.
+---
+wow so much better, thanks!
+---
+Working as intended 😆
+---
+While scamming is perfectly okay in a game rule context, making people buy plex and then scam them out of it is against the rules and will usually net a ban, and i assume CCP will transfer the plex back to the original owner in those cases.
+---
+Not when you drop 50 of them
+---
+&gt; Ganking is not PvP.
+---
+Your comment is not a comment.
+---
+there is no such thing as **broken truesec**, this terminology is used by people who don't know what they're talking about
+---
+officers will spawn in asteroid belts, roaming asteroid anomalies (e.g large bistot deposit), ice belts, and gates in regions **where their capital is located** and roam to asteroid belts, ice belts, asteroid anomalies, roaming asteroid anomalies, and gates. They also have the potential of spawning at or roaming to event generated mining belts. 
+---
+Shitty officers will spawn in regions with -0.8 and lower sec status, in both NPC and alliance-owned sov. 
+---
+What you can profitabily conduct is to gank t1 industrials on gates. I did this using a Vexor, farmed a few months of gametime this way. You need 3 characters on 2 accounts at least, one for ganking, the other for looting+scouting.
+---
+We'll keep in mind that frat called in a lot of friends too. You guys tried to outblob us, so we made a deal to outblob you. Pot meet kettle. 
+---
+Fraternity openly pinged the response they had from support:
+---
+&gt;\[Fraternity / ping\] 2019-03-31 10:35:09 Forever\_Kate : Hello Capsuleer, GM Nito here.  Thank you for contacting the CCP Player Experience team. **What you describe is not considered to be an exploit at the moment**, but in some situations like this, there might be a bug involved. I'm not able to verify whether there was a bug in this instance or not, so if you see it happening again, it would be a great help if you could file a bug report on this matter in case our developers need more information about it. Most of the developers have no access to the ticket system and use a separate system to track and address bug reports. Also, bug reports submitted in-game provide much more detailed logs about the issue and are more insightful to the developers.  You can file a bug report from within the game client by pressing F12 and clicking on the 'Report Bug' button located at the bottom of the pop-up window.  Alternatively, you can use our website to file a bug report if you are unable to do so through the game client. Here is a direct link for your convenience:  SUBMIT BUG REPORT  Please feel free to include as many details as you can, including any screenshots you may have. Hopefully, with all the information you can provide, our developers will be able to determine what the root cause of the issue is.  If you have any other questions about this or any other matter please do not hesitate to get back in touch.  Best Regards,  GM Nito CCP Player Experience | EVE Online | EVE Valkyrie  GM的正式回复，总的来说GM的意思就是也不能确定是否是bug或者合法，那我们视作这种行为为CCP默认合法，所以你们懂得互相伤害互相恶心呗跟墩子一样。 
+---
+CCP here confirm that this is not considered an exploit at the moment so this is not "abuse" as you say in the comments and no one will get banned for using it at this time which you also say in your comments.
+---
+Same here. I think the site is down.
+---
+Russian bot best bot 
+---
+yeah the problem with the 1500 dps rattlesnake is that it cant maintain the range long enough to avoid getting caught, and it is waaaay to slow to warp compared to a hyperspatialed ishtar or vni
+---
+http://www.minerbumping.com/?m=1
+---
+This is 80% of what you need to know.
+---
+but.. but.. alllll the hours he trained into his ratting chimera.. ya know.. no chimera in highsec... :(
+---
+iF iTs nOt cOnsEnsuAL its not PVp
+---
+Test vs frat is the region that is heating atm. Both sides are hunting each other's rorqs.
+---
+with the next patch in mind, i would recommend a dread alt over a carrier, i bet dreadbombs will be the bigger threat after the patch..
+---
+Not if there is a hard brexit and there is no save harbor deal by then.
+---
+That's about a shit tier example, considering darkness paid to keep their space, and we got paid to let someone who invaded up keep theirs.
+---
+I stopped reading after that first sentence. It's that shit.
+---
+If we end up outside the single market thats a strong possibility but on the scale of a decade or two not weeks or months.
+---
+I can't believe I'm in a brexit thread talking about how its not going to be a big deal.
+---
+Even with a blingy subcap like Rattlesnake you will have a lot of issues killing even regular NPC dreads. You have close to no chance of killing officiers even with high skills and bling fit. 
+---
+Yeah, I’m quite sure I won’t scratch an NPC Dreadnought. But an officer ? Might do the trick.
+---
+I was in Code, in lewak's corp. I didn't like the fact that they don't do it for the money, idgaf about killing ventures, I killed enough and lost too much time doing that. I might check other code corps though in the future. but I will still try to do it on my own somehow. I would like to be a FC as well so i don't know really, would like to make my own group.
+---
+Ps I know about this website, what do you suggest me to read?
+---
+No, it applies to all ships. Every officer that can neut, will neut you dry near instantly. 
+---
+This video will demonstrate that perfectly: https://www.youtube.com/watch?v=iqCC58Qov5c
+---
+Did I just walk back into reddit to find HydeX is still retarded? LOL
+---
+I understand what you mean but I'm not here to discuss about that
+---
+Isn't the 6/10 the one with the web tower of fuck you in the final room? or am I confusing it with the 5/10?
+---
+http://coalitionsin.space
+---
+ 
+---
+Pl + skillu + winterco and Nc if tou want... they are not outblobing you. 
+---
+And FYI if Pl came it's because you fucked up their invasion in Providence, not because frat called them. 
+---
+Yeah, plus cloaked eyes 100 off the hole makes for a lot of peace of mind. There’s just too much value in a cloak to use an alpha for anything important when in a wormhole. 
+---
+The super numbers of the entirety of the southeast + pl was far greater than what test could field. Even with the goon shield supers once the fight started in earnest in ualx the frat/PL/tried/skill u side had the number advantage.
+---
+Wally have a toxic cynical attitude? You must be new here, that's Wally the most autistic person in eve.
+---
+CALMOTO !!!!
+---
+5/10 3 web towers, 6/10 1 heavy neut tower.
+---
+In first case you simply kill overseer and warp out, in second kill tower first and don't stand still.
+---
+Both 5/10 and 6/10 can be done in relatively cheap ishtar almost afk.
+---
+Besides, 6/10 is quite scary for hunters.
+---
+No, he need to pay his mortgage loan with all these contracts. If you need more information, please contact us via 800-I-WANT-ISK.
+---
+Beep bop, mother f*cker.
+---
+We actually had a sort of a tradition in TDSIN when I was there. You weren't a true member until you had lost a marauder.
+---
+Second wave into my first garrison, a sabre landed on me.
+---
+Pandemic Legion
+---
+The only way to properly thank Chance Ravine is to awox him on stream. 
+---
+I am not sure why it’s a bad thing that if I buy plex I get better value for my $ this only makes me want to buy more plex to sell to those with wealth coming out of thier eyes 
+---
+I always recommend new players go and join Eve University. Not just reading their wiki, but actually joining the Corp and letting them teach you all about the game. You'll get so much more out of it, than asking a bunch of random questions on Reddit. =)
+---
+Was about to ask myself.
+---
+Be careful when webbing ships that are trying to warp away. When you web, the targets MAX velocity drops right away, but their current velocity has to ramp down. So what this means is that if a target is aligned out but not yet at warp speed and you web them, they will instantly warp. Always make sure the target is pointed or scrammed first
+---
+You've watched or kept appraised of the utter farce  parliament has been the past 2+ months and think they'll manage to put together a deal in 11days?
+---
+&gt; ~Quickly~ Literally becoming the new most overused and unnecessary word in the millennial vernacular.
+---
+Fixed it for you.
+---
+Heh
+---
+Have a look at [this](https://docs.google.com/spreadsheets/d/13OCWPLhD4kdLA6p9WVsMHJRcVk2wV7VcQwlo3t-VEtY/edit#gid=1212682109) to get an idea of what is possible and how many people you need.
+---
+Have you tried https://eve-incursions.de/communities that list?
+---
+Yea exploration is great money, find the exploration tutorial mission guy, idk probably should be listed in Agency somewhere, then do the basic exploration missions. After that fit go looking for a wormhole to nullsec. The exploration sites in hisec are worthless, but I guess you could do them until you have enough money for a few more exploration ships, because you will lose them pretty often.
+---
+From my experience it is easiest to pick cheap, high volume items (modules and ammo).  They will have the fastest turn around on making you money.  HOWEVER due to peoples normal play cycles it should be your goal to have your manufacture times end somewhere around 12-24 hours to maximize time on active industry lines...
+---
+This is tricky as the easy modules are also very fast to make and T2 BPCs have the number of runs fixed (1 for ships and 10 for modules, etc...)
+---
+Nothing is considered an exploit, until it is.
+---
+If by trying you mean weekends you will have a hard time getting on fleets since everyone it's trying. 
+---
+What :D
+---
+My jump-freighter gets 12 parsecs to the gigaliter and that's the way I like it!
+---
+First of all I've flown my Talos and even killed some sleepers and o have a fleet. You don't know what your talking about
+---
+You could use meta or faction modules instead of t2.
+---
+Why would we seed/build multiple caps in there (c2)? Just shows you didnt even understand wh evictions.
+---
+obviously it was the easiest way to accomplish the goal with the current available mechanics. they had a formidable cap force available. like it was either boosh Raven (or similiar comp) or mass caps. but hey i didnt plan the whole thing nor showed i up for more than 1 timer cause how aids it was.
+---
+Insert dreadbuchet here. 
+---
+No, i think we are either just going to stay in the EU or have  asecond Ref. 
+---
+I dont see it likely that anything else could happen. 
+---
+May doesnt have the support for her deal, no deal doesnt have support etc etc. 
+---
+WarpToMe is active in most hours.  and is the most active of the groups.
+---
+The best ganking ship in Eve is the ibis with a miner ii but it takes awhile to get to that skill level so just be prepared to buy and train
+---
+i am willing to open a new branch in russian to expand my business,lol
+---
+"they don't camp the undock"
+---
+[hmmmmm](https://imgur.com/a/FKorS9D)
+---
+even in a week where horde has been consistently pushing them off the undock, a huge chunk of their kills are on the undock. 
+---
+I got bored a while ago so I decided to create an alt that just sits on the jita undock, shitposting in chat, and looting any wrecks that show up. Apart from the past week or so, there are three groups (not including the gankers) that have been camping the undock most of the time in my time zone: Pirat, test, and blackhogs. Test has usually been like two dudes in battleships, but Pirat and blackhogs have regularly had like 6-10 dudes just sitting on the undock, killing every wardec target that shows up.
+---
+The TAPI word of the day is "Leagues"
+---
+People who use the word toxic are bad enough. People who sign their Reddit posts like an old time you letter, ooooof.
+---
+Join Goons, we have a dedicated HS ganking squad and you will get paid well for your service. 
+---
+also [here](https://imgur.com/a/qycbt7P) are Pirat's stats for February 2019. Over 1/3 of their kills happened on the Jita undock. You can't get that many kills on the undock if all you're doing is taking fights when other groups want them.
+---
+Joining EVE University is your best bet for learning about the game. Once you feel comfortable with the mechanics, go to Red vs. Blue (if they still exist), or try a new-player friendly corp like Karmafleet or Pandemic Horde to get more experience.
+---
+Dump them into those few skills that you need, which would be awkward (aka slow) to train on your current remap.
+---
+You need to stop ganking. It is a harmful act to EVE Online. You are literally the fungus that is killing this game from the inside. 
+---
+Eve needs 3 sides (at least). The Russian blocs where always the balance of power and prevented any other 1 coalition being able to fully dominate the game.
+---
+It's worth noting previously, they have never been a unified group, and tended to be supporting/split amongst 2-3 major powers.  A unified Russian front is worthy of the dominion trailer, and gives me goosebumps.
+---
+If they are able to set aside past differences, this is THE game changer of 2019.
+---
+Concord manipulation.
+---
+http://www.minerbumping.com/2012/12/ganking-101-concord-manipulation.html?m=1
+---
+Super tactically, open up the map and set the overlay for “Militia ships destroyed in the last 24hrs.” Fly a a frigate to that area and fly around between novice faction warfare outposts looking for other frigates to fight. 50% of the time you will get swarmed but the other 50% you might get a good 1v1. Just be prepared to lose 20 ships before you get your first win. 
+---
+Do the new player tutorial missions to get your bearings first.  Do the exploration and combat ones at a relaxing pace.  SOE arc is a good one.  Don't rush, it's a sandbox and Eve is what you make of it.  Take in the sights.  Head to jita 4-4 and watch ships explode(alt+click a ship to view).  Don't loot yellow cans.  
+---
+Don't ever use autopilot.
+---
+Then think about which newbro null corp to join.  Learn some useful survival tools, rat, pvp, explore in a relatively safe environment while making isk.
+---
+ Then graduate to wormhole space cause fuck high, low and null-succers.
+---
+If you want to truly dive in and learn this game fast, WH space first but I don't know any noob wh groups. 
+---
+&gt;Then don't hang around on gates.
+---
+&gt;Dont try to use a cyno in FW space
+---
+Avoidance goes both ways.
+---
+This is a good video. 
+---
+inb4 globby
+---
+Club Boner
+---
+The Ditanian Fleet.  
+---
+They run armor incursions and are currently the best community when it comes to ISK/h.  
+---
+They also win every contest and mop the flow with WTM.
+---
+Welcome! A few things I would keep in mind when starting is that Eve is a fantastic hobby. It takes time to figure out your niche. Jumping straight into pvp is not the worst idea ever; it DOES mean you will lose a lot of ships as you learn what does and does not work. The pvp shakes are a great thing.  
+---
+While Eve uni is good and usually relatively neutral, I would suggest checking out Karmafleet, Pandemic Horde, or Brave Newbies. They, and Karmafleet in particular, provide a lot of resources that make learning the ropes a lot of fun instead of punishing losses. Not only that, but they can give you a great sense of community.  
+---
+As the others have said (if you are a more cautious type) do the tutorial and then hit f12 and the third category down under support is career advancement. Hit the show career agents button and read up on those 5 general paths to get a sense for broad areas of the game. I personally would start with the military and then advanced military paths, but would do them all if I didnt head directly to Karmafleet. After that, if you still feel the need to move around hisec. Do the Sisters of Eve Epic arc. It is a series of linked missions (which are fairly rare in EvE as most PvE is not guided per say) called "The Blood Stained Stars". To get the first mission in that chain you will need to open your People and Places tab on the left hand side of your neocom (magnifying glass icon). Type in Arnonr IX - Moon 3 and hit enter. There should be an entry under stations with a green 0.6 (the security of the system) that says Arnon IX - Moon 3 - Sisters of EVE Bureau. Right click it and select set destination.  
+---
+Do not autopilot but instead fly there directly and talk to Sister Alitura. She will give you A Beacon Beckons and you are on your way. For more info on the chain [https://wiki.eveuniversity.org/The\_Blood-Stained\_Stars/Chapter\_1\_-\_Quality\_of\_Mercy](https://wiki.eveuniversity.org/The_Blood-Stained_Stars/Chapter_1_-_Quality_of_Mercy) is a great resource.
+---
+Dread alt, carrier main.
+---
+I’ve tried producing some t2 BPCs. I think making  the BPC is easier than manufacturing the end item. However, it did take a bit longer to offload the T2 BPC than normal t1 copies. Give it a try. You might like it or find something else along the supply chain that could be better for you. 
+---
+The guy that makes the comics is awesome. He has a whole bunch on the rimworld subreddit. He makes my heart warm. 
+---
+That spin is truly amazing, TAPI really are just a lesser version of goons. Mittens would be proud.
+---
+It’s true. Not a single test FC will fight subs against subs without a 3:1 ratio.
+---
+I mean it is sort of praise in a way, but I’d rather fight than have their admiration.
+---
+sorry i disrupted your drive to CVS to get your gay pills, lmao
+---
+I’m not fat! I’m big boned!!!
+---
+We’re doing our part for the good of EvE are you?
+---
+Yes if they want to keep on doing business with the rest of the EU.
+---
+Dunno why you would ask the public when you already have personal relationships with experienced gankers. You have a very incomplete understanding of the mechanics involved.
+---
+...Putin
+---
+Good times to sell
+---
+A gang of 20 - 30 jags and bombers can easily defang and kill a carrier. They are pretty weak imo.
+---
+F for a good site 
+---
+Ive also seen a c4 myrm fit in my brief stint in wormholes
+---
+You live in Delve and don't have a super? I thought those were handed out there like VNIs. 
+---
+Grrr filthy bombers killing my rorqs, 
+---
+#EAT SHIT MARSHY
+---
+Bloody hell
+---
+I live in Delve BUT I’M NOT PART OF THE IMPERIUM
+---
+Can't pm you on my phone for some reason but I wouldnt mind giving it a read. Pm me and I should be able to respond 
+---
+I would love for formations to be a part of the game. Managing dozens of people *should* be a hard task, with tools to make it easier. As is, n+1 is aided by the fact that you don't have to give two shits about anything but ranges.
+---
+&gt;It would also make half of what us line members do impossible.    
+---
+So you're admitting that most nullbabies are brainlets?
+---
+I think he might have said "Fuck this!"    But in any case it hardly matters and I don't see any reason why you are getting so salty about it.    It was in the 15 minutes after anchoring and he did try to defend it and lost three expensive ships in doing so.  Pity as he was actually perfect for WH space.
+---
+We have until we log in for the first time and stay
+---
+That ship is gonna be my goto for firestorm sites
+---
+If you were going for really fucking bad you hit the nail on the head mate.
+---
+Yeah i like the 1st one and the 4th one the others not so much.
+---
+Safe passage to Valhalla?
+---
+I find helping newbros more satisfying than playing the actual game nowadays, so if you want me to fly with you for a few hours hit me up. I'm in a US time zone, but I can accommodate.
+---
+That was a beautiful depiction of wormhole space. Really nice video man.
+---
+He's talking about CCP injecting ISK.
+---
+You're talking about CCP injecting PLEX.
+---
+Very different things.
+---
+Below T4 abyssals are a break from your main activities. t1 and 2 can be run in a Caracal and T3s with a standard Gila. So if you're looking for fun/hr then yeah. Can't say the same thing if you want a good isk/hr rate.
+---
+Tbh they aren't bad starting points, but one the 4th one the tail looks very out of place
+---
+In b4 actual leaks
+---
+The first one looks really good, rest is just ... bad really bad.
+---
+Absolutely run some lower level sites first. It will help you get the feeling of how the sites are laid out, what rats are the biggest threats, etc, without risking a ship worth at least 300 mil.
+---
+1, 3, 4 are good, two last ones look like someone tried to go for something that doesnt look like eve at all
+---
+If it's not a bug, it could be something Triglavian.
+---
+Both to dab on haters
+---
+Yea cheers, use this myself for moving indy ships ) 
+---
+Hide these from Star Citizen
+---
+Is hitting L4 runners that profitable? 
+---
+I remember once upon a time leading out a Battle Venture fleet that had tackle and logi - one of the best moments of my Eve career.
+---
+u/caprisunkraftfoods I was wondering if it would be possible to see wrecks in the scans as well? I use dscans of wrecks to see roughly how many of the enemys are left when the fleet itself cant be scanned. 
+---
+I occasionally run hisec exploration sites so that new ones will spawn that are more worthwhile. 
+---
+Dead Alliance Please Disband
+---
+I think there were recently hisec war rules changes.  The annoying part about being in hisec in E-Uni was that there were always war enemies trying to shoot you.   Probably that is better now, and you can spend a bit of time in hisec, learning all the basics.
+---
+For super early game characters nullsec can be very frustrating when  you can't even kill any of the rats in an asteroid belt. 
+---
+:)))
+---
+Oh yeah good shout I can do that.
+---
+Takuya Gogiko always creates good content
+---
+Ya, you really don't have any idea what your talking about do you. 
+---
+I'm not talking about losing ships to the site you fool. I'm talking about you getting your entire ass handed you you by the WH residents.
+---
+Loved it! I'm almost ready skills-wise to take out my loki solo like this.
+---
+Please Mow My Lawn
+---
+I'm moving into a new apartment. I haven't decided what sofa to buy yet but my new bed is fucking awesome, I imagine I'll spend countless hours jerking off in it and on it.
+---
+Wondered why excel started throwing a fit
+---
+This game turned into P2W. End of story. Many people already quit the game because they, being sane persons, do not accept paying hundred of dollars to play a game that is 20 years old and plays like a web browser game (Ogame). Idiots that live in this sub can't see that this means less content for everyone, which in turn will cause more people to quit. Only people that still play this game are the same idiots who already put so much money and effort that they can't back up anymore. It's like a gamble. In the end, you lose either way.
+---
+With decent recce/intel efforts (especially over time) it could certainly provide entertainment and be profitable.
+---
+What value do we place on getting the shakes? :)
+---
+Used to see things called ALOD (awful loss of the day) posted regularly. Many of these fell into the category of hi sec mission runners, generally non community players (soloist) , and ofc, botters.
+---
+Generally I found faction hulls, and t3c's to be worth more effort to hunt. People will go to fair expense to optimize dps at the expense of tank, resulting in fittings that are heavily geared towards faction and dead space.  And generally requires tank "activation".  
+---
+Lack of threats breed over confidence with time, and the number of these Mona Lisa's that get left to float on a gate after a warp (bio breaks... Coffee refills, letting critters out) would surprise most.  If you have time I'm sure ALOD records are still around. 
+---
+Many lvl 4 missions will require a few gates travel, and be in a. 5 system, giving you the breathing room from Concorde and a route worth checking occasionally. 
+---
+tfw this guy thinks those tears aren't from laughing at him
+---
+Im in a corporate with a fleet 😂im safe
+---
+These questions are better suited for the No questions are too stupid stickied to the front page! https://www.reddit.com/r/Eve/comments/b6ijr4/weekly_reve_no_question_is_stupid_thread_march_28/
+---
+A recliner with heated seats and massage function.
+---
+If you afraid of losing your carrier while too lazy to set up a few scout alts, the don't rat, there are plenty of better ways with lower risk to make money
+---
+Cuz capital ships die all the time, and people would never stop complaining
+---
+Now that. Makes me laugh. 
+---
+No.. I dont think you people realize how big a difference pg5 and cpu 5 make.. You honestly can only half fit a ship.. You MIGHT be able to get a full COMPACT fit to work but your going to be wondrously usless lol
+---
+I'd prefer my old 3 multiboxing sentry chimeras
+---
+Seems like i struck a nerve.
+---
+Yes. Literally five dozen 40mil crucifers &gt;:[
+---
+Hnnnnnnnnnnnnnnng! Keep talking almost there!
+---
+Alpha clone with low budget, but has a great ambition
+---
+Yes! We are grateful that he is always entertaining us.
+---
+Thanks man love the tool otherwise.
+---
+If you drop blingy shit in Delve for PvE your going to die.  You can kill an officer with a blingy rattlesnake.  
+---
+💝😘
+---
+T1 - T2 are good for industry resource collection as you have plenty of time to hit all the collectors and whatnot as well as for getting a feel for it all and memorizing the names of the rats. T3 and higher you will want to focus on just the main cache as your time is tighter but is where your isk/hr starts to get decent.
+---
+The pvp room is mostly empty from what i hear so quite frequently people just sit out the 10 min and collect the sweet loot. Sometimes people do go in there with cheap pvp fits and force the opponent with the blingy pve fit to pay a ransom though as well as straight up fights, so its still a gamble, but the reward is pretty good.
+---
+I recomend doing T3 for a bit.
+---
+Looks nice, and i see you went along with CCP's long held "oh, you thought this was the front but Nope, this is where the engine goes" design philosophy.
+---
+I keep seeing the term 'rat'. That's the slang term for hostile NPCs right?
+---
+Lol, a few scout alts like ratting in a nid is gonna even cover their plex.
+---
+And won't be any help if all your sov is cloaky camped anyway.
+---
+CCP is making these changes to balance super ratting but  it completely fucks up normal carrier ratting if it wasn't already in a bad spot.
+---
+All that investment in skill points for nothing, they should fucking thing before "balancing" or at least give refunds.
+---
+This ain't another shitty game where you can simply make something useless and it won't mean shit, people have trained for months or even years for a gameplay.
+---
+Its good to have things to look forward to after a hard day
+---
+That's super nice of you to offer. I might just have to take you up on the offer in a few days.
+---
+K
+---
+Do you even have the prereqs for dread guns, or siege?
+---
+I will consider that, but the idea of just driving into a wormhole is pretty nerve rattling. Why do ships explode in Jita 4-4?( also is that Ji-ta or jee-ta?)
+---
+Yes, there was similar rage happening when CCP nerfed Rorqual 3 consecutive times
+---
+And most people in this subreddit only wants to see the world burn and more big kills
+---
+My advice: either get a ratting super, or do something else
+---
+What? Ganking adds value. It makes my ore worth more. And it makes mining it much more interesting. And CODE.... they're just a virtual train wreck that never gets old. If anyone doesn't like ganking they should just try it. Or try to stop it. Either way, it's more content and more fun. Besides, HS ganking sorta gets pilots ready for lower security space. On top of all that, make iskies selling ammo and catalysts!
+---
+Not sure if u/ScramEm is serious or trolling...
+---
+Not everybody has to play super conservative all the times and going to blow up some sleepers is definetly a legit source of income and if you get caught and blown up, dont take that to heart. There are a lot of quiet systems available and you dont convert to a risk averse highsec player that is "worried about ruining his killboard" 
+---
+Thumps up my dude
+---
+If there's is enough say bomber's. ( I believe 80) a carrier just gets volleyed
+---
+A sizable part of the Tory’s don’t want any deals holding them back of becoming an empire again.
+---
+When someone is proud to make 100m/hr running HQs, Id rather give WTM a pass
+---
+So, you have to burn a 1000km to drop it during setup? That seems like effort.
+---
+And unless you had an alt already there, anyone you warped to the ESS to collect would have to burn the 1000km too?
+---
+This doesn't seem all that great unless I'm missing something?
+---
+The video cuts out early, but things got so much worse. Hands, rack units, you name it!
+---
+Yeah true. You can insure the carrier which saves a lot of money, and if its a bomber squad it wont be too difficult to bait with smartbombing caps/bridged BS.
+---
+Yeah what I think he's trying to say is. Needing response fleets would leave some ship that allready have a good chance off dieing. Even less chance to get saved.
+---
+I went to carrier first and regreted my choice. 
+---
+Ive found my self missing out while im training a dread alt.
+---
+My 2cents train dread alt and carrier on main.
+---
+Great vid, but im gunna need the first track of this. It´s so good!
+---
+You don't make any sense.
+---
+You should join some group that already does it and learn how they do it. Much easier that way.
+---
+Yes! We are very grateful that he is always entertaining us :)
+---
+100m/hr is minimum.
+---
+happy speed is 150-200m.
+---
+and thats before LP
+---
+yes!! lol
+---
+If PLEX get too expensive, lots of new players who are baited with the idea of eventually being able to PLEX their accounts and play for free may never get hooked, though, because it becomes increasingly unlikely for many of them.  
+---
+So while you may get a few more dollar subs out of existing players, you may end up failing to turn a percentage of new players into longer-term paying customers.   
+---
+New players are the lifeblood of any multiplayer game because there is always attrition among even the most dedicated long time players.   
+---
+It's not a simple 1+1 kind of calculation.
+---
+You can do both. Plan to make some bpcs, invent them and buy materials to produce them And then take it to market to sell.
+---
+How times have changed. I missed TVP falling over; was it due to the leadership's ultrasmug?
+---
+You think I should avoid gates so you can continue to do whatever you do in LS. I think you should avoid using cynos so you dont suffer from no cynos in FW space. You can disagree, but it certainly makes sense.
+---
+This is basically all you get from the "avoidance"-argument. Its utterly pointless. Cynos are overpowered and need to be nerfed. One way to do this is to restrict their use.
+---
+Is rvb still active?
+---
+Cargo scan shows you the estimated value now (at least I think it does on ships, it certainly does on cans) so that part should be easier.
+---
+There is a vanguard community I don’t know the name but you can join the channel : iic-pub 
+---
+2 and 4 are bearable, the others are subpar without a doubt
+---
+wormhole life best life
+---
+&gt; It is a harmful act to EVE Online. 
+---
+Much like your posting
+---
+I don’t know who is triggered but as of this writing it appears at least eleven of you are “triggered”...another of your overused words.  My comment had nothing to do with NPC officers nor your use of carriers against them, simply your choice of unnecessary words.  In fact, it seems you do not understand the meaning of the word as reflected in your reply (sits back to wait from the incoming brain pretzel).  I believe it is It is you that is mad bro...I am simply pointing out that using your own words rather than those you think will make people think you’re hip is a better choice and actually makes you appear more intelligent.  
+---
+As a side note. I’m not mad at millennials, I love millennials, they are very entertaining given the level of stupid they exhibit.
+---
+Boozoo Bajou - Down &amp; Out - https://www.youtube.com/watch?v=YkouOUYHGgE
+---
+You best defence in a carrier is just not getting tackled in the first place.
+---
+Most medium sized blops drops allready alpha you. A dread will nuke you and probly before help lands. Any thing much smaller won't kill you all to fast any way.
+---
+E.g small gangs.
+---
+So all in all just don't get tackled, this has an allways will be your best defence.
+---
+Wow you are one salty sailor
+---
+Can I import them into my spore save?
+---
+"One punch! One punch!" :D
+---
+Be nice with the dinos chori.
+---
+oh man... If not, I really need to get out of w-space more often. xD
+---
+yeah and there are other weird things you can do with it
+---
+it's more broken than people think
+---
+Post your fit and let us know how high and into what kind of ships you are trained into. That matters a lot.
+---
+As far as income goes, you get best income out of fire and dark filaments because you can sell off Gamma and Exotic filament drops, but these are most difficult to do. Electricals are in the middle, they are easiest to do for active tank fits, but their mutas kinda suck on prices and the filaments aren't cheap.
+---
+Note: Don't run Dark T3s in a Gila, unless you specifically fit for it and have high drone support skills, all 5s. Otherwise you'll just lose your ship and pod.
+---
+If the people you are flying with are requiring you to fly a fully t2 fitted t2 frigate when you are 1 day old, you are flying with the wrong people.
+---
+Sorry to hear about your accident.  That does explain your posting though.
+---
+The UK has already written the GDPR equivalent rules into UK law and given how many services run across that border, it would be very unlikely that the EU would refuse to certify that equivalence, even if there's a 'no deal'.
+---
+He just has a high ego let him be
+---
+I always thought they went the other way, and overdid tank at the expense of dps. I guess the idea is run quickly and pick missions that can be done easily, skipping ones like the Blockade which leave you on grid for a long time.
+---
+you forgot the gnashing of their teeth
+---
+&gt;c4 
+---
+Ew 
+---
+1, 4 and 5 look pretty nice.
+---
+I dunno man. TVP still runs sometimes but they struggle getting numbers even for VGs.  
+---
+Russians are holding alright with semi-good site times in their prime time.  
+---
+Warp To Me has more salt then the Pacific and teribad fits. Turns out that shield incursions suck since the leshak came out and oh shield vindies are worse then armor nightmares.  
+---
+TDF stands alright. As I said they have the best site times, fastest HQ formups with no waitlists, new website, etc.. With LP, they run about 270-295mil/h.
+---
+What happened with tvp?
+---
+Your missing my point. There is zero reason for the fitting skills.. Its literally is just wasting training time. Imo theyre similar to the learning skills once apon a time guess what they got removed too cuz they were a confusing waste of time.. 
+---
+Put it to you this way. You try fitting even a cruiser with an adaptive invuln or two as alpha, with out cpu 5.. Never mind weapons.. On the vni alone is around an 80 point drop in cpu power. Even an alpha fit suffers under that. Sitting in pyfya atm with a 3/4ths fit vni at 95% cpu almost entirely compact or restrained. I cant even hope to fit any high slots.. And this is basically the most fitable cruiser in the game for new bros, As drones dont take fitting space. One could argue an armor fit is easier but that takes more PG than cpu so were just hitting the other end. And I havent even talked about its actual stats.. Which are pretty piss poor but this is running off 0 skills so.. Grain of salt.. 
+---
+Idk I think basic fitting skills are a of waste of time and SP and shouldn't exist in modern eve
+---
+Different opinion :
+---
+I like spreadsheet style fight. I don’t want to get stress in EVE as I’m playing apex or pubg.
+---
+Also I think manual piloting and formations that we got now have enough depth to play. 
+---
+Watch the Alliance Tournament (rip) VODs and see what you wanted to see.
+---
+Not with Ivana tbh
+---
+killmails and tears
+---
+&gt; I'd rather quit or place a bot.
+---
+It is really time for you to move on. Really. When you are at this point, sooner or later you will be found out and lose all your accounts and all that time you invested into them etc. anyways.
+---
+Just go and take all your assets to HS, LS near HS with things like caps etc. Sell off what you can and buy some plex on the next price dip, don't keep liquid ISK or assets if you will be away from the game for a long time, then park all your characters in HS and just stop logging on. Let it all slip to alpha.
+---
+Don't biomass because game is evolving and you may end up regretting doing so later on. Couple years down the line you may decide to come back and do something completely different that may / or may not be available rigth now. But do move on.
+---
+Answer: Supercarrier, both good at ratting, home defense and inspiring shitposts on Internet
+---
+Given the upcoming Rorqual “nerf” you might see an uptick in hisec incursion running...seems people are selling their Rorquals lately although this is just a personal observation of the market in one region.  It was my understanding the Rorqual was one of the reasons some went to null for isk rather than incursion running.
+---
+ass
+---
+If you are trying to fit a faction cruiser with literally no fitting skills then you are obviously going to have issues fitting the ship. The VNI might be your first goal, but it's not a ship you need to fly on the first day you play Eve.
+---
+You need to decide what to train based on what you want to fly. I don't think a brand new player should be able to fly a fully fitted VNI on the first day they create their character. I think that would be bad for Eve as a whole, especially considering the impact that would have on botting and RMT.
+---
+Mt dew
+---
+DPS tank is a thing. Maul everything before it becomes a threat. It doesn't work on all missions, of course, some of them require you to sit there and take a beating. The blitz mission bears usually skip those as the ISK/hr tends to be meh.
+---
+Its really not that far off.. The only skills holding you back are fitting and with how chesp the vni is its an extreamly newbro friendly faction ship.. Probably the most newbro friendly.. 
+---
+The hull hardly matters try it with ANY of them frigs just get harder to fit man.. How long have you been playing?
+---
+Cassoulet is the perfect food for tidi
+---
+http://animeistrash.org/eve or http://koahi.co/eve
+---
+those both go to the eve discord
+---
+There is a balkan eve community but they count your fingers before they let you in and the number of fingers you have after you join may not be the same.
+---
+Not really that long, only like five years, but that seems irrelevant really.
+---
+This is not a MOBA game and I don't think it should become one.
+---
+👌
+---
+Mt dew and dorito shakes 
+---
+Something with salt, I'm fairly sure
+---
+What would the requirements for this be?
+---
+What i can think of is FCs keep getting headshot so the fleet goes down the line of alternative FCs.
+---
+This. It's insane to me that they're so bored with the game that they're literally considering \*not playing\* it, but won't just admit that it's either not for them, or that they need to try something new.
+---
+I feel like they're someone who just got into the game and was immediately recruited by a nullsec corp, and has never known anything but null ratting.
+---
+gr8 b8 m8
+---
+Great video!
+---
+My original viewpoint on brawl vs kitey was the range of engagements but I do see your point on the nature of AB armor hacs bring more of a stick around punch people fleet. Ill make the change.
+---
+:pepepopcorn:
+---
+Vodka and pringles
+---
+10 days at this point
+---
+There's enough ISK already in the game to sustain any single person, corp, or alliance indefinitely. Claiming that you need a certain isk faucet to function is just saying you don't want to change up how you play.
+---
+lovely music!!
+---
+Is there any way to join the said balkan community?
+---
+Am chef, best response possible. 
+---
+Moba where did that come from?
+---
+Look ive been in eve since 2012.. with some breaks.. Ive seen everything from chrimewatch to citidels.. And everything in between. 
+---
+A vni isnt that hard to get your hands on. tops of 100m with fittings.. Hell use a regular vexor im 90% sure it has even less fitting space. I picked something I know would still be at least viable for my test. My point here is that fitting skills arent a good way to gate content. Its like in a regular mmo you need a level restriction to do something. Its just lame and scummy.. At least mmos have to worry about early power projection eve dosent which is an even bigger reason not to handicap our new bros.. They are already handicapped.. They cant shoot anyting cant fly anything.. Literally usless till you get skills. I love the skills system.. Fucking hate fitting skills.
+---
+I mentioned the fitting skills take two weeks as alpha right? For each... I know that not long for us but you need real skills in that time. honestly imo the only way to start a new eve toon is just explore in a scanny frig till you get the skills to fly something else.. Its really quite crazy for everything this game offers you honestly cant just jump into most of it with a new toon beyond the personal experience required.. Which to some extent is fine but with how hard not having fitting skills punishes a player is quite crazy. Its like going into a fight when your opponent is in the exact same hull but has a fullset of bling as fuck implants.. Thats not fun is it? Thats not being skillfull is it? Yea a good player could win but the chances are slim simply due to them having more shit than you.. 
+---
+Idk it adds to the mentailty that I can never catch up cuz I cant aford injectors to get to a ship to get isk to buy said injector..
+---
+I feel like im talking in circles so thanks for the chat.. Hope you see my point.
+---
+#3 scared the piss out of me 10/10 luv it
+---
+"i was going to delete this but the top comment is ass" anonymous moderator 2019
+---
+[Foodster approved](http://4.bp.blogspot.com/-Een39JIppAc/UXqspaEDlFI/AAAAAAAAAZU/8QeK_EDoU9U/s1600/IMG_0717.JPG)
+---
+Thanks a lot
+---
+Hey pando, how did it take you a whole year to get the ravens in the hole when you literally could have taken hole control with your 1500 man blob, and built all the ravens in the first day? 
+---
+Your level of incompetence is like an ogre. It has layers
+---
+Mods go away 
+---
+I did play "back in the day" for a little while also, so I can tell you that learning skills got removed because you had to train them before you could train anything that impacted the game outside of skill training. Fitting skills aren't quite the same, and many of those skills are also requirements for the usage of various modules and even ships in the ship tree. Again, I do not think those skills should be given away for free to every new character that's created in Eve. 
+---
+Probly best thing to nerf this would be a mjd polarising. Take 3-4 mjds then your polarised for say a minute.
+---
+Allows you to bounce in an our off a fight, like a dodge but adds. " Stamina" to it
+---
+Pizza and coke. Nothing better than that trust meh
+---
+Hi friend. We recently requested to departner our discord server due to their new role changes so the old discord.gg/eveonline doesn't work (as of a few days ago).
+---
+We have a new perma link hosted just for this:   http://animeistrash.org/eve or http://koahi.co/eve
+---
+You could use   https://discord.gg/uHpxFaA  as well (A perma link).
+---
+We also have a link on the sidebar that works as of this posting. 
+---
+This is me being nice ;)
+---
+Eve is PG13, mate
+---
+Salad with avacado and a vegetable smoothie. Ha... I'm kidding you Goon trolls! I never eat and game. That's just wrong. 
+---
+Twinks exist in a lot of MMOs and I don't think they are a problem. I also don't think that level-gating content is a problem as it discourages rushing. I think that's a good thing for the same reason I think it's good in Eve -- players need to learn to use their skills, learn why those skills are important, and how to decide to train and fit/gear in the first place. I do not think that games should primarily be designed around rolling alts.
+---
+I do see your point, I just disagree.
+---
+Not gonna lie I just upvoted when I saw the title and a thumbnail of a WH.
+---
+WH space is best space - It's got the best [piñatas](https://zkillboard.com/kill/75964327/)
+---
+*There's also a pretty fun story behind how this went down*
+---
+vodka and popcorn
+---
+something, something, Kirkland protein bars, something, something
+---
+except there are no rorquals in trig space
+---
+&gt;coronas
+---
+sure if you're a 16 year old girl who discovered beer.
+---
+Then my point stays - it's a smallgank "gimmick" ship that noone really cares about...
+---
+Only thing ill say is your 100% wrong about rushing.. Almost every RPG style mmo is rushed.  You dont play wow to farm levels mate.. Its the gear and comunity your after. Hell even medevia *I assume you dont know it* is all about getting max level as fast as you can... ffs BLIZ SELLS max level tokens..
+---
+But I stopped playing wow years ago.
+---
+I once became a head chef by accident but I'm saving that story to derail the next olmeca sperg post
+---
+Water is pretty dope tbh
+---
+I won't say WHs are dead, but WHs are dead...
+---
+Drones and missiles. Arties ae to alpha gank in highsec, ACs to complain for buffs on reddit.
+---
+Fucking excellent idea. Cant wait.
+---
+Yeah, and I think that's shit. Leveling is as much a part of a good game as pvp or raiding. We clearly disagree, which is fine I guess. 
+---
+is it me or does OP have some repressed feeling for tentacle porn?
+---
+No deal exit is the default. If they cannot create a deal, or vote to stay and cancel the exit, they get 'kicked' by default since they've already initiated the exit.
+---
+shoot the rats and the beacon despawn right away lmao
+---
+Yes do a load of lower tier sites first to get the hang of them. As you need to know how to manually pilot your ship in the best way, if you ever want to fly tier 5. For instance if you ever get a swarm of drones frigates (20+) you want to use the deviant automata suppressor pylons to kill them of fast. You'll also want to know which clouds to either avoid or use and when to use them. 
+---
+These links should help you   
+---
+[https://i.imgur.com/94CHsW2.jpg](https://i.imgur.com/94CHsW2.jpg)
+---
+[https://docs.google.com/spreadsheets/d/1SsYX2utsKnMxGBUA8cDuLsoE7XHy20lqIJJ6AFAocQU/edit#gid=244135671](https://docs.google.com/spreadsheets/d/1SsYX2utsKnMxGBUA8cDuLsoE7XHy20lqIJJ6AFAocQU/edit#gid=244135671)
+---
+P.s. The nastiest NPC by a long way are the Drifter battleship never fly directly at them with your MWD on. As they will seriously fuck you up. Also stay out of blue clouds when they're ongrid as they increase your sig.
+---
+P.p.s If you use weapons that have a decent range (40km+) pop all the cache with the loot in them and use a mobile tractor beam to tow in the wrecks to max out the amount of ISK you can make. If it's a tuff spawn don't worry about them, just survive and loot the bioadaptive cache near the gate.
+---
+no wonder you like it, it looks like a lobster...
+---
+All depends on how you're ratting, but generally arties are such a friggin slow cycle time you're not gonna want to use them.
+---
+Autos are great in PvE and PvP, and don't let anyone tell you otherwise.
+---
+What is dead may never die.
+---
+The real hero. 
+---
+I mean I don’t really play much anymore real life took over and I kind of just got to a point where I felt it was redundant with what I did but never got to this point lol.
+---
+The beauty of ratting is it's not dependant on the ups and downs of the market - other than the cost of the ship.
+---
+Coffee and Slim Jim’s 
+---
+Once Haunting Deity led a venture fleet for Spectre. We were still forming when our scout tackled a proteus in Mara in the event site:  [https://zkillboard.com/kill/72624117/](https://zkillboard.com/kill/72624117/) 
+---
+Hey I like level progression as much as the next guy but when all the content is at the end of the game and your literally doing fetch quest till max level its boring lol
+---
+I play diablo 2 man so I know the feeling but eve isnt the same you know.  And fitting skills arent like levels.. If they are they're the first ten levels that you can get through an in afternoon of playing a regular level based mmo. 
+---
+When doing missions, auto all the way. Backed up with drone support you can quickly run through up to L4s. I have no higher experience, but hurricane / machariel I fly frequently for them. 
+---
+jita undock would just be mass mutual concordokens.
+---
+I am fully aware you twit. 
+---
+Nothing in what i've said discounts that. 
+---
+Real men measure the battlefield in furlongs, fucking casuals
+---
+PvP virgins, much like other kinds of virgins, often build up unrealistic and unhealthy expectations of what the real thing should be like. Hint: Sometimes it's messy and hard on the eyes, but it's still great fun for those involved!
+---
+&gt;May doesnt have the support for her deal, no deal doesnt have support etc etc.
+---
+Okay, so nothing will get approved...
+---
+&gt;No, i think we are either just going to stay in the EU or have  asecond Ref.  
+---
+&gt;I dont see it likely that anything else could happen.
+---
+Except that... and follow closely with me here... ***if nothing gets approved... UK still leaves.***
+---
+So yeah, you definitely said otherwise by both claiming that UK will stay in EU, but also claiming that nothing being voted for has support to pass. Q.E.D.
+---
+Ground operations would make taking FW systems easier/harder for Pilots.
+---
+Pilots could bombard the DUST battlefields (after being called down by a DUSTer).
+---
+These were promised as the first steps. They were the last.
+---
+Im running off the assumption that no sane person would leave with No dea. 
+---
+Arp drive, active.. (that still annoys me)
+---
+(Sorry, Eve has sound?)
+---
+Take my upvotes
+---
+This guy is right 100%
+---
+If anything, current aura is LESS robot
+---
+This is a question better suited to the [Weekly Stupid Questions thread](https://www.reddit.com/r/Eve/comments/b6ijr4/weekly_reve_no_question_is_stupid_thread_march_28/).
+---
+tl;dr is they changed it a few years back and it sucks now.
+---
+Use a google sheets or something thats shared with alliance
+---
+that minmatar ship screams warhammer 40k, wich is oddly appropriate 
+---
+ah yes, thanks
+---
+I read plex not isk, my bad 
+---
+This is a question better suited to the [Weekly Dumb Questions thread](https://www.reddit.com/r/Eve/comments/b6ijr4/weekly_reve_no_question_is_stupid_thread_march_28/)
+---
+Stop playing
+---
+You mean avoiding concord/faction police?
+---
+I've never felt EvE in such a relaxing way : )
+---
+Freelancer x Freespace x Eve in a three way love triangle.
+---
+Yes yes no no no no.
+---
+Coronas are great if the temperature is above 25 degrees. 
+---
+no
+---
+tastes are subjective but its an empirical fact that 16 year old girls prefer coronas over any other beer. at least here.
+---
+5 looks like a tech 3 Hound, I like it
+---
+Lol gitgud you piece of shit 
+---
+16 year old girls also love Vodka does that make Vodka a shitty drink just for 16 year old girls?
+---
+16 Year old girls love jeans, are jeans now only for 16 year old girls.
+---
+Just because 16 year old girls like something that doesn't mean its automatically shit.
+---
+You will burn yourself out if you do this for money. I did the same it's easier to just chill and gank you will eventually cover cost/make profit.
+---
+agree
+---
+&gt; \* Spodbrain  
+---
+&gt;Lack of desire for fleet combat and sexual relations with RL partner.
+---
+Shots fired. 
+---
+And I was half expecting it to have a empty fighter bay.
+---
+Nanos aren’t killing the content. Spodbrains dropping supers on anything that moves is. 
+---
+Don't belittle the art of running away. 
+---
+Except it's not unnecessary, it's an adverb emphasizing that people do, in fact, unironically drop capitals on officer spawns because that's the kind of ship needed to deal with them.
+---
+The word has a proper usage, you just get triggered seeing it without processing whether it was used in a standard context or not.
+---
+Why is there such a strong correlation between people jumping to conclusions and people who project their inferiority complexes onto millennials?
+---
+yes to all of the above.
+---
+Keep them unallocated so I can inject into any skill whenever I need something random trained.
+---
+Keeping unallocated points on all my characters has come in very handy.
+---
+this is satire
+---
+not good satire, but satire nonetheless.
+---
+To start with I do ask for any mod to allow me to dismantle the above reddit user's logic. If it is needed I personally would not mind taking myself, this conversation, and the troubled reddit user to another platform to debate.
+---
+To start with I will point out your first mistake. Verbally assaulting an entire generation whilst ignoring the faults of your own generation. All on a forum that already has a preset topic of discussion of which did not in any manner relate to your comment. That was your seconds mistake. You third mistake was forgeting you are closer to the grave and rotting in hell than us "millennials" by far.
+---
+Now to actually dimantle your non existant logic I will start with your comment pointing out overused words and the prossess of making one seem "hip". I will admit that there are plenty of overused words and those of whom use these words to fit in. The fault in your statement regarding this however is this slang as it is called,  is not by any means exclusive to the millennail generation. It was a consept created long before this generation so give that some thought.
+---
+The second comment I will now disect a show its fallacy is your comment regarding the supposed lack of intelligence of this generation. It is your generation that has fouled so many aspects of this world rendering us millenials the ones forced to clean up your messes. Your messes of which directly stemmed from your generation's lack of intelligence and inabillity to accept new and unheard of possibillities. Your shear willful ingnorance. Give that some thought.
+---
+What make a young person smarter is said person willingness to learn new things and not be afraid to. That is what you lack and what we have gained. We are vastly greater in our potential that it scares you older folks to the core. The possible truth that you all were wrong all along.
+---
+Your assault achieves nothing. It was uncalled for and greatly missplaced. I already know and understand you will refuse to accept your wrong. And to directly quote you. "(sits back to wait from the incoming brain pretzel)". That is your arrogance.
+---
+&gt;implying spodbrains have a RL partner
+---
+Whatever ElBee keeps eating on fucking Open Comms, because apparently it's so good he can't stop. 
+---
+Coffee. Black. 
+---
+noooo liondrome dont win eve, the game is in dire need of trustworthy pilots such as yourself.
+---
+Star citizen will rip them off and offer them for the low low price of $89.99. Each. 
+---
+how are you not annoyed with this shitty echo on comms all the time?
+---
+Hot pockets 
+---
+&gt; the upcoming changes just hurt the little guy and do nothing to hurt the large groups, which are the ones making all the isk anyway
+---
+organization and cooperation OP, nerf plz
+---
+how far in till you realised, be honest.
+---
+im trying to get better
+---
+1 and 3 look good, 1 could be a good cruiser and 3 looks good for the rogue drones.
+---
+Nowadays it's not mistake to write /s in the end.
+---
+Coffee, a glass of water on the side, chips and beef jerky. Chicken salad with Ritz crackers aren't bad either. 
+---
+no he just blocked you
+---
+Wait what? Why lol
+---
+So you just remade WH40k ships?
+---
+i don't know why, simply this states that he blocked you
+---
+Well like I meant that I wasn’t spamming or anything, so idk what other reasons there would normally be for blocking
+---
+Rip tho
+---
+No
+---
+Dread first then Carrier.
+---
+&gt; If I cant use my triple tracking computer hel with dromis and sirens to turbofuck thera cucks
+---
+thats a little on the nose, y'know
+---
+Your divorce lawyer will have to split your account assets, enjoy the futon, hopefully you get to keep the rorqual
+---
+So, what you are saying is remove stacking penalties from nanos?
+---
+Most likely he has all chat invitations on auto reject.
+---
+you can auto block all convos
+---
+I would like to also apologize to the poster of this thread u/Sasha_Viderzei. I understand that you had a question and these set of comments did not in any way answer it. As far as belt ratting I do not know much about it unfortunately. I came to this thread to learn about such. Yet I see this string of comments and just had to say something lol.
+---
+I mean I had originally talked to him asking if he wanted me to pay him. He said 50 mil. I said like 1 million ISK or something(since my ship was worth maybe 50k ISK). He then went silent for a minute before blasting me. I then tried to talk to him again asking him why, and, well... I couldn’t message him
+---
+I can provide some insight into this, cause I myself do it too sometimes.
+---
+He probably just does't want to talk to you because he can't be fucked to do so.
+---
+Hope this helped.
+---
+Good man capri
+---
+&gt; a guy randomly blew me 
+---
+Phrasing!
+---
+Lol- fixed
+---
+I apologize for any issues this may have caused.
+---
+Normal operation was restored at 16:14 UTC.
+---
+ [https://status.evemarketer.com/](https://status.evemarketer.com/)
+---
+Ah the ol' ship ransom.. Yeah dont fall for that one.. 99.9% of the time they will blast you anyway.
+---
+I have so many thoughts on this subject...let me sum up!
+---
+You tried something and got blown up, cool for trying, now you know that does not work.
+---
+If mining in Low Sec is your thing at the moment then do some research, ask some Corps who mine in Low Sec how they run it, look up how to survive in Low Sec, there is info out there and people out there willing to help.
+---
+Finally, the troll thing, yes...many people in Eve will kill you if they can, many won't.  If you want to explore playing with a group of folks who won't shoot first but will defend themselves then try Eve Scout/Signal Cartel.  Or if you want to try living with some Corps who only shoot when confronted with people who have shot them in the past then try Provi Block.
+---
+Regardless, welcome to the most interesting game I have ever found and I hope you stick around.  Message me if I can be of any direct assistance, I am part of the populace in EVE that is always willing to help.
+---
+Really? Damn that sucks
+---
+Carriers and Supers were never designed to be ships for shooting NPCs. Nobody should care if changes for the health of the game "fucks up carrier ratting".   
+---
+You invested skillpoints in a ship, the role of that ship changed, you can still fly it, it's still good for its intended purpose. Nobody should have any sympathy if you're not prepared to adapt as the game changes.   
+---
+If you don't want to fly that ship anymore, extract the sp. There, it's refunded.
+---
+See you when tgey fuck up something you care about.
+---
+What are ads?
+---
+Sorry I play eve online, not carebear land simulator
+---
+Vegan food and vegan drink, vegan btw
+---
+Well, the empire part will never happen but The Tories want full control to get rid of all manner of laws, including workers rights, consumers rights, and whatever else Papa EU held them back from doing. 
+---
+So you basically want risk-free low to mid tier WH ratting experience
+---
+A long time ago nano actually reduces ship mass as well
+---
+Was a great time
+---
+Mangos
+---
+implying spodbrains have a RL
+---
+don't mix eve 2010 vs eve 2019
+---
+yeah that's actually what i was thinking when i made 3
+---
+I don't know what WH40k is..
+---
+No problem mate, I don’t fully understand what is the problem currently, and how you guys went from dropping carriers on officers because "that’s the only way" to talking about millennials &gt;.&lt;
+---
+If you managed to learn some stuff, I’m happy then, since that’s why I created this topic :)
+---
+If you are what you eat, and all goons do is chew rocks all day, why do we call them spodbrains? We're implying they have brains. At that point, they're just spod.
+---
+Love it. Occam's Razor 
+---
+You do know that just because CCP did some well deserved nerfs of nullsec ISK generation with the anomalies, and carriers just being risk free while having the scan resolution of an interceptor, change absolutely nothing to subcapital drone ships ?
+---
+That’s just giving more power to VNI, Gila and Rattlesnake. Plus that’s also improving carriers’ and supercarriers’ DPS, since fighters also benefits from DDA.
+---
+That’s a really bad idea, and should quickly be thrown down the chimney to make it a bit useful.
+---
+Wormholes forever!  But as a brand new player EVE on hard mode may not be the place to start.
+---
+is that a minmatar drone boat? I'd recognize those algos circle things anywhere. 
+---
+Yep, always remember; don't undock what you can't afford to lose.
+---
+In this particular case, your ship was worth 50k but you where willing to pay 1m ISK for him to let you go? Not worth it.
+---
+Just take the loss mail and buy another. :)
+---
+Even if your cargo was full of valuables, there's still that 99% chance the pirate would destroy you anyway, so now your losing your valuables, your ship, AND your wallet.
+---
+Comes right back to "don't undock what you cant afford to lose."
+---
+Hope that's helpful!
+---
+What's this on?
+---
+How about instead of PVE content and ISK income, they make it a WH for supercarriers only and whoever lasts the longest against bountiless, no loot npcs gets a statue in his honor (All supercarriers that go into the abyss, never come out)
+---
+steak tartare
+---
+13 Hours : The Secret Soldiers Of Benghazi.
+---
+Trivia got changed in the last few weeks.
+---
+Yes, how about a list of just the things off the top of my head that were dear to my heart or I had trained a lot of SP into over the years.
+---
+Nano dominix, 2007  
+---
+Dual locus crusader, 2008  
+---
+Nosferatu, 2008  
+---
+Vampire Ishkur, 2008  
+---
+Original nano vagabond,  2009  
+---
+5 x heavy drone myrmidon, 2009  
+---
+5 x heavy drone Eos, 2009  
+---
+Sniping battleship fleets, 2010
+---
+Pulse Prophecy, 2014  
+---
+The rifter, 2014  
+---
+Tackle Viator, 2014  
+---
+Blaster dominix,  2014  
+---
+Laser Armageddon, 2014  
+---
+Projectile Typhoon, 2014
+---
+Blaster Scorpion  
+---
+Nerfed version of the nano vagabond, 2014
+---
+The models of the eos, sleipnir, and absolution :((( RIP   
+---
+So, again, HDFU. Carriers were not made for krabbing. Your ticks are lower? Find a better way to make isk. If you think this is a "horribly boring game", look no further than the fact that you're krabbing in a carrier.
+---
+Ngl videos like these make me want to play EVE but in wormholes. A small gang or hermit life type. 
+---
+vodka chicken tindys and pizza rolls
+---
+Tell me!
+---
+Tbh the problem was that I now had to make another 30 jumps to deliver Veldspar for the mission
+---
+no l play eve l mine under a super umbrella ;)
+---
+I’m certain you don’t understand what the term P2W means. 
+---
+and why not is it hurting you if some one lives in a hole with lower income the normal WH but can have a solo single player set up
+---
+At least that means we love each other...right?
+---
+but then we have titans and trig dreads on the way
+---
+Watching too much WWE?
+---
+Inb4 he's just tried market PvP and lost out on nanos.
+---
+*Endlessly refreshing the /r/Eve tab and ‘splaining across numerous Discord servers at all hours of the day or night.*
+---
+this hits a little on the nose
+---
+My office chair has about 2mm of padding so I was looking for something for it and came across this absolute unit
+---
+Bro in what universe is a gang of "20-30 jags and bombers" weak? 
+---
+Once they have scram/web that can gank any ship in the game if the target doesn't have backup. 
+---
+&gt;What's a good rookie ship (Omega) for T3 filaments? Also, are triglavian ships good for pve at all? Namely the frigate and destroyer.
+---
+If you choose destroyer hull you won't be able to use it in Abyss in it. 
+---
+For T3 filaments, depends on filament type. If you focus on exotic / gamma, then passive, cheap Tech II Gila is perfect, but yields least income. If you focus on otehr filament types then otehr ships are better. For electrical and fire, you can use active Gila, Sacralige, vedmak, Ishtar, for electrical Zealot and Phantasm are options, for Dark, use Sacralige or Cerberus. Income wise doing nothing but exotic / gamma filaments in a passive Gila will cut your income very significantly. You need to do some fire / dark to make good ISK and sell off the exotic / gamma, and run any electrical drops you get. So tailor your ship and skill training to your what you want to do.
+---
+By default, any ship that can do T4/T5 Abyss can run L4 missions and equal difficulty DED sites, but some more effectively then others. So if you train and invest into a ship you are also opening other content for yourself.
+---
+Vedmak is very good in T4 and T5 fire and electrical Abyss, but it requires all maxxed skills and relatively high bling, you're looking at 1.2-1.8 Bil for total ship + pod cost for T4s and T5s respectively. Which BTW is a lot cheaper then a lot of otehr ships and set ups. The same Vedmak can also run L4 and up to 6/10 difficulty DED sites. the 6/10s is pushing it and not all of them, but most. 5/10s no problems.
+---
+Drekavac is very good for L4s and equivalent difficulty content as well as small scale PvP. Leshaks are sub par because they are just too slow in comparison with other options available. Though still perfectly doable, just that using one you will be slow + have increased costs from ammo.
+---
+Note about using Trig ships for PvE: They are very active in playstyle, if you are looking to AFK or maximize ISK they are sub-par because of ammo costs and obviously you can't do stuff like AFK VNI ratting in them. This is mainly why a lot of people are sayign they are bad, cause they're just fucking retards that can't actually play but need to AFK or bot or have passive playstyles like come in a marauder, hit bastion, hit auto missiles, go do laundry. But in reality, performance wise they are excellent. The incoming Trig T2 HACs may bring this up even more, we will see.
+---
+They look like ships that would be added into the game if this was 2008, great but everything is now sleek and fancy
+---
+wow those ravens sure do look fun!!! 
+---
+Go play Elite if you want that kind shit. 
+---
+This just takes people out of the sandbox. 
+---
+You can solo rat in a WH if you so desire. 
+---
+They are pretty effective though.
+---
+Well, I AM the super umbrella
+---
+let me bee in denial ok
+---
+Should be an endless attraction to the color red
+---
+If you are looking for a pure 1 v 1 experience, hop into a cruiser capable of doing T3 AByss and do the Abyss PvP room. You will make out with some nice profit to boot. You can find various threads and videos on it right here on r/Eve just scroll down a bit, as well as up on youtube.
+---
+\*reeeeeeeeee\*
+---
+With the amount of work you put in, there's nothing to apologize for!
+---
+You sound more like the problem to me. 
+---
+and whats wrong with offering people other types of content
+---
+well thank you for letting use mine under you
+---
+Thats not what Spodbrain is. The rest are great!
+---
+The way you probe makes me cry
+---
+Leave an alt in HS, join Horde. Tons of action, around the clock. you'll get groups and meet people really easy.
+---
+elo with the big balls
+---
+Its not a different kind of content though.
+---
+Its the same content, except you are unkillable by other players. You already have the Abyss which is completely PvE it goes against the foundation of Eve to have loads of completely walled off areas. 
+---
+But wormholes and abyssal space is already the same or no? just one is multiplayer mode
+---
+I support this notion
+---
+Eh, first alliance that came to mind in the morning. Probably bad example but whatever. And I am sure that  PIRAT still does do the occasional gank on particularly juicy targets.
+---
+really nice moves for 2009
+---
+Yea. This sounds like a prime botting / multi Rorq candidate right here, exactly and precisely what this game needs less of, not more. And fuck the NS blob that did this to him.
+---
+I'm sorry, but that proteus you killed... What the fuck???
+---
+https://zkillboard.com/kill/75830857/
+---
+Considered doing something other than ratting?))))
+---
+Yeah, sure.
+---
+guys
+---
+  
+---
+how about
+---
+removing local
+---
+everywhere
+---
+EVE-MD diagnosed me w/ Creeping Bittervetism
+---
+Shut up granddad
+---
+kinda funny how you were all shitting on init for using boosh raven lol
+---
+I really don’t want to agree with you, yet here we are.
+---
+If you mean for income, I did in the past but now that I invested so much into carrier dkills, I expect Ccp not to nerf it into oblivion. 
+---
+And investing even more to get a super is also out of the question, this game's balance and stability can't be trusted.
+---
+All wardeccing corps are already required to have a structure. That change happened in december.
+---
+l just ment it as abyssal space you can live in like a WH so no jumping to other pockets unless you use a abyssal key and then you just have the 3 rooms maybe a few sigs but a lot less then say WH  of that class would have 
+---
+ccp is already trying to do that
+---
+Then just live in wormholes. 
+---
+Eve as a game only functions because its a sandbox, without that sandbox Eve dies 2 years after it releases. 
+---
+They're also on the Dominix if you look close enough.
+---
+#1 could be an interesting Trig design, have we seen one yet where the three pylons are asymmetrical yet?
+---
+#2 makes me think of a Matari drone boat with the sensor pods on the bottom.
+---
+The others look like bad mashups, though I do like the heat sink (assuming that what the top and bottom wingy bits on Matari ships are) design idea on #2 and #4.
+---
+yeah, its almost like supers/carriers are too strong atm
+---
+On Amazon right?
+---
+I don't know if everyone knows about their X-ray overlay thing on videos there.
+---
+Pretty sure they were getting shit on for spending a year of time “gathering intel and seeding” like it was actually necessary.
+---
+Understandable, time is money as well. Nobody wants to waste either of those.
+---
+But like I said, he would have blown you up anyway so it would have been a double loss.
+---
+but mom l would like it skinned to look like abyssal space tho
+---
+l live under a super umbrella l don't care what the guy next to me is doing or is going to do, mine going on a few fleets and solo pve is my meta game in eve ;)
+---
+If CCP introduces miles as a distance I want to be able to have my jump distance displayed in parsecs.
+---
+Well looks, from tabs, that's it's a pull from full IMDB. But hey, who cares. Can you over salute a guy like that?
+---
+How can you even compate supers to normal carriers?
+---
+I felt it too.
+---
+HQ dead due to FCs/instructors burning out and going afk faster than they were replaced, VGs still hanging on.
+---
+What's the diagnosis for when you never have any isk because every time you get enough, you immediately spend it?
+---
+Hk said it was a cancerous comp then used it and confirmed it was cancerous 
+---
+im not, both apply too well to subcaps
+---
+Definitely is sad to see something like this die.  I made a cinematic video to commemorate it's demise.  [https://youtu.be/8q36qsPqiC8](https://youtu.be/8q36qsPqiC8)
+---
+Author's case is called "Wormholes are fine" Syndrom.
+---
+Can we have abyssal hulls?  
+---
+use them
+---
+What a helpful comment. 
+---
+C1 space is some of the most fucked places in the game
+---
+Logi - you'll be welcomed into any fleet ever
+---
+I dare not look so close to a god 
+---
+&gt;Well, I AM the super umbrella
+---
+This is your problem. You are at least partaking in it. You and yours is what created this. If you had any balls you would do whatever you can to un-create it. You share in the responsibility.
+---
+Lol sounds about right
+---
+Abomination!
+---
+Story?
+---
+I play the game, you cry on reddit, guess who is the problem ?
+---
+is this what humor is these days?
+---
+&gt;totally random but what would a more pve focused WH (mode) based in abyssal space be good addition to the game?  
+---
+&gt;yes its just WH with out pvp and a abyssal skin but l think it mite be fun for the people who solo pve content.
+---
+Bad idea. I love Abyss but this is going to far, you're talking about entire WH system. Too much room for abuse. Just imagine bots by the thousands doing low end of these just for starters, and that is not even bringing up any of the otehr aspects of the game.
+---
+Every damn NS krab spod would shift and be all over this. It'd be horrible.
+---
+your the reason why america is a failed state
+---
+right, because papa EU was doing such a stellar job in the passing laws department these last few years...
+---
+Who says am not playing while being on reddit ? Guess whos the problem.
+---
+Cynos are used for other purposes than pvp also. If you restrict their use it will create all kinds of problems. There are several ships in eve that have their own jump engine and need cyno to move around.
+---
+You already have the tools to avoid cynos in every FW system. Don't fight on gates if you don't have your own cyno ready to escalate the fight. 
+---
+That is the whole idea of Factional Warfare that you CAN ignore cynos and have fights on your own terms. You can also restrict what kind of ship size you want to engage. You just have to play it smart and not engage obvious cyno baits. And use scouts to check if enemy has a fleet sitting on their titan ready to be dropped. Max skilled titan pilot only has  6 LY range. Easy to check around if map stats shows a fleet somewhere close.
+---
+Okay you have a super umbrella why do you need the thing you suggested then? Lol
+---
+Shot uncontested fort until up reached zero 
+---
+LOOK, REMOTE REP GEDDONS ARE A LEGITIMATE SMALL GANG DOCTRINE, AND YOU CANT TELL ME OTHERWISE
+---
+air
+---
+Also a wormholer by chance?
+---
+as if a member of the 5 eyes cares about privacy laws
+---
+Carrier on main? No. No caps on main. Eventually that carrier becomes a super, and when that super is deployed, your main might be stuck for weeks on end. Big no-no.
+---
+Also you can't really escalate battles if you have caps on main.
+---
+Never do caps on main. Never ever.
+---
+wait... did you seriously post a 14min long vid shooting a structure that wasnt contested?
+---
+fml...
+---
+&gt;Memory damage, where the pilot recalls a golden age of EVE that never existed and demands a return to the imaginary past.
+---
+i think the memory damage here is thinking that caps and rorqs online is better than the past
+---
+&gt;But yea learning implants are lame even with citidel clone bays. I ALWAYS forget to learning clone before I log. I bet im not in it now! Lol.
+---
+So much this dude. I do it all the time, sometimes for months at a time because of different accounts. 
+---
+This wasn't the first time CCP brought this up so if there is 1 thing, I wish they'd do away with the "learning" implants. The learning skill was removed for damn good reasons, time to follow it up and finish off the rest of this.
+---
+http://prntscr.com/n5lxyl
+---
+FTFY
+---
+When Brexit happens the European laws inplace become the UK laws so they will be identical.
+---
+Perhaps, but that doesn’t exactly equate to the erosion of workers rights and whatever else they have cooked up that is going to happen under Tory rule.
+---
+We in working about art what was in QRB
+---
+r/TIHI
+---
+im interest in Russia girl.
+---
+14 minute video of shooting a structure and the loot, epic pvp!
+---
+3 hours to plan how we were getting the ravens in and have everything bought 
+---
+10 hours to haul it all in and have over 200 ravens in build 
+---
+into a c2 
+---
+You can do the same thing with any deadspace site (missions, event sites, probable combat sites) etc. 
+---
+Jita.
+---
+Its the main trading hub.  Many high sec war deccers prey on newbies there.  Or you can just watch the many different ship types leaving the trade hub.
+---
+u/huahuahua1  
+---
+We dont care what are you interisting. 
+---
+What about us, if we interesring in girl - we just take that, and wouldnt shitpsoting on reddit.
+---
+It's a Banana republic, but replace the banana with a triple cheeseburger
+---
+Most alliances ask for carriers on main and dread on alt, so If you go down in a subcap on your main you can jump a carrier in after. So yes you can further escalate. 
+---
+Hot pockets
+---
+I run with WTM semi-regularly and have no idea what salt you’re talking about. 
+---
+What's the state of abyss PvP? Last I heard, people frequently found rooms completely empty.
+---
+Your forgot about your rorquals that died? hello
+---
+What were the numbers on each side like for this one? 
+---
+I really like cheetos.  Probobly the most unhealthy thing I eat. Keep my. Fingers clean by using chopsticks. 
+---
+Im sure that i didnt link WHOLE WinterCo rorqls which died.  
+---
+So its fair
+---
+Fax &gt; Dread &gt; Carrier
+---
+If you mean the cache, that is a bug, not just for the PvP room but for Abyss as a whole. It was supposed to be patched quite a while ago where you were not supposed to get empty caches anymore in T3 and higher, but they fucked something up and you still do.
+---
+If you mean the players, yea, a lot of times there will be no other player in which case you can just go grab the loot and GTFO if you like.
+---
+It is a bit random too as at times there will be quite a few people doing them while otehr times hardly anyone. But its still an option, just with some RNG in it.
+---
+Addendum: 
+---
+#Acquired Relevancy Disorder (ARD)
+---
+&amp;nbsp;
+---
+Symptoms:
+---
+* Willful delusion that the objective importance of one's opinions is proportional to the number of members in one's alliance.
+---
+* Delusions of grandeur 
+---
+* Egregious displays of self importance
+---
+* Recurrent outbursts of smarm
+---
+* Participation in vote brigading 
+---
+* Ignorance of game mechanics
+---
+Prevalence: Endemic and ubiquitous throughout null security space
+---
+* Like Herpes Simplex Virus 1, most individuals in the population are positive for ARD in a dormant state and will carry the infection for life.
+---
+* Typically comorbid with a positive diagnosis of Spodbrain and Anomaly Tickosis
+---
+Prognosis: Fair
+---
+* Most individuals with ARD will live otherwise typical lives.  Flairups should be anticipated immediately following exposure to TIDI, loss of t1 battlecruisers, and Reddit. 
+---
+* May escalate to End Stage Bittervetism if poorly managed and comorbid with Creeping Bittervetism
+---
+* Cured on occasion by cognitive behavior therapy and thorough introspection.
+---
+It’s double enter on a typewriter too. Funny how a whole generation is coming onto the internet unable to type. 
+---
+It’s tendies you mong 
+---
+Well i now have main sub/carrier. Fax alt super alt and dread alt. 
+---
+If i started again i would do dread as first alt then do fax super alt.
+---
+Ironman btw
+---
+Sympa la vidéo !
+---
+Most alliances require cap capable mains. 
+---
+No point having your main docked when a cap fight is on.
+---
+Carriers not designed to shoot npcs?
+---
+Neither cloaks designed for camping, should require constant attention, then we're even.
+---
+&gt;no waitlists 
+---
+Calling bs on that
+---
+"believes to believe"
+---
+RRRRRRRRRREEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE!!!!!!!!!!!! TINNNDDDYYYSS!!!!!!!!!!!!
+---
+Points sir
+---
+http://imgur.com/gallery/Q45kPZd
+---
+I feel personally attacked.
+---
+Doesn't this happen every few years? Everyone gets their hopes up then the Russians implode because they actually can't get along?
+---
+&gt;Lowsec combat site running is 100% safe and dscanning is pointless (except for non-DED space escalation fom 6/10), you have no idea.  
+---
+&gt;dps on that 6/10 is scary  
+---
+&gt;Nope.
+---
+Its subjective to a lot of things including location, time of day, etc. When a certain person or people pop into the system you're runnign escalation in you'll be D-Scanning like crazy.
+---
+As far as the DPS goes, it is also subjective to which 6/10 and what you are doing it in and if you are completely solo or dual boxing.
+---
+Allright allright but only because I've been itching to tell it since it went down Imma try to make it readable!
+---
+So I was running an ninja NPSI bomber fleet - These small fleets have a harder time finding (Content?! I mean shit we had a hard time believing this happened for real but eh whatever I didn't mind)[https://zkillboard.com/kill/75074344/] Makes for a pretty juicy first kill with BB too :D
+---
+Any who on this run we weren't finding squat - But we had an Astrahaus that was in the process of de-anchoring (right place right time type of deal) Having just finished training into torps V I had fit this bad boy [here](https://zkillboard.com/kill/75965840/) I'm not going to just sit by idle in my fancy new 700dps boat, whilst hunter brethren is doing the holy work of finding us shit to shoot at so I suggested we start bashing this thing I don't think there were more than 10 of us but that shit melted faster than we expected (150mill well spent if you ask me!), pleasantly surprised to find it would be vulnerable in 18 hours excitement creeped at the prospect of making stupid amounts of isk for next to no work, Unfortunately/fortunately there was a big-ol saturday armada that formed up about an hour and thirty before she went vulnerable, There were bigger fish to fry than a measly abandoned haus and I wanted in on both.
+---
+This was no easy feat with no other alt than my 2.5 mill SP *I don't even know why I made this alt on the same account... fucking useless junk whelp it worked enough* I scrambled to re-find the sigs (that SP drop couldn't have come in a better time too!) and the low-sec entry because moving the eve map really fucks with your perspective and also the names were marginally similar and I was tired (And too dumb to write shit down) but yeah with some perseverance I finally nosed my way back into the familiar C3 entrance that had the same sig configuration and an easy to remember name J000009 *Phew* a massive sigh of relief as I spend a good thirty minutes scanning 5 sigs down because I'm fuckin' exhausted at this point and 50-some probe strength didn't help (could've been worse) With my shit-alt in the hole with a bit of hob dps to hold the repair timer if need be 
+---
+All is good in the hood - I log off.
+---
+Barely sleep about about 8 hours later I'm back in, nothing has budged an inch and I'm a happy camper.
+---
+(Record scratch)
+---
+Now you think this would've been ezpzlmnsqz at this point... Fuckin' think again!
+---
+I dick around all day probably doing my usual gig of ninja salvaging in tama with a [navitas](https://zkillboard.com/kill/75915443/) (It fucking works don't knock it till ya try it, also slipping away from fuckers that think they have your ass locked down with a scram/web thanks to a burst jammer is pretty fuckin' satisfying even better If you just OH and burn leaving that AB Blaster sucker in the dust with a bunch of question marks floating over his head, This is more fun than ninja-ing blue loot I shit you not despite being much less isk efficient!)
+---
+Fleet is about to start in 30~45 minutes and I realize I should probably go check the holes/activity before she fires up and waddayaknow; I didn't bookmark diddly squat in the fucking C3 I manage to scan a hole down to 80% - *I'm not sweating yet but I'm starting to feel the pressure*, I then get called up to help declog a shower (I go up declog that sunofabitch in about 5~10 minutes but yeah I shouldn't of TBH the shower could've stayed clogged an extra couple hours shit was about to get real...)  anywho i sit my ass back down but yeah now we're 20 minutes from formup and I don't have the lowsec's scanned for our small bomber fleet to come back in I finish scanning that 80% hole and warp-to directly "Fuck I didn't bookmark the fucking hole to the haus, at least I know which sig it is..." ect ect, I then spent the next 25 minutes scanning and scanning the same shit I scanned the previous night I found and bookmarked the holes all is well I can finally form-up with this kick-ass 150man bomber fleet.
+---
+Shit goes down a pheonix pops real fast, next thing we know about 30 minutes after that phoenix we're in delve 4 rorq's on grid shit gets real... [real fast](https://zkillboard.com/kill/75961842/) ect ect you know the drill as well as I do.
+---
+I get DC'd after the counter-drop comes in thankfully right as I entered warp to a safe, log back in, FC is too busy herding cats/trying to GTFO re-x-ing isn't on the menu for the time being but bleh I've got other shit to do anyway. I go back on the shit alt with 6 minutes to go on the reinforced timer, ninja fleet FC manages to convince a small handful of bombers to come get in on this but with all the hot delve action going on we were met with a tepid response from most of the peepz in fleet FC was feeling more pressure but I was met with a "Nobody cares about the fucking haus" after piping up about the haus on voice - Given the situation this was the appropriate response I wanted to share this with but whatever turns out there's two fucking lowsec holes in that C3 and the one I scanned down earlier goes not where I told the FC to bring fleet... FUCK I have to re-scan this shit for I've lost count at this point, I fucking make it out FC warps on me and holds waiting for the rest of the crew whilst I go back in to put the hobs on the haus - medium style.
+---
+I get back in 11 minutes to go and - Ah Fuck there's potentially blingy triglavian shit and that vexor sitting on the haus (no leshak honestly It would've been well worth fighting but at this rate FC is tired of my shenanigans not to mention a VNI can be very good bomber kryptonite so the pinata party is called off) In the throws of disappointment I warp back to the nubshack to meet and greet my newfound friends who thank me graciously for granting this veritable treasure chest at that would've otherwise been lost to the fathoms of asset safety wraps In their glee they're totally cool with my T1 helios joining in on the bashing and grant me looting rights the the goodies! 
+---
+And I was hellbent on being part of that big fleet because ho-ley-shit did it turn out to be awesome despite the fact I had to juggle the stress of potentially losing that haus and wanting to put some more lively targets right under the righteous fire of my polarized bomber.
+---
+My shit 2.5mill SP alt left that WH with 600 mills worth of shit that's direct to market and I haven't tallied up the [BPC's](https://i.imgur.com/yjm8le3.jpg) yet but yeah It was a pretty good fucking weekend not to mention a promise from the FC of that triglav fleet to deliver a fit pacifier that dropped intact, If there's bling on it they can keep it but fuck would I love to have that pacifier still with the name that the last dude put on it - As a souvenir, also it looks cool af.
+---
+It would probably blow up just as fast as that polarized bomber in the cursed bosonic fires of delve but yeah I've been playing since 2007 and this was definitely my biggest "Holy shit this is Eve online" moment shit was pretty fucking tight in the hole!
+---
+TL;DR: I got lucky and brought down a haus with a T1 frig and 2.5mill of SP thanks to a small late night NPSI and a random ass roam, If this is the highlight of my eve career I'm pretty okay with it!
+---
+I like the last one
+---
+Countering subcaps is what carriers should so, they are not designed to apply good on other caps or structures.
+---
+That is the job of Dreadnoughts, Titans.
+---
+A good tea. If not, an abundant tea.
+---
+[relevant](https://i.imgur.com/tb8yV0k.png)
+---
+or that eve was ever good...
+---
+Having flown with and against the Russians and knowing Radist, Alex and 3B: this is just the beginning. 
+---
+They've been doing a god damb lot better than the embarrassing catastroshambles we've had in Westminster this last decade.
+---
+I was referring to CCP. If they want to keep selling EVE subscriptions to EU citizens, then they have to abide by GDPR whether TQ is in London or Amsterdam or Ulan Bator.
+---
+Cloaky campers are the problem, could be either blops or dread bombs.
+---
+Thanks, I'll keep these in mind.
+---
+“You should have played Eve in 2006, it was literally the highlight of my entire life”
+---
+I like that you're only posting victorious battles.
+---
+Yes but not until they have released faction cynos
+---
+Thank you for catching that.
+---
+That was insane
+---
+Pssst, hey kid, try this free sample. You'll love it. *Wink wink*
+---
+Don't forget to bring a freighter with ammo when using this.
+---
+This is my favorite c1 system :
+---
+https://zkillboard.com/system/31000314/
+---
+Guys always uses shield in a wr.
+---
+And one of those guys (ceo iirc) used to fly expensive shit with  dual dual/triple  (proteus with a type invul and armor tank, vindicator with 5mn mwd and triple buffer tank ect)
+---
+Just stick with the original tbh
+---
+My sources are saying that FI.RE co. is unwilling to fight in even engagements, resorting to dropping capitals and calling TEST alliance whenever there is a comparable enemy force. The future is looking good for this Russian coalition already, and they haven't even made any progress in their pre-announced war.
+---
+Super long intro with ear-punishing shitty music. I almost turned it off but then I was like “well the PvP will be interesting “ wrong again. Just noticed the parenthetical “Pve”. What a waste of two minutes. 
+---
+WHO CARES
+---
+IDK they lost rorquals but i saw that 2 supers died in their staging yesterday.
+---
+Well, frt flies mainly shield doctrines so about overrepping that's normal. But yeah, not the greatest logi. Still, shield and amor logi is a bit different, armor is harder, especially for someone with probably recent practice in totally different fits.
+---
+Run incursions for isk, bombers bar and Spectre fleet for pvp. 
+---
+200 vs 160 iirc
+---
+That's with like 40 booshers on hks side, and a few dozen caps on the other side 
+---
+Hmmmm...... let's see. The entire Goon Empire CFC, CCP, CSM, anyone who has lived in null sec and ..... post with your main sweetheart.
+---
+They've dropped caps at 5% ansiblex just to lose it and lose fighters.
+---
+And then what?
+---
+I mean, when I see that after 1 hour in a belt I have 20 Mill, it´s not making me jump for joy, you know?
+---
+It´s basically afk-money I give you that but isn´t there something better?
+---
+I am certain you are one of the idiots i described. 
+---
+- In a game where n+1 wins againts n, we have multiboxing allowed, which is essentially P2W in the end.
+---
+- Skill injecting.
+---
+- PLEX selling for ISK.
+---
+Just the fact that we can skill inject and buy everything with RL money is enough to be a P2W shit. With the current ISK inflation, things will cost less and less, PLEX will sell higher and higher. And the aspect of P2W will become more evident.
+---
+Move out of highsec.
+---
+If you want small gang and/or solo pvp move to faction warfare space (or adjacent to it).
+---
+For large fleets join up with a nullsec block.
+---
+Planetary production nets good isk even with low effort. 10 minutes every three days and and hour once a month nets me around 700m isk per month. That is in nullsec though.
+---
+Find a good corp interested in what you want to do mainly. They will be able to guide you accordingly.
+---
+I considered incursions, but it´s not exactly a solo activity, is it?
+---
+And I wouldn´t know where to start looking for a good incursion group, who runs incursions in EU Timezone.
+---
+Incursions are also a good option.
+---
+LPT: If someone is posting something about a someone who died, and you want to post "WHO CARES" in the thread - don't. Close the window and think "this is about a **real person** who **died**, do I want to be that guy?"
+---
+This has been an extremely helpful post for someone who had no clue what bookmarking is or the point of d-scanning. Thank you!
+---
+\&gt; Deadspace polarized machariel  
+---
+\&gt; Warrior I
+---
+yeah lack of fleet combat with rl partner, what a bunch of fucking losers
+---
+None of these look remotely like anything from 40K...
+---
+So much edge. Congrats. 
+---
+The only place safe from wormholers is local because we're all too afraid to chat in it.
+---
+If there were a vegan AND a wormholer, you'd know by now.
+---
+Where is my isk, chickenshit? 
+---
+A _lot_ of people dealt with him over the years. He was a good guy.
+---
+I think that is the best situation Mr Cowman
+---
+Thats fair, but even under the super umbrella you are acting as potential content.
+---
+And you can completely solo wormholes and the abyss.
+---
+Dreddit wont take you. Try brandnewbros much less requirments. Will still take longer than PH. But its worth the wait. PH is too accepting 
+---
+Better than being that guy who replies to obvious bait like a moron.
+---
+The spaceship has a way of preventing explosion if the PvP is non-consensual
+---
+Also remove frigates from the game.
+---
+Just curious on your take, but how is ganking killing Eve?
+---
+Massive props to that guy.  Diplomat in and out of game, sounds like.  Sorry I wasn't around to see the news then and kick in a few $.  I'll light a cyno in his memory
+---
+Busch latte and Doritos 
+---
+Eat weed edibles, drink red wine and/or whiskey. 
+---
+Get so blotto you can't see and/or perceive time passing, lose ships hilariously.  
+---
+Give no fucks because you're rich as fuck.   
+---
+I solo gank all the time, therefore its solo PvP
+---
+For ref:
+---
+https://zkillboard.com/kill/75949716/
+---
+https://zkillboard.com/kill/75964706/
+---
+Gee, you totally shut me down.
+---
+Oh wait... no you didn't. My point is valid. Regardless of whether its bait or not, its something that should be making them reassess how they're living their life.
+---
+I however have just stopped and reassessed my life... I have no problem typing 2 lines out *civilly* (defined as not calling someone you've never met a moron) to call out something like going "WHO CARES" about the death of a real person.
+---
+Now I suggest you go and reassess how you're using your time (reply all you like, I'm disabling reply notification).
+---
+Move out of high sec....
+---
+shit I think I legit might have Creeping Bittervetism
+---
+but I did undock last night to shoot blues so maybe there is hope for me
+---
+Fuckin A brothet
+---
+&gt;Spodbrain
+---
+Big think, if the ore is called "Spodumain", why don't we call the affliction "Spodubrain"?
+---

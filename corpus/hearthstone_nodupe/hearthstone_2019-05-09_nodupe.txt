@@ -1,0 +1,1418 @@
+Well it's a battle cry but the text of the battle cry says it gains the deathrattle, so I think if a Myra is played, then cubed, you should get the deathrattle version, but if it is pulled like with dirty rat, then cubed, it will come back as a plain 4/2. 
+---
+
+---
+Would be interesting to see a video from a pro testing this.
+---
+---
+---
+Coin is capitalized in other card text, but minion has never been capitalized in card text.
+---
+bro I’m really sorry. 
+---
+I didn’t know they already announced it, or the fact that you uploaded the same thing. Maybe it’s because mine was a week later yet the mode wasn’t released.
+---
+You can get to Legend with a deck that costs less than 2000 dust.
+---
+Here are some examples:
+---
+* 1400 dust Token Druid: https://youtu.be/Ku2XOlbSmUI - AAECAZICAA9A/QL3A+YFigbEBpj7Avb9AomAA4yAA7SRA8OUA86UA8qcA9OcAwA=
+---
+* 1500 dust Silence Priest: https://youtu.be/LjGOq-XIDZY - AAECAa0GAvIFgpQDDu0B+ALdBOUEpQnRCtIK8gzy8QKDlAOHlQOumwOCnQPInQMA
+---
+* 2040 dust Bomb Hunter: https://youtu.be/UwJJLEKYuc4 - AAECAR8AD/sF2Qfg9QLi9QLv9QK09gK5+AKY+wKo+wK8/AL2/QLX/gKJgAPMgQO2nAMA
+---
+**Format:** Standard (Year of the Dragon)
+---
+**Class:** Druid (Malfurion Stormrage)
+---
+Mana | Card Name | Qty | Links
+---
+:--:|:---|:--:|:--:
+---
+1 | [Acornbearer](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/DAL_354.png) | 2 | [HSReplay](https://hsreplay.net/cards/51790/),[Wiki](https://hearthstone.gamepedia.com/Acornbearer)
+---
+1 | [Mecharoo](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/BOT_445.png) | 2 | [HSReplay](https://hsreplay.net/cards/48886/),[Wiki](https://hearthstone.gamepedia.com/Mecharoo)
+---
+2 | [Dreamway Guardians](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/DAL_733.png) | 2 | [HSReplay](https://hsreplay.net/cards/52810/),[Wiki](https://hearthstone.gamepedia.com/Dreamway%20Guardians)
+---
+2 | [EVIL Cable Rat](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/DAL_400.png) | 2 | [HSReplay](https://hsreplay.net/cards/51380/),[Wiki](https://hearthstone.gamepedia.com/EVIL%20Cable%20Rat)
+---
+2 | [Power of the Wild](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/EX1_160.png) | 2 | [HSReplay](https://hsreplay.net/cards/503/),[Wiki](https://hearthstone.gamepedia.com/Power%20of%20the%20Wild)
+---
+2 | [Wrath](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/EX1_154.png) | 2 | [HSReplay](https://hsreplay.net/cards/836/),[Wiki](https://hearthstone.gamepedia.com/Wrath)
+---
+3 | [Blessing of the Ancients](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/DAL_351.png) | 2 | [HSReplay](https://hsreplay.net/cards/51779/),[Wiki](https://hearthstone.gamepedia.com/Blessing%20of%20the%20Ancients)
+---
+3 | [Harvest Golem](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/EX1_556.png) | 2 | [HSReplay](https://hsreplay.net/cards/778/),[Wiki](https://hearthstone.gamepedia.com/Harvest%20Golem)
+---
+3 | [Microtech Controller](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/BOT_535.png) | 2 | [HSReplay](https://hsreplay.net/cards/49164/),[Wiki](https://hearthstone.gamepedia.com/Microtech%20Controller)
+---
+3 | [Savage Roar](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/CS2_011.png) | 2 | [HSReplay](https://hsreplay.net/cards/742/),[Wiki](https://hearthstone.gamepedia.com/Savage%20Roar)
+---
+4 | [Explodinator](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/BOT_532.png) | 2 | [HSReplay](https://hsreplay.net/cards/49161/),[Wiki](https://hearthstone.gamepedia.com/Explodinator)
+---
+4 | [Replicating Menace](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/BOT_312.png) | 2 | [HSReplay](https://hsreplay.net/cards/48536/),[Wiki](https://hearthstone.gamepedia.com/Replicating%20Menace)
+---
+4 | [Soul of the Forest](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/EX1_158.png) | 2 | [HSReplay](https://hsreplay.net/cards/381/),[Wiki](https://hearthstone.gamepedia.com/Soul%20of%20the%20Forest)
+---
+4 | [Swipe](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/CS2_012.png) | 2 | [HSReplay](https://hsreplay.net/cards/64/),[Wiki](https://hearthstone.gamepedia.com/Swipe)
+---
+8 | [The Forest's Aid](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/DAL_256.png) | 2 | [HSReplay](https://hsreplay.net/cards/52819/),[Wiki](https://hearthstone.gamepedia.com/The%20Forest%27s%20Aid)
+---
+**Total Dust:** 1400
+---
+**Deck Code:** AAECAZICAA9A/QL3A+YFigbEBpj7Avb9AomAA4yAA7SRA8OUA86UA8qcA9OcAwA=
+---
+*****
+---
+**Class:** Priest (Anduin Wrynn)
+---
+0 | [Circle of Healing](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/EX1_621.png) | 2 | [HSReplay](https://hsreplay.net/cards/1362/),[Wiki](https://hearthstone.gamepedia.com/Circle%20of%20Healing)
+---
+0 | [Silence](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/EX1_332.png) | 2 | [HSReplay](https://hsreplay.net/cards/1189/),[Wiki](https://hearthstone.gamepedia.com/Silence)
+---
+1 | [Inner Fire](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/CS1_129.png) | 2 | [HSReplay](https://hsreplay.net/cards/376/),[Wiki](https://hearthstone.gamepedia.com/Inner%20Fire)
+---
+1 | [Northshire Cleric](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/CS2_235.png) | 2 | [HSReplay](https://hsreplay.net/cards/1650/),[Wiki](https://hearthstone.gamepedia.com/Northshire%20Cleric)
+---
+1 | [Power Word: Shield](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/CS2_004.png) | 2 | [HSReplay](https://hsreplay.net/cards/613/),[Wiki](https://hearthstone.gamepedia.com/Power%20Word%3A%20Shield)
+---
+2 | [Ancient Watcher](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/EX1_045.png) | 2 | [HSReplay](https://hsreplay.net/cards/605/),[Wiki](https://hearthstone.gamepedia.com/Ancient%20Watcher)
+---
+2 | [Dalaran Librarian](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/DAL_735.png) | 2 | [HSReplay](https://hsreplay.net/cards/52866/),[Wiki](https://hearthstone.gamepedia.com/Dalaran%20Librarian)
+---
+2 | [Divine Spirit](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/CS2_236.png) | 2 | [HSReplay](https://hsreplay.net/cards/1361/),[Wiki](https://hearthstone.gamepedia.com/Divine%20Spirit)
+---
+3 | [Arcane Watcher](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/DAL_434.png) | 2 | [HSReplay](https://hsreplay.net/cards/52654/),[Wiki](https://hearthstone.gamepedia.com/Arcane%20Watcher)
+---
+3 | [Faceless Rager](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/DAL_744.png) | 2 | [HSReplay](https://hsreplay.net/cards/52936/),[Wiki](https://hearthstone.gamepedia.com/Faceless%20Rager)
+---
+4 | [Auchenai Soulpriest](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/EX1_591.png) | 2 | [HSReplay](https://hsreplay.net/cards/237/),[Wiki](https://hearthstone.gamepedia.com/Auchenai%20Soulpriest)
+---
+4 | [Hench-Clan Shadequill](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/DAL_040.png) | 2 | [HSReplay](https://hsreplay.net/cards/51715/),[Wiki](https://hearthstone.gamepedia.com/Hench-Clan%20Shadequill)
+---
+4 | [Spellbreaker](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/EX1_048.png) | 1 | [HSReplay](https://hsreplay.net/cards/754/),[Wiki](https://hearthstone.gamepedia.com/Spellbreaker)
+---
+4 | [Unsleeping Soul](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/DAL_065.png) | 2 | [HSReplay](https://hsreplay.net/cards/51847/),[Wiki](https://hearthstone.gamepedia.com/Unsleeping%20Soul)
+---
+5 | [Convincing Infiltrator](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/DAL_039.png) | 1 | [HSReplay](https://hsreplay.net/cards/51714/),[Wiki](https://hearthstone.gamepedia.com/Convincing%20Infiltrator)
+---
+5 | [Witchwood Grizzly](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/GIL_623.png) | 2 | [HSReplay](https://hsreplay.net/cards/47346/),[Wiki](https://hearthstone.gamepedia.com/Witchwood%20Grizzly)
+---
+**Total Dust:** 1500
+---
+**Deck Code:** AAECAa0GAvIFgpQDDu0B+ALdBOUEpQnRCtIK8gzy8QKDlAOHlQOumwOCnQPInQMA
+---
+^I ^am ^a ^bot. ^Comment/PM ^with ^a ^deck ^code ^and ^I'll ^decode ^it. ^If ^you ^don't ^want ^me ^to ^reply ^to ^you, ^include ^"###" ^anywhere ^in ^your ^message. ^[About.](https://github.com/HearthSim/deck-code-bot/blob/master/README.md)
+---
+You can reroll the quest to try and get it back tho
+---
+...Fanmade?
+---
+Then what's the point of clearing the quest when you can just wait and get the gold for free?
+---
+Don't get me wrong, I'd love that as a casual player but yea, there would be a problem on HS side
+---
+The blizzard defenders always crawl out of the woodworks to swear up and down that players are unreasonable.  We aren't.  They are the multimillion dollar company and they can do the minimum for their customers.
+---
+I agree.
+---
+Why do people always say a popular opinion is unpopular? For the karma?
+---
+Hey there,
+---
+Unfortunately, your post was automatically removed because you failed to assign it a flair within 5 minutes.  If you assign it a flair, your post will be automatically re-approved shortly after.
+---
+To assign a flair to your post, click the button titled "Click here to edit your flair" underneath the post. If you are on mobile or have CSS turned off, the button is just titled "Flair"
+---
+[Example With CSS](https://i.imgur.com/9TTfq91.png) | [Example Without CSS](https://i.imgur.com/3V6ugiq.png)
+---
+If you're having difficulty finding the flair button keep in mind:
+---
+You -can't- flair your posts if you're:
+---
+* Submitting via reddit mobile on a browser.
+---
+You -can- flair your posts if you're:
+---
+* Submitting via the reddit mobile app, and a variety of other reddit apps.
+---
+* Submitting via a desktop version of the reddit site on your mobile browser. You can force this view from the menu options.
+---
+You can choose either of the options above to flair a submitted post.
+---
+^(Have a question or think a mistake was made?) **[^(Message the moderators because I am a bot.)](http://www.reddit.com/message/compose?to=%2Fr%2Fhearthstone)**
+---
+With 1 paladin, 2 hunter, and 2 mage secrets
+---
+Did you play the game before Ungoro? Divine spirit+Inner fire was a joke for 4 years. It only became competitive with Shadow Visions.
+---
+Cube also doesn’t keep its deathrattle when hit by another cube, so it seems like either a brawl bug or a Myra bug
+---
+Why would you guys watch someone play a solo adventure lol
+---
+You can get all the way to Legend with a deck that costs less than 2000 dust. There is no particular reason to farm at a low rank, you can complete quests in friendly games too if you get quests for classes you have no good cards for.
+---
+Here are some examples of Legend-capable budget decks:
+---
+Fuck off guy
+---
+How is Kingsbane Rogue? Without any lifesteal?
+---
+Silence Priest is a good budget deck: https://youtu.be/LjGOq-XIDZY - AAECAa0GAvIFgpQDDu0B+ALdBOUEpQnRCtIK8gzy8QKDlAOHlQOumwOCnQPInQMA
+---
+[Click here for decklist](/r/hearthstone/comments/bljr7y/newbie_tuesdays_weekly_discussion/emvham6/)
+---
+Ironic that you’re here then huh?
+---
+Is there a specific deck you want to play?
+---
+name a single rogue heal that lasts for more than a single weapon swing, and isn't neutral
+---
+Are you people high? They are doing this as a marketing stunt to hype the single player content, not to let streamers spoil it...
+---
+Is everyone just complaining cause they don't understand release cycles and want it the arbitrary 2 days earlier?
+---
+If you want to remain single content virgins just don't watch it. Easy...
+---
+This sub just goes so far out of it's way to complain about the dumbest shit like a streamer event, when there are so many more reasonable things they could complain about. I really do not get it.
+---
+It depends on the deck. Some deck rely on specific cards as their main win conditions, others are more flexible. Holy Wrath Paladin obviously cannot work without Shirvallah, the Tiger, whereas Bomb Hunter is fine without Boommaster Flark.
+---
+Bomb Hunter is a good deck to play to Legend. There are several others too, such as Tempo Rogue, Control Warrior, Bomb Warrior, and Secret Hunter.
+---
+I’m waiting too. It’s getting pretty annoying with each delay and I’m wondering if it will even be worth playing the in decks I have planned by then.
+---
+how many legendary quests are there per year?  a dozen or so?  i think they can afford that amount of free gold in order to stop pissing off the community every time this happens
+---
+&gt;DeadlyKitten#214296
+---
+Argent#11448 here. I appear to have you on my list as it won't let me add you.
+---
+Garrosh's weapon was extremely strong. That was the reason it saw play in Quest Warrior ( that and the hero power being strong against Dude/Odd Paladin). The weapon was almost like 3 flamestrikes for 8 mana.
+---
+Blizzard's choices in Hearthstone follows a simple principle: Is it helping sell packs (directly or indirectly)- If yes quickly implement it. 
+---
+If it's nether directly nor indirectly selling packs - don't bother with it even If it's easy to implement.
+---
+A budget Murloc Shaman is pretty cheap and can get you climbing pretty well. I really enjoy it and have had pretty good success with it in general
+---
+EU trading 80g quest GrosGhiles#2999 you go first
+---
+I'm totally in the same boat! And what's more irritating is that I use arena value as well ;(   
+---
+It goes to show that even though I've played since beta I'm far from good at this game haha.
+---
+well you always can get Dr Boom from Lazul 🤷🏻‍♂️
+---
+It's SO FRUSTRATING.
+---
+At the very least, always warn us a few days earlier, IN GAME, that a new special quest will appear.
+---
+I’ve ran quite a few. I’m really not a fan of spirit of the frog so Gruuly boi fits right in, I also dropped Archmage for Mechanical Whelp ( I think it’s called) he was usually an underwhelming Muck draw and at 10 cost I really hated playing him straight out of hand without eureka, 
+---
+To each their own I suppose. Today I had 3 Gruuls on the board and I was in my own lil’ heaven
+---
+How Long Can This Go On?
+---
+Bunnyhopper has the most fans including me who are waiting for his win packs.
+---
+Hey DirtyDruids, unfortunately your submission has been removed because it contains little to no content. Posts must contain at least 50 characters. Please review the [rules](https://www.reddit.com/r/hearthstone/about/rules/), in particular our rules on [low effort content](https://www.reddit.com/r/hearthstone/wiki/rules).
+---
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/hearthstone) if you have any questions or concerns.*
+---
+ANY game I see streamer to ply, I just don't bother to play. story is already spoiled so why bother : D fuck you developers who do this
+---
+Always try to find your board-progressing cards. Rogues can't deal with a wide board, so wispering woods is key. Acornbearer sets up the WW and Dreamway Guardians gets you an early board fast. 
+---
+Always hard mulligan (Throw literally everything else back) for these cards!
+---
+If the rogue has a Fan of Knives, that can mess up your early development, so try to consider that. The matchup should be pretty even and comes down to a good hand, which is why the mulligan is key.
+---
+“Your late Uther”  “don’t take that tone with me boy”
+---
+It's worse. They implemented it then took it back, going as far as saying the feature was a bug.
+---
+This man has an IQ higher than any known.
+---
+Everyone's picking Myra/Voodoomaster + Boom, while I'm here with Candlebeard + Toggwaggle SMorcing everyone.
+---
+I loved that one in the Tavern Brawl, because when you got a mirror match you’d just fucking OTK each other. Good times.
+---
+Cool deck, but what's the win condition here? Based off the comments I'm guessing control, but is it enough?
+---
+I picked that vs another Mr.chu mostly because I had a lot of spells in hand. Neither me or my opponent could get cards out of hand. When we tried to dump a card we just got another spell. I conceded because I didn't want to bother with the clown fiesta. In hindsight I should have stayed in because if I want a win with all charachters the mirror was probally good for me.
+---
+&gt;*I'm not sure it's that they deliberately set out to make one class busted.*
+---
+Oh, definitely not. They just wanted to make one class... hmm, how should I put it - take it out of the slump it's been in until that point.
+---
+Unfortunately, more often than not, they did make theh class busted as a result, whether intentionally or not.
+---
+Can anyone beat Myra+Togwaggle? Have just played a 2/2 (deathr: summon a 7/7), activated it's deathr with HP on turn 5!! And I already had 3 5/5 on the board because of fireflies and eggs. No losses yet, which Hero and Boss would make a good counter?
+---
+I haven’t played it much but I love the death rattle rogue deck with the death rattle coin. It’s disgusting
+---
+Soulcakes#1751 ASIA trade 80g friend quest you go first
+---
+mechathun was random
+---
+Holy wrath and DK otk paladin also used it, which were tier 2 or 3 decks before the equality nerf
+---
+The fun version is in standard where it isnt asinine
+---
+I got a doomsayer from my tavern pack. Been needing to craft them but I’m glad I pulled at least 1. :)
+---
+I don't think you understand; yes, Jaraxxus is bad when you are at 30 health, but I was in a situation where Jaraxxus healed me from 5 to 15 and the 3 attack weapon let me clear the board.  I then survived for 5-10 more turns.  
+---
+Yes, Jaraxxus can be bad when he lowers your health, or when your opponent has a big board, but neither of those were the case.
+---
+It was a dream scenario for Jaraxxus, and my opponent was still able to clear every legendary+6/6 I played every turn thanks to omega devastators, Dr boom hero powers, and all mechs having rush.
+---
+Whats the point in knowing that blizzard knows what they are nerfing? We don't, so why are we asking?
+---
+That’s what I was thinking when I saw the post but wasn’t completely sure lol
+---
+Totally agree. Blizzard thinks that it's a way to advertise to an expansion, which in a sense they're right. But as OP said, it totally kills the hype. I just want to open my packs alongside watching Kripp open his packs. Is it that hard to ask for such parallel universe situation?
+---
+I crafted Hagatha a few months ago and she’s so fun but I haven’t found a good deck to play her in since rotation. Only shaman deck I’ve been happy with is Big Shaman, played it from rank 19 to 15 :D it’s prob my fave deck at the moment
+---
+An 8 cost board clear is not core to a deck that aims to win before turn 8 imo
+---
+I find this Tavern Brawl quite fun and unique.
+---
+But the paladin hero + the dr boom buff, completly ruins it for me. Maybe it was just me, but I run into 5 of those back to back and legit got me really sad.
+---
+What u gonna pact though need a setup b4
+---
+I’m pretty sure its illegal.
+---
+What's the difference?
+---
+The others watch it, so the meta is different. You're facing people who netdeck day one hour one. Your experimentation deck is shut down by more optimized deck. Basically, you're playing a week behind.
+---
+That's exactly the point with this card, in a vacuum he is probably okay. If there wasn't a doctor boom hero card giving all mechs Rush, his Mech tribe probably wouldn't be a problem. If control Warrior wasn't ridiculously good at stalling the game, his 10 Mana requirement might be more prohibitive. And yes, if Warriors didn't have near infinite value in recruiting new Mech, he would be less of a problem. Hes broken because of the meta.
+---
+Well you can solve that little gold problem with a bit of RL cash! &gt;hand rubbing intensifies
+---
+I took a break from the game between KOFT and Boomsday Project.  By the time i entered i never saw it played... ever.
+---
+it has to pass first and something tells me there are a lot of powerful lobbyists who will be hellbent on that not happening
+---
+Drawing the cards. :)
+---
+Stop being an asshole and chill out.
+---
+No!
+---
+Yeah, plus the packs are so old by now that they are worth less than at launch. This a very poorly thought out product unless the legend is overpowered.
+---
+Hey u/powerchicken today is PullsDay, right?
+---
+This last expansion put the game in a weird state because so many cards cycled out. I typically pre order every expansion but I feel like there's just no decks that currently excite me. I thinks another big issue when you open some packs and don't get anything interesting. For me at least, there's just nothing to convince me to even complete my daily quests.
+---
+Unfortunately, your submission was removed because it is a pack opening.  All pack opening submissions should be added to the [Pullsday Thursday pack opening threads](https://www.reddit.com/r/hearthstone/search?q=Pullsday+Thursday&amp;restrict_sr=on&amp;sort=new&amp;t=week).  They are stickied to the the subreddit every Thursday and allow you to show off your crazy or unlucky pack openings.  You are also welcome to post in /r/HSPulls.
+---
+^(Have a question or think your post doesn't break the rules?) **[^(Message the moderators.)](http://www.reddit.com/message/compose?to=%2Fr%2Fhearthstone)**
+---
+Correct, thread removed.
+---
+Unfortunately, your submission has been removed because it is unrelated to Hearthstone. 
+---
+All submissions must, in some way, relate to the game of Hearthstone or the greater hearthstone community.
+---
+Posts about the community, its members, and Hearthstone drama must be either related to the game of Hearthstone or the career of a community member. The personal lives of a community member are not considered relevant to Hearthstone.
+---
+If you're not familiar with the subreddit rules, you can read them [here](https://www.reddit.com/r/hearthstone/wiki/rules).
+---
+Stop beeing F2P you cant get any fun Whatsaoever untill next year if u are toing the F2P route i Word sat spent 10 bucks a month and IT will speed up the proses a million times
+---
+&gt;Your lazy ass already has three unfinished quests
+---
+No, I had *two* unfinished quests.
+---
+Then I got one and had another replaced, in the space of two hours, while sleeping.
+---
+Unless you have to get up early for work.
+---
+That poor wisp looks like a lost kid in a supermarket.
+---
+*Looks round*
+---
+Mummy...?
+---
+*Valeera gone*
+---
+*Cries*
+---
+Too confusing for new players.
+---
+This is a reference to our boy Stefan...
+---
+I feel like crying..
+---
+:(
+---
+This man charged his phone
+---
+Reply to this comment if you get no love on F2P help. I'll hook you up with some useful guidelines and tips. I'm only on at weird hours if your in the Americas, though. I am on the Americas server. I'm just living abroad at the moment.
+---
+yes
+---
+why did we get 3 rastakhan packs?
+---
+Wow you got them for Free and this is the 2nd newest Expansion.
+---
+Its not like you got wild Packs or anything.
+---
+Be grateful of what you get.
+---
+Doesn't that troll card fill the board with 1/1 imps?
+---
+S/o to the legendary person named msterb8td for coming online just in time for you to record this!
+---
+Guess really unlucky not seeing it.
+---
+It was a deck after boomsday, when the Necruim Blade and Vial came out.
+---
+I think Excavated Evil is a better idea - Lightbomb is still a very powerful board clear (honestly, comparatively speaking, it's probably one of the best in the games), while Excavated Evil, although strong, is not really busted - 5 mana to deal 3 to all minions is barely better than Holy Nova, even without considering the other effect.
+---
+I think Excavated Evil fits the bill of a strong AoE that is not oppressive - it takes my vote for the Classic set.
+---
+UNG Priest quest, DEd
+---
+KFT Rexxar, kept
+---
+KNC Don't remember, must have been DEd
+---
+Witchwood Toki, should probably DE
+---
+Boomsday Luna, kept
+---
+Rastakhan Halazzi, kept
+---
+ROS Don't remember
+---
+Wow you are THAT stupid aren’t you? Play around vaporize??? 4 and 2 + ping into taunt. 1/4 go to face. Check vaporize. Then dw???? 
+---
+Jesus do I have to spell everything out for you. Christ. Dumb fuck. Calling that play reasonable. LOL laughable
+---
+I would understand them nerfing Prep, but it would gut pretty much any spell rogues have ever had because they've all been balanced around Prep existing.
+---
+They aren't going to make non classic cards move to classic for rotation. They just add new cards to classic.
+---
+There is a discussion to be had about HOF prep or Nerfing it, but not for what you suggested.
+---
+[removed]
+---
+Or my son's son
+---
+Lovely thanks a lot mate.
+---
+Seems like a fair trade to me, I like the idea of just a small change like that cos it'll still have a knock on effect on cards like fan of knives and stuff. Only problem is blizzard doesn't really seem to want to bring back wild cards to standard
+---
+that's true
+---
+[Well then](https://i.postimg.cc/pTwbh2tY/7371-F69-A-AC12-4-F17-9593-C0-C3-AC48-BE22.gif)
+---
+Counterfeit Coin would be so broken in standard with Miscreant on turn 1 or 2
+---
+doesn't matter. it worked
+---
+I think you're misinterpreting what OP is asking. Daily quests don't replace themselves - if you already have 3 incomplete quests when a new day rolls around, you just don't get a new quest - and therefore, under OP's system, you wouldn't get any gold from it. Its a suggestion that would only come into play when Blizzard forces a specific quest on players like they did earlier with the tavern brawl quest.
+---
+And if you put butter on it and warm it up? To die for
+---
+How the fuck do you get to turn 8? I useally win before turn 7, playing Vex with bombs and piloted shredder + cube..
+---
+But at least there wont be a Raiding Party turn 1. 
+---
+Unless you burn two coins on it.
+---
+Yeah the hundreds of buck I’ve spent and the hundreds of millions they make don’t mean anything, you still get old packs.
+---
+I lost a quest too.
+---
+EU got the brawl and quest at around 19:00.
+---
+New daily quest is at 00:00.
+---
+We had a whopping 5 hours time frame to free an extra slot, all without a notice, a warning, anything.
+---
+I'm forced to check the game every hour, Blizzard? Seriously?
+---
+I'm punished for having a life?
+---
+The problem with rogue getting more mana is the stupid things possible with the "combo" mechanics that are inherent to the class .. I just feel that they will normalize rogue like they did with druid and just kill the class, at least in standard .. 
+---
+I've honestly played the worst combination of rogue decks this expansion and just having any weapon+pirates+lackey has won me so many match-ups
+---
+I will always have a fun deck to play. No meta has ever not had one.
+---
+Metas however do have decks I hate versing, and that ruins a game for me. In standard these change and atleast stay fresh. In wild they never leave
+---
+*Hysteria have joined the chat*
+---
+I'll take golden turnips over shitty tier-lists backed up by nothing more than the opinion of a random high legend player.
+---
+&gt; I really hope someone from team 5 sees this, or has at least been thinking about this already.
+---
+Spoiler: they won't, and they haven't. Sorry, but you get this shiny new adventure wing in a few days!
+---
+Flavor. They gave rumble packs, the expansion of battling in the arena for the event of battling in the arena.
+---
+And how exactly does your bank account have anything to do with free content?
+---
+Got the 4 packs from the world championship.  
+---
+Got Hireek... well, that's a waste of a legendary... :(
+---
+Mage seems pretty balanced though? It's pretty good vs control warrior and bad vs aggro. 
+---
+Maybe cuz conjurer's limits design space? But even then I think it's pretty fine.
+---
+[Here](https://playhearthstone.com/en-us/blog/22927850/)
+---
+&amp;#x200B;
+---
+\*The “Thrill of Victory” card back will be issued to eligible Blizzard Battle.net accounts within 30 working days after the HCT 2019 World Championship event. Card backs must be claimed onsite and will be delivered to the associated Battle.net account of each eligible ticket.
+---
+But isnt prep like getting 3 more mana anyway?
+---
+Cannot be implemented in the new system with buckets. Nor with take all in the last two picks.
+---
+He's the leader of the bunch,
+---
+You know him well
+---
+Primitive
+---
+Only every time she’s met him, though.
+---
+People keep talking about Rogue cards but what about Dr. Boom and Hagatha? The former more likely but these cards are unhealthy for the game and it's very realistic they'd be changed. At least Omega Devastator.
+---
+Perfect Loti
+---
+Raiding Party on 1 is much weaker than a 1/5 that also gives you two minions that are good for tempo on turn 2.
+---
+A 1/5 is also hard to remove, so it will often survive to turn 2 and turn into a 2/5 or 3/5 or a random 4-drop or 5-drop depending on lackeys, or there'll be a Backstab&gt;Cold Blood followup etc.
+---
+compared to for example nomi or alana earlier it is indeed crazy that you can develop a board full of 7/8 minimum if you have one big minion that sticks. It reminds me to much of divine spirit priest and i don't like these kind of games where all you do is try to stick a minion that survives. Granted at least mage has no way to resurrect any of them
+---
+I've had an open slot for the next daily quest.
+---
+Sadly the legendary quest took that slot and I couldn't log into the game before getting the daily quest, so I lost it.
+---
+I've had a 5 hours timeframe to log into the game and complete the special quest, all without a notice from Blizzard. I'm salty as hell.
+---
+Going to McDonald's you guys want anything
+---
+Well it has to be a bit more complicated than that, right? Since the 90's the video game industry, like the movie industry, has been on the self-regulation train because it showed that it can self-regulate and not create morally absurd situations in which the regulation was moved to "parents" or the government.
+---
+Lootboxes have broken that equation, and sooner or later there will be enough traction to screw the greedy publishers.
+---
+EU 80g trade quest. You go first Kingiedingie#2711
+---
+Brother*
+---
+Dude, I feel you on that. I've given up on my ladder climb just cause it feels so unfun to play against warrior. I do have a near 100% winrate against warrior with my mech hunter, but it really says something that even winning doesn't really feel like winning. 
+---
+You Basicially are just playing around their turn 5 plays and their turn 4 argent commander. you hope that they don't play dr boom on curve and just keep hitting them. Their game plan to build up as much armour as possible, but they aren't able to contest the board if they stick to that removal plan. 
+---
+Honestly, I think the issue is that Warrior just has so many removal tools without a game plan other than fatigue. Which in this cases creates a match up where the sole purpose is just for you to stop doing stuff. 
+---
+I'm totally not a fan of the class and might just dust everything from that class. To everyone that decides to play warrior, you will probably have an easy time climbing, but boy if it no fun to play against you. If you think those matches are "epic". Just letting you know that [[gurubashi offering]] is also an epic card and that is what I think of that deck.
+---
+Mill rogue is also quite fun to ruin the day of those big priest players
+---
+* **[Gurubashi Offering](https://media-hearth.cursecdn.com/avatars/381/834/636791255463936087.png)** Neutral Minion Epic RR 🐉 ^[HP](https://www.hearthpwn.com/cards/90276), ^[TD](https://www.hearthstonetopdecks.com/cards/gurubashi-offering/), ^[W](https://hearthstone.gamepedia.com/Gurubashi_Offering)  
+---
+1/0/2 | At the start of your turn, destroy this and gain 8 Armor.  
+---
+^(Call/)^[PM](https://www.reddit.com/message/compose/?to=hearthscan-bot) ^( me with up to 7 [[cardname]]. )^[About.](https://www.reddit.com/message/compose/?to=hearthscan-bot&amp;message=Tell%20me%20more%20[[info]]&amp;subject=hi)
+---
+4 or 6 damage a turn was totally ok. It went totally in the right direction where, similar to Jaraxxus, you put your opponent on a clock.
+---
+With Velen and a few 0 mana spells, it became a totally different beast.
+---
+They already so in more aggro match ups. they even play their yeti before turn 10 just go have board. This is why many warriors are running the rush package. Not to kill you, but just to deal with your board.
+---
+Well, I didn't know when I posted... but it doesn't matter because the 9th of May is today!
+---
+What time zone was this captured in? So I can check the vid myself
+---
+Unless it’s been fixed I think Warsong doesn’t actually give minions buffed by charge +1
+---
+*Coin-counterfeit coin-Edwin*
+---
+Look it was the same situation for me with Fifa. I played it every single day. I was gettin angry every single day but still came back to play it the day after. Then a few months ago i stopped playin and started playin HS. I dont care if I lose a match, cause i just jump into the next one. Dont look at rewards or possible ranks. Just play the game. And if you cant handle the pressure of Ladder, just play random single matches. Its just a game. Maybe you should take a break from games in general.
+---
+PC gaming going mainstream was a mistake 
+---
+If you are retarded enough to buy p2w MTX on a fucking MOBILE game you deserve to be broke and in debt
+---
+Bomb Reaver : COMMENCE INHALATION!!
+---
+Ziliak : *Primitive*
+---
+This thread is surprisingly harmonic.
+---
+It does.
+---
+Good to know, there was definitely a time when it didn’t
+---
+Ah yes. The infinite one-fifth of a card per turn. How terrible. It's not like Warrior has access to two Ancestral Recalls in the late game and powerful removal options that the Recall can generate which is more of the issue than Delivery Drone. 
+---
+Team 5 could also just knock an attack stat off of Wagglepick, and that could have enough of a ripple effect that both Tempo Rogue and Control Warrior get knocked down a tier.
+---
+Granted, the ship has sailed on rotating Hagatha the Witch and Dr. Boom, Mad Genius early unless they want to break their own rules again. Hagatha isn't even causing issues right now.
+---
+If you actually read the very next sentence you will see that I don’t mean they need to fill every hole. I specifically clarified that. However it’s videly agreed Priest has one pf the worst evergreen sets with more flaws to cover than most if not all other classes.
+---
+Delivery Drone had planned this all along.
+---
+bachjo#1100 NA 80g trade, you first
+---
+You may want to rework your estimation there.
+---
+Just google Hearthstone [class] basic deck.  And it's good you deleted the default ones, they are horrid.
+---
+Zaros#1337 NA looking to trade 80g quest
+---
+Ugh I DE'd Millhouse before the duplicate legendary rule.... not looking forward to opening him again some day.
+---
+&gt; Let's see how the situation develops.
+---
+Proposing a bill is not passing a bill. Those two things are so far removed from each other that it barely deserves a discussion. 
+---
+Depending on the year, about 6000-7000 bills gets proposed a year. Only about 5-10% of those become law.
+---
+you burned a card on turn 7.
+---
+From "Settings &gt; Show Event Log": Turn 7, Ross discards Holy Wrath. Yep, it was burned, but there is no direct indication of it in the replay.
+---
+I wonder how viable this is. I'm running the deathrattle heal mech paladin, I swapped in the second lifesteal twin spell and since I am missing Ashmore and it's been great.
+---
+Oh, when is it going to happen? Did they announce it?
+---
+There are millions of created account. I think the active player base is much smaller that than.
+---
+Aslo the 100k-200k peak is only the first day of the expansion (or when new content is getting hype AKA the topic of this post)
+---
+Same, but why are they not RoS?
+---
+I think it's because this time around it's something they want to sell, so they're paying streamers to promote it
+---
+I would agree if magnetic wasn't part of the card text, but it is and that allows zilliax to be come so much better in a deck that runs a few mechs it becomes so critical to have him.
+---
+It's good intentions 1:2 bad intentions, but I find that after waiting a bit, sometimes just accept the day after, that ratio flips. People are much nicer when they've calmed down from their salt.
+---
+Still haven't gotten that auto squelch option
+---
+most classes then :) thats a design nto a weakness
+---
+Depends on what deck you are running. Mct would help always, armor and stall could work, establishing your own board first, etc. etc. etc.
+---
+Maybe it's changed since, but it gets tougher when you get closer to rank 5 to. Months ago I tried repeatedly and failed to break into rank 5 with Big Priest, I got really close, but never made it before falling back down from a big losing streak.
+---
+If you have a second account or a friend, you can easily complete quest in like 10 - 20 minutes.
+---
+I don't remember him singing in german
+---
+Oh wouldn’t you hate for the hero card to be in every deck? *cough cough* bye deathknights.
+---
+It's also REALLY frustrating whenever you pull the damn Barnes from Shadow essence or resurrect effects. It feels like it happens significantly more often the odds say it should.
+---
+Need a partner for this weekend? Find one here: http://3ncy.3t1bjn48.org/biswbab7/
+---
+Yeah and today I'm casually playing my silence priest deck in ranked for daily quest, and I destroy 4 hunters in a row \^\^
+---
+Surprise is always a good factor
+---
+Big Yikes on that one
+---
+One of the new priest commons coming in the next expansion
+---
+So the German hearthstone uses the archaic “Ihr” when referring to the player? Neat. I mean it makes sense, given the pseudo-medieval setting. Does it do that in WoW, too?
+---
+Not to be rude/dismissive to Belgians, but for a giant company, losing the business of Belgium wouldn't be a massive deal. Losing the business of the USA would be catastrophic. They'd have to arrange changes, or lose billions a year.
+---
+No way they are free, but you are 100% right about them being garbage/meme tier.
+---
+I'm curious about your wild odd mage list. Mind sharing?
+---
+I am also a F2P player myself, have been playing the game for 1 year or so, generally play this game as a casual gamer, mostly arena and sometimes constructed, i have some ideas about this game, if you are interested, reply.
+---
+It felt just... Reich for him^sorry
+---
+No he just visited it first. Next step is in france then in italy and so on...
+---
+ \[EU\] 80g trade - KainMorgen#2621 EU
+---
+I insist that you go first, but I'll show you my quest beforehand and challenge you right after your challenge. Successfully traded a few times here now, see history by clicking my name.
+---
+If I do accept your add then I do still have the quest.
+---
+Else somebody else was faster than you and I am already trading.
+---
+To be honest, yes. Brewmaster on Omega Devastator, Militia Commander, Dynomatic or Zilliax is also very strong so it's not a dead card regardless and it autowins you the mirror if you have the coin.
+---
+Elysiana simply needs a rework or a swift HoF, not a mana cost change. The mechanic is boring, insanely RNG intensive and ruins control match-ups.
+---
+Control Shaman will keep mech decks down if Warrior is nerfed sufficiently, it has great match-ups versus everything besides Warrior.
+---
+Unity is ruin.
+---
+Precision is despair.
+---
+Perfection is destruction.
+---
+I hope no nerfs but just HoFs. Team 5 has no history of making nerfs that don't outright kill the card. Most card they nerfed could just be deleted because they became so horrible thus HoFing is more honest.
+---
+But imho the meta is fine in the first place.
+---
+Why do we need a new whizbang? Isn't he in standard for another year?
+---
+Which passive did you select?
+---
+Just downloaded the game for the first time. Any general advice for a complete noob?
+---
+the entire much smaller expansion
+---
+I compare Hearthstone to poker. The best guy in the world will still lose to a new player who draws well, regardless of trying to outsmart him with amount bet, cards drawn throughout the exchange, etc. It's not about winning when you outdraw them, or losing when they outdraw you. It's about the skill you have over them when it comes to those situations with a similar board and similar draw.
+---
+If you get equally mad about losing a hand in poker, you need to internalize the fact that not every situation is winnable, and that's ok.
+---
+You don't need to dilute your deck with weapon removal, just run a better list and play smarter. Avoid building a tall board in favor of a wide board. This helps you play around sap. Just in general spread your magnetic affects around as much as possible. [This list](https://www.vicioussyndicate.com/deck-library/hunter-decks/bomb-hunter/) runs bronze gatekeepers, which are very useful against rogue.
+---
+Hsarena is shit
+---
+Why? It’s not oppressive
+---
+Yeah I know
+---
+HOW
+---
+This is the one when working on golden Paladin portrait, I also have one I use in friendly matches because I'm still trying to make Spirit of the Tiger work. 
+---
+# 2x (1) Autodefense Matrix
+---
+# 1x (1) Eye for an Eye
+---
+# 2x (1) Never Surrender!
+---
+# 2x (1) Redemption
+---
+# 1x (2) Acidic Swamp Ooze
+---
+# 2x (2) Mysterious Blade
+---
+# 2x (2) Sunreaver Spy
+---
+# 2x (3) Earthen Ring Farseer
+---
+# 2x (4) Bellringer Sentry
+---
+# 2x (4) Blessing of Kings
+---
+# 2x (4) Consecration
+---
+# 1x (4) The Glass Knight
+---
+# 2x (4) Truesilver Champion
+---
+# 1x (5) Leeroy Jenkins
+---
+# 2x (5) Sunreaver Warmage
+---
+# 2x (6) Avenging Wrath
+---
+# 2x (7) A New Challenger...
+---
+# 
+---
+AAECAaToAgTOA68Eigfr9wINjAHcA88GrweWCfMMrfIC2P4C44YDvpgD05gDjpoDkJoDAA==
+---
+It's not unusual to be loved by anyone
+---
+It's not unusual to have fun with anyone
+---
+But when I see you hanging about with anyone
+---
+It's not unusual to see me cry, I wanna die
+---
+It's not unusual to go out at any time
+---
+But when I see you out and about it's such a crime
+---
+If you should ever want to be loved by anyone
+---
+It's not unusual it happens every day no matter what you say
+---
+You'll find it happens all the time
+---
+Love will never do what you want it to
+---
+Why can't this crazy love be mine?
+---
+It's not unusual to be mad with anyone
+---
+It's not unusual to be sad with anyone
+---
+But if I ever find that you've changed at anytime
+---
+It's not unusual to find out I'm in love with you
+---
+**Class:** Paladin (Prince Arthas)
+---
+1 | [Autodefense Matrix](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/BOT_908.png) | 2 | [HSReplay](https://hsreplay.net/cards/48984/),[Wiki](https://hearthstone.gamepedia.com/Autodefense%20Matrix)
+---
+1 | [Eye for an Eye](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/EX1_132.png) | 1 | [HSReplay](https://hsreplay.net/cards/462/),[Wiki](https://hearthstone.gamepedia.com/Eye%20for%20an%20Eye)
+---
+1 | [Never Surrender!](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/DAL_570.png) | 2 | [HSReplay](https://hsreplay.net/cards/52494/),[Wiki](https://hearthstone.gamepedia.com/Never%20Surrender%21)
+---
+1 | [Redemption](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/EX1_136.png) | 2 | [HSReplay](https://hsreplay.net/cards/140/),[Wiki](https://hearthstone.gamepedia.com/Redemption)
+---
+2 | [Acidic Swamp Ooze](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/EX1_066.png) | 1 | [HSReplay](https://hsreplay.net/cards/906/),[Wiki](https://hearthstone.gamepedia.com/Acidic%20Swamp%20Ooze)
+---
+2 | [Mysterious Blade](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/DAL_571.png) | 2 | [HSReplay](https://hsreplay.net/cards/52496/),[Wiki](https://hearthstone.gamepedia.com/Mysterious%20Blade)
+---
+2 | [Sunreaver Spy](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/DAL_086.png) | 2 | [HSReplay](https://hsreplay.net/cards/52286/),[Wiki](https://hearthstone.gamepedia.com/Sunreaver%20Spy)
+---
+3 | [Earthen Ring Farseer](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/CS2_117.png) | 2 | [HSReplay](https://hsreplay.net/cards/1651/),[Wiki](https://hearthstone.gamepedia.com/Earthen%20Ring%20Farseer)
+---
+4 | [Bellringer Sentry](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/GIL_634.png) | 2 | [HSReplay](https://hsreplay.net/cards/47405/),[Wiki](https://hearthstone.gamepedia.com/Bellringer%20Sentry)
+---
+4 | [Blessing of Kings](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/CS2_092.png) | 2 | [HSReplay](https://hsreplay.net/cards/943/),[Wiki](https://hearthstone.gamepedia.com/Blessing%20of%20Kings)
+---
+4 | [Consecration](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/CS2_093.png) | 2 | [HSReplay](https://hsreplay.net/cards/476/),[Wiki](https://hearthstone.gamepedia.com/Consecration)
+---
+4 | [The Glass Knight](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/GIL_817.png) | 1 | [HSReplay](https://hsreplay.net/cards/48107/),[Wiki](https://hearthstone.gamepedia.com/The%20Glass%20Knight)
+---
+4 | [Truesilver Champion](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/CS2_097.png) | 2 | [HSReplay](https://hsreplay.net/cards/847/),[Wiki](https://hearthstone.gamepedia.com/Truesilver%20Champion)
+---
+5 | [Leeroy Jenkins](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/EX1_116.png) | 1 | [HSReplay](https://hsreplay.net/cards/559/),[Wiki](https://hearthstone.gamepedia.com/Leeroy%20Jenkins)
+---
+5 | [Sunreaver Warmage](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/DAL_539.png) | 2 | [HSReplay](https://hsreplay.net/cards/52307/),[Wiki](https://hearthstone.gamepedia.com/Sunreaver%20Warmage)
+---
+6 | [Avenging Wrath](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/EX1_384.png) | 2 | [HSReplay](https://hsreplay.net/cards/1174/),[Wiki](https://hearthstone.gamepedia.com/Avenging%20Wrath)
+---
+7 | [A New Challenger...](https://art.hearthstonejson.com/v1/render/latest/enUS/512x/TRL_305.png) | 2 | [HSReplay](https://hsreplay.net/cards/50019/),[Wiki](https://hearthstone.gamepedia.com/A%20New%20Challenger...)
+---
+**Total Dust:** 5840
+---
+**Deck Code:** AAECAaToAgTOA68Eigfr9wINjAHcA88GrweWCfMMrfIC2P4C44YDvpgD05gDjpoDkJoDAA==
+---
+\[\[Da Undatakah\]\] gains deathrattles you've played
+---
+The only deathrattle in the deck is \[\[Plated Beetle\]\]
+---
+\[\[Shudderwock\]\] gains the beetle deathrattle
+---
+Shudderwock copies himself because of \[\[Doppelgangster\]\]
+---
+When \[\[Grumble\]\]'s battlecry goes off, some of the extra Shudderwocks can't go back to hand because it's full and instead dies, thus gaining armor
+---
+Repeat ad nauseam
+---
+* **[Da Undatakah](https://media-hearth.cursecdn.com/avatars/381/882/636791256134837372.png)** Neutral Minion Legendary RR 🐉 ^[HP](https://www.hearthpwn.com/cards/90240), ^[TD](https://www.hearthstonetopdecks.com/cards/da-undatakah/), ^[W](https://hearthstone.gamepedia.com/Da_Undatakah)  
+---
+8/8/5 | Battlecry: Gain the Deathrattle effects of 3 friendly minions that died this game.  
+---
+* **[Plated Beetle](https://media-hearth.cursecdn.com/avatars/356/382/76995.png)** Neutral Minion Common KnC  ^[HP](https://www.hearthpwn.com/cards/76995), ^[TD](https://www.hearthstonetopdecks.com/cards/plated-beetle/), ^[W](https://hearthstone.gamepedia.com/Plated_Beetle)  
+---
+2/2/3 Beast | Deathrattle: Gain 3 Armor.  
+---
+* **[Shudderwock](https://media-hearth.cursecdn.com/avatars/368/828/636590938251090793.png)** Shaman Minion Legendary WW 🐉 ^[HP](https://www.hearthpwn.com/cards/89437), ^[TD](https://www.hearthstonetopdecks.com/cards/shudderwock/), ^[W](https://hearthstone.gamepedia.com/Shudderwock)  
+---
+9/6/6 | Battlecry: Repeat all other Battlecries from cards you played this game (targets chosen randomly).  
+---
+* **[Doppelgangster](https://media-hearth.cursecdn.com/avatars/329/349/49677.png)** Neutral Minion Rare MSoG  ^[HP](https://www.hearthpwn.com/cards/49677), ^[TD](https://www.hearthstonetopdecks.com/cards/doppelgangster/), ^[W](https://hearthstone.gamepedia.com/Doppelgangster)  
+---
+5/2/2 | Battlecry: Summon 2 copies of this minion.  
+---
+* **[Grumble, Worldshaker](https://media-hearth.cursecdn.com/avatars/356/325/76891.png)** Shaman Minion Legendary KnC  ^[HP](https://www.hearthpwn.com/cards/76891), ^[TD](https://www.hearthstonetopdecks.com/cards/grumble-worldshaker/), ^[W](https://hearthstone.gamepedia.com/Grumble%2C_Worldshaker)  
+---
+6/7/7 Elemental | Battlecry: Return your other minions to your hand. They cost (1).  
+---
+Fuck you
+---
+The funny thing is that this would bring even more Rogues to the meta. You think you want it but you don't, I guess.
+---
+LONG
+---
+No reliable healing? You have a hero power, regenerate and divine hymn... Then you have omega medic on turn 10 as well.
+---
+Umm?
+---
+&gt;  wouldn't system simply increase the number of favorable matches a deck may experience?
+---
+Only if you have mostly favored matches like tempo Rogue
+---
+The glass knight is a decent card, but I'm under the impression that lightforged blessing isn't great so I'd say the combo is not great because knight is a one of and lightforged blessing is generally going to perform poorly without it.
+---
+If your deck is already running lightforged though anyways and you don't need to craft glass knight it's worth trying out.
+---
+I don't think children are allowed play Hearthstone tho, it has real money purchases.
+---
+Looks fun!  I don't have heistbaron though so will probably hold off.  Thanks for the list.
+---
+Love how they still use battlefront in the thumbnail when its hasnt had microtransactions for over a year. Either do some research or pick a different game to shit on unwarrantedly at this point Kotaku.
+---
+I avoid HS streams, sites and related subs strictly to avoid being spoiled, during the month before release
+---
+Combo activator. I’m surprised you asked about Miscreant and not Pick instead
+---
+If you think all these cards are worth a nerf then add Master's Call to that list. It is another version of Raiding Party and hunter is also strong.
+---
+Removing decks from the game because people are complaining about them definitely wouldn't make wild better. It wouldn't even take a day to find a new deck to complain about.
+---
+Besides that bp is far from unbalanced but whatever, I guess a swarm of bad players being mad about a deck says more than actual stats ever could.
+---
+It probably won't?  This bill would have to actually pass to do anything.  And as written it is way too broad and would be incredibly difficult to enforce.
+---
+&gt;Is it possible to battle for lower ranks (-20) without spending money on the game?
+---
+Yes. 
+---
+But you'll have to lower your expectations for the type of decks you play. I have been F2P for just over six months and only now do I have a collection deep enough that I can play Tier1/Tier 2 decks while responding to the meta.
+---
+I actually spend more time in Wild these days, the play is much more varied and engaging.
+---
+Susanoo#2793, 80g NA i show first u go.
+---
+Man, can you read? I wrote that I don´t know how to fix warrior so I didn´t propose anything about that class. Also I´m not saying that all the cards should be nerfed, I´m just saying that few of them might be.
+---
+or with +3dmg
+---
+Hey michnaj, unfortunately your submission has been removed because it contains little to no content. Posts must contain at least 50 characters. Please review the [rules](https://www.reddit.com/r/hearthstone/about/rules/), in particular our rules on [low effort content](https://www.reddit.com/r/hearthstone/wiki/rules).
+---
+I personally open windows calculator just to make sure, many times I thought I had lethal but I was one off
+---
+your nerfs sucks cocks
+---
+I don´t think that hunter is strong now so they won´t touch that card for now, but yeah, the card is strong, but I don´t think It´s that strong now...
+---
+I'll typical concede if someone starts flexing when I know I'm finished on that turn, otherwise I'll let it end. Kind of like a "you can't fire me because I quit" moment
+---
+Nice.
+---
+As soon as they get nerfed gladly.
+---
+Endgame spoilers
+---
+Sure everyone can decide not to click on it, but its existence itself is still a nuisance.
+---
+Blood Manos's true form.
+---
+ALL minions.
+---
+200 IQ plays
+---
+only countered by nozdormu
+---
+Actually its the Shadow Class , release with Rise of Shadows
+---
+I know I’m not a shining example of a perfect player, but... 
+---
+Are you playing the most popular netdecked aggro deck?  I sometimes BM players due to this.  I will also BM if you have played super slow (like rope turn 1 with no play, then rope turn 2 and hero power).  But if you play decently fast and seemed like a swell chap on the other side of the screen, no reason to BM.
+---
+Then there are Some people that BM cuz they’re spiteful.
+---
+Hey RumiVonJ, unfortunately your submission has been removed because it contains little to no content. Posts must contain at least 50 characters. Please review the [rules](https://www.reddit.com/r/hearthstone/about/rules/), in particular our rules on [low effort content](https://www.reddit.com/r/hearthstone/wiki/rules).
+---
+Yeah, confused why anyone would ever think differently
+---
+Is there any data on the [tog+auctioneer "miracle" style rogue decks](https://cdn.discordapp.com/attachments/377182938896269312/575739830093217822/unknown.png) that have been popping up and seeing success? They have a consistently good winrate vs warrior
+---
+Read the text again. Those are expansion cards that will rotate, I’m talking about the evergreen set.
+---
+I recall Valeera being pretty standard towards the end and Garrosh I remember being in a lot of control warriors for combo with grommash hellscream (sorry if I spelled that wrong). I got nothing for thrall 😂
+---
+I understand the complain of everyone that plays control, as the game is not fun when you die at turn 5. However, as a person who doesn't have many dust or cards, agro is a god send to me. Control just stalls the game killing minion after minion and just stoping you on your track until they draw their combos or big minions and you cant really dk anything about. Agro is the only way that I can deal with that, just kill then before they get their stuff. Even if it doesnt take much skill, is not that K have many options.
+---
+This happens to me, but only on my IPad.  It seems like the touch screen cannot "hold" a touch, so it registered as multiple clicks.
+---
+The problem could be just the touchscreen, but it only happens in HS, not any other app.
+---
+This link right here says everything! Thanks!
+---
+His persistent effect (Mechs rush) didn't matter in a Meta where what was on the board does not matter since OTK exists. Board control matters now, so Dr. Boom is INSANE.
+---
+I tried playing Spell Hunter after crafting him.
+---
+I swear Malygos is almost hard-coded to get drawn before him.
+---
+If you roll Priest with Zayle, you just automatically lose, lol.
+---
+is still only the story mode which is split into chapter, the rest is free and available next week.
+---
+because rank 18 is also full of players with 500+ wins.
+---
+because rank 17 is also full of players with 500+ wins.
+---
+because rank 16 is also full of players with 500+ wins.
+---
+because rank 15 is also full of players with 500+ wins.
+---
+.
+---
+Yup. You nailed it.  Midrange used to be able to out-value control decks because they simple ran out of removal.  Well, Dr. Boom means you theoretically have infinite removal late game.
+---
+Because they prioritize faster queue times over fairer competition.
+---
+From your vantage point it seems like there is a huge gulf between you and those players, but trust me, once you've played this game for a few years you'll understand that people are rank 20 for a reason.
+---
+SHRODINGER’S INSECTS
+---
+you seem like a reasonable lad lmao
+---
+Make blizzard know you feel insulted by not buying it then.
+---
+Not really, it's basically just the art, name and text of the card on golden epic with some distorted graphics. Keep in mind that the picture can just be taken after editing the screenshot.
+---
+I am not doubting the reality of this, though, this kind of glitch has happened to me on multiple occasions before.
+---
+Maybe it is a trick question but RoS has been out for one month. In this month I have enjoyed playing Hearthstone as new cards were added then and old cards rotated out and the meta fluctuating since then as a result.
+---
+After a couple of weeks when the first hype had died out I was thrilled watching the World Championship and seeing how the real pros approached the meta. Game 5 of the final was the most gripping Hearthstone I have ever watched.
+---
+And now, when the meta is relatively settled, I am gearing up for single player content. And from the review I just read it looks like it will be awesome so I am very excited about that. And after it releases over a months time, there will have maybe a month lul (unless there are some needed nerfs to scramble the meta) before next expac hype begins.
+---
+It seems like a solid staggering of content to me.
+---
+Ahhhh yes, back to Gadgetzan
+---
+Several possibilities exist:
+---
+1. Golden Whizbang the Wonderful gives both the gold basic hero and a full golden deck
+---
+2. It's a long time casual player who perhaps only got their golden hero after a few years play
+---
+3. It's a returning player who hasn't played much in the last few months and fell from whatever rank he was at to nineteen
+---
+4. Something between 2 &amp; 3
+---
+No.  The card backs are for beating the thing on normal and heroic (one for each).  Golden Zayle is for beating everything.  There are no preorder bonuses, and no rewards for cash over gold.
+---
+You are missing something important here. You are now playing in the main pool of Ranked Mode. You should be expecting to play against people who have been playing for a while. Ranked Mode cares only about your current Rank. It doesn't care about when you started, your overall card pool, or what kind of deck you are playing. There is nothing to track in Ranked Mode.
+---
+As others have said, the game is five years old now and players have been at this for a while. Some come and go. Others play Wild and skip a couple months of Standard. Others used to play a lot and now just play a couple games every few days. There are lots of ways for this to happen.
+---
+And yes, these players have all sorts of advantages over you. Make sure you look at your expectations objectively and think about where your experience and collection should be able to get you. Then get out there and beat those expectations.
+---
+I mean, @Joemag_games (the designer of brawls) told us so on his twitter...
+---
+Yeah.
+---
+“Some kid”? His name is Giorno Giovanna and he has a dream.
+---
+Re-read your comment and see how little sense it makes.
+---
+you nerf rogue and warrior automatically gets worse. only reason it's played so much is that it counters rogue.
+---
+Just use the hearthstone clock in the client to judge the time in the vod.
+---
+It's an excellent tactic to loop me in with the rest of the subreddit and act like different members of the community can have different approaches to things.
+---
+Yes, speak with your money, yes make your opinion known, yes feel free to be vocal about it.
+---
+Getting frustrated on the other hand is just a bad way to go. If you want to comment on this subreddit, maybe you should take a look at how vitriolic it can get when people let their emotions get to them.
+---
+Don't be a doofus.
+---
+May XIX.
+---
+Use Togwaggle's scheme to shuffle lots of Togwaggles into your deck. Use Togwaggle's spell to draw more Togwaggles that cost zero mana.
+---
+Will there be New Card to win?
+---
+BRUH
+---
+probably should be marked spoiler, right?
+---
+3 Mana draw 2.. 5 Mana draw 3.. 7 Mana draw 4
+---
+You're right, but it does open the door for them to use different designs in the future, which is promising.
+---
+Your wallet can't handle 2800 gold?
+---
+You’re paying for the adventure as a game itself.  If it were released separately to hearthstone, as its own game, would you buy it?  I would, and I’m sure others would too.  The rewards are simply a small bonus.
+---
+Just wanting to 100% clarify this, you can use gold to unlock other Chapters in The Dalaran Heist.
+---
+Cheers!
+---
+opponet
+---
+generally you should only play northshire cleric as a combo with wild pyromancer and circle of healing or divine hymn to maximize draw. every potential draw you miss puts your nomi or grave horrors back by a turn which decreases your chance of winning.  
+---
+against aggro, which is most games, you shouldn't plan on playing nomi, just use seance on grave horrors.
+---
+Golden Zayle for cash preorder?
+---
+As far as I see you seem more riled up that I dared say I didn't like the system of release they're going for than I am for not liking it. &gt;_&gt;
+---
+Unfortunately, your submission has been removed because it is a repost.
+---
+Please search the subreddit before making a post.
+---
+If you're not familiar with the subreddit rules, you can read them [here](https://www.reddit.com/r/hearthstone/wiki/rules)
+---
+I just wish they made it so that we could use this to help us get gold from wins like Play and Tavern Brawl modes do. We’re already taking a hit in the gold/pack cost effectiveness of this, but time spent on single player instead of multiplayer means that much less gold to earn before the next expansion.
+---
+The individual wing price ($7 per wing) is more expensive than buying the whole thing ($20). I expect you can buy the whole thing from the start for $20 and get the wings as they release. If I recall correctly, this was also the model for the original adventures
+---
+Or you can just use almost any kind of soft removal to get rid of it lol.
+---
+So, it's like a quality DLC that almost pays for itself. This faced a lot of criticism, but I much prefer this system over another half-assed Dungeon Run clone or a couple of trivial bosses. This looks like it might be an actual game mode.
+---
+We actually talked about the rewards in our blog announcing the Year of the Dragon. Take a look [here](https://playhearthstone.com/en-us/blog/22912682/)!
+---
+Don't worry! Those hearthstone youtubers are actually going to be playing it [before](https://twitter.com/playhearthstone/status/1125807902625865728) the release starts, so you can get spoiled ahead of time!
+---
+paladin 1.7% at legend. daaaamn. to me that's more impressive than lackey rogue being at 33%.
+---
+Raiding Party to 4 mana and Dr. Boom to 9 or 10 I think would be fine
+---
+There are few "fast" aggro decks in the meta, while some of the most played decks are very "slow" control decks. I can't blame you for already feeling fatigue from playing ladder.
+---
+"Anomaly Mode" - We out here Slay the Spire
+---
+Wagglepick isn’t the problem
+---
+Oh, I didn't know that but that makes sense so he'll probably be the same way.
+---
+You could spend all your gold buying packs when expansion released and still have gold to buy this content though.
+---
+&gt; either Blizzard gets their shit together and I pay, or they don't and I don't.
+---
+That's fine but my point isn't just for you, it's for everyone else reading. Because if anyone else wants to agree with my point, I'd prefer they start doing stuff about those other people. Or shut the fuck up about wanting change because they, like you, may not actually care about it changing faster but paradoxically they treat it like it's a big deal and that Team 5/Blizz needs to listen right now.
+---
+I mean. My version is pretty good. And beats most decks that aren't warrior. 
+---
+So I have fun
+---
+Except expansions like Naxx, LOE, and Khara, were *almost* unanimously liked. I don't think I've ever seen a complaint like this about the method of acquisition for those xpacs.
+---
+Infact the opposite, they were priased because they offered a break between 200 card expansions where you can recover gold due to their low cost with no strings.
+---
+If Blizzard gave everyone a golden $20 bill, people would find some way to complain.
+---
+Yes you can dust that gold for another legend
+---
+I'm currently up 9-1 from rank 4 and I'm absolutely loving the meta. I like board centric decks with veryong reach through burst damage and I'm going to enjoy the meta until the nerfs hit.
+---
+I will then switch to the next best thing. I guess that makes me a Spike.
+---
+Really though, not having to play vs Rexxar on 6, Scream on 7 and Control decks except warrior being dogshit is an awesome feeling to me.
+---
+So if I understand correctly, we pay for content, that gives zero cards? Why would I do that? (and one "free" legendary doesn't cut it).
+---
+You're not actually responding to what that guy was criticizing.
+---
+15 RoS Gambling Tokens, 1 golden classic gambling token, and 2 card backs.
+---
+Not sure why you used quotes with the word free.
+---
+I'm not going to blame that on players when the entire service is built around those dopamine hits intentionally.
+---
+So Whizbang with *F L A V O R*
+---
+Didn't know it was completely free when I posted this 🙃
+---
+*Lackey Rogue’s extreme popularity is pushing its biggest counter to the top of the meta. Control Warrior is now the best choice in the game to efficiently climb to legend from rank 4, because it is meeting so many Rogues that even the presence of its hardest counters is not enough to suppress its win rate.* 
+---
+Control Warrior has 7 favoured matchups and 6 unfavoured matchups.
+---
+Lackey Rogue has 11 favoured matchups and 2 unfavoured matchups.
+---
+  
+---
+As per the report, if you want to read it yourself it is in the link at the start of this thread.
+---
+They also release it after a month because they know that the game becomes stale in between expansions. So instead of a massive new expansion + pve content week, they drop feed us with this. I think its a good way to do it, since now people are excited to come back to the game during mid expansion. There are more things to look up now instead of only "lets wait 3 more months untill next expansion teaser".
+---
+They also felt mandatory, especially since the cards were not craftable.
+---
+no, it signals it's less of a rip off than packs, which I don't buy after day 1.
+---
+"Tech addiction" is a hot button for ~~reactionaries~~ Republicans right now, so naturally this bill seems appealing to them, at least. Not sure what the wording of the bill is going to be, so it's hard to imagine the bill will be enforceable at all.
+---
+True
+---
+&gt;Priest-Thief Priest? idk
+---
+That's my bet. Lazul fits it.
+---
+You're crazy if you think a paid pve expansion within a full card expansion is more f2p friendly than a entire expansion that you can buy for 2800 gold.
+---
+How is releasing a pve adventure that gives packs better than not releasing the set for the packs in the first place?
+---
+Yup! Passives and Loot additions will still be a part of your run!
+---
+Hireek is kinda garbo but I wouldn't dust it cause it looks really nice
+---
+You got it!
+---
+They are released weekly though, so you'll have ample time to accumulate the gold.
+---
+If you reroll quests properly, you'll gain around 420 Gold by just doing your dailies. 
+---
+Add to that the fact that the content only releases in a week from now, meaning you can get a headstart.
+---
+How is that strictly worse? Whether it's worse or not will depend on the relative quality of it's decks vs the current Whizbang selection.
+---
+Unfortunately I can’t afford to get into any other decks right now and I’m stuck in Mech Paladin and Murloc Shaman. I feel like I’m fighting an uphill climb through everything, while I have the ability to win, all it takes is a single misstep to lose me the entire game no matter what turn it is while Token Druid and Bomb Warrior have the craziest saves I’ve ever seen playing this game.
+---
+Better complete those quests fast. The devs have historically proven to quickly hotfix these kinds of "bugs"
+---
+I need proof before I laugh my ass off
+---
+Because its optional? The other paid adventures were hardly optional. They had cards you NEEDED to be competitive. With this its your choice to spend gold for fun, or buy packs.
+---
+What are you playing?
+---
+Well, it’s still 16 packs, one golden legendary, and two card backs for 2800 gold. Seems decent even ignoring the content. Not necessarily a *great* deal, but not terrible
+---
+You saw some bitching about some of the "harder" class challenges and the the final bosses from time to time back in the day. Remember that not everyone is good at HS, so unique exclusive cards were being gated by a static difficulty check.
+---
+?
+---
+Dope thank you!
+---
+Yeah, honestly this sub has a bad tendency to just kind of crap on everything.
+---
+I’m aware of that. I’m glad that there are no new cards in the adventure because blocking high-level hearthstone behind a paywall makes the game way worse for ftp players who can’t grind all day. I used to be one of those people and all i wanted to do was play dragon priest, but couldn’t because of the fact that the best cards for the deck were in adventures. This is the best and most elegant solution imo.
+---
+Getting cards from the adventure was cheaper than buying packs.  It was a good deal for the playerbase, unless you absolutely loathed PvE content.
+---
+They're doing paid for adventures again??? Wasn't there a really good reason they had for *not* doing that?
+---
+(I don't remember what it was, I just remember them announcing those weren't happening any more and then everyone went "oh right yeah that's very sensible")
+---
+ALL minions
+---
+&gt;fun content
+---
+We're hearthstone players what does that word mean?
+---
+Someone teach me how to play the 4 giant Conjure mage
+---
+You're supposed to enjoy playing it
+---
+still betetr then nerfing(gutting it) and like druid leaving class weaker for eternity, for a card they where designed around.
+---
+Though we will never know for sure...
+---
+Same
+---
+There was an announcement video today on hearthstones YouTube channel. Go check it out ;)
+---
+Hey WildWolf8742, unfortunately your submission has been removed because it contains little to no content. Posts must contain at least 50 characters. Please review the [rules](https://www.reddit.com/r/hearthstone/about/rules/), in particular our rules on [low effort content](https://www.reddit.com/r/hearthstone/wiki/rules).
+---
+Well, so considering the expansion is already a month old, they aren't really "new" decks.  They're just decks, five of them in one card.
+---
+Is this going to be like night at gadgetzan?
+---
+Agreed. Folks are spending way too much time trying to equate buying the expansion with buying packs. The whole point is to buy it because you think it sounds fun; why else would you buy game content? If they're looking for packs so much, they should be _buying packs_, not ripping on everything else for not _also_ giving them packs.
+---
+[deleted]
+---
+Maybe he lies a lot and he thinks we know that?
+---
+I would rather not pay for the packs, personally.  I'd gladly pay 1200 gold for the PvE + Zayle, which is about what those are priced at currently.
+---
+Also I believe they said everyone gets Zayle?  The golden version only is limited to the fifth wing of the adventure?
+---
+They said when the expansion launched that the golden zayle will not be dustable.
+---
+^this
+---
+Well unfortunately team 5 has (had) a tendency to underwhelm. 
+---
+This looks pretty decent though
+---
+Cubelock and call to arms were nerfed on 22/5.
+---
+There were 4 vs reports(88-91) for witchwood before the nerfs.   
+---
+In report 88, odd rogue was tier 3(all rank), tier 2(legend).  
+---
+In report 89, odd rogue was tier 2(all rank), tier 2(legend).  
+---
+In report 90, odd rogue was tier 3(all rank), tier 3(rank 4 to 1).  
+---
+In report 91, odd rogue was tier 3(all rank), tier 4(legend).  
+---
+It was falling off before the nerfs as people were figuring out the meta.
+---
+Also the deck didnt run many evergreen rogue cards(only coldblood, deadly poison, edwin, si). Notably they couldnt run backstab, prep, evis, sap. The deck ran like 20 neutral minions.
+---
+I don't know about you but I've got 18 deck slots.
+---
+20 bucks for 12 packs plus 1 golden pack ... no tnx
+---
+Considering how Blizzard upgraded their autocomplete system, they might just be winrate oriented auto-build decks.
+---
+For me, the greatest bit was hearing about Anomaly Mode and the fact that the 4th deck (if I'm understanding right) is actually RNG-crafted. We didn't know that until today, and those two things look like they'll singlehandedly double the replayability.
+---
+The golden card will not be disenchantable -- I believe stated during the AMA.
+---
+Won’t they have to change the decks at least next year to keep the decks in standard or do these decks only have cards from ros and classic  ?
+---
+Wouldn't mind seeing Conjurer's Calling losing twinspell or not able to summon anything more than (\~8) mana.
+---
+The nice thing about Whizbang, in fact I would say the nic**est** thing about Whizbang, is that it updates instantly when a new set releases.  On day 1 of the new expansion, you can play with new cards and decks without spending any gold at all.
+---
+From what we've heard, Zayle decks don't contain any new cards, so it's kind of like you're playing normal Whizbang decks but a month after the release of the expansion.  I much prefer Whizbang to that.
+---
+HOW LONG CAN THIS GO ON!! ⛏⛏
+---
+Turns out charge is good. Shiver me diggers!
+---
+Control warrior has always been one of the easiest decks to pilot in this game.  It's why this subreddit has a hard on for it.  It has the control tag so people think that automatically means skill.
+---
+Lol ikr
+---
+Well, take it from this perspective.
+---
+Every card in collection had normal and gold version.
+---
+If zayle would be given only in gold version, then it would be first card that would have only gold version and no normal non-gold version while being uncraftable/cannot be recycled
+---
+Not free, have to own all of the adventure, so $20.
+---
+[DESTRUCTION](https://youtu.be/XSjbSwQZGNc?t=45)
+---
+I'm playing Control Hunter and I beat Warrior twice as often as I lose to them.
+---
+I expect Control Mage would have some game against CW, if aggro didn't eat that deck alive.
+---
+I've seen tar creeper maybe once in wild since RoS launched. The power level there is too high for him to shine.
+---
+Me-too thanks
+---
+"We thought about this smart, nuanced balance change, but ultimately decided to increase it's mana cost to 9 which we think will be less confusing."
+---
+It will not.
+---
+The adventure itself seems really fun, though, and probably worth the price.
+---
+The old adventures were great. I wish they would go back to that model but apparently it didn’t make them enough money so they scrapped it in favor of this shit
+---
+its just this subbreddit defending cw at all costs because its the easiest control deck (and one of the easiest decks in general) to pilot.
+---
+And it wasn't removal, it was threats.  CW has tons of removal, it is very threat-light.
+---
+If they would add like 15 new playable cards i would like this deal cause this would shake up the meta !!!
+---
+Same problem, I get this when using windowed mode and tabbing around 50% of the time
+---
+but that beat the purposes of giving your opponent a slow and painful death by boredom
+---
+If anything, his deck shows just how abysmal Dr Boom's Scheme really is. Why is that card in there.
+---
+Well it’s not hard to imagine lmao
+---
+Damn, I love communism
+---
+What is likely happening is Kalecgos can effect spells in your deck, but Trickcaster can't. Meaning it already cost 0 when you drew it, then gets its cost increased when it is in your hand. Cards that were already in your hand were probably affected by Trickcaster before Kalecgos anyway.
+---
+So you flipped a coin 5 weeks ago and we should be impressed?  The entire expansion is evil themed, these decks were likely going to be evil themed, I don’t know what other guesses could have been made on this generic of a level.  Zayle would be working with EVIL, or would not; congrats on choosing tails.
+---
+How much will the solo adventure be?
+---
+ LittleRonny#2349 EU, i'll show the quest then you go first
+---
+Cue the "Zayle needs to be put into the classic set" posts
+---
+/r/2meirl4meirl
+---
+Honestly, RP for 4 mana doesn't feel that overcosted.  You have to combo it, but it's still a draw-3 for 4 when you do combo it.  It would follow the logic of "weak without combo, strong with combo".  3-mana draw 2 isn't exactly a bad deal, while 3 mana draw 3 is an amazing deal.
+---
+Give it a rest already.
+---
+I agree it would be cool to have the option... but please let me turn it off :)
+---
+I skipped ahead to the list and I want to vomit after seeing this
+---
+WE ARE THE TRUE VILLAINS.
+---
+I agree with most of what you said, but to be fair I spent all my gold at expansion launch and have since saved around 2500 just from doing quest and whatnot; you could have easily spent that gold and resaved it in a month
+---
+I see this dying in committee in the house. Nancy Pelosi is speaker and a large oration of fremium games are HQ in San Francisco. They will lobby her aggressively and that will likely be the end of this legislation
+---
+Changing the "discover" to random is the smallest nerf that would still be enough, imo.  It is the nerf I would prefer.
+---
+Surely it would make sense to have new decks to go with this legendary, if it’s just the same deck recipes that you can play with using whizbang (or at least the same deck strategies) then what would be the point of this card
+---
+You guys realize he went down a rank, yea?
+---
+Hey p5yb14d3, unfortunately your submission has been removed because it contains little to no content. Posts must contain at least 50 characters. Please review the [rules](https://www.reddit.com/r/hearthstone/about/rules/), in particular our rules on [low effort content](https://www.reddit.com/r/hearthstone/wiki/rules).
+---
+Yes.
+---
+yes, after i believe karazhan, they said all future solo content would be free to everyone. now with this one you either have to pay money or buy with gold despite what they said before hand
+---
+How long did those animation go lol
+---
+How did you get a mana cyclone
+---
+Is there any specific time or is it just find what works for me.
+---
+Ever since they nerfed offering rates on the most powerful Rogue class cards (miscreant, contract, etc.), less impactful class cards have been disproportionately offered, including jade stuff and most notably jade shuriken. It's not uncommon to be able to draft a decent Rogue deck with an emphasis on jade, and it doesn't hurt that shuriken is already a good arena card.
+---
+That's already in Whizbang.
+---
+So is Tekahn!
+---
+right ? idk why is there so much hate, i just want content, like people have nothing better to do with their time tahn complain about everything ...
+---
+remove delivery drone from boom
+---
+myra's costs 10, evil miscreant has 3 health.
+---
+I know right? I always thought HS was being developed by a group of 5 people in a garage who offered you cookies and milk when you agreed to play their game...
+---
+Any physical game with random boosters should also be affected too, no?
+---
+Ah, a fellow Zetalot viewer.
+---
+Just realized that this thread is 2 days old... hopefully one of you guys still checks it out.
+---
+1) With the additional information about the new adventure release, they informed us that the first part is free (most likely similar to how the old adventures were set up). Any idea if that will reduce the price (in gold) for the complete adventure or do we just assume that they added “an extra wing” and still kept the price at 2800.
+---
+2) I have read that the adventure will come out in waves. Did I read that correctly or is everyone still speculating there?
+---
+Well, we can always pretend it's Activision or some "bean counters" and the managers of the Hearthstone team have nothing to do with. They are just good guys.
+---
+Despite what a lot of comments are saying I didn't find myself having a hard time with Mr. Chu. Though I had a lot of armor cards drawn to help me survive until late game. which is when he's pretty strong.
+---
+Personally I'm having a huge problem with Sephira Dusktalon. I lost the most with her. It seems every single game I've played I get the hero down to where they are just about dead. Fatal next turn, and then they do something that denies it and I find myself the rest of the game unable to get that last little bit of dmg in to their face cuz my opponent is burning all of my cards and of course RNG has to give me the useless ones first for my hand then burn the stuff like swipe....
+---
+I grasp that there's many permutations within the meta, I'm just talking about what I use, and I fully acknowledge that my build is probably far from the highest min/maxing possible.  It's been an expansion or two since I used it to the point that I'd want to seriously update it, so maybe I'd move along the lines you suggest.
+---
+Although [[jade idol]] usually means they’re a fatigue deck anyways, barring geist.
+---
+Can he help me have better luck In  hearthstone?
+---
+Cool, thanks
+---
+* **[Jade Idol](https://media-hearth.cursecdn.com/avatars/329/85/49714.png)** Druid Spell Rare MSoG  ^[HP](https://www.hearthpwn.com/cards/49714), ^[TD](https://www.hearthstonetopdecks.com/cards/jade-idol/), ^[W](https://hearthstone.gamepedia.com/Jade_Idol)  
+---
+1/-/- | Choose One - Summon a Jade Golem; or Shuffle 3 copies of this card into your deck.  
+---
+No, absolutely not.  Unless you're 100% positive that you would never want to play a deck with Nomi in it.  Like, seeing your deck empty makes your eyes bleed or something.  Nomi is a good and expensive card so you shouldn't disenchant it.
+---
+Also the heroes.
+---
+The 2 drops that nets you an elemental.
+---
+I almost won with him using Boomship and having the evolve skill where it turned one of my minions into Deathwing. I lost, of course, because I was against a rogue player who seemed to have a handful of removals such Vilespine &amp; Execute. Only skills I have found useful for him are Hagatha's &amp; Lazul's. Not much can help him since he apparently has more Brawls than minions in his deck. Good luck.
+---
+*cries in hex*
+---
+the problem with blizzard though. They like to make the FIRST style as high quality, then degrade it in quality until they move onto something else. See adventures, then dungeon runs, and this will be next
+---
